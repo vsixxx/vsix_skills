@@ -1,0 +1,21 @@
+{
+  "id": "transcribe",
+  "title": "Audio Transcribe",
+  "descriptionZh": "使用 OpenAI 音频模型转录音频或视频，支持长音频分块、说话人分离、已知说话人提示和结构化输出。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Python 3",
+    "OpenAI API Key（通过 OPENAI_API_KEY 配置）",
+    "可访问 OpenAI Audio API 的网络环境"
+  ],
+  "sourceUrl": "https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/transcribe",
+  "homepage": "https://github.com/openai/skills",
+  "license": "Apache-2.0",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "49f948faa9258a0c61caceaf225e179651397431",
+  "upstreamPath": "skills/.curated/transcribe/SKILL.md",
+  "upstreamSha256": "f530021da9f377362ee4214e0bc689cbb5404640d2eb88ee272d51d61f530a09"
+}

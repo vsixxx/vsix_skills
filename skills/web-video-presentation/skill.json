@@ -1,0 +1,21 @@
+{
+  "id": "web-video-presentation",
+  "title": "Web Video Presentation",
+  "descriptionZh": "将文章、口播稿或课程内容制作成可点击推进的 16:9 动态网页演示，并支持分章节开发、录屏和可选语音合成。",
+  "type": "workflow-template",
+  "category": "视频与动画",
+  "prerequisites": [
+    "Node.js",
+    "npm 或兼容的 JavaScript 包管理器",
+    "使用云端语音合成时需要对应服务的 API Key"
+  ],
+  "sourceUrl": "https://github.com/ConardLi/garden-skills/tree/aaf9a82f5efd73e87cc0998edc398e75bfc35901/skills/web-video-presentation",
+  "homepage": "https://github.com/ConardLi/garden-skills",
+  "license": "MIT",
+  "author": "ConardLi",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aaf9a82f5efd73e87cc0998edc398e75bfc35901",
+  "upstreamPath": "skills/web-video-presentation/SKILL.md",
+  "upstreamSha256": "0197b0dcbaad0a018ed645cb6ea241dda54c509d920a1b49ba3d516cc0f57f34"
+}
