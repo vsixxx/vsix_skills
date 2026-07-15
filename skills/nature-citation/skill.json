@@ -1,0 +1,19 @@
+{
+  "id": "nature-citation",
+  "title": "Nature Citation",
+  "descriptionZh": "为学术文本检索、筛选和匹配 Nature、Science、Cell 系列引用，并导出参考文献管理格式。",
+  "type": "agent-skill",
+  "category": "写作与内容",
+  "prerequisites": [
+    "Python 3",
+    "可访问学术检索来源的网络环境"
+  ],
+  "sourceUrl": "https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-citation",
+  "homepage": "https://github.com/Yuan1z0825/nature-skills",
+  "license": "Apache-2.0",
+  "author": "Yuan1z0825",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "22cff091926dddd2ca54bde7d7693aba92c2c7e9",
+  "upstreamPath": "skills/nature-citation"
+}

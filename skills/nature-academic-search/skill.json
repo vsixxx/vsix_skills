@@ -1,0 +1,20 @@
+{
+  "id": "nature-academic-search",
+  "title": "Nature Academic Search",
+  "descriptionZh": "跨 PubMed、CrossRef、arXiv、Scopus 和 ScienceDirect 执行文献检索、引文核验、去重及格式转换。",
+  "type": "agent-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Python 3",
+    "MCP Python SDK 及技能 requirements.txt 中的依赖",
+    "使用 Scopus 或 ScienceDirect 时需要 Elsevier API Key"
+  ],
+  "sourceUrl": "https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search",
+  "homepage": "https://github.com/Yuan1z0825/nature-skills",
+  "license": "Apache-2.0",
+  "author": "Yuan1z0825",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "22cff091926dddd2ca54bde7d7693aba92c2c7e9",
+  "upstreamPath": "skills/nature-academic-search"
+}
