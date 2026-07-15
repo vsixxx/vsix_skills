@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qa"
+  short_description: "Use Qa guidance and workflows in Codex"
+  default_prompt: "Use $qa to help me complete a relevant task."

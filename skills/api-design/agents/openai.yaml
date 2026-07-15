@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Design"
+  short_description: "Use API Design guidance and workflows in Codex"
+  default_prompt: "Use $api-design to help me complete a relevant task."

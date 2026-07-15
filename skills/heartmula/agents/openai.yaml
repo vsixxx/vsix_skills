@@ -1,0 +1,4 @@
+interface:
+  display_name: "Heartmula"
+  short_description: "Use Heartmula guidance and workflows in Codex"
+  default_prompt: "Use $heartmula to help me complete a relevant task."

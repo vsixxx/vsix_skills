@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Ja"
+  short_description: "Use Pua Ja guidance and workflows in Codex"
+  default_prompt: "Use $pua-ja to help me complete a relevant task."

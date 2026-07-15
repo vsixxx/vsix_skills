@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carrier Relationship Management"
+  short_description: "Use Carrier Relationship Management workflows in Codex"
+  default_prompt: "Use $carrier-relationship-management to help me complete a relevant task."

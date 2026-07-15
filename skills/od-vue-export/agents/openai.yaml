@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Vue Export"
+  short_description: "Use Od Vue Export guidance and workflows in Codex"
+  default_prompt: "Use $od-vue-export to help me complete a relevant task."

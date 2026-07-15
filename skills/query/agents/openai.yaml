@@ -1,0 +1,4 @@
+interface:
+  display_name: "Query"
+  short_description: "Use Query guidance and workflows in Codex"
+  default_prompt: "Use $query to help me complete a relevant task."

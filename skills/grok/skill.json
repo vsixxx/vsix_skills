@@ -1,0 +1,14 @@
+{
+  "id": "grok",
+  "title": "Grok",
+  "descriptionZh": "将功能开发和 PR 任务委托给 xAI Grok Build CLI。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/autonomous-ai-agents/grok",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Matt Maximo (MattMaximo), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

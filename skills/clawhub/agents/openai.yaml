@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clawhub"
+  short_description: "Use Clawhub guidance and workflows in Codex"
+  default_prompt: "Use $clawhub to help me complete a relevant task."

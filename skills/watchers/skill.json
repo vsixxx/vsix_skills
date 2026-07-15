@@ -1,0 +1,17 @@
+{
+  "id": "watchers",
+  "title": "Watchers",
+  "descriptionZh": "轮询 RSS、JSON API 和 GitHub，并使用水印去重。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/devops/watchers",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imagegen Frontend Web"
+  short_description: "Use Imagegen Frontend Web guidance and workflows in Codex"
+  default_prompt: "Use $imagegen-frontend-web to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Review Animations"
+  short_description: "Use Open Design Review Animations workflows in Codex"
+  default_prompt: "Use $open-design-review-animations to help me complete a relevant task."

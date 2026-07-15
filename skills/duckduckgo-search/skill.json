@@ -1,0 +1,14 @@
+{
+  "id": "duckduckgo-search",
+  "title": "Duckduckgo Search",
+  "descriptionZh": "通过 DuckDuckGo 免费网络搜索 — 文本、新闻、图片、视频。无需 API 密钥。优先使用已安装的 `ddgs` CLI；仅在确认当前运行时中 `ddgs` 可用后才使用 Python DDGS 库。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/duckduckgo-search",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "gamedevCloudy",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

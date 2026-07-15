@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Animating Apps"
+  short_description: "Use Flutter Animating Apps guidance and workflows in Codex"
+  default_prompt: "Use $flutter-animating-apps to help me complete a relevant task."

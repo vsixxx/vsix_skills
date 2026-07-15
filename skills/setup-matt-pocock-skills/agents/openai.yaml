@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Matt Pocock Skills"
+  short_description: "Use Setup Matt Pocock Skills guidance and workflows in Codex"
+  default_prompt: "Use $setup-matt-pocock-skills to help me complete a relevant task."

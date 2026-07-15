@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Optimizer"
+  short_description: "Use Skill Optimizer guidance and workflows in Codex"
+  default_prompt: "Use $skill-optimizer to help me complete a relevant task."

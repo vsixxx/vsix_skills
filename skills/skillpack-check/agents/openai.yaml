@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skillpack Check"
+  short_description: "Use Skillpack Check guidance and workflows in Codex"
+  default_prompt: "Use $skillpack-check to help me complete a relevant task."

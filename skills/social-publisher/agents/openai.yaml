@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Publisher"
+  short_description: "Use Social Publisher guidance and workflows in Codex"
+  default_prompt: "Use $social-publisher to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ios Sync"
+  short_description: "Use Ios Sync guidance and workflows in Codex"
+  default_prompt: "Use $ios-sync to help me complete a relevant task."

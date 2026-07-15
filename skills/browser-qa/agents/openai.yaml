@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Qa"
+  short_description: "Use Browser Qa guidance and workflows in Codex"
+  default_prompt: "Use $browser-qa to help me complete a relevant task."

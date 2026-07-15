@@ -1,0 +1,4 @@
+interface:
+  display_name: "Foundation Models On Device"
+  short_description: "Use Foundation Models On Device guidance and workflows in Codex"
+  default_prompt: "Use $foundation-models-on-device to help me complete a relevant task."

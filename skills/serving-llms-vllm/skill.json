@@ -1,0 +1,20 @@
+{
+  "id": "serving-llms-vllm",
+  "title": "Serving Llms Vllm",
+  "descriptionZh": "vLLM：高吞吐量 LLM 服务、OpenAI API 兼容、量化支持。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: vllm",
+    "Package: torch",
+    "Package: transformers"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/inference/vllm",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

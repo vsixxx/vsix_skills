@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oss Maintainer"
+  short_description: "Use Oss Maintainer guidance and workflows in Codex"
+  default_prompt: "Use $oss-maintainer to help me complete a relevant task."

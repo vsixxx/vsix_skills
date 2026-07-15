@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-zhangzara-pin-and-paper",
+  "title": "HTML Ppt Zhangzara Pin And Paper",
+  "descriptionZh": "用于 HTML Ppt Zhangzara Pin And Paper 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-pin-and-paper",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-zhangzara-pin-and-paper/SKILL.md",
+  "upstreamSha256": "6be64054a0cb651f079da71a84ad2a528509ee8b7194606f9b579028d153b539"
+}

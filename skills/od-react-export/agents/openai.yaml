@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od React Export"
+  short_description: "Use Od React Export guidance and workflows in Codex"
+  default_prompt: "Use $od-react-export to help me complete a relevant task."

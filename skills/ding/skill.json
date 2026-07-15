@@ -1,0 +1,17 @@
+{
+  "id": "ding",
+  "title": "Ding",
+  "descriptionZh": "用于 Ding 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/skills/ding",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "skills/ding/SKILL.md",
+  "upstreamSha256": "6e9ecb0b7c7ea2ac262e4b6dccf8b3b194a0de5f47f1986efd9b41a3bbfe2605"
+}

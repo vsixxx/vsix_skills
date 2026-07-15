@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Wechat Summary"
+  short_description: "Use Baoyu Wechat Summary guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-wechat-summary to help me complete a relevant task."

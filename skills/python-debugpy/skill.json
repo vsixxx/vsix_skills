@@ -1,0 +1,17 @@
+{
+  "id": "python-debugpy",
+  "title": "Python Debugpy",
+  "descriptionZh": "调试 Python：pdb REPL + debugpy 远程调试（DAP）。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/python-debugpy",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

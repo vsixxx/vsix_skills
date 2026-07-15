@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Prototype Dashboard"
+  short_description: "Use Create Prototype Dashboard guidance and workflows in Codex"
+  default_prompt: "Use $create-prototype-dashboard to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bear Notes"
+  short_description: "Use Bear Notes guidance and workflows in Codex"
+  default_prompt: "Use $bear-notes to help me complete a relevant task."

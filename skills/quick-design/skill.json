@@ -1,0 +1,17 @@
+{
+  "id": "quick-design",
+  "title": "Quick Design",
+  "descriptionZh": "用于 Quick Design 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/quick-design",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/quick-design/SKILL.md",
+  "upstreamSha256": "e1274daaef2d2f925bc98944013e9ec31c25e4ad0906345fda744a7a59271d7a"
+}

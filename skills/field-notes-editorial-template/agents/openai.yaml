@@ -1,0 +1,4 @@
+interface:
+  display_name: "Field Notes Editorial Template"
+  short_description: "Use Field Notes Editorial Template workflows in Codex"
+  default_prompt: "Use $field-notes-editorial-template to help me complete a relevant task."

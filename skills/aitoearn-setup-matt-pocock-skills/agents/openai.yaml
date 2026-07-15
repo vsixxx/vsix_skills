@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Setup Matt Pocock Skills"
+  short_description: "Use Aitoearn Setup Matt Pocock Skills workflows in Codex"
+  default_prompt: "Use $aitoearn-setup-matt-pocock-skills to help me complete a relevant task."

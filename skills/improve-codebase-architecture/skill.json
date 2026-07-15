@@ -1,0 +1,17 @@
+{
+  "id": "improve-codebase-architecture",
+  "title": "Improve Codebase Architecture",
+  "descriptionZh": "用于 Improve Codebase Architecture 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+  "upstreamSha256": "4b4cb798c3863d5b6f5c0b4604af1ecb5beb6df82553c972898a91ba38bcf289"
+}

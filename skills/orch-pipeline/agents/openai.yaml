@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orch Pipeline"
+  short_description: "Use Orch Pipeline guidance and workflows in Codex"
+  default_prompt: "Use $orch-pipeline to help me complete a relevant task."

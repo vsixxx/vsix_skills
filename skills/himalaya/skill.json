@@ -1,0 +1,16 @@
+{
+  "id": "himalaya",
+  "title": "Himalaya",
+  "descriptionZh": "Himalaya CLI：在终端中收发 IMAP/SMTP 邮件。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Command: himalaya"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/email/himalaya",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

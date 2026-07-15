@@ -1,0 +1,17 @@
+{
+  "id": "growth-ideas",
+  "title": "Growth Ideas",
+  "descriptionZh": "用于 Growth Ideas 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mergisi/awesome-openclaw-agents/tree/main/skills/gemma/growth-ideas",
+  "homepage": "https://github.com/mergisi/awesome-openclaw-agents",
+  "license": "See upstream",
+  "author": "mergisi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "05820c51125e86a979432e21651d34dc9b14621f",
+  "upstreamPath": "skills/gemma/growth-ideas/SKILL.md",
+  "upstreamSha256": "984d7dfdccb03221dd0775a198a0a426dd1d60f7049433d6b826d4649727f7b2"
+}

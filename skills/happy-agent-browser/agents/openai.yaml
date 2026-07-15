@@ -1,0 +1,4 @@
+interface:
+  display_name: "Happy Agent Browser"
+  short_description: "Use Happy Agent Browser guidance and workflows in Codex"
+  default_prompt: "Use $happy-agent-browser to help me complete a relevant task."

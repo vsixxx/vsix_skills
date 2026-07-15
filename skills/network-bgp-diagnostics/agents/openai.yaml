@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Bgp Diagnostics"
+  short_description: "Use Network Bgp Diagnostics guidance and workflows in Codex"
+  default_prompt: "Use $network-bgp-diagnostics to help me complete a relevant task."

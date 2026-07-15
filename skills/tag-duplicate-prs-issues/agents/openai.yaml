@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tag Duplicate Prs Issues"
+  short_description: "Use Tag Duplicate Prs Issues guidance and workflows in Codex"
+  default_prompt: "Use $tag-duplicate-prs-issues to help me complete a relevant task."

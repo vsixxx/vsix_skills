@@ -1,0 +1,17 @@
+{
+  "id": "uncloud",
+  "title": "Uncloud",
+  "descriptionZh": "用于 Uncloud 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/uncloud",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/uncloud/SKILL.md",
+  "upstreamSha256": "cc2383ca4459a686ccda87ac08b2a1953028d91076e6a83f29e4c99de5f2fb7f"
+}

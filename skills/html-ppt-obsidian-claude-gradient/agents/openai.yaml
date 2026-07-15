@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Obsidian Claude Gradient"
+  short_description: "Use HTML Ppt Obsidian Claude Gradient workflows in Codex"
+  default_prompt: "Use $html-ppt-obsidian-claude-gradient to help me complete a relevant task."

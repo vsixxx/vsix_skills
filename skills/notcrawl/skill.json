@@ -1,0 +1,17 @@
+{
+  "id": "notcrawl",
+  "title": "Notcrawl",
+  "descriptionZh": "用于 Notcrawl 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/notcrawl",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/notcrawl/SKILL.md",
+  "upstreamSha256": "087f19b7e44521648c44741fb19b1766fa3bd72456bd3a2a3f693363bac99371"
+}

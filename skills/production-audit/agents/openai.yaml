@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production Audit"
+  short_description: "Use Production Audit guidance and workflows in Codex"
+  default_prompt: "Use $production-audit to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "happy-release",
+  "title": "Happy Release",
+  "descriptionZh": "用于 Happy Release 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/release",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/release/SKILL.md",
+  "upstreamSha256": "4d37139c6c897414912c3e894e3c1c66f493059880117d95fff3acd0eccb9e5a"
+}

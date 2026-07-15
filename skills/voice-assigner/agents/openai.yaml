@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Assigner"
+  short_description: "Use Voice Assigner guidance and workflows in Codex"
+  default_prompt: "Use $voice-assigner to help me complete a relevant task."

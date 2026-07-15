@@ -1,0 +1,17 @@
+{
+  "id": "open-design-landing-deck",
+  "title": "Open Design Landing Deck",
+  "descriptionZh": "用于 Open Design Landing Deck 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/open-design-landing-deck",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/open-design-landing-deck/SKILL.md",
+  "upstreamSha256": "5151182ff887c2ef99d9726cff3671ca1335fd6d58522c75aa1a20bd073d849a"
+}

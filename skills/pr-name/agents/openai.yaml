@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Name"
+  short_description: "Use PR Name guidance and workflows in Codex"
+  default_prompt: "Use $pr-name to help me complete a relevant task."

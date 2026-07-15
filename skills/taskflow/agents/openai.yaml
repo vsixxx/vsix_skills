@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taskflow"
+  short_description: "Use Taskflow guidance and workflows in Codex"
+  default_prompt: "Use $taskflow to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Architecture"
+  short_description: "Use Create Architecture guidance and workflows in Codex"
+  default_prompt: "Use $create-architecture to help me complete a relevant task."

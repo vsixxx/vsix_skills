@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iterative Retrieval"
+  short_description: "Use Iterative Retrieval guidance and workflows in Codex"
+  default_prompt: "Use $iterative-retrieval to help me complete a relevant task."

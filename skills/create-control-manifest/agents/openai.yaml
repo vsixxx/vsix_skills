@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Control Manifest"
+  short_description: "Use Create Control Manifest guidance and workflows in Codex"
+  default_prompt: "Use $create-control-manifest to help me complete a relevant task."

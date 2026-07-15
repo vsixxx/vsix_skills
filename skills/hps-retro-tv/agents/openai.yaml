@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hps Retro Tv"
+  short_description: "Use Hps Retro Tv guidance and workflows in Codex"
+  default_prompt: "Use $hps-retro-tv to help me complete a relevant task."

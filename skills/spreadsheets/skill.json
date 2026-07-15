@@ -1,0 +1,17 @@
+{
+  "id": "spreadsheets",
+  "title": "Spreadsheets",
+  "descriptionZh": "用于 Spreadsheets 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/crates/tui/assets/skills/spreadsheets",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "crates/tui/assets/skills/spreadsheets/SKILL.md",
+  "upstreamSha256": "f606779835fdb9e7663c7c0d84f6d02526fdda9067952ab3fc8a9f6adec5926b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gsap-scrolltrigger",
+  "title": "Gsap Scrolltrigger",
+  "descriptionZh": "用于 Gsap Scrolltrigger 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-scrolltrigger",
+  "homepage": "https://github.com/greensock/gsap-skills",
+  "license": "MIT",
+  "author": "greensock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+  "upstreamPath": "skills/gsap-scrolltrigger/SKILL.md",
+  "upstreamSha256": "9351b6666a4749c0740406ea363aaccb99a087ff45cc5e8b99a0f367facf3ef4"
+}

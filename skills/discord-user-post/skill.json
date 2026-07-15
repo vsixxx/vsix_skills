@@ -1,0 +1,17 @@
+{
+  "id": "discord-user-post",
+  "title": "Discord User Post",
+  "descriptionZh": "用于 Discord User Post 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/discord-user-post",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/discord-user-post/SKILL.md",
+  "upstreamSha256": "a44a124729b62ff8dd5af1789a804642365f904b7650f8f77fabc1bd5e96b462"
+}

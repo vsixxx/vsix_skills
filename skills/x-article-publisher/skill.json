@@ -1,0 +1,17 @@
+{
+  "id": "x-article-publisher",
+  "title": "X Article Publisher",
+  "descriptionZh": "用于 X Article Publisher 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/wshuyi/x-article-publisher-skill/tree/main/skills/x-article-publisher",
+  "homepage": "https://github.com/wshuyi/x-article-publisher-skill",
+  "license": "See upstream",
+  "author": "wshuyi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "eb3197d1d8579556aea5018d5c0b141d55fc2df6",
+  "upstreamPath": "skills/x-article-publisher/SKILL.md",
+  "upstreamSha256": "66b99b20fe37a0455d5360f0dd4b3300ebeae347a852c6c7f899c586a9b8ed6a"
+}

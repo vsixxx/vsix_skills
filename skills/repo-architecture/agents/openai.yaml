@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Architecture"
+  short_description: "Use Repo Architecture guidance and workflows in Codex"
+  default_prompt: "Use $repo-architecture to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hps Memphis Pop"
+  short_description: "Use Hps Memphis Pop guidance and workflows in Codex"
+  default_prompt: "Use $hps-memphis-pop to help me complete a relevant task."

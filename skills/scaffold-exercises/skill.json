@@ -1,0 +1,17 @@
+{
+  "id": "scaffold-exercises",
+  "title": "Scaffold Exercises",
+  "descriptionZh": "用于 Scaffold Exercises 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/misc/scaffold-exercises",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/misc/scaffold-exercises/SKILL.md",
+  "upstreamSha256": "75f5c9d771606fb9762f16522efc954df11c324f87148d8ff069bce166257de9"
+}

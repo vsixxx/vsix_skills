@@ -1,0 +1,17 @@
+{
+  "id": "writing-shape",
+  "title": "Writing Shape",
+  "descriptionZh": "用于 Writing Shape 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/in-progress/writing-shape/SKILL.md",
+  "upstreamSha256": "67d34422bbe43cfd523dea9fe7b3ec5260791aed8ea52309b5b85f9d76f32745"
+}

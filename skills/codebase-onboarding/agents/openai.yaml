@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Onboarding"
+  short_description: "Use Codebase Onboarding guidance and workflows in Codex"
+  default_prompt: "Use $codebase-onboarding to help me complete a relevant task."

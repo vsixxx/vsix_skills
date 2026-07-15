@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Design Guidelines"
+  short_description: "Use Web Design Guidelines guidance and workflows in Codex"
+  default_prompt: "Use $web-design-guidelines to help me complete a relevant task."

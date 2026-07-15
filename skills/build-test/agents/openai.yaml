@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Test"
+  short_description: "Use Build Test guidance and workflows in Codex"
+  default_prompt: "Use $build-test to help me complete a relevant task."

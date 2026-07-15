@@ -1,0 +1,17 @@
+{
+  "id": "aitoearn-prototype",
+  "title": "Aitoearn Prototype",
+  "descriptionZh": "用于 Aitoearn Prototype 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/prototype",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/prototype/SKILL.md",
+  "upstreamSha256": "a653deb65afa2ee8f45c68f6ef4f593147171b386e994c8cccf89292d9ea9d75"
+}

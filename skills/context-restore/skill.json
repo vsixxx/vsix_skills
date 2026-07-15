@@ -1,0 +1,17 @@
+{
+  "id": "context-restore",
+  "title": "Context Restore",
+  "descriptionZh": "用于 Context Restore 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/context-restore",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "context-restore/SKILL.md",
+  "upstreamSha256": "d006b63c8568258f7f3f0201447f806e87e0386ef2a17c9d3598411c8d974d1b"
+}

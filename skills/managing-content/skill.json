@@ -1,0 +1,17 @@
+{
+  "id": "managing-content",
+  "title": "Managing Content",
+  "descriptionZh": "用于 Managing Content 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/managing-content",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/managing-content/SKILL.md",
+  "upstreamSha256": "9e23a56ea124bf0c7321c1c5cc83837415719d1d5171978ad7812ded0581463b"
+}

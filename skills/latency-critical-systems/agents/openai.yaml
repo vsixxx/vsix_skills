@@ -1,0 +1,4 @@
+interface:
+  display_name: "Latency Critical Systems"
+  short_description: "Use Latency Critical Systems guidance and workflows in Codex"
+  default_prompt: "Use $latency-critical-systems to help me complete a relevant task."

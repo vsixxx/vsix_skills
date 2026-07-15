@@ -1,0 +1,17 @@
+{
+  "id": "node-connect",
+  "title": "Node Connect",
+  "descriptionZh": "用于 Node Connect 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/node-connect",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/node-connect/SKILL.md",
+  "upstreamSha256": "cc39026fd84e5cfa89a1690d71a4192145a6a1d08e5f303e836498e005fd08c1"
+}

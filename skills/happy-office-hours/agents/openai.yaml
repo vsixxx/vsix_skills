@@ -1,0 +1,4 @@
+interface:
+  display_name: "Happy Office Hours"
+  short_description: "Use Happy Office Hours guidance and workflows in Codex"
+  default_prompt: "Use $happy-office-hours to help me complete a relevant task."

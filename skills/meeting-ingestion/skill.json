@@ -1,0 +1,17 @@
+{
+  "id": "meeting-ingestion",
+  "title": "Meeting Ingestion",
+  "descriptionZh": "用于 Meeting Ingestion 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/meeting-ingestion",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/meeting-ingestion/SKILL.md",
+  "upstreamSha256": "7767334c63ff3bd8e60cd4d7cd1d1b44f0d6b0a7e0ac411529a1d59cc0a7781b"
+}

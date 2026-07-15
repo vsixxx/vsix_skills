@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social X Post Card"
+  short_description: "Use Social X Post Card guidance and workflows in Codex"
+  default_prompt: "Use $social-x-post-card to help me complete a relevant task."

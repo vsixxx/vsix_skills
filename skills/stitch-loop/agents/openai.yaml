@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stitch Loop"
+  short_description: "Use Stitch Loop guidance and workflows in Codex"
+  default_prompt: "Use $stitch-loop to help me complete a relevant task."

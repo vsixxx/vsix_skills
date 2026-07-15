@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Artifacts Builder"
+  short_description: "Use Web Artifacts Builder guidance and workflows in Codex"
+  default_prompt: "Use $web-artifacts-builder to help me complete a relevant task."

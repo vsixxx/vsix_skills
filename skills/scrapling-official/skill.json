@@ -1,0 +1,17 @@
+{
+  "id": "scrapling-official",
+  "title": "Scrapling Official",
+  "descriptionZh": "用于 Scrapling Official 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/D4Vinci/Scrapling/tree/main/agent-skill/Scrapling-Skill",
+  "homepage": "https://github.com/D4Vinci/Scrapling",
+  "license": "Complete terms in LICENSE.txt",
+  "author": "D4Vinci",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2c647c6be6083097191db498fa51f8c3e9cc4b09",
+  "upstreamPath": "agent-skill/Scrapling-Skill/SKILL.md",
+  "upstreamSha256": "46cb4d9eb1e847832be87c20c1737461ff4368f3fb592cf47f99bef7a51ebd09"
+}

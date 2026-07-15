@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pokemon Player"
+  short_description: "Use Pokemon Player guidance and workflows in Codex"
+  default_prompt: "Use $pokemon-player to help me complete a relevant task."

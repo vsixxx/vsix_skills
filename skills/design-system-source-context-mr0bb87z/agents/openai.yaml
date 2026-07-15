@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Source Context Mr0bb87z"
+  short_description: "Use Design System Source Context Mr0bb87z workflows in Codex"
+  default_prompt: "Use $design-system-source-context-mr0bb87z to help me complete a relevant task."

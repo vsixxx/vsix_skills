@@ -1,0 +1,4 @@
+interface:
+  display_name: "Last30days"
+  short_description: "Use Last30days guidance and workflows in Codex"
+  default_prompt: "Use $last30days to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "openai-whisper-api",
+  "title": "OpenAI Whisper API",
+  "descriptionZh": "用于 OpenAI Whisper API 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/openai-whisper-api/SKILL.md",
+  "upstreamSha256": "afff70c706a9bae250b046b741e9930340ca87cc1689a82d4415dd4d6b45bfa1"
+}

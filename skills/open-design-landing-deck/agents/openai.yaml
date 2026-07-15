@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Landing Deck"
+  short_description: "Use Open Design Landing Deck guidance and workflows in Codex"
+  default_prompt: "Use $open-design-landing-deck to help me complete a relevant task."

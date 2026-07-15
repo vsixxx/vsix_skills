@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sessions"
+  short_description: "Use Sessions guidance and workflows in Codex"
+  default_prompt: "Use $sessions to help me complete a relevant task."

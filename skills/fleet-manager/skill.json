@@ -1,0 +1,17 @@
+{
+  "id": "fleet-manager",
+  "title": "Fleet Manager",
+  "descriptionZh": "用于 Fleet Manager 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/crates/tui/assets/skills/fleet-manager",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "crates/tui/assets/skills/fleet-manager/SKILL.md",
+  "upstreamSha256": "7bc8c242553b8ec2ac0cc40ec82a1301b501c2dc2fc8985562eebd660ac56249"
+}

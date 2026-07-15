@@ -1,0 +1,17 @@
+{
+  "id": "community-registry-starter",
+  "title": "Community Registry Starter",
+  "descriptionZh": "用于 Community Registry Starter 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/community/registry-starter",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/community/registry-starter/SKILL.md",
+  "upstreamSha256": "c4600b743df02d0be8a97e3175f8d24f5c5b4eca566b163d92a7af73f2ec050f"
+}

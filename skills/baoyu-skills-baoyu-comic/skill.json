@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-skills-baoyu-comic",
+  "title": "Baoyu Skills Baoyu Comic",
+  "descriptionZh": "用于 Baoyu Skills Baoyu Comic 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-comic",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-comic/SKILL.md",
+  "upstreamSha256": "98d5de8650a3401c1ee97b3f78ebacef72f3f570ef7fe7290b192ac7d24330bc"
+}

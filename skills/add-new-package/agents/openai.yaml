@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add New Package"
+  short_description: "Use Add New Package guidance and workflows in Codex"
+  default_prompt: "Use $add-new-package to help me complete a relevant task."

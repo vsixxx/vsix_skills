@@ -1,0 +1,17 @@
+{
+  "id": "brain-taxonomist",
+  "title": "Brain Taxonomist",
+  "descriptionZh": "用于 Brain Taxonomist 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/brain-taxonomist",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/brain-taxonomist/SKILL.md",
+  "upstreamSha256": "dea4557b540868ec2c56bf43ee7f63c5d03a22d4047cd0dfbeaf19adef334f60"
+}

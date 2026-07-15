@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ppt Editing Skill"
+  short_description: "Use Ppt Editing Skill guidance and workflows in Codex"
+  default_prompt: "Use $ppt-editing-skill to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hallmark"
+  short_description: "Use Hallmark guidance and workflows in Codex"
+  default_prompt: "Use $hallmark to help me complete a relevant task."

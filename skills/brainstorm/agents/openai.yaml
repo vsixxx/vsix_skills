@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorm"
+  short_description: "Use Brainstorm guidance and workflows in Codex"
+  default_prompt: "Use $brainstorm to help me complete a relevant task."

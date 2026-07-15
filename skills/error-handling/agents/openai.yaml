@@ -1,0 +1,4 @@
+interface:
+  display_name: "Error Handling"
+  short_description: "Use Error Handling guidance and workflows in Codex"
+  default_prompt: "Use $error-handling to help me complete a relevant task."

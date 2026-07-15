@@ -1,0 +1,4 @@
+interface:
+  display_name: "Office Hours"
+  short_description: "Use Office Hours guidance and workflows in Codex"
+  default_prompt: "Use $office-hours to help me complete a relevant task."

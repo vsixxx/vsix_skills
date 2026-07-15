@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Docker E2e Authoring"
+  short_description: "Use Openclaw Docker E2e Authoring workflows in Codex"
+  default_prompt: "Use $openclaw-docker-e2e-authoring to help me complete a relevant task."

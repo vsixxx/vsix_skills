@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Neon Grid"
+  short_description: "Use Webgl Neon Grid guidance and workflows in Codex"
+  default_prompt: "Use $webgl-neon-grid to help me complete a relevant task."

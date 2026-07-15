@@ -1,0 +1,17 @@
+{
+  "id": "hyperframes-cli",
+  "title": "Hyperframes CLI",
+  "descriptionZh": "用于 Hyperframes CLI 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-cli",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/hyperframes-cli/SKILL.md",
+  "upstreamSha256": "8fd8487a66db9e4301be40637c134469e4e2bddc973b37b8eb8d1d54b176adcf"
+}

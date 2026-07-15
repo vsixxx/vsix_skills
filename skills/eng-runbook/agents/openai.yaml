@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eng Runbook"
+  short_description: "Use Eng Runbook guidance and workflows in Codex"
+  default_prompt: "Use $eng-runbook to help me complete a relevant task."

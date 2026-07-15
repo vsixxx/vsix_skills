@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rest Graphql Debug"
+  short_description: "Use Rest Graphql Debug guidance and workflows in Codex"
+  default_prompt: "Use $rest-graphql-debug to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Hyperframes"
+  short_description: "Use Video Hyperframes guidance and workflows in Codex"
+  default_prompt: "Use $video-hyperframes to help me complete a relevant task."

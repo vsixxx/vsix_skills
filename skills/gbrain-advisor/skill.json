@@ -1,0 +1,17 @@
+{
+  "id": "gbrain-advisor",
+  "title": "Gbrain Advisor",
+  "descriptionZh": "用于 Gbrain Advisor 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/gbrain-advisor",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/gbrain-advisor/SKILL.md",
+  "upstreamSha256": "c15c7a88bee2c96733d718a168dd9afcb123b7b6b2c0014c5260d37c72e8736a"
+}

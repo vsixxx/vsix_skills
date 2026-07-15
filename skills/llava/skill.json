@@ -1,0 +1,18 @@
+{
+  "id": "llava",
+  "title": "Llava",
+  "descriptionZh": "大型语言与视觉助手。支持视觉指令微调和基于图像的对话。结合 CLIP 视觉编码器与 Vicuna/LLaMA 语言模型。支持多轮图像对话、视觉问答及指令跟随。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: transformers",
+    "Package: torch",
+    "Package: pillow"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/llava",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

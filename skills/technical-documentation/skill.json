@@ -1,0 +1,17 @@
+{
+  "id": "technical-documentation",
+  "title": "Technical Documentation",
+  "descriptionZh": "用于 Technical Documentation 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/technical-documentation",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "MIT",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/technical-documentation/SKILL.md",
+  "upstreamSha256": "67a93dc4b2263d23de63d6d3e6fca6447f4f594fe856c1514db79d94b65d3c5a"
+}

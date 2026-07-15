@@ -1,0 +1,17 @@
+{
+  "id": "motion-patterns",
+  "title": "Motion Patterns",
+  "descriptionZh": "用于 Motion Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/motion-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "jeff",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/motion-patterns/SKILL.md",
+  "upstreamSha256": "2aa9a4b783e83871fe3ebbc677f9d09e2f3bf64f675f24980beed262d00369b7"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "do",
+  "title": "Do",
+  "descriptionZh": "用于 Do 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/do",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/do/SKILL.md",
+  "upstreamSha256": "993ea03d417bb8ddcc32b62f2a09408a06a6a71889466046fb05ebc0ec9a994a"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quick Design"
+  short_description: "Use Quick Design guidance and workflows in Codex"
+  default_prompt: "Use $quick-design to help me complete a relevant task."

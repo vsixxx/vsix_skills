@@ -1,0 +1,17 @@
+{
+  "id": "everything-claude-code-conventions",
+  "title": "Everything Claude Code Conventions",
+  "descriptionZh": "用于 Everything Claude Code Conventions 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/.claude/skills/everything-claude-code",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": ".claude/skills/everything-claude-code/SKILL.md",
+  "upstreamSha256": "9a203e3828a390c597f01e0c97fa7c6f0e6ecd7e3a759da488c48a3f81ed18ed"
+}

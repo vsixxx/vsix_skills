@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Stencil Tablet"
+  short_description: "Use HTML Ppt Zhangzara Stencil Tablet workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-stencil-tablet to help me complete a relevant task."

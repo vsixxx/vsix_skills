@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qdrant Vector Search"
+  short_description: "Use Qdrant Vector Search guidance and workflows in Codex"
+  default_prompt: "Use $qdrant-vector-search to help me complete a relevant task."

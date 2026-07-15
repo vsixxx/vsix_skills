@@ -1,0 +1,17 @@
+{
+  "id": "voice-post-call",
+  "title": "Voice Post Call",
+  "descriptionZh": "用于 Voice Post Call 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/recipes/agent-voice/skills/voice-post-call",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "recipes/agent-voice/skills/voice-post-call/SKILL.md",
+  "upstreamSha256": "7b428d0d0bd214f6d94321e1d8a0d5f4d2c665a7d8bbec01603224c2da0553b4"
+}

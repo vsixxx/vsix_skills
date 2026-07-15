@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Live Updater"
+  short_description: "Use Openclaw Live Updater guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-live-updater to help me complete a relevant task."

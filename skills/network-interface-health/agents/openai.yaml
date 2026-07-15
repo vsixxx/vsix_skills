@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Interface Health"
+  short_description: "Use Network Interface Health guidance and workflows in Codex"
+  default_prompt: "Use $network-interface-health to help me complete a relevant task."

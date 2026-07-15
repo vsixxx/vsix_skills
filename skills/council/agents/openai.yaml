@@ -1,0 +1,4 @@
+interface:
+  display_name: "Council"
+  short_description: "Use Council guidance and workflows in Codex"
+  default_prompt: "Use $council to help me complete a relevant task."

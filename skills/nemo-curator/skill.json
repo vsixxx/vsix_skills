@@ -1,0 +1,21 @@
+{
+  "id": "nemo-curator",
+  "title": "Nemo Curator",
+  "descriptionZh": "面向 LLM 训练的 GPU 加速数据整理工具。支持文本/图像/视频/音频。具备模糊去重（快 16 倍）、质量过滤（30+ 启发式规则）、语义去重、PII 脱敏、NSFW 检测等功能，可跨 GPU 扩展。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: nemo-curator",
+    "Package: cudf",
+    "Package: dask",
+    "Package: rapids"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/nemo-curator",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

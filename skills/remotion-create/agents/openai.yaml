@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Create"
+  short_description: "Use Remotion Create guidance and workflows in Codex"
+  default_prompt: "Use $remotion-create to help me complete a relevant task."

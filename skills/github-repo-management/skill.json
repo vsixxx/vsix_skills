@@ -1,0 +1,14 @@
+{
+  "id": "github-repo-management",
+  "title": "GitHub Repo Management",
+  "descriptionZh": "克隆/创建/fork 仓库；管理远程、发布版本。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/github/github-repo-management",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

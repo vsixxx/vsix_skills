@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perf Profile"
+  short_description: "Use Perf Profile guidance and workflows in Codex"
+  default_prompt: "Use $perf-profile to help me complete a relevant task."

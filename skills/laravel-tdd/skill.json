@@ -1,0 +1,17 @@
+{
+  "id": "laravel-tdd",
+  "title": "Laravel Tdd",
+  "descriptionZh": "用于 Laravel Tdd 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/laravel-tdd",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/laravel-tdd/SKILL.md",
+  "upstreamSha256": "ceabcc7f27bbc3aea7cf496211b265fb0bb505698c6aabd2ca2c25b460b91cf4"
+}

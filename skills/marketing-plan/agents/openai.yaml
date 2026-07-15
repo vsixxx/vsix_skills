@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Plan"
+  short_description: "Use Marketing Plan guidance and workflows in Codex"
+  default_prompt: "Use $marketing-plan to help me complete a relevant task."

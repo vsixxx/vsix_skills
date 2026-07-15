@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ito Basket Compare"
+  short_description: "Use Ito Basket Compare guidance and workflows in Codex"
+  default_prompt: "Use $ito-basket-compare to help me complete a relevant task."

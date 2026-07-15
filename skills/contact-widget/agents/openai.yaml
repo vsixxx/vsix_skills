@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contact Widget"
+  short_description: "Use Contact Widget guidance and workflows in Codex"
+  default_prompt: "Use $contact-widget to help me complete a relevant task."

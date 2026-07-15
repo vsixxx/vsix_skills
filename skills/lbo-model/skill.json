@@ -1,0 +1,14 @@
+{
+  "id": "lbo-model",
+  "title": "Lbo Model",
+  "descriptionZh": "在 Excel 中构建杠杆收购模型 — 资金来源与用途、债务计划、现金清偿、退出倍数、IRR/MOIC 敏感性分析。与 excel-author 配合使用。适用于 PE 筛选、主导方案估值或 pitch 中的示意性 LBO。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/finance/lbo-model",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "Apache-2.0",
+  "author": "Anthropic (adapted by Nous Research)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

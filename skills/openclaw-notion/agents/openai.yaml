@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Notion"
+  short_description: "Use Openclaw Notion guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-notion to help me complete a relevant task."

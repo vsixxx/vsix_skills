@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Patterns"
+  short_description: "Use Vue Patterns guidance and workflows in Codex"
+  default_prompt: "Use $vue-patterns to help me complete a relevant task."

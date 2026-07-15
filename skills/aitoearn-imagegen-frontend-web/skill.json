@@ -1,0 +1,17 @@
+{
+  "id": "aitoearn-imagegen-frontend-web",
+  "title": "Aitoearn Imagegen Frontend Web",
+  "descriptionZh": "用于 Aitoearn Imagegen Frontend Web 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-web/.agents/skills/imagegen-frontend-web",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-web/.agents/skills/imagegen-frontend-web/SKILL.md",
+  "upstreamSha256": "6b5c2256522fdba1e3313eafa3d743b960a7b13ec029d3e6586e04b23327c1f8"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tavily"
+  short_description: "Use Tavily guidance and workflows in Codex"
+  default_prompt: "Use $tavily to help me complete a relevant task."

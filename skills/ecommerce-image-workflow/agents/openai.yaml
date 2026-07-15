@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecommerce Image Workflow"
+  short_description: "Use Ecommerce Image Workflow guidance and workflows in Codex"
+  default_prompt: "Use $ecommerce-image-workflow to help me complete a relevant task."

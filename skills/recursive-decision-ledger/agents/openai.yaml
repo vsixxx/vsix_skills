@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recursive Decision Ledger"
+  short_description: "Use Recursive Decision Ledger guidance and workflows in Codex"
+  default_prompt: "Use $recursive-decision-ledger to help me complete a relevant task."

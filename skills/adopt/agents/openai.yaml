@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adopt"
+  short_description: "Use Adopt guidance and workflows in Codex"
+  default_prompt: "Use $adopt to help me complete a relevant task."

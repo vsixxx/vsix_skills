@@ -1,0 +1,17 @@
+{
+  "id": "motion-graphics",
+  "title": "Motion Graphics",
+  "descriptionZh": "用于 Motion Graphics 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/motion-graphics",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/motion-graphics/SKILL.md",
+  "upstreamSha256": "6580c116993b7cd4ca22e31b0832f54fb1e01bc60fe9afd58d07392fb0e04c5c"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev"
+  short_description: "Use Dev guidance and workflows in Codex"
+  default_prompt: "Use $dev to help me complete a relevant task."

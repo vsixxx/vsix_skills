@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cpp Coding Standards"
+  short_description: "Use Cpp Coding Standards guidance and workflows in Codex"
+  default_prompt: "Use $cpp-coding-standards to help me complete a relevant task."

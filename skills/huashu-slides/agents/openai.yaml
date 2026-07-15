@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Slides"
+  short_description: "Use Huashu Slides guidance and workflows in Codex"
+  default_prompt: "Use $huashu-slides to help me complete a relevant task."

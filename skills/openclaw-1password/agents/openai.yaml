@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw 1Password"
+  short_description: "Use Openclaw 1Password guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-1password to help me complete a relevant task."

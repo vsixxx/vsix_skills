@@ -1,0 +1,17 @@
+{
+  "id": "homelab-pihole-dns",
+  "title": "Homelab Pihole Dns",
+  "descriptionZh": "用于 Homelab Pihole Dns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/homelab-pihole-dns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/homelab-pihole-dns/SKILL.md",
+  "upstreamSha256": "132b838063475caac0eedca0ed0ab3b7b5f0e4394f94126da1711cde982d532a"
+}

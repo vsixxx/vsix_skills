@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Documentation"
+  short_description: "Use Technical Documentation guidance and workflows in Codex"
+  default_prompt: "Use $technical-documentation to help me complete a relevant task."

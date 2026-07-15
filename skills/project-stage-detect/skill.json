@@ -1,0 +1,17 @@
+{
+  "id": "project-stage-detect",
+  "title": "Project Stage Detect",
+  "descriptionZh": "用于 Project Stage Detect 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/project-stage-detect",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/project-stage-detect/SKILL.md",
+  "upstreamSha256": "dffa5112b8d3c4ef53bc3ee6bede90d0f3f4b938ad3a00238f1209f0fa0e7e19"
+}

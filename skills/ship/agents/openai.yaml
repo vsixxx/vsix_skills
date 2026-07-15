@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ship"
+  short_description: "Use Ship guidance and workflows in Codex"
+  default_prompt: "Use $ship to help me complete a relevant task."

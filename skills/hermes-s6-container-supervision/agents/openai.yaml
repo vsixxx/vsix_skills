@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes S6 Container Supervision"
+  short_description: "Use Hermes S6 Container Supervision workflows in Codex"
+  default_prompt: "Use $hermes-s6-container-supervision to help me complete a relevant task."

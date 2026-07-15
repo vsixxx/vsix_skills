@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perl Patterns"
+  short_description: "Use Perl Patterns guidance and workflows in Codex"
+  default_prompt: "Use $perl-patterns to help me complete a relevant task."

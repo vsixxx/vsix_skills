@@ -1,0 +1,17 @@
+{
+  "id": "setup-pre-commit",
+  "title": "Setup Pre Commit",
+  "descriptionZh": "用于 Setup Pre Commit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/misc/setup-pre-commit",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/misc/setup-pre-commit/SKILL.md",
+  "upstreamSha256": "872f4037cb7e6e0e340d4175c086550072959925dffc87b160d1a30dc9f63bbd"
+}

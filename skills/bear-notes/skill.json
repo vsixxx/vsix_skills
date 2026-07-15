@@ -1,0 +1,17 @@
+{
+  "id": "bear-notes",
+  "title": "Bear Notes",
+  "descriptionZh": "用于 Bear Notes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/bear-notes",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/bear-notes/SKILL.md",
+  "upstreamSha256": "10836e95358f59969972c161a38984e4f38695357aa56b51795743c85f55318d"
+}

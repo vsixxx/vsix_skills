@@ -1,0 +1,16 @@
+{
+  "id": "pinecone",
+  "title": "Pinecone",
+  "descriptionZh": "面向生产 AI 应用的托管向量数据库。全托管、自动扩缩容，支持混合搜索（稠密+稀疏）、元数据过滤和命名空间。低延迟（p95 &lt;100ms）。适用于生产 RAG、推荐系统等场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: pinecone-client"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/pinecone",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

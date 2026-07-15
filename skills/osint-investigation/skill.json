@@ -1,0 +1,14 @@
+{
+  "id": "osint-investigation",
+  "title": "Osint Investigation",
+  "descriptionZh": "公开记录 OSINT 调查框架 — SEC EDGAR 文件、USAspending 合同、参议院游说记录、OFAC 制裁、ICIJ 离岸泄露、纽约市房产记录（ACRIS）、OpenCorporates 注册信息、CourtListener 法院记录、Wayback Machine 等。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/osint-investigation",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (adapted from ShinMegamiBoson/OpenPlanter, MIT)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

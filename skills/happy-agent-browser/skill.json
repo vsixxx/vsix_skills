@@ -1,0 +1,17 @@
+{
+  "id": "happy-agent-browser",
+  "title": "Happy Agent Browser",
+  "descriptionZh": "用于 Happy Agent Browser 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/agent-browser",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/agent-browser/SKILL.md",
+  "upstreamSha256": "11b5b1f23b5e0dfd77ebe71cf9cb86ba3309c4225904303919a91cfcb377d9df"
+}

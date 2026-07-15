@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Ts Deep Modules"
+  short_description: "Use Setup Ts Deep Modules guidance and workflows in Codex"
+  default_prompt: "Use $setup-ts-deep-modules to help me complete a relevant task."

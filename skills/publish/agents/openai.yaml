@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publish"
+  short_description: "Use Publish guidance and workflows in Codex"
+  default_prompt: "Use $publish to help me complete a relevant task."

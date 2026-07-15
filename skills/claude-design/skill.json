@@ -1,0 +1,14 @@
+{
+  "id": "claude-design",
+  "title": "Claude Design",
+  "descriptionZh": "设计一次性 HTML 制品（落地页、幻灯片、原型）。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/claude-design",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "BadTechBandit",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

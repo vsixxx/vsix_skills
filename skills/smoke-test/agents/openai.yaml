@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smoke Test"
+  short_description: "Use Smoke Test guidance and workflows in Codex"
+  default_prompt: "Use $smoke-test to help me complete a relevant task."

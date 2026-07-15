@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Hermes Cyber Terminal"
+  short_description: "Use HTML Ppt Hermes Cyber Terminal workflows in Codex"
+  default_prompt: "Use $html-ppt-hermes-cyber-terminal to help me complete a relevant task."

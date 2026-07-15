@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Image Campaign"
+  short_description: "Use Create Image Campaign guidance and workflows in Codex"
+  default_prompt: "Use $create-image-campaign to help me complete a relevant task."

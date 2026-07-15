@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generating Drama Recaps"
+  short_description: "Use Generating Drama Recaps guidance and workflows in Codex"
+  default_prompt: "Use $generating-drama-recaps to help me complete a relevant task."

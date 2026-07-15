@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-canvas",
+  "title": "Openclaw Canvas",
+  "descriptionZh": "用于 Openclaw Canvas 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/canvas/skills/canvas",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/canvas/skills/canvas/SKILL.md",
+  "upstreamSha256": "7419e23f242397b39d64a0263f7c1b57b3e7674138bf8c791c8d8686a449f583"
+}

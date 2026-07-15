@@ -1,0 +1,17 @@
+{
+  "id": "to-prd",
+  "title": "To Prd",
+  "descriptionZh": "用于 To Prd 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/to-prd",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/to-prd/SKILL.md",
+  "upstreamSha256": "b60e3805e361e4eabc6f3df48d305299e0fde64cb24b6e95443c01de907a2e7d"
+}

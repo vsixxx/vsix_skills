@@ -1,0 +1,17 @@
+{
+  "id": "storage-analyzer",
+  "title": "Storage Analyzer",
+  "descriptionZh": "用于 Storage Analyzer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/tree/main/storage-analyzer",
+  "homepage": "https://github.com/KKKKhazix/khazix-skills",
+  "license": "See upstream",
+  "author": "KKKKhazix",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5a963d91f772e0d4f6659c43a36876a74c468143",
+  "upstreamPath": "storage-analyzer/SKILL.md",
+  "upstreamSha256": "4b41cc77494638ee0f010f5c50b8015e4dff82e522c9184d4bbeba14b776eae4"
+}

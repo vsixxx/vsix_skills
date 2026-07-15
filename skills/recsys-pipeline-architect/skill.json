@@ -1,0 +1,17 @@
+{
+  "id": "recsys-pipeline-architect",
+  "title": "Recsys Pipeline Architect",
+  "descriptionZh": "用于 Recsys Pipeline Architect 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/recsys-pipeline-architect",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/recsys-pipeline-architect/SKILL.md",
+  "upstreamSha256": "309fe65f0ffdb44b62005c63ab9f460ddbe813f994e010316f7a2e55fc52e436"
+}

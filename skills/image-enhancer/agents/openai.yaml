@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Enhancer"
+  short_description: "Use Image Enhancer guidance and workflows in Codex"
+  default_prompt: "Use $image-enhancer to help me complete a relevant task."

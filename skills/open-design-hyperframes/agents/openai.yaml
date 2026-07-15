@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Hyperframes"
+  short_description: "Use Open Design Hyperframes guidance and workflows in Codex"
+  default_prompt: "Use $open-design-hyperframes to help me complete a relevant task."

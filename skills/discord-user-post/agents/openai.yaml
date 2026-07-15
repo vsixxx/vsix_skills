@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord User Post"
+  short_description: "Use Discord User Post guidance and workflows in Codex"
+  default_prompt: "Use $discord-user-post to help me complete a relevant task."

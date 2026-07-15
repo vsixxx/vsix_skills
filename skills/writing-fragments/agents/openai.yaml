@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Fragments"
+  short_description: "Use Writing Fragments guidance and workflows in Codex"
+  default_prompt: "Use $writing-fragments to help me complete a relevant task."

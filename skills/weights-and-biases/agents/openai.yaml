@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weights And Biases"
+  short_description: "Use Weights And Biases guidance and workflows in Codex"
+  default_prompt: "Use $weights-and-biases to help me complete a relevant task."

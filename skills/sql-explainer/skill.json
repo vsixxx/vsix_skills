@@ -1,0 +1,17 @@
+{
+  "id": "sql-explainer",
+  "title": "SQL Explainer",
+  "descriptionZh": "用于 SQL Explainer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mergisi/awesome-openclaw-agents/tree/main/skills/gemma/sql-explainer",
+  "homepage": "https://github.com/mergisi/awesome-openclaw-agents",
+  "license": "See upstream",
+  "author": "mergisi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "05820c51125e86a979432e21651d34dc9b14621f",
+  "upstreamPath": "skills/gemma/sql-explainer/SKILL.md",
+  "upstreamSha256": "2c9775ae17cf41c28f328cb328af23a9d6839ed8b890b46c1aa902af36718987"
+}

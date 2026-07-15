@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Minimax PDF"
+  short_description: "Use Open Design Minimax PDF guidance and workflows in Codex"
+  default_prompt: "Use $open-design-minimax-pdf to help me complete a relevant task."

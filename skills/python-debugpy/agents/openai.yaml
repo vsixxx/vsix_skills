@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Debugpy"
+  short_description: "Use Python Debugpy guidance and workflows in Codex"
+  default_prompt: "Use $python-debugpy to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investor Materials"
+  short_description: "Use Investor Materials guidance and workflows in Codex"
+  default_prompt: "Use $investor-materials to help me complete a relevant task."

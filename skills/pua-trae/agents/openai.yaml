@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Trae"
+  short_description: "Use Pua Trae guidance and workflows in Codex"
+  default_prompt: "Use $pua-trae to help me complete a relevant task."

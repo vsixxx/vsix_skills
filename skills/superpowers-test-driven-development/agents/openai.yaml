@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superpowers Test Driven Development"
+  short_description: "Use Superpowers Test Driven Development workflows in Codex"
+  default_prompt: "Use $superpowers-test-driven-development to help me complete a relevant task."

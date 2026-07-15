@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Deploy"
+  short_description: "Use Setup Deploy guidance and workflows in Codex"
+  default_prompt: "Use $setup-deploy to help me complete a relevant task."

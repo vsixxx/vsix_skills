@@ -1,0 +1,17 @@
+{
+  "id": "figma-use",
+  "title": "Figma Use",
+  "descriptionZh": "用于 Figma Use 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/figma-use",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/figma-use/SKILL.md",
+  "upstreamSha256": "426b0b031749755c8b9f053c0e2a18ecf23e866809dbc95894a56ca917414daf"
+}

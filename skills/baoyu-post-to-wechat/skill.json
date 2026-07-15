@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-post-to-wechat",
+  "title": "Baoyu Post To Wechat",
+  "descriptionZh": "用于 Baoyu Post To Wechat 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-post-to-wechat",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-post-to-wechat/SKILL.md",
+  "upstreamSha256": "e15f1b5a51b8443ef1c8191c036301fd9b3e028069b82b625f327b0344cbc9d8"
+}

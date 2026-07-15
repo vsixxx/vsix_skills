@@ -1,0 +1,17 @@
+{
+  "id": "agent-reach",
+  "title": "Agent Reach",
+  "descriptionZh": "用于 Agent Reach 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Panniantong/Agent-Reach/tree/main/agent_reach/skill",
+  "homepage": "https://github.com/Panniantong/Agent-Reach",
+  "license": "See upstream",
+  "author": "Panniantong",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e825f6740d24c6c315c3b0dc41907e6c87ff39a5",
+  "upstreamPath": "agent_reach/skill/SKILL.md",
+  "upstreamSha256": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39"
+}

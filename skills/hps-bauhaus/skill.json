@@ -1,0 +1,17 @@
+{
+  "id": "hps-bauhaus",
+  "title": "Hps Bauhaus",
+  "descriptionZh": "用于 Hps Bauhaus 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/hps-bauhaus",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/hps-bauhaus/SKILL.md",
+  "upstreamSha256": "8db167e74b9ed307c9b34713b4038765f96e7ff5f1167cffdf5ff1783f1803ab"
+}

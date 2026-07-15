@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Markdown To HTML"
+  short_description: "Use Baoyu Markdown To HTML guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-markdown-to-html to help me complete a relevant task."

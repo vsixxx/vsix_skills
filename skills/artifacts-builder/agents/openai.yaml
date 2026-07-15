@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artifacts Builder"
+  short_description: "Use Artifacts Builder guidance and workflows in Codex"
+  default_prompt: "Use $artifacts-builder to help me complete a relevant task."

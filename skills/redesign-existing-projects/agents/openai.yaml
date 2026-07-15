@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redesign Existing Projects"
+  short_description: "Use Redesign Existing Projects guidance and workflows in Codex"
+  default_prompt: "Use $redesign-existing-projects to help me complete a relevant task."

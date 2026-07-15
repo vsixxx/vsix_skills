@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mvp"
+  short_description: "Use Mvp guidance and workflows in Codex"
+  default_prompt: "Use $mvp to help me complete a relevant task."

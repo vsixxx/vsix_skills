@@ -1,0 +1,4 @@
+interface:
+  display_name: "Live Artifact"
+  short_description: "Use Live Artifact guidance and workflows in Codex"
+  default_prompt: "Use $live-artifact to help me complete a relevant task."

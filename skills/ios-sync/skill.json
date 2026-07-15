@@ -1,0 +1,17 @@
+{
+  "id": "ios-sync",
+  "title": "Ios Sync",
+  "descriptionZh": "用于 Ios Sync 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/ios-sync",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "ios-sync/SKILL.md",
+  "upstreamSha256": "fc071a92e8d96e421d50d9adddfe38703053cc660ac7f30e2858e11ad93a2066"
+}

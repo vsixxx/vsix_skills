@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost Aware LLM Pipeline"
+  short_description: "Use Cost Aware LLM Pipeline guidance and workflows in Codex"
+  default_prompt: "Use $cost-aware-llm-pipeline to help me complete a relevant task."

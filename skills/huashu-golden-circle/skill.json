@@ -1,0 +1,17 @@
+{
+  "id": "huashu-golden-circle",
+  "title": "Huashu Golden Circle",
+  "descriptionZh": "用于 Huashu Golden Circle 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/huashu-golden-circle",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/huashu-golden-circle/SKILL.md",
+  "upstreamSha256": "ce14989de6d810df977460aba4ce945d91ec5731d0bb8f62ac86c04470aea12e"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-zhangzara-broadside",
+  "title": "HTML Ppt Zhangzara Broadside",
+  "descriptionZh": "用于 HTML Ppt Zhangzara Broadside 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-broadside",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-zhangzara-broadside/SKILL.md",
+  "upstreamSha256": "e60f58629dcd2b0ce45a5b2f6a702910c30589c18c7d56627dad706d84e926c3"
+}

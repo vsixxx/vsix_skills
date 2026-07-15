@@ -1,0 +1,4 @@
+interface:
+  display_name: "3 Statement Model"
+  short_description: "Use 3 Statement Model guidance and workflows in Codex"
+  default_prompt: "Use $3-statement-model to help me complete a relevant task."

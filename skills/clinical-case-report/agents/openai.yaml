@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clinical Case Report"
+  short_description: "Use Clinical Case Report guidance and workflows in Codex"
+  default_prompt: "Use $clinical-case-report to help me complete a relevant task."

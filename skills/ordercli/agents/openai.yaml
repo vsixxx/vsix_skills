@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ordercli"
+  short_description: "Use Ordercli guidance and workflows in Codex"
+  default_prompt: "Use $ordercli to help me complete a relevant task."

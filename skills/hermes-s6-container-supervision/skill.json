@@ -1,0 +1,16 @@
+{
+  "id": "hermes-s6-container-supervision",
+  "title": "Hermes S6 Container Supervision",
+  "descriptionZh": "使用 s6 监督和维护 Hermes 容器内的长期运行服务。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [
+    "Platform: linux"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/devops/hermes-s6-container-supervision",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dispatching-parallel-agents",
+  "title": "Dispatching Parallel Agents",
+  "descriptionZh": "用于 Dispatching Parallel Agents 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents",
+  "homepage": "https://github.com/obra/superpowers",
+  "license": "See upstream",
+  "author": "obra",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+  "upstreamPath": "skills/dispatching-parallel-agents/SKILL.md",
+  "upstreamSha256": "f0df13f584049059cc5619f90061405b89dcc6e28ab3f2a8517d27d99c7a46a6"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "video-use-manim-video",
+  "title": "Video Use Manim Video",
+  "descriptionZh": "用于 Video Use Manim Video 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/browser-use/video-use/tree/main/skills/manim-video",
+  "homepage": "https://github.com/browser-use/video-use",
+  "license": "See upstream",
+  "author": "browser-use",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66",
+  "upstreamPath": "skills/manim-video/SKILL.md",
+  "upstreamSha256": "478ff04a7e3ecf9157b14fc2c24b4ae3fef7460debf27c4ecbe361bf26b0ac29"
+}

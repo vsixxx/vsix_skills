@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enhance Prompt"
+  short_description: "Use Enhance Prompt guidance and workflows in Codex"
+  default_prompt: "Use $enhance-prompt to help me complete a relevant task."

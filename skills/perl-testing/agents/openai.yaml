@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perl Testing"
+  short_description: "Use Perl Testing guidance and workflows in Codex"
+  default_prompt: "Use $perl-testing to help me complete a relevant task."

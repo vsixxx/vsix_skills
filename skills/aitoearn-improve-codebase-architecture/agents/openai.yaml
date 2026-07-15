@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Improve Codebase Architecture"
+  short_description: "Use Aitoearn Improve Codebase Architecture workflows in Codex"
+  default_prompt: "Use $aitoearn-improve-codebase-architecture to help me complete a relevant task."

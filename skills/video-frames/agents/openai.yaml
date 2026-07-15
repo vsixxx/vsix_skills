@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Frames"
+  short_description: "Use Video Frames guidance and workflows in Codex"
+  default_prompt: "Use $video-frames to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Extract"
+  short_description: "Use Brand Extract guidance and workflows in Codex"
+  default_prompt: "Use $brand-extract to help me complete a relevant task."

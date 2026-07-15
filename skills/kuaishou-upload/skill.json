@@ -1,0 +1,17 @@
+{
+  "id": "kuaishou-upload",
+  "title": "Kuaishou Upload",
+  "descriptionZh": "用于 Kuaishou Upload 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/dreammis/social-auto-upload/tree/main/skills/kuaishou-upload",
+  "homepage": "https://github.com/dreammis/social-auto-upload",
+  "license": "See upstream",
+  "author": "dreammis",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d32280c98b51057915cfb61f5fec139a464b8178",
+  "upstreamPath": "skills/kuaishou-upload/SKILL.md",
+  "upstreamSha256": "7b7372cbb0bfef42a353895dc9a8a82345366fa88709448eb252e82860429fb3"
+}

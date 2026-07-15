@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Takram Organic"
+  short_description: "Use Video Template Frame Takram Organic workflows in Codex"
+  default_prompt: "Use $video-template-frame-takram-organic to help me complete a relevant task."

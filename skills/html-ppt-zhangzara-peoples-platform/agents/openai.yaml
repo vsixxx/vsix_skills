@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Peoples Platform"
+  short_description: "Use HTML Ppt Zhangzara Peoples Platform workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-peoples-platform to help me complete a relevant task."

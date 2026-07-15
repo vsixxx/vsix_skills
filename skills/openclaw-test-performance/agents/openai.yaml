@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Test Performance"
+  short_description: "Use Openclaw Test Performance guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-test-performance to help me complete a relevant task."

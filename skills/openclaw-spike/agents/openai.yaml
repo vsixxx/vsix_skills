@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Spike"
+  short_description: "Use Openclaw Spike guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-spike to help me complete a relevant task."

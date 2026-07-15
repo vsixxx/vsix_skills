@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Guidelines"
+  short_description: "Use Brand Guidelines guidance and workflows in Codex"
+  default_prompt: "Use $brand-guidelines to help me complete a relevant task."

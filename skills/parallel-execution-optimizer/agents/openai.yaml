@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parallel Execution Optimizer"
+  short_description: "Use Parallel Execution Optimizer guidance and workflows in Codex"
+  default_prompt: "Use $parallel-execution-optimizer to help me complete a relevant task."

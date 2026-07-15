@@ -1,0 +1,17 @@
+{
+  "id": "oh-my-issues",
+  "title": "Oh My Issues",
+  "descriptionZh": "用于 Oh My Issues 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/oh-my-issues",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/oh-my-issues/SKILL.md",
+  "upstreamSha256": "292417dedb16cbf795f929db0d60e08ff5512efb7f58c16995c6ba15c6499566"
+}

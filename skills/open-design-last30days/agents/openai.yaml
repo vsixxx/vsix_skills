@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Last30days"
+  short_description: "Use Open Design Last30days guidance and workflows in Codex"
+  default_prompt: "Use $open-design-last30days to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Merger Model"
+  short_description: "Use Merger Model guidance and workflows in Codex"
+  default_prompt: "Use $merger-model to help me complete a relevant task."

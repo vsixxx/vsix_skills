@@ -1,0 +1,17 @@
+{
+  "id": "saas-landing",
+  "title": "Saas Landing",
+  "descriptionZh": "用于 Saas Landing 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/saas-landing",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/saas-landing/SKILL.md",
+  "upstreamSha256": "38b3ab78e02c44710912ce63683d0bf4c2319dad78a3d225ac046a07ef3ef0e3"
+}

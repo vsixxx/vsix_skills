@@ -1,0 +1,17 @@
+{
+  "id": "ship-and-babysit",
+  "title": "Ship And Babysit",
+  "descriptionZh": "用于 Ship And Babysit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tinyhumansai/openhuman/tree/main/.codex/skills/ship-and-babysit",
+  "homepage": "https://github.com/tinyhumansai/openhuman",
+  "license": "See upstream",
+  "author": "tinyhumansai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "8800f1e4699c9fdf4e7af2984902ef51d2c27b49",
+  "upstreamPath": ".codex/skills/ship-and-babysit/SKILL.md",
+  "upstreamSha256": "4b671740e4bb262667816d46def5f38174ae38da0700cdec726f67834d711b6e"
+}

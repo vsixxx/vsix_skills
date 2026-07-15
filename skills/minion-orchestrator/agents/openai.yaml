@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minion Orchestrator"
+  short_description: "Use Minion Orchestrator guidance and workflows in Codex"
+  default_prompt: "Use $minion-orchestrator to help me complete a relevant task."

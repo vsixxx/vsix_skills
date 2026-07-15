@@ -1,0 +1,20 @@
+{
+  "id": "optimizing-attention-flash",
+  "title": "Optimizing Attention Flash",
+  "descriptionZh": "使用 Flash Attention 优化 transformer 注意力机制，实现 2-4 倍加速和 10-20 倍显存降低。适用于训练/运行长序列（>512 token）transformer、遇到注意力 GPU 显存问题或需要更快推理的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: flash-attn",
+    "Package: torch",
+    "Package: transformers"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/flash-attention",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

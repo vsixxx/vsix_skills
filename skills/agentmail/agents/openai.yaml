@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentmail"
+  short_description: "Use Agentmail guidance and workflows in Codex"
+  default_prompt: "Use $agentmail to help me complete a relevant task."

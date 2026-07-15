@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dogfood"
+  short_description: "Use Dogfood guidance and workflows in Codex"
+  default_prompt: "Use $dogfood to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "fal-tryon",
+  "title": "Fal Tryon",
+  "descriptionZh": "用于 Fal Tryon 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/fal-tryon",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/fal-tryon/SKILL.md",
+  "upstreamSha256": "18a9a99635d6b58fa06121766a6c603bd641c00fc6f053c864eb3c0164cc329c"
+}

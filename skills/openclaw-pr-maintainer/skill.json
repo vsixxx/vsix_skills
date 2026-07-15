@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-pr-maintainer",
+  "title": "Openclaw PR Maintainer",
+  "descriptionZh": "用于 Openclaw PR Maintainer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-pr-maintainer",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/openclaw-pr-maintainer/SKILL.md",
+  "upstreamSha256": "0620253077026a02aec25f7520a0773f80949ec42b724530772f3e96f9968368"
+}

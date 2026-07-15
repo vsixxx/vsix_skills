@@ -1,0 +1,17 @@
+{
+  "id": "python-patterns",
+  "title": "Python Patterns",
+  "descriptionZh": "用于 Python Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/python-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/python-patterns/SKILL.md",
+  "upstreamSha256": "bcdc0e72c463c9714d0eb7c5cd1f8dd0d44e54400e22a2f4835f0b2f5e6c2559"
+}

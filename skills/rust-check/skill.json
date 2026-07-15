@@ -1,0 +1,17 @@
+{
+  "id": "rust-check",
+  "title": "Rust Check",
+  "descriptionZh": "用于 Rust Check 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/crates/tui/assets/plugins/rust-toolkit/skills/rust-check",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "crates/tui/assets/plugins/rust-toolkit/skills/rust-check/SKILL.md",
+  "upstreamSha256": "9338c8f558d4b2e0f96de35851762dd2c90361b2b199d8d538fdbb6a4a3ad9c2"
+}

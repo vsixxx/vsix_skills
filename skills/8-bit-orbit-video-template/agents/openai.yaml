@@ -1,0 +1,4 @@
+interface:
+  display_name: "8 Bit Orbit Video Template"
+  short_description: "Use 8 Bit Orbit Video Template guidance and workflows in Codex"
+  default_prompt: "Use $8-bit-orbit-video-template to help me complete a relevant task."

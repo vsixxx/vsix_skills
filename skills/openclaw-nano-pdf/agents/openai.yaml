@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Nano PDF"
+  short_description: "Use Openclaw Nano PDF guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-nano-pdf to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Pin And Paper"
+  short_description: "Use HTML Ppt Zhangzara Pin And Paper workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-pin-and-paper to help me complete a relevant task."

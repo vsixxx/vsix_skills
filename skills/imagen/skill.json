@@ -1,0 +1,17 @@
+{
+  "id": "imagen",
+  "title": "Imagen",
+  "descriptionZh": "用于 Imagen 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/imagen",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/imagen/SKILL.md",
+  "upstreamSha256": "1c85107b666bb3efb4fe43c89e5fdb6afe26f69cededb004e957c4f3d2663c33"
+}

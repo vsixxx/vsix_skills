@@ -1,0 +1,4 @@
+interface:
+  display_name: "Growth Log"
+  short_description: "Use Growth Log guidance and workflows in Codex"
+  default_prompt: "Use $growth-log to help me complete a relevant task."

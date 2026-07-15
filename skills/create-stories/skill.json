@@ -1,0 +1,17 @@
+{
+  "id": "create-stories",
+  "title": "Create Stories",
+  "descriptionZh": "用于 Create Stories 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/create-stories",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/create-stories/SKILL.md",
+  "upstreamSha256": "f1517b9f5a90317f93149c9915ade684dbf75ab8b00c1ea9bdeaa6f921756b56"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-pitch-deck",
+  "title": "HTML Ppt Pitch Deck",
+  "descriptionZh": "用于 HTML Ppt Pitch Deck 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-pitch-deck",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-pitch-deck/SKILL.md",
+  "upstreamSha256": "01819820652e233dde5c7f0d1f896e0bf0b3a9ce8bb698a7ec3f96bfa4b7ded3"
+}

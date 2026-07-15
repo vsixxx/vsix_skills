@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask User"
+  short_description: "Use Ask User guidance and workflows in Codex"
+  default_prompt: "Use $ask-user to help me complete a relevant task."

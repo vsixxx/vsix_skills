@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yuanbao"
+  short_description: "Use Yuanbao guidance and workflows in Codex"
+  default_prompt: "Use $yuanbao to help me complete a relevant task."

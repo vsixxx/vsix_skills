@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gstack Openclaw Retro"
+  short_description: "Use Gstack Openclaw Retro guidance and workflows in Codex"
+  default_prompt: "Use $gstack-openclaw-retro to help me complete a relevant task."

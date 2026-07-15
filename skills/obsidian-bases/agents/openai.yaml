@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Bases"
+  short_description: "Use Obsidian Bases guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-bases to help me complete a relevant task."

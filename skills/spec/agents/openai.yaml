@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec"
+  short_description: "Use Spec guidance and workflows in Codex"
+  default_prompt: "Use $spec to help me complete a relevant task."

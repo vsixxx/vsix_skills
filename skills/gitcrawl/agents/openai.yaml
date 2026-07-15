@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gitcrawl"
+  short_description: "Use Gitcrawl guidance and workflows in Codex"
+  default_prompt: "Use $gitcrawl to help me complete a relevant task."

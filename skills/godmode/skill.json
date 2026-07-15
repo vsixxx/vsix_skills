@@ -1,0 +1,14 @@
+{
+  "id": "godmode",
+  "title": "Godmode",
+  "descriptionZh": "研究和测试多种大模型越狱提示方法及其行为。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/security/godmode",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Teknium",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

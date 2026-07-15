@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ito Trade Planner"
+  short_description: "Use Ito Trade Planner guidance and workflows in Codex"
+  default_prompt: "Use $ito-trade-planner to help me complete a relevant task."

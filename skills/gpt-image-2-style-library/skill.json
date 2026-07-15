@@ -1,0 +1,17 @@
+{
+  "id": "gpt-image-2-style-library",
+  "title": "Gpt Image 2 Style Library",
+  "descriptionZh": "用于 Gpt Image 2 Style Library 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/freestylefly/awesome-gpt-image-2/tree/main/agents/skills/gpt-image-2-style-library",
+  "homepage": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "license": "See upstream",
+  "author": "freestylefly",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60b6e1d3ddaf1c982426d6c8181827764c6b2012",
+  "upstreamPath": "agents/skills/gpt-image-2-style-library/SKILL.md",
+  "upstreamSha256": "98519a3bfd28c5ab5630771a536f18fbe3627123cd7dd7a8801fa5da166a60f9"
+}

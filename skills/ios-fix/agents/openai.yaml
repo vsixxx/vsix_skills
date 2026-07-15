@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ios Fix"
+  short_description: "Use Ios Fix guidance and workflows in Codex"
+  default_prompt: "Use $ios-fix to help me complete a relevant task."

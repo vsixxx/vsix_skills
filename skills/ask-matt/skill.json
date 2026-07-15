@@ -1,0 +1,17 @@
+{
+  "id": "ask-matt",
+  "title": "Ask Matt",
+  "descriptionZh": "用于 Ask Matt 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/ask-matt",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/engineering/ask-matt/SKILL.md",
+  "upstreamSha256": "b1a134ada29cbfded84bc9a7f93356ab7a3d7f800edf1f541a2a964118ad45a7"
+}

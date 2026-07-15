@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yes"
+  short_description: "Use Yes guidance and workflows in Codex"
+  default_prompt: "Use $yes to help me complete a relevant task."

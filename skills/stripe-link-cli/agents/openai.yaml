@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stripe Link CLI"
+  short_description: "Use Stripe Link CLI guidance and workflows in Codex"
+  default_prompt: "Use $stripe-link-cli to help me complete a relevant task."

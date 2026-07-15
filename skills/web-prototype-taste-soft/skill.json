@@ -1,0 +1,17 @@
+{
+  "id": "web-prototype-taste-soft",
+  "title": "Web Prototype Taste Soft",
+  "descriptionZh": "用于 Web Prototype Taste Soft 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/web-prototype-taste-soft",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/web-prototype-taste-soft/SKILL.md",
+  "upstreamSha256": "95441b8bbec9a66fe1385d3d6c1769e4a1e64f87bb25f2144fe370eb6817e5d5"
+}

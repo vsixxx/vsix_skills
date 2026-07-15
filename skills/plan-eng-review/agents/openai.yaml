@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Eng Review"
+  short_description: "Use Plan Eng Review guidance and workflows in Codex"
+  default_prompt: "Use $plan-eng-review to help me complete a relevant task."

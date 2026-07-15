@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Optimize Lcp"
+  short_description: "Use Debug Optimize Lcp guidance and workflows in Codex"
+  default_prompt: "Use $debug-optimize-lcp to help me complete a relevant task."

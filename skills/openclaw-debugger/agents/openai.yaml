@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Debugger"
+  short_description: "Use Openclaw Debugger guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-debugger to help me complete a relevant task."

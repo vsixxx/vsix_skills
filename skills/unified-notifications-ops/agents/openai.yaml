@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unified Notifications Ops"
+  short_description: "Use Unified Notifications Ops guidance and workflows in Codex"
+  default_prompt: "Use $unified-notifications-ops to help me complete a relevant task."

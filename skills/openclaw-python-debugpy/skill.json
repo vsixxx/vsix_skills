@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-python-debugpy",
+  "title": "Openclaw Python Debugpy",
+  "descriptionZh": "用于 Openclaw Python Debugpy 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/python-debugpy",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/python-debugpy/SKILL.md",
+  "upstreamSha256": "bfb1891204b6726016f527044fa09ac656dd52b12d2b0e86e91c89424170aeb8"
+}

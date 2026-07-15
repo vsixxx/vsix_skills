@@ -1,0 +1,17 @@
+{
+  "id": "localize",
+  "title": "Localize",
+  "descriptionZh": "用于 Localize 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/localize",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/localize/SKILL.md",
+  "upstreamSha256": "781f60f1c4259cfb3ceac0316a792a6d55659aaf20981f1c6e6a3d1dfacae83c"
+}

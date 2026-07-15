@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Shape"
+  short_description: "Use Writing Shape guidance and workflows in Codex"
+  default_prompt: "Use $writing-shape to help me complete a relevant task."

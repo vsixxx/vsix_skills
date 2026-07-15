@@ -1,0 +1,4 @@
+interface:
+  display_name: "Asset Audit"
+  short_description: "Use Asset Audit guidance and workflows in Codex"
+  default_prompt: "Use $asset-audit to help me complete a relevant task."

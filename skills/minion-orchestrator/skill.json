@@ -1,0 +1,17 @@
+{
+  "id": "minion-orchestrator",
+  "title": "Minion Orchestrator",
+  "descriptionZh": "用于 Minion Orchestrator 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/minion-orchestrator",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/minion-orchestrator/SKILL.md",
+  "upstreamSha256": "669e23f485561cf6fef16d445dfb8a6d05f76127d0ebf9feb17534af8843df5f"
+}

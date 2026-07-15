@@ -1,0 +1,17 @@
+{
+  "id": "gan-style-harness",
+  "title": "Gan Style Harness",
+  "descriptionZh": "用于 Gan Style Harness 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/gan-style-harness",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/gan-style-harness/SKILL.md",
+  "upstreamSha256": "b41a7845cc0eb3c10448fbd46387fe2fcb831d7b83a64d1aaa418a1bb15c9bba"
+}

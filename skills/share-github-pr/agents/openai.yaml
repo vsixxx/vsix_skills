@@ -1,0 +1,4 @@
+interface:
+  display_name: "Share GitHub PR"
+  short_description: "Use Share GitHub PR guidance and workflows in Codex"
+  default_prompt: "Use $share-github-pr to help me complete a relevant task."

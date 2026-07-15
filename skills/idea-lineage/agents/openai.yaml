@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Lineage"
+  short_description: "Use Idea Lineage guidance and workflows in Codex"
+  default_prompt: "Use $idea-lineage to help me complete a relevant task."

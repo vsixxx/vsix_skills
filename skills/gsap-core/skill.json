@@ -1,0 +1,17 @@
+{
+  "id": "gsap-core",
+  "title": "Gsap Core",
+  "descriptionZh": "用于 Gsap Core 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-core",
+  "homepage": "https://github.com/greensock/gsap-skills",
+  "license": "MIT",
+  "author": "greensock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+  "upstreamPath": "skills/gsap-core/SKILL.md",
+  "upstreamSha256": "3887b47e050ab5afbe2a9a820f23d39fa02ab785e06a343be44c6f91d84d12b3"
+}

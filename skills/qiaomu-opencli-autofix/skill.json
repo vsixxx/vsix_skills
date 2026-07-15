@@ -1,0 +1,17 @@
+{
+  "id": "qiaomu-opencli-autofix",
+  "title": "Qiaomu Opencli Autofix",
+  "descriptionZh": "用于 Qiaomu Opencli Autofix 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/joeseesun/qiaomu-opencli-skills/tree/main/qiaomu-opencli-autofix",
+  "homepage": "https://github.com/joeseesun/qiaomu-opencli-skills",
+  "license": "See upstream",
+  "author": "joeseesun",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4d9a08ebff749e5b12ab544d6a72f82bbe78f43d",
+  "upstreamPath": "qiaomu-opencli-autofix/SKILL.md",
+  "upstreamSha256": "8753361f2c781c9b29185fe4438b6a8211cf062f0511b92ea6d1bd548d132ce3"
+}

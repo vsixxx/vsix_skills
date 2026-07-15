@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bun Runtime"
+  short_description: "Use Bun Runtime guidance and workflows in Codex"
+  default_prompt: "Use $bun-runtime to help me complete a relevant task."

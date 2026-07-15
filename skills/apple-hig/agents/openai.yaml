@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Hig"
+  short_description: "Use Apple Hig guidance and workflows in Codex"
+  default_prompt: "Use $apple-hig to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Help"
+  short_description: "Use Help guidance and workflows in Codex"
+  default_prompt: "Use $help to help me complete a relevant task."

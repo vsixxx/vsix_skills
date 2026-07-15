@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edit Article"
+  short_description: "Use Edit Article guidance and workflows in Codex"
+  default_prompt: "Use $edit-article to help me complete a relevant task."

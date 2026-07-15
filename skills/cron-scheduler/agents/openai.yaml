@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cron Scheduler"
+  short_description: "Use Cron Scheduler guidance and workflows in Codex"
+  default_prompt: "Use $cron-scheduler to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Ci Limits"
+  short_description: "Use Openclaw Ci Limits guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-ci-limits to help me complete a relevant task."

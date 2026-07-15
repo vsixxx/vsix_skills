@@ -1,0 +1,17 @@
+{
+  "id": "slideshow",
+  "title": "Slideshow",
+  "descriptionZh": "用于 Slideshow 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/slideshow",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/slideshow/SKILL.md",
+  "upstreamSha256": "96b3ea57166f3d95154eafaeada07abd2f09c2d3650ef7ec673a09658ed3083e"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qmd Release"
+  short_description: "Use Qmd Release guidance and workflows in Codex"
+  default_prompt: "Use $qmd-release to help me complete a relevant task."

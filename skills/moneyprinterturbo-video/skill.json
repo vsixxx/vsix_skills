@@ -1,0 +1,17 @@
+{
+  "id": "moneyprinterturbo-video",
+  "title": "Moneyprinterturbo Video",
+  "descriptionZh": "用于 Moneyprinterturbo Video 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/harry0703/MoneyPrinterTurbo/tree/main/docs/skill",
+  "homepage": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "license": "See upstream",
+  "author": "harry0703",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "819531e7fb383605ec8a0f691a3980163868b0d1",
+  "upstreamPath": "docs/skill/SKILL.md",
+  "upstreamSha256": "926fd453a39a9833b734ec96a041a000008db8b0cb555c41e414ceaa78104cc0"
+}

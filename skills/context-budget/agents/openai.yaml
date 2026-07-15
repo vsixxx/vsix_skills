@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Budget"
+  short_description: "Use Context Budget guidance and workflows in Codex"
+  default_prompt: "Use $context-budget to help me complete a relevant task."

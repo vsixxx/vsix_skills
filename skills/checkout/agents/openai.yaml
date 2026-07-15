@@ -1,0 +1,4 @@
+interface:
+  display_name: "Checkout"
+  short_description: "Use Checkout guidance and workflows in Codex"
+  default_prompt: "Use $checkout to help me complete a relevant task."

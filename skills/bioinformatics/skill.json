@@ -1,0 +1,17 @@
+{
+  "id": "bioinformatics",
+  "title": "Bioinformatics",
+  "descriptionZh": "通往 bioSkills 和 ClawBio 400+ 生物信息学技能的入口。涵盖基因组学、转录组学、单细胞、变异检测、药物基因组学、宏基因组学、结构生物学等领域，按需获取特定领域参考资料。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/bioinformatics",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

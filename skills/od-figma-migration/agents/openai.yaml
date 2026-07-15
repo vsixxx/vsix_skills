@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Figma Migration"
+  short_description: "Use Od Figma Migration guidance and workflows in Codex"
+  default_prompt: "Use $od-figma-migration to help me complete a relevant task."

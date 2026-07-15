@@ -1,0 +1,17 @@
+{
+  "id": "guidance",
+  "title": "Guidance",
+  "descriptionZh": "使用 Guidance（微软研究院的约束生成框架）通过正则表达式和语法控制 LLM 输出，保证生成有效的 JSON/XML/代码，强制结构化格式，并构建多步骤工作流。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: guidance",
+    "Package: transformers"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/guidance",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

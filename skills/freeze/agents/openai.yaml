@@ -1,0 +1,4 @@
+interface:
+  display_name: "Freeze"
+  short_description: "Use Freeze guidance and workflows in Codex"
+  default_prompt: "Use $freeze to help me complete a relevant task."

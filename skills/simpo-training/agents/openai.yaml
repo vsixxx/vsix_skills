@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simpo Training"
+  short_description: "Use Simpo Training guidance and workflows in Codex"
+  default_prompt: "Use $simpo-training to help me complete a relevant task."

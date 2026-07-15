@@ -1,0 +1,4 @@
+interface:
+  display_name: "Camsnap"
+  short_description: "Use Camsnap guidance and workflows in Codex"
+  default_prompt: "Use $camsnap to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peft Fine Tuning"
+  short_description: "Use Peft Fine Tuning guidance and workflows in Codex"
+  default_prompt: "Use $peft-fine-tuning to help me complete a relevant task."

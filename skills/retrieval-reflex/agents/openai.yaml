@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retrieval Reflex"
+  short_description: "Use Retrieval Reflex guidance and workflows in Codex"
+  default_prompt: "Use $retrieval-reflex to help me complete a relevant task."

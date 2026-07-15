@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Asset Ops"
+  short_description: "Use Opc Asset Ops guidance and workflows in Codex"
+  default_prompt: "Use $opc-asset-ops to help me complete a relevant task."

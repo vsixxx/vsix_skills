@@ -1,0 +1,17 @@
+{
+  "id": "team-polish",
+  "title": "Team Polish",
+  "descriptionZh": "用于 Team Polish 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/team-polish",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/team-polish/SKILL.md",
+  "upstreamSha256": "fb4d48c5bd8f2563d6f999bea940929a20b8c52ed797b306a999e2b4d5596d26"
+}

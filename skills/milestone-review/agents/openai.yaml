@@ -1,0 +1,4 @@
+interface:
+  display_name: "Milestone Review"
+  short_description: "Use Milestone Review guidance and workflows in Codex"
+  default_prompt: "Use $milestone-review to help me complete a relevant task."

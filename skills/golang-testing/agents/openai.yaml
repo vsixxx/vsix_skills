@@ -1,0 +1,4 @@
+interface:
+  display_name: "Golang Testing"
+  short_description: "Use Golang Testing guidance and workflows in Codex"
+  default_prompt: "Use $golang-testing to help me complete a relevant task."

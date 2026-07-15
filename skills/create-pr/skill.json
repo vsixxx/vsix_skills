@@ -1,0 +1,17 @@
+{
+  "id": "create-pr",
+  "title": "Create PR",
+  "descriptionZh": "用于 Create PR 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/create-pr",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/create-pr/SKILL.md",
+  "upstreamSha256": "44df2f351076a4baaf2281673aa37bc971e0077274828d34a802d16088bcb85e"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Holographic Foil"
+  short_description: "Use Webgl Holographic Foil guidance and workflows in Codex"
+  default_prompt: "Use $webgl-holographic-foil to help me complete a relevant task."

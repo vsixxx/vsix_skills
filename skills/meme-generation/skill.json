@@ -1,0 +1,14 @@
+{
+  "id": "meme-generation",
+  "title": "Meme Generation",
+  "descriptionZh": "通过选取模板并使用 Pillow 叠加文字来生成真实的 meme 图片，输出实际的 .png 文件。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/meme-generation",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "adanaleycio",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

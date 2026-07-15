@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Skills Obsidian CLI"
+  short_description: "Use Obsidian Skills Obsidian CLI guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-skills-obsidian-cli to help me complete a relevant task."

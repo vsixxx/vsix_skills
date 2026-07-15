@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Engine"
+  short_description: "Use Content Engine guidance and workflows in Codex"
+  default_prompt: "Use $content-engine to help me complete a relevant task."

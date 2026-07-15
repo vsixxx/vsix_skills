@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fs Creative Voltage"
+  short_description: "Use Fs Creative Voltage guidance and workflows in Codex"
+  default_prompt: "Use $fs-creative-voltage to help me complete a relevant task."

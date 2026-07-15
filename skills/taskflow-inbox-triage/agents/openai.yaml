@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taskflow Inbox Triage"
+  short_description: "Use Taskflow Inbox Triage guidance and workflows in Codex"
+  default_prompt: "Use $taskflow-inbox-triage to help me complete a relevant task."

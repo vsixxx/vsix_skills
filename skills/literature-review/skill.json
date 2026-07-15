@@ -1,0 +1,17 @@
+{
+  "id": "literature-review",
+  "title": "Literature Review",
+  "descriptionZh": "用于 Literature Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/scientific-thinking-literature-review",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/scientific-thinking-literature-review/SKILL.md",
+  "upstreamSha256": "f2ad5e2d1f6304c1fb05aaa1fc9cab08b0545dd4eb813377b31603cd385c023e"
+}

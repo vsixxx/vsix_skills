@@ -1,0 +1,17 @@
+{
+  "id": "design-an-interface",
+  "title": "Design An Interface",
+  "descriptionZh": "用于 Design An Interface 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/deprecated/design-an-interface",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/deprecated/design-an-interface/SKILL.md",
+  "upstreamSha256": "a2596e9fa2d50e23ba014f64a5b8f9df4eb56b846a52cad152899ef5eb97b085"
+}

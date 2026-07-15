@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deck Open Slide Canvas"
+  short_description: "Use Deck Open Slide Canvas guidance and workflows in Codex"
+  default_prompt: "Use $deck-open-slide-canvas to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Perm"
+  short_description: "Use Feishu Perm guidance and workflows in Codex"
+  default_prompt: "Use $feishu-perm to help me complete a relevant task."

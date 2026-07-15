@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Is"
+  short_description: "Use Design Is guidance and workflows in Codex"
+  default_prompt: "Use $design-is to help me complete a relevant task."

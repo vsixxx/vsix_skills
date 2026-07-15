@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloudflare Temporary Deploy"
+  short_description: "Use Cloudflare Temporary Deploy guidance and workflows in Codex"
+  default_prompt: "Use $cloudflare-temporary-deploy to help me complete a relevant task."

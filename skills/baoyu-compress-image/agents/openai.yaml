@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Compress Image"
+  short_description: "Use Baoyu Compress Image guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-compress-image to help me complete a relevant task."

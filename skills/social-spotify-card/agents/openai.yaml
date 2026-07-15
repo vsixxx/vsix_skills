@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Spotify Card"
+  short_description: "Use Social Spotify Card guidance and workflows in Codex"
+  default_prompt: "Use $social-spotify-card to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Osint Investigation"
+  short_description: "Use Osint Investigation guidance and workflows in Codex"
+  default_prompt: "Use $osint-investigation to help me complete a relevant task."

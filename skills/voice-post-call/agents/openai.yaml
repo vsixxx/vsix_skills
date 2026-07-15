@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Post Call"
+  short_description: "Use Voice Post Call guidance and workflows in Codex"
+  default_prompt: "Use $voice-post-call to help me complete a relevant task."

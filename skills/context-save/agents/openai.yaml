@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Save"
+  short_description: "Use Context Save guidance and workflows in Codex"
+  default_prompt: "Use $context-save to help me complete a relevant task."

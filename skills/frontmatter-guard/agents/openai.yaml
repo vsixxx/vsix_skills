@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontmatter Guard"
+  short_description: "Use Frontmatter Guard guidance and workflows in Codex"
+  default_prompt: "Use $frontmatter-guard to help me complete a relevant task."

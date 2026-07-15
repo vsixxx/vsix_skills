@@ -1,0 +1,17 @@
+{
+  "id": "add-effect",
+  "title": "Add Effect",
+  "descriptionZh": "用于 Add Effect 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/add-effect",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/add-effect/SKILL.md",
+  "upstreamSha256": "9e807c7fd8634142288df9c40de4bcb93407ef742b7bfc64bc99831858b3ce5b"
+}

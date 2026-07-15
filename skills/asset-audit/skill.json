@@ -1,0 +1,17 @@
+{
+  "id": "asset-audit",
+  "title": "Asset Audit",
+  "descriptionZh": "用于 Asset Audit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/asset-audit",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/asset-audit/SKILL.md",
+  "upstreamSha256": "d499694d99c8b9341c1ca7a5f6bcc50fefebd8b6cbec7f132ec2f4fd678c1725"
+}

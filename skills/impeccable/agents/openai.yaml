@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impeccable"
+  short_description: "Use Impeccable guidance and workflows in Codex"
+  default_prompt: "Use $impeccable to help me complete a relevant task."

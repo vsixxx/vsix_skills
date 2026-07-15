@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes Agent Skill Authoring"
+  short_description: "Use Hermes Agent Skill Authoring guidance and workflows in Codex"
+  default_prompt: "Use $hermes-agent-skill-authoring to help me complete a relevant task."

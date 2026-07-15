@@ -1,0 +1,17 @@
+{
+  "id": "figma-create-design-system-rules",
+  "title": "Figma Create Design System Rules",
+  "descriptionZh": "用于 Figma Create Design System Rules 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/figma-create-design-system-rules",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/figma-create-design-system-rules/SKILL.md",
+  "upstreamSha256": "a06b1e20570c2944cf87d134bc69b8b1cb9ea60dbc7cfc91dd2062c5efc27e54"
+}

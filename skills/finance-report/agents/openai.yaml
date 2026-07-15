@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Report"
+  short_description: "Use Finance Report guidance and workflows in Codex"
+  default_prompt: "Use $finance-report to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "prepare-pr",
+  "title": "Prepare PR",
+  "descriptionZh": "用于 Prepare PR 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/prepare-pr",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/prepare-pr/SKILL.md",
+  "upstreamSha256": "413e14d90cdc54b5bf2e01c89d711ab1dd32531f479177ff3b4c08ca0215a369"
+}

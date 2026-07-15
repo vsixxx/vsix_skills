@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Blogwatcher"
+  short_description: "Use Openclaw Blogwatcher guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-blogwatcher to help me complete a relevant task."

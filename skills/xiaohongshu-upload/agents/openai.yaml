@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Upload"
+  short_description: "Use Xiaohongshu Upload guidance and workflows in Codex"
+  default_prompt: "Use $xiaohongshu-upload to help me complete a relevant task."

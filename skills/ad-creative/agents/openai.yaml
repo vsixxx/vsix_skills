@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ad Creative"
+  short_description: "Use Ad Creative guidance and workflows in Codex"
+  default_prompt: "Use $ad-creative to help me complete a relevant task."

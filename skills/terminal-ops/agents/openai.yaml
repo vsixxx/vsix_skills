@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminal Ops"
+  short_description: "Use Terminal Ops guidance and workflows in Codex"
+  default_prompt: "Use $terminal-ops to help me complete a relevant task."

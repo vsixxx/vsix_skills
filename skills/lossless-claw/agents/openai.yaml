@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lossless Claw"
+  short_description: "Use Lossless Claw guidance and workflows in Codex"
+  default_prompt: "Use $lossless-claw to help me complete a relevant task."

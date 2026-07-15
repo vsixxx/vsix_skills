@@ -1,0 +1,4 @@
+interface:
+  display_name: "P5js"
+  short_description: "Use P5js guidance and workflows in Codex"
+  default_prompt: "Use $p5js to help me complete a relevant task."

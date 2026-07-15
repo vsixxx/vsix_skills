@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Xhs White Editorial"
+  short_description: "Use HTML Ppt Xhs White Editorial guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-xhs-white-editorial to help me complete a relevant task."

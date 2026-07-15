@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Voronoi Cells"
+  short_description: "Use Webgl Voronoi Cells guidance and workflows in Codex"
+  default_prompt: "Use $webgl-voronoi-cells to help me complete a relevant task."

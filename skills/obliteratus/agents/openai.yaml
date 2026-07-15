@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obliteratus"
+  short_description: "Use Obliteratus guidance and workflows in Codex"
+  default_prompt: "Use $obliteratus to help me complete a relevant task."

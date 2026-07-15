@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Slide Deck"
+  short_description: "Use Baoyu Slide Deck guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-slide-deck to help me complete a relevant task."

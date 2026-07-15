@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyzing Videos"
+  short_description: "Use Analyzing Videos guidance and workflows in Codex"
+  default_prompt: "Use $analyzing-videos to help me complete a relevant task."

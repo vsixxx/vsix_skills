@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production Scheduling"
+  short_description: "Use Production Scheduling guidance and workflows in Codex"
+  default_prompt: "Use $production-scheduling to help me complete a relevant task."

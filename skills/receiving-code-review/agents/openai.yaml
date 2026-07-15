@@ -1,0 +1,4 @@
+interface:
+  display_name: "Receiving Code Review"
+  short_description: "Use Receiving Code Review guidance and workflows in Codex"
+  default_prompt: "Use $receiving-code-review to help me complete a relevant task."

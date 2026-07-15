@@ -1,0 +1,4 @@
+interface:
+  display_name: "Balance Check"
+  short_description: "Use Balance Check guidance and workflows in Codex"
+  default_prompt: "Use $balance-check to help me complete a relevant task."

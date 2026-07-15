@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liquid Glass Design"
+  short_description: "Use Liquid Glass Design guidance and workflows in Codex"
+  default_prompt: "Use $liquid-glass-design to help me complete a relevant task."

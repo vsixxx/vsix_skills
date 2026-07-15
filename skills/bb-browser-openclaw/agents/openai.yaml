@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Browser Openclaw"
+  short_description: "Use Bb Browser Openclaw guidance and workflows in Codex"
+  default_prompt: "Use $bb-browser-openclaw to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wireframe Greybox"
+  short_description: "Use Wireframe Greybox guidance and workflows in Codex"
+  default_prompt: "Use $wireframe-greybox to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Create New File"
+  short_description: "Use Figma Create New File guidance and workflows in Codex"
+  default_prompt: "Use $figma-create-new-file to help me complete a relevant task."

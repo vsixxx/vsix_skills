@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua P9"
+  short_description: "Use Pua P9 guidance and workflows in Codex"
+  default_prompt: "Use $pua-p9 to help me complete a relevant task."

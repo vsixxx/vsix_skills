@@ -1,0 +1,4 @@
+interface:
+  display_name: "High End Visual Design"
+  short_description: "Use High End Visual Design guidance and workflows in Codex"
+  default_prompt: "Use $high-end-visual-design to help me complete a relevant task."

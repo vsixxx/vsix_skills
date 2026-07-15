@@ -1,0 +1,17 @@
+{
+  "id": "setup-engine",
+  "title": "Setup Engine",
+  "descriptionZh": "用于 Setup Engine 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/setup-engine",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/setup-engine/SKILL.md",
+  "upstreamSha256": "7f4bc9868ca4d78ca969174c56b8c719215d68c6f32f0df5be5194e8eb2e2eea"
+}

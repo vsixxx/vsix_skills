@@ -1,0 +1,4 @@
+interface:
+  display_name: "Changelog"
+  short_description: "Use Changelog guidance and workflows in Codex"
+  default_prompt: "Use $changelog to help me complete a relevant task."

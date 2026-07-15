@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Bento Insight"
+  short_description: "Use Huashu Bento Insight guidance and workflows in Codex"
+  default_prompt: "Use $huashu-bento-insight to help me complete a relevant task."

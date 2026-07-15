@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Songsee"
+  short_description: "Use Openclaw Songsee guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-songsee to help me complete a relevant task."

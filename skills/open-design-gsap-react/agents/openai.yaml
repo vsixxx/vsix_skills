@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Gsap React"
+  short_description: "Use Open Design Gsap React guidance and workflows in Codex"
+  default_prompt: "Use $open-design-gsap-react to help me complete a relevant task."

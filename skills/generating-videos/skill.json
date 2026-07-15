@@ -1,0 +1,17 @@
+{
+  "id": "generating-videos",
+  "title": "Generating Videos",
+  "descriptionZh": "用于 Generating Videos 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/generating-videos",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/generating-videos/SKILL.md",
+  "upstreamSha256": "19f7d446253e0fba84e1c73aefd4723f7ea1a988d053bac018fbddecbfdd06a5"
+}

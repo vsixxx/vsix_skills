@@ -1,0 +1,17 @@
+{
+  "id": "vercel-react-best-practices",
+  "title": "Vercel React Best Practices",
+  "descriptionZh": "用于 Vercel React Best Practices 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/vercel-react-best-practices",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "MIT",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/vercel-react-best-practices/SKILL.md",
+  "upstreamSha256": "b0bc1161fa20c5d2154099b7db2a46e9937b51d8f3f88f57ea1a06e76af0d474"
+}

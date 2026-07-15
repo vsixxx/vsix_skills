@@ -1,0 +1,17 @@
+{
+  "id": "codehealth-mcp",
+  "title": "Codehealth MCP",
+  "descriptionZh": "用于 Codehealth MCP 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/codehealth-mcp",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/codehealth-mcp/SKILL.md",
+  "upstreamSha256": "c5943c4c353b02dcd87b751de15bb087caae2f11c36e84a74e181fe2eadee394"
+}

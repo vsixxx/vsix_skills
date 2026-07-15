@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extend Plugin Author"
+  short_description: "Use Extend Plugin Author guidance and workflows in Codex"
+  default_prompt: "Use $extend-plugin-author to help me complete a relevant task."

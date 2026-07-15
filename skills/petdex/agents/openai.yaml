@@ -1,0 +1,4 @@
+interface:
+  display_name: "Petdex"
+  short_description: "Use Petdex guidance and workflows in Codex"
+  default_prompt: "Use $petdex to help me complete a relevant task."

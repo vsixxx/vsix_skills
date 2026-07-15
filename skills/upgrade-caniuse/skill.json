@@ -1,0 +1,17 @@
+{
+  "id": "upgrade-caniuse",
+  "title": "Upgrade Caniuse",
+  "descriptionZh": "用于 Upgrade Caniuse 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/upgrade-caniuse",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/upgrade-caniuse/SKILL.md",
+  "upstreamSha256": "c81f95f674cac6136556777e0ea1004e9f59e235316d64970b67bcd5dd745aaa"
+}

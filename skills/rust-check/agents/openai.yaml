@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Check"
+  short_description: "Use Rust Check guidance and workflows in Codex"
+  default_prompt: "Use $rust-check to help me complete a relevant task."

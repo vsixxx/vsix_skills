@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kami Landing"
+  short_description: "Use Kami Landing guidance and workflows in Codex"
+  default_prompt: "Use $kami-landing to help me complete a relevant task."

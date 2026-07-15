@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crawling Social Media"
+  short_description: "Use Crawling Social Media guidance and workflows in Codex"
+  default_prompt: "Use $crawling-social-media to help me complete a relevant task."

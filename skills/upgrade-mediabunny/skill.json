@@ -1,0 +1,17 @@
+{
+  "id": "upgrade-mediabunny",
+  "title": "Upgrade Mediabunny",
+  "descriptionZh": "用于 Upgrade Mediabunny 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/upgrade-mediabunny",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/upgrade-mediabunny/SKILL.md",
+  "upstreamSha256": "c3fe94c06f60d695c2eee47751541f7a2d74a79624553dfd5cdc0abc706544c9"
+}

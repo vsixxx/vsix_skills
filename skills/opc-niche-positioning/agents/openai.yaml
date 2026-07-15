@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Niche Positioning"
+  short_description: "Use Opc Niche Positioning guidance and workflows in Codex"
+  default_prompt: "Use $opc-niche-positioning to help me complete a relevant task."

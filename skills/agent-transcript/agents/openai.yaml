@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Transcript"
+  short_description: "Use Agent Transcript guidance and workflows in Codex"
+  default_prompt: "Use $agent-transcript to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tensorrt LLM"
+  short_description: "Use Tensorrt LLM guidance and workflows in Codex"
+  default_prompt: "Use $tensorrt-llm to help me complete a relevant task."

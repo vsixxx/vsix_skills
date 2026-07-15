@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Readiness"
+  short_description: "Use Story Readiness guidance and workflows in Codex"
+  default_prompt: "Use $story-readiness to help me complete a relevant task."

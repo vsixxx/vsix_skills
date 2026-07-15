@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloud Sync"
+  short_description: "Use Cloud Sync guidance and workflows in Codex"
+  default_prompt: "Use $cloud-sync to help me complete a relevant task."

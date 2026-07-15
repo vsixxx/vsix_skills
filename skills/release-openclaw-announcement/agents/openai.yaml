@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Openclaw Announcement"
+  short_description: "Use Release Openclaw Announcement workflows in Codex"
+  default_prompt: "Use $release-openclaw-announcement to help me complete a relevant task."

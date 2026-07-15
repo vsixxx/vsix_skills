@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superpowers Subagent Driven Development"
+  short_description: "Use Superpowers Subagent Driven Development workflows in Codex"
+  default_prompt: "Use $superpowers-subagent-driven-development to help me complete a relevant task."

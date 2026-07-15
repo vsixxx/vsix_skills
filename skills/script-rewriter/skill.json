@@ -1,0 +1,17 @@
+{
+  "id": "script-rewriter",
+  "title": "Script Rewriter",
+  "descriptionZh": "用于 Script Rewriter 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/chatfire-AI/huobao-drama/tree/master/skills/script_rewriter",
+  "homepage": "https://github.com/chatfire-AI/huobao-drama",
+  "license": "See upstream",
+  "author": "chatfire-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ad1cd7cd0127389ce8304aa9ebda3cfc8f406a6d",
+  "upstreamPath": "skills/script_rewriter/SKILL.md",
+  "upstreamSha256": "a970313bac2b24e8f8a96cbbd57daabd0e9aa255b8b4e672da5587d2e9f31b80"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "logistics-exception-management",
+  "title": "Logistics Exception Management",
+  "descriptionZh": "用于 Logistics Exception Management 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/logistics-exception-management",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "Apache-2.0",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/logistics-exception-management/SKILL.md",
+  "upstreamSha256": "ce6cf3c1ee154d881622e85ed87531f528829059dc9e37bcf308bad5024b4fa6"
+}

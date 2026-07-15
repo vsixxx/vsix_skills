@@ -1,0 +1,14 @@
+{
+  "id": "obsidian",
+  "title": "Obsidian",
+  "descriptionZh": "在 Obsidian 知识库中读取、搜索、创建和编辑笔记。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/note-taking/obsidian",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

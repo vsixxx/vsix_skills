@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Platform Analysis"
+  short_description: "Use Competitive Platform Analysis workflows in Codex"
+  default_prompt: "Use $competitive-platform-analysis to help me complete a relevant task."

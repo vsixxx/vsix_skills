@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write A Skill"
+  short_description: "Use Write A Skill guidance and workflows in Codex"
+  default_prompt: "Use $write-a-skill to help me complete a relevant task."

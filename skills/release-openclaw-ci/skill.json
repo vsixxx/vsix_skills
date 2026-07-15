@@ -1,0 +1,17 @@
+{
+  "id": "release-openclaw-ci",
+  "title": "Release Openclaw Ci",
+  "descriptionZh": "用于 Release Openclaw Ci 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/release-openclaw-ci",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/release-openclaw-ci/SKILL.md",
+  "upstreamSha256": "e15d358a51b605427b91e3ecd14e0baccc24e4cf298f0d3f935f0987b524aec4"
+}

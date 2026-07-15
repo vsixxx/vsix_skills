@@ -1,0 +1,17 @@
+{
+  "id": "interactivity-best-practices",
+  "title": "Interactivity Best Practices",
+  "descriptionZh": "用于 Interactivity Best Practices 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/interactivity-best-practices",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/interactivity-best-practices/SKILL.md",
+  "upstreamSha256": "0a085044df0b3b542d02024a2a1a622d7041f6b986d848d72b911ac8b3ab3d0a"
+}

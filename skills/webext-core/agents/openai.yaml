@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webext Core"
+  short_description: "Use Webext Core guidance and workflows in Codex"
+  default_prompt: "Use $webext-core to help me complete a relevant task."

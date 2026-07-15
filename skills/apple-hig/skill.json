@@ -1,0 +1,17 @@
+{
+  "id": "apple-hig",
+  "title": "Apple Hig",
+  "descriptionZh": "用于 Apple Hig 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/apple-hig",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/apple-hig/SKILL.md",
+  "upstreamSha256": "b285e1f50af4fc27f46411ebdfad41b242561ae2bc3e76bbc6d002dfc643dd7e"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Verification"
+  short_description: "Use Django Verification guidance and workflows in Codex"
+  default_prompt: "Use $django-verification to help me complete a relevant task."

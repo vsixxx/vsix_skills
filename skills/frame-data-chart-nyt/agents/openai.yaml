@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Data Chart Nyt"
+  short_description: "Use Frame Data Chart Nyt guidance and workflows in Codex"
+  default_prompt: "Use $frame-data-chart-nyt to help me complete a relevant task."

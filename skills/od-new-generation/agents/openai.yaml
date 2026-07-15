@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od New Generation"
+  short_description: "Use Od New Generation guidance and workflows in Codex"
+  default_prompt: "Use $od-new-generation to help me complete a relevant task."

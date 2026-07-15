@@ -1,0 +1,17 @@
+{
+  "id": "wireframe-sketch",
+  "title": "Wireframe Sketch",
+  "descriptionZh": "用于 Wireframe Sketch 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/wireframe-sketch",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/wireframe-sketch/SKILL.md",
+  "upstreamSha256": "fd4e93e2cfea8ba71792490528a00f9c4ea4ff228c83bfea4ebe4fe2493f404a"
+}

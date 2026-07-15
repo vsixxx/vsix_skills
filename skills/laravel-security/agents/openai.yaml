@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Security"
+  short_description: "Use Laravel Security guidance and workflows in Codex"
+  default_prompt: "Use $laravel-security to help me complete a relevant task."

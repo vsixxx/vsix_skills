@@ -1,0 +1,17 @@
+{
+  "id": "windows-desktop-e2e",
+  "title": "Windows Desktop E2e",
+  "descriptionZh": "用于 Windows Desktop E2e 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/windows-desktop-e2e",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/windows-desktop-e2e/SKILL.md",
+  "upstreamSha256": "5e4d77753b581b825361bb53e8adb4fcf611141425333084c5e2ba8c2a4fe5e4"
+}

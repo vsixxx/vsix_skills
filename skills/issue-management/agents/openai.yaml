@@ -1,0 +1,4 @@
+interface:
+  display_name: "Issue Management"
+  short_description: "Use Issue Management guidance and workflows in Codex"
+  default_prompt: "Use $issue-management to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "docs-demo",
+  "title": "Docs Demo",
+  "descriptionZh": "用于 Docs Demo 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/docs-demo",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/docs-demo/SKILL.md",
+  "upstreamSha256": "75f55d662b363117184f50f69fdc8bd91db2af2d18a36eeaf7fae8c0bd4f308c"
+}

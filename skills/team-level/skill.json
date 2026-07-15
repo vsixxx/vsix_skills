@@ -1,0 +1,17 @@
+{
+  "id": "team-level",
+  "title": "Team Level",
+  "descriptionZh": "用于 Team Level 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/team-level",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/team-level/SKILL.md",
+  "upstreamSha256": "2035d20d9393f6e703e04074ded2145688a8e2e4a2191f5a75866a4fb97100bd"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quarkus-tdd",
+  "title": "Quarkus Tdd",
+  "descriptionZh": "用于 Quarkus Tdd 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/quarkus-tdd",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/quarkus-tdd/SKILL.md",
+  "upstreamSha256": "556d1c2d04e3e0ef10f474ed413013646088ff057f9be02d3a3c4f833ccc33c5"
+}

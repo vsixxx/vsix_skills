@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Architecture Audit"
+  short_description: "Use Agent Architecture Audit guidance and workflows in Codex"
+  default_prompt: "Use $agent-architecture-audit to help me complete a relevant task."

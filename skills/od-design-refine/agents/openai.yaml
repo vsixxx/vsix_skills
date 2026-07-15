@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Design Refine"
+  short_description: "Use Od Design Refine guidance and workflows in Codex"
+  default_prompt: "Use $od-design-refine to help me complete a relevant task."

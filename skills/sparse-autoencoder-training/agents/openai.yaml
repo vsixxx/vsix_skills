@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sparse Autoencoder Training"
+  short_description: "Use Sparse Autoencoder Training guidance and workflows in Codex"
+  default_prompt: "Use $sparse-autoencoder-training to help me complete a relevant task."

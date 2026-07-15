@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Sakura Chroma"
+  short_description: "Use HTML Ppt Zhangzara Sakura Chroma workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-sakura-chroma to help me complete a relevant task."

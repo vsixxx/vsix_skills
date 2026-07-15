@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Effect"
+  short_description: "Use Add Effect guidance and workflows in Codex"
+  default_prompt: "Use $add-effect to help me complete a relevant task."

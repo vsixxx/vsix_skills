@@ -1,0 +1,17 @@
+{
+  "id": "flox-environments",
+  "title": "Flox Environments",
+  "descriptionZh": "用于 Flox Environments 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/flox-environments",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/flox-environments/SKILL.md",
+  "upstreamSha256": "d15e0af4d6f57ea085482f163d0d1658279301202b161087e9e6f66e7f4b91c9"
+}

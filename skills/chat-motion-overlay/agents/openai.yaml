@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chat Motion Overlay"
+  short_description: "Use Chat Motion Overlay guidance and workflows in Codex"
+  default_prompt: "Use $chat-motion-overlay to help me complete a relevant task."

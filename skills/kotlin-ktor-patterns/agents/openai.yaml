@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Ktor Patterns"
+  short_description: "Use Kotlin Ktor Patterns guidance and workflows in Codex"
+  default_prompt: "Use $kotlin-ktor-patterns to help me complete a relevant task."

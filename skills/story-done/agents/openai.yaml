@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Done"
+  short_description: "Use Story Done guidance and workflows in Codex"
+  default_prompt: "Use $story-done to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "P7"
+  short_description: "Use P7 guidance and workflows in Codex"
+  default_prompt: "Use $p7 to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua On"
+  short_description: "Use Pua On guidance and workflows in Codex"
+  default_prompt: "Use $pua-on to help me complete a relevant task."

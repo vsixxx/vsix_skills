@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ralphinho Rfc Pipeline"
+  short_description: "Use Ralphinho Rfc Pipeline guidance and workflows in Codex"
+  default_prompt: "Use $ralphinho-rfc-pipeline to help me complete a relevant task."

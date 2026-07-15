@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-youtube-transcript",
+  "title": "Baoyu YouTube Transcript",
+  "descriptionZh": "用于 Baoyu YouTube Transcript 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-youtube-transcript",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-youtube-transcript/SKILL.md",
+  "upstreamSha256": "b7085574c6bf72e07c578db14316682b9ebf1e841d9db62916d284efd84c96cc"
+}

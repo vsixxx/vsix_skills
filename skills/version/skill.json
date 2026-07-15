@@ -1,0 +1,17 @@
+{
+  "id": "version",
+  "title": "Version",
+  "descriptionZh": "用于 Version 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/version",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/version/SKILL.md",
+  "upstreamSha256": "7e5f87e753ec19df64a3285ae67f068a38aa8107f4fe75b71809f8352cd97167"
+}

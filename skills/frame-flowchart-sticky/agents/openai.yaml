@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Flowchart Sticky"
+  short_description: "Use Frame Flowchart Sticky guidance and workflows in Codex"
+  default_prompt: "Use $frame-flowchart-sticky to help me complete a relevant task."

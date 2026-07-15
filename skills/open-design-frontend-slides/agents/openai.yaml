@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Frontend Slides"
+  short_description: "Use Open Design Frontend Slides guidance and workflows in Codex"
+  default_prompt: "Use $open-design-frontend-slides to help me complete a relevant task."

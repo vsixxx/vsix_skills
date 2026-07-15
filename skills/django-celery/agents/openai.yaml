@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Celery"
+  short_description: "Use Django Celery guidance and workflows in Codex"
+  default_prompt: "Use $django-celery to help me complete a relevant task."

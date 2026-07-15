@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Danger X To Markdown"
+  short_description: "Use Baoyu Danger X To Markdown guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-danger-x-to-markdown to help me complete a relevant task."

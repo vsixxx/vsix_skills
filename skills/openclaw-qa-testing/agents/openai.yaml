@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Qa Testing"
+  short_description: "Use Openclaw Qa Testing guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-qa-testing to help me complete a relevant task."

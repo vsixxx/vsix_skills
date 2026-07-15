@@ -1,0 +1,19 @@
+{
+  "id": "peft-fine-tuning",
+  "title": "Peft Fine Tuning",
+  "descriptionZh": "使用 LoRA、QLoRA 及 25+ 种方法对 LLM 进行参数高效微调（PEFT）。适用于在有限 GPU 显存下微调大型模型（7B-70B）、仅训练不到 1% 参数且精度损失极小，或进行多适配器服务的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: peft>=0.13.0",
+    "Package: transformers>=4.45.0",
+    "Package: torch>=2.0.0",
+    "Package: bitsandbytes>=0.43.0"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/peft",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

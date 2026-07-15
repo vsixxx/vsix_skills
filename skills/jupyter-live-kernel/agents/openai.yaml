@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jupyter Live Kernel"
+  short_description: "Use Jupyter Live Kernel guidance and workflows in Codex"
+  default_prompt: "Use $jupyter-live-kernel to help me complete a relevant task."

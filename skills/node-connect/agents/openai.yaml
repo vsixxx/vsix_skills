@@ -1,0 +1,4 @@
+interface:
+  display_name: "Node Connect"
+  short_description: "Use Node Connect guidance and workflows in Codex"
+  default_prompt: "Use $node-connect to help me complete a relevant task."

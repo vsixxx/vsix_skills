@@ -1,0 +1,17 @@
+{
+  "id": "superpowers-requesting-code-review",
+  "title": "Superpowers Requesting Code Review",
+  "descriptionZh": "用于 Superpowers Requesting Code Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review",
+  "homepage": "https://github.com/obra/superpowers",
+  "license": "See upstream",
+  "author": "obra",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+  "upstreamPath": "skills/requesting-code-review/SKILL.md",
+  "upstreamSha256": "1017ccdd5bc61fab67c654cf118cbdb520464b313073a0a6b9a6b9aa647a3ad6"
+}

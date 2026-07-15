@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sprint Status"
+  short_description: "Use Sprint Status guidance and workflows in Codex"
+  default_prompt: "Use $sprint-status to help me complete a relevant task."

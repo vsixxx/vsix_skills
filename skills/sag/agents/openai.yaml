@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sag"
+  short_description: "Use Sag guidance and workflows in Codex"
+  default_prompt: "Use $sag to help me complete a relevant task."

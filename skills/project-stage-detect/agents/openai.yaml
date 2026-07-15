@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Stage Detect"
+  short_description: "Use Project Stage Detect guidance and workflows in Codex"
+  default_prompt: "Use $project-stage-detect to help me complete a relevant task."

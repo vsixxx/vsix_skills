@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Light Leak Cinema"
+  short_description: "Use Frame Light Leak Cinema guidance and workflows in Codex"
+  default_prompt: "Use $frame-light-leak-cinema to help me complete a relevant task."

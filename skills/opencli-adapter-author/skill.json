@@ -1,0 +1,17 @@
+{
+  "id": "opencli-adapter-author",
+  "title": "Opencli Adapter Author",
+  "descriptionZh": "用于 Opencli Adapter Author 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/jackwener/OpenCLI/tree/main/skills/opencli-adapter-author",
+  "homepage": "https://github.com/jackwener/OpenCLI",
+  "license": "See upstream",
+  "author": "jackwener",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b0f84c99c93037add29e1c1b361f5f7094f52f74",
+  "upstreamPath": "skills/opencli-adapter-author/SKILL.md",
+  "upstreamSha256": "0a0997e6da28e6a88000e84ad16efee16570c0dfea869658039fffc11a213631"
+}

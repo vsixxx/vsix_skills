@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap Performance"
+  short_description: "Use Gsap Performance guidance and workflows in Codex"
+  default_prompt: "Use $gsap-performance to help me complete a relevant task."

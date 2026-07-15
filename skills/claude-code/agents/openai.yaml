@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Code"
+  short_description: "Use Claude Code guidance and workflows in Codex"
+  default_prompt: "Use $claude-code to help me complete a relevant task."

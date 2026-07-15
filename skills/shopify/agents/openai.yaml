@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify"
+  short_description: "Use Shopify guidance and workflows in Codex"
+  default_prompt: "Use $shopify to help me complete a relevant task."

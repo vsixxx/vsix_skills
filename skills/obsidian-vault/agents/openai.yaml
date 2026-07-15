@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Vault"
+  short_description: "Use Obsidian Vault guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-vault to help me complete a relevant task."

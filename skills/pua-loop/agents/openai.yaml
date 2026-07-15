@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Loop"
+  short_description: "Use Pua Loop guidance and workflows in Codex"
+  default_prompt: "Use $pua-loop to help me complete a relevant task."

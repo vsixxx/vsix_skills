@@ -1,0 +1,17 @@
+{
+  "id": "release-skills",
+  "title": "Release Skills",
+  "descriptionZh": "用于 Release Skills 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/.claude/skills/release-skills",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": ".claude/skills/release-skills/SKILL.md",
+  "upstreamSha256": "f320492bbc9ced7d00d07c55c4adf5b20e34214a42bf037b68ccaa4a6c62e377"
+}

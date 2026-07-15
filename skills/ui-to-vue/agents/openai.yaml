@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ui To Vue"
+  short_description: "Use Ui To Vue guidance and workflows in Codex"
+  default_prompt: "Use $ui-to-vue to help me complete a relevant task."

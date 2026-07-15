@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Ads Extractor"
+  short_description: "Use Competitive Ads Extractor guidance and workflows in Codex"
+  default_prompt: "Use $competitive-ads-extractor to help me complete a relevant task."

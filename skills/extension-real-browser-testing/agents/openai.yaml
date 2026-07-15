@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extension Real Browser Testing"
+  short_description: "Use Extension Real Browser Testing workflows in Codex"
+  default_prompt: "Use $extension-real-browser-testing to help me complete a relevant task."

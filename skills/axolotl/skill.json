@@ -1,0 +1,24 @@
+{
+  "id": "axolotl",
+  "title": "Axolotl",
+  "descriptionZh": "Axolotl：基于 YAML 配置的 LLM 微调（LoRA、DPO、GRPO）。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: axolotl",
+    "Package: torch",
+    "Package: transformers",
+    "Package: datasets",
+    "Package: peft",
+    "Package: accelerate",
+    "Package: deepspeed"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/training/axolotl",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

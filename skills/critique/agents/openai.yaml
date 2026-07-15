@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critique"
+  short_description: "Use Critique guidance and workflows in Codex"
+  default_prompt: "Use $critique to help me complete a relevant task."

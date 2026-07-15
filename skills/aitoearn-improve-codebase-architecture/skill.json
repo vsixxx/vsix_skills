@@ -1,0 +1,17 @@
+{
+  "id": "aitoearn-improve-codebase-architecture",
+  "title": "Aitoearn Improve Codebase Architecture",
+  "descriptionZh": "用于 Aitoearn Improve Codebase Architecture 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/improve-codebase-architecture",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/improve-codebase-architecture/SKILL.md",
+  "upstreamSha256": "9e9b617b1c70d390e37dbfd1c031c11b3de850e2e3d01c4a2c2888bdb386a247"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Tech Sharing"
+  short_description: "Use HTML Ppt Tech Sharing guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-tech-sharing to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Article Publisher"
+  short_description: "Use X Article Publisher guidance and workflows in Codex"
+  default_prompt: "Use $x-article-publisher to help me complete a relevant task."

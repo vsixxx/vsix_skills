@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Coral"
+  short_description: "Use HTML Ppt Zhangzara Coral guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-coral to help me complete a relevant task."

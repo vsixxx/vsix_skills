@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quarkus Verification"
+  short_description: "Use Quarkus Verification guidance and workflows in Codex"
+  default_prompt: "Use $quarkus-verification to help me complete a relevant task."

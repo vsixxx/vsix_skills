@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upload R2"
+  short_description: "Use Upload R2 guidance and workflows in Codex"
+  default_prompt: "Use $upload-r2 to help me complete a relevant task."

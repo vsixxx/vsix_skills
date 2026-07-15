@@ -1,0 +1,17 @@
+{
+  "id": "network-interface-health",
+  "title": "Network Interface Health",
+  "descriptionZh": "用于 Network Interface Health 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/network-interface-health",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/network-interface-health/SKILL.md",
+  "upstreamSha256": "7811a643ffb81b2b6af0dd208e35b6feb21f3ff878fbd9eee3e116b0411d0975"
+}

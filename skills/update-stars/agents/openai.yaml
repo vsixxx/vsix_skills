@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Stars"
+  short_description: "Use Update Stars guidance and workflows in Codex"
+  default_prompt: "Use $update-stars to help me complete a relevant task."

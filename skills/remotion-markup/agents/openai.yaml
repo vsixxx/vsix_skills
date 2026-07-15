@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Markup"
+  short_description: "Use Remotion Markup guidance and workflows in Codex"
+  default_prompt: "Use $remotion-markup to help me complete a relevant task."

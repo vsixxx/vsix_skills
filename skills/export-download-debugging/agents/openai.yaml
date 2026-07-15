@@ -1,0 +1,4 @@
+interface:
+  display_name: "Export Download Debugging"
+  short_description: "Use Export Download Debugging guidance and workflows in Codex"
+  default_prompt: "Use $export-download-debugging to help me complete a relevant task."

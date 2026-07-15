@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Patterns"
+  short_description: "Use Django Patterns guidance and workflows in Codex"
+  default_prompt: "Use $django-patterns to help me complete a relevant task."

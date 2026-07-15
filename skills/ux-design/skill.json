@@ -1,0 +1,17 @@
+{
+  "id": "ux-design",
+  "title": "Ux Design",
+  "descriptionZh": "用于 Ux Design 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/ux-design",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/ux-design/SKILL.md",
+  "upstreamSha256": "2d37d14b653594c0c7aa346ff8d7cc129269cda8f42fe741f6d296d6345f9845"
+}

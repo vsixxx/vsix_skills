@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eval Harness"
+  short_description: "Use Eval Harness guidance and workflows in Codex"
+  default_prompt: "Use $eval-harness to help me complete a relevant task."

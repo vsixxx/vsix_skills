@@ -1,0 +1,17 @@
+{
+  "id": "after-hours-editorial-template",
+  "title": "After Hours Editorial Template",
+  "descriptionZh": "用于 After Hours Editorial Template 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/after-hours-editorial-template",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/after-hours-editorial-template/SKILL.md",
+  "upstreamSha256": "d32adf3724add543c148e41debc8c958c8c90227d27e3831101949b27a153829"
+}

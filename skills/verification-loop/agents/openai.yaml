@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verification Loop"
+  short_description: "Use Verification Loop guidance and workflows in Codex"
+  default_prompt: "Use $verification-loop to help me complete a relevant task."

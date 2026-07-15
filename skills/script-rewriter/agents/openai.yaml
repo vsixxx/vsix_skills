@@ -1,0 +1,4 @@
+interface:
+  display_name: "Script Rewriter"
+  short_description: "Use Script Rewriter guidance and workflows in Codex"
+  default_prompt: "Use $script-rewriter to help me complete a relevant task."

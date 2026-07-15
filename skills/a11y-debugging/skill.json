@@ -1,0 +1,17 @@
+{
+  "id": "a11y-debugging",
+  "title": "A11y Debugging",
+  "descriptionZh": "用于 A11y Debugging 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp/tree/main/skills/a11y-debugging",
+  "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "license": "See upstream",
+  "author": "ChromeDevTools",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2d944f9f4e6b107a6b42fb82c7e957384883bf7d",
+  "upstreamPath": "skills/a11y-debugging/SKILL.md",
+  "upstreamSha256": "f2ee15c98641fd101275fcfe25083de0fe38f0d2145c17d6fcbe11d454b1d286"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Use Handoff guidance and workflows in Codex"
+  default_prompt: "Use $handoff to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Grill Me"
+  short_description: "Use Aitoearn Grill Me guidance and workflows in Codex"
+  default_prompt: "Use $aitoearn-grill-me to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clawdtributor"
+  short_description: "Use Clawdtributor guidance and workflows in Codex"
+  default_prompt: "Use $clawdtributor to help me complete a relevant task."

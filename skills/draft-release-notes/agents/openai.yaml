@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draft Release Notes"
+  short_description: "Use Draft Release Notes guidance and workflows in Codex"
+  default_prompt: "Use $draft-release-notes to help me complete a relevant task."

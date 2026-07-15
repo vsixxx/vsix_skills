@@ -1,0 +1,17 @@
+{
+  "id": "diagram",
+  "title": "Diagram",
+  "descriptionZh": "用于 Diagram 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/diagram",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "diagram/SKILL.md",
+  "upstreamSha256": "f57f8722f5668393a3761f209a778a5e92fe2949425ca26d58e96285ab110412"
+}

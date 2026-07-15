@@ -1,0 +1,17 @@
+{
+  "id": "team-builder",
+  "title": "Team Builder",
+  "descriptionZh": "用于 Team Builder 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/team-builder",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/team-builder/SKILL.md",
+  "upstreamSha256": "31a2207fbac204bb91e4ee9c58fdecf8114c778e24778c46281e95e91d4f68b8"
+}

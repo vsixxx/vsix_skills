@@ -1,0 +1,17 @@
+{
+  "id": "fullstack-dev",
+  "title": "Fullstack Dev",
+  "descriptionZh": "用于 Fullstack Dev 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/fullstack-dev",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/fullstack-dev/SKILL.md",
+  "upstreamSha256": "94d2f5b3859611a0caeeb03e6562ba809c3d3747ac917b8675d5ce21d395c39e"
+}

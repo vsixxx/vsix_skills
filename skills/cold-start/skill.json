@@ -1,0 +1,17 @@
+{
+  "id": "cold-start",
+  "title": "Cold Start",
+  "descriptionZh": "用于 Cold Start 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/cold-start",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/cold-start/SKILL.md",
+  "upstreamSha256": "a2c42dd7c4eceb7d3ce6449a414b417d55195aa445e723e6c798d90906cbf4e6"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extension Perf Forensics"
+  short_description: "Use Extension Perf Forensics guidance and workflows in Codex"
+  default_prompt: "Use $extension-perf-forensics to help me complete a relevant task."

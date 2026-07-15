@@ -1,0 +1,17 @@
+{
+  "id": "migration-scripts",
+  "title": "Migration Scripts",
+  "descriptionZh": "用于 Migration Scripts 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/migration-scripts",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/migration-scripts/SKILL.md",
+  "upstreamSha256": "3293be6d57fddf1f93e427802b6b92a1bc63fb0f6751ba2e2f66bde56df1abe4"
+}

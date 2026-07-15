@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Saas"
+  short_description: "Use Remotion Saas guidance and workflows in Codex"
+  default_prompt: "Use $remotion-saas to help me complete a relevant task."

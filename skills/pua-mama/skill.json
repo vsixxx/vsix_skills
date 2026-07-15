@@ -1,0 +1,17 @@
+{
+  "id": "pua-mama",
+  "title": "Pua Mama",
+  "descriptionZh": "用于 Pua Mama 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/codex/pua-mama",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "codex/pua-mama/SKILL.md",
+  "upstreamSha256": "1c1682a65febfcf504588b84881ba03602ae9bb8e04ef9e7434b82453f144df4"
+}

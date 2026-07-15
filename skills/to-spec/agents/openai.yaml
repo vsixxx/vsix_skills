@@ -1,0 +1,4 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Use To Spec guidance and workflows in Codex"
+  default_prompt: "Use $to-spec to help me complete a relevant task."

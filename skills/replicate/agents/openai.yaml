@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replicate"
+  short_description: "Use Replicate guidance and workflows in Codex"
+  default_prompt: "Use $replicate to help me complete a relevant task."

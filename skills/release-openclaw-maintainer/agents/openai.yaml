@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Openclaw Maintainer"
+  short_description: "Use Release Openclaw Maintainer guidance and workflows in Codex"
+  default_prompt: "Use $release-openclaw-maintainer to help me complete a relevant task."

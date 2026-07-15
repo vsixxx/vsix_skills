@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai Music Album"
+  short_description: "Use Ai Music Album guidance and workflows in Codex"
+  default_prompt: "Use $ai-music-album to help me complete a relevant task."

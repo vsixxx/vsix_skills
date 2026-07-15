@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Onboarding"
+  short_description: "Use Mobile Onboarding guidance and workflows in Codex"
+  default_prompt: "Use $mobile-onboarding to help me complete a relevant task."

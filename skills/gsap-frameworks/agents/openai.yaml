@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap Frameworks"
+  short_description: "Use Gsap Frameworks guidance and workflows in Codex"
+  default_prompt: "Use $gsap-frameworks to help me complete a relevant task."

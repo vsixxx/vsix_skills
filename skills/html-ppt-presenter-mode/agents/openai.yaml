@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Presenter Mode"
+  short_description: "Use HTML Ppt Presenter Mode guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-presenter-mode to help me complete a relevant task."

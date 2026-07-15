@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Launch Video"
+  short_description: "Use Product Launch Video guidance and workflows in Codex"
+  default_prompt: "Use $product-launch-video to help me complete a relevant task."

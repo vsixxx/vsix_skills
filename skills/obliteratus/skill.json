@@ -1,0 +1,23 @@
+{
+  "id": "obliteratus",
+  "title": "Obliteratus",
+  "descriptionZh": "使用 Obliteratus 分析和调整模型拒绝行为。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: obliteratus",
+    "Package: torch",
+    "Package: transformers",
+    "Package: bitsandbytes",
+    "Package: accelerate",
+    "Package: safetensors"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/obliteratus",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

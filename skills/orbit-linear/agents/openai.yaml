@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orbit Linear"
+  short_description: "Use Orbit Linear guidance and workflows in Codex"
+  default_prompt: "Use $orbit-linear to help me complete a relevant task."

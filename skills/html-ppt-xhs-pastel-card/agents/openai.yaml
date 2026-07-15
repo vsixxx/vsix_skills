@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Xhs Pastel Card"
+  short_description: "Use HTML Ppt Xhs Pastel Card guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-xhs-pastel-card to help me complete a relevant task."

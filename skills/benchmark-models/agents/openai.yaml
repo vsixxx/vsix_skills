@@ -1,0 +1,4 @@
+interface:
+  display_name: "Benchmark Models"
+  short_description: "Use Benchmark Models guidance and workflows in Codex"
+  default_prompt: "Use $benchmark-models to help me complete a relevant task."

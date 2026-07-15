@@ -1,0 +1,4 @@
+interface:
+  display_name: "Netmiko Ssh Automation"
+  short_description: "Use Netmiko Ssh Automation guidance and workflows in Codex"
+  default_prompt: "Use $netmiko-ssh-automation to help me complete a relevant task."

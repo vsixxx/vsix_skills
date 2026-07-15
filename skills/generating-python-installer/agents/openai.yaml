@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generating Python Installer"
+  short_description: "Use Generating Python Installer guidance and workflows in Codex"
+  default_prompt: "Use $generating-python-installer to help me complete a relevant task."

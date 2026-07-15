@@ -1,0 +1,17 @@
+{
+  "id": "django-security",
+  "title": "Django Security",
+  "descriptionZh": "用于 Django Security 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/django-security",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/django-security/SKILL.md",
+  "upstreamSha256": "718928a11187996eb8438fb1c5de64edcf9d7a002316fbfee385f01fad121224"
+}

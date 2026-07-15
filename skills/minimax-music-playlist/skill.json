@@ -1,0 +1,17 @@
+{
+  "id": "minimax-music-playlist",
+  "title": "Minimax Music Playlist",
+  "descriptionZh": "用于 Minimax Music Playlist 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-music-playlist",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/minimax-music-playlist/SKILL.md",
+  "upstreamSha256": "87891a7959e3e26f54e1985216f574e77391ff015ed8062f10b2eefd77089ec3"
+}

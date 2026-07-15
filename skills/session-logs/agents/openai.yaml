@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Logs"
+  short_description: "Use Session Logs guidance and workflows in Codex"
+  default_prompt: "Use $session-logs to help me complete a relevant task."

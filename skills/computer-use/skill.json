@@ -1,0 +1,14 @@
+{
+  "id": "computer-use",
+  "title": "Computer Use",
+  "descriptionZh": "在不抢占用户鼠标和键盘焦点的情况下操作桌面应用。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/computer-use",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

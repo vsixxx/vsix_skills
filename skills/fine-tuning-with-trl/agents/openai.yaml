@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fine Tuning With Trl"
+  short_description: "Use Fine Tuning With Trl guidance and workflows in Codex"
+  default_prompt: "Use $fine-tuning-with-trl to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement"
+  short_description: "Use Implement guidance and workflows in Codex"
+  default_prompt: "Use $implement to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taste"
+  short_description: "Use Taste guidance and workflows in Codex"
+  default_prompt: "Use $taste to help me complete a relevant task."

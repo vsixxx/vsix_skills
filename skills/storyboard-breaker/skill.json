@@ -1,0 +1,17 @@
+{
+  "id": "storyboard-breaker",
+  "title": "Storyboard Breaker",
+  "descriptionZh": "用于 Storyboard Breaker 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/chatfire-AI/huobao-drama/tree/master/skills/storyboard_breaker",
+  "homepage": "https://github.com/chatfire-AI/huobao-drama",
+  "license": "See upstream",
+  "author": "chatfire-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ad1cd7cd0127389ce8304aa9ebda3cfc8f406a6d",
+  "upstreamPath": "skills/storyboard_breaker/SKILL.md",
+  "upstreamSha256": "d88f3f096494f8f322f4baaf32a3c072d3733fcc7eba434584b52c89bd03f3bc"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chroma"
+  short_description: "Use Chroma guidance and workflows in Codex"
+  default_prompt: "Use $chroma to help me complete a relevant task."

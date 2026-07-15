@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pytorch Lightning"
+  short_description: "Use Pytorch Lightning guidance and workflows in Codex"
+  default_prompt: "Use $pytorch-lightning to help me complete a relevant task."

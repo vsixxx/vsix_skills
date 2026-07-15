@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-danger-gemini-web",
+  "title": "Baoyu Danger Gemini Web",
+  "descriptionZh": "用于 Baoyu Danger Gemini Web 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-danger-gemini-web",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-danger-gemini-web/SKILL.md",
+  "upstreamSha256": "290c0f8b3957a21de068f8732f324aa6c05a72bc2bf23f962fe9fa874b2c0271"
+}

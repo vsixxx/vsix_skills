@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discovery Question Form"
+  short_description: "Use Discovery Question Form guidance and workflows in Codex"
+  default_prompt: "Use $discovery-question-form to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes Imports"
+  short_description: "Use Hermes Imports guidance and workflows in Codex"
+  default_prompt: "Use $hermes-imports to help me complete a relevant task."

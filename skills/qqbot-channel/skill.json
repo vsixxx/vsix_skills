@@ -1,0 +1,17 @@
+{
+  "id": "qqbot-channel",
+  "title": "Qqbot Channel",
+  "descriptionZh": "用于 Qqbot Channel 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/qqbot/skills/qqbot-channel",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/qqbot/skills/qqbot-channel/SKILL.md",
+  "upstreamSha256": "ca3e7a2573720dbd292b3fa492b8092f15e194e45dbfe88320b1a2d480d21d64"
+}

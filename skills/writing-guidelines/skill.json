@@ -1,0 +1,17 @@
+{
+  "id": "writing-guidelines",
+  "title": "Writing Guidelines",
+  "descriptionZh": "用于 Writing Guidelines 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/writing-guidelines",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/writing-guidelines/SKILL.md",
+  "upstreamSha256": "ed4de40366117e59315a620dba921668eb0a55455bf3cd820f4a91bb3b37e810"
+}

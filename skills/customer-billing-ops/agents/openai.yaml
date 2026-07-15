@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer Billing Ops"
+  short_description: "Use Customer Billing Ops guidance and workflows in Codex"
+  default_prompt: "Use $customer-billing-ops to help me complete a relevant task."

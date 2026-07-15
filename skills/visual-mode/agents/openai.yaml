@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Mode"
+  short_description: "Use Visual Mode guidance and workflows in Codex"
+  default_prompt: "Use $visual-mode to help me complete a relevant task."

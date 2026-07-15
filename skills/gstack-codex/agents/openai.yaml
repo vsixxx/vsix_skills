@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gstack Codex"
+  short_description: "Use Gstack Codex guidance and workflows in Codex"
+  default_prompt: "Use $gstack-codex to help me complete a relevant task."

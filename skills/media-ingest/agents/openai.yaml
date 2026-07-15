@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Ingest"
+  short_description: "Use Media Ingest guidance and workflows in Codex"
+  default_prompt: "Use $media-ingest to help me complete a relevant task."

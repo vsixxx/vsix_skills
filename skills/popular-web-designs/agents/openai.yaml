@@ -1,0 +1,4 @@
+interface:
+  display_name: "Popular Web Designs"
+  short_description: "Use Popular Web Designs guidance and workflows in Codex"
+  default_prompt: "Use $popular-web-designs to help me complete a relevant task."

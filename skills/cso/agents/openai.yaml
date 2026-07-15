@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cso"
+  short_description: "Use Cso guidance and workflows in Codex"
+  default_prompt: "Use $cso to help me complete a relevant task."

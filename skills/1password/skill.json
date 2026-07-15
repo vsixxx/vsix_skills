@@ -1,0 +1,14 @@
+{
+  "id": "1password",
+  "title": "1Password",
+  "descriptionZh": "配置并使用 1Password CLI（op）。适用于安装 CLI、启用桌面应用集成、登录及为命令读取/注入密钥的场景。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/security/1password",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "arceus77-7, enhanced by Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

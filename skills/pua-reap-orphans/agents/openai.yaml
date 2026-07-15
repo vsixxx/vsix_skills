@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Reap Orphans"
+  short_description: "Use Pua Reap Orphans guidance and workflows in Codex"
+  default_prompt: "Use $pua-reap-orphans to help me complete a relevant task."

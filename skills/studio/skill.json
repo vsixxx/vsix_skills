@@ -1,0 +1,17 @@
+{
+  "id": "studio",
+  "title": "Studio",
+  "descriptionZh": "用于 Studio 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/studio",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/studio/SKILL.md",
+  "upstreamSha256": "4527323d5a14519b3aed5425cc6d13d359ef1556eb5aed163da0fe072322ff05"
+}

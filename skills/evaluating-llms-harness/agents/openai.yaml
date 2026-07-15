@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluating Llms Harness"
+  short_description: "Use Evaluating Llms Harness guidance and workflows in Codex"
+  default_prompt: "Use $evaluating-llms-harness to help me complete a relevant task."

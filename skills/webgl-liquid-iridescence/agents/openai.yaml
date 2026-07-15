@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Liquid Iridescence"
+  short_description: "Use Webgl Liquid Iridescence guidance and workflows in Codex"
+  default_prompt: "Use $webgl-liquid-iridescence to help me complete a relevant task."

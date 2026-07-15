@@ -1,0 +1,4 @@
+interface:
+  display_name: "D3 Visualization"
+  short_description: "Use D3 Visualization guidance and workflows in Codex"
+  default_prompt: "Use $d3-visualization to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Skills"
+  short_description: "Use Release Skills guidance and workflows in Codex"
+  default_prompt: "Use $release-skills to help me complete a relevant task."

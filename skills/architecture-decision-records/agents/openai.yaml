@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Decision Records"
+  short_description: "Use Architecture Decision Records workflows in Codex"
+  default_prompt: "Use $architecture-decision-records to help me complete a relevant task."

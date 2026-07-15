@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap Utils"
+  short_description: "Use Gsap Utils guidance and workflows in Codex"
+  default_prompt: "Use $gsap-utils to help me complete a relevant task."

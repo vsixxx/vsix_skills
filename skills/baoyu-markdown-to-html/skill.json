@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-markdown-to-html",
+  "title": "Baoyu Markdown To HTML",
+  "descriptionZh": "用于 Baoyu Markdown To HTML 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-markdown-to-html",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-markdown-to-html/SKILL.md",
+  "upstreamSha256": "f4a5bb1697f9387557897a9c58b6406765728089a8d84cfbb6c40a93c3d136f7"
+}

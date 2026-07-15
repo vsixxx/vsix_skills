@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Restore"
+  short_description: "Use Fal Restore guidance and workflows in Codex"
+  default_prompt: "Use $fal-restore to help me complete a relevant task."

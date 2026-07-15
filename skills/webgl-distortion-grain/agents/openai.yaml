@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Distortion Grain"
+  short_description: "Use Webgl Distortion Grain guidance and workflows in Codex"
+  default_prompt: "Use $webgl-distortion-grain to help me complete a relevant task."

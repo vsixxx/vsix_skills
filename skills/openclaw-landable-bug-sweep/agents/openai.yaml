@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Landable Bug Sweep"
+  short_description: "Use Openclaw Landable Bug Sweep guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-landable-bug-sweep to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Ux Test"
+  short_description: "Use Adversarial Ux Test guidance and workflows in Codex"
+  default_prompt: "Use $adversarial-ux-test to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scholar Evaluation"
+  short_description: "Use Scholar Evaluation guidance and workflows in Codex"
+  default_prompt: "Use $scholar-evaluation to help me complete a relevant task."

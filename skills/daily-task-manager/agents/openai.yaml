@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Task Manager"
+  short_description: "Use Daily Task Manager guidance and workflows in Codex"
+  default_prompt: "Use $daily-task-manager to help me complete a relevant task."

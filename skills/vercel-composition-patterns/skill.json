@@ -1,0 +1,17 @@
+{
+  "id": "vercel-composition-patterns",
+  "title": "Vercel Composition Patterns",
+  "descriptionZh": "用于 Vercel Composition Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/vercel-composition-patterns",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "MIT",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/vercel-composition-patterns/SKILL.md",
+  "upstreamSha256": "e38e0eaa609316b10423a9a138ed95e35099accd3f735585295c8a8f165c28a3"
+}

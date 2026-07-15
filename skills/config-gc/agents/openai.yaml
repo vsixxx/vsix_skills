@@ -1,0 +1,4 @@
+interface:
+  display_name: "Config Gc"
+  short_description: "Use Config Gc guidance and workflows in Codex"
+  default_prompt: "Use $config-gc to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vercel Composition Patterns"
+  short_description: "Use Vercel Composition Patterns guidance and workflows in Codex"
+  default_prompt: "Use $vercel-composition-patterns to help me complete a relevant task."

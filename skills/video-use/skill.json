@@ -1,0 +1,17 @@
+{
+  "id": "video-use",
+  "title": "Video Use",
+  "descriptionZh": "用于 Video Use 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/browser-use/video-use/tree/main",
+  "homepage": "https://github.com/browser-use/video-use",
+  "license": "See upstream",
+  "author": "browser-use",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "37b24f7ec55473996c3eecd5ffb4d62ee4021f2c9bc947da49483cc5c65fe4eb"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p9",
+  "title": "P9",
+  "descriptionZh": "用于 P9 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/skills/p9",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "skills/p9/SKILL.md",
+  "upstreamSha256": "3bebb16aba1979cef73cc29aab04d58159a3076c353c925c22c5b878f669654d"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "standup",
+  "title": "Standup",
+  "descriptionZh": "用于 Standup 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/standup",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/standup/SKILL.md",
+  "upstreamSha256": "2b2f8b72790cb728e3db24a91bcb229cd8a06284d4f734d09393ea13a8083335"
+}

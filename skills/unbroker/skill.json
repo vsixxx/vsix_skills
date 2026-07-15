@@ -1,0 +1,16 @@
+{
+  "id": "unbroker",
+  "title": "Unbroker",
+  "descriptionZh": "检查本地应用流量和隐私行为，识别不必要的数据中间方。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [
+    "Command: python3"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/security/unbroker",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "SHL0MS (github.com/SHL0MS)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

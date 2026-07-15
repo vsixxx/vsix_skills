@@ -1,0 +1,17 @@
+{
+  "id": "homepage-video-assets",
+  "title": "Homepage Video Assets",
+  "descriptionZh": "用于 Homepage Video Assets 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/homepage-video-assets",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/homepage-video-assets/SKILL.md",
+  "upstreamSha256": "ae31c28f81391c6462f102258e05d007cf3c81ed8accc659cf8918d247e080e1"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mama"
+  short_description: "Use Mama guidance and workflows in Codex"
+  default_prompt: "Use $mama to help me complete a relevant task."

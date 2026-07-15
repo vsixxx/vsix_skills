@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX Generator"
+  short_description: "Use PPTX Generator guidance and workflows in Codex"
+  default_prompt: "Use $pptx-generator to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "git-guardrails-claude-code",
+  "title": "Git Guardrails Claude Code",
+  "descriptionZh": "用于 Git Guardrails Claude Code 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/misc/git-guardrails-claude-code/SKILL.md",
+  "upstreamSha256": "03c4de7613c712aea336d64c467ea3ed14be2cbd52345925fe949c75c01c29f7"
+}

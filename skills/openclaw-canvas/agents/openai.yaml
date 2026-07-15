@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Canvas"
+  short_description: "Use Openclaw Canvas guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-canvas to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Triage"
+  short_description: "Use Aitoearn Triage guidance and workflows in Codex"
+  default_prompt: "Use $aitoearn-triage to help me complete a relevant task."

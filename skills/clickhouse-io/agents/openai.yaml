@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clickhouse Io"
+  short_description: "Use Clickhouse Io guidance and workflows in Codex"
+  default_prompt: "Use $clickhouse-io to help me complete a relevant task."

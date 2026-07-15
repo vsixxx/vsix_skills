@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Plugin Contribute Open Design"
+  short_description: "Use Od Plugin Contribute Open Design workflows in Codex"
+  default_prompt: "Use $od-plugin-contribute-open-design to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "nodejs-keccak256",
+  "title": "Nodejs Keccak256",
+  "descriptionZh": "用于 Nodejs Keccak256 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/nodejs-keccak256",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/nodejs-keccak256/SKILL.md",
+  "upstreamSha256": "fa647bd76412bba16ea7faa6f96c4f7a603cdf99faf834dcde185657499a0a5f"
+}

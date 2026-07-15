@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Report"
+  short_description: "Use Landing Report guidance and workflows in Codex"
+  default_prompt: "Use $landing-report to help me complete a relevant task."

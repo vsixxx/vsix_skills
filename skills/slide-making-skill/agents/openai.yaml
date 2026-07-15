@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slide Making Skill"
+  short_description: "Use Slide Making Skill guidance and workflows in Codex"
+  default_prompt: "Use $slide-making-skill to help me complete a relevant task."

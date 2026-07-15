@@ -1,0 +1,17 @@
+{
+  "id": "autoreview",
+  "title": "Autoreview",
+  "descriptionZh": "用于 Autoreview 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/autoreview",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/autoreview/SKILL.md",
+  "upstreamSha256": "960492466a5ab3ff281cb3fdcbf5fb529e34a066a79f1037bbeebc797ee7480b"
+}

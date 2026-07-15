@@ -1,0 +1,17 @@
+{
+  "id": "remotion-interactivity",
+  "title": "Remotion Interactivity",
+  "descriptionZh": "用于 Remotion Interactivity 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/packages/skills/skills/remotion-interactivity",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": "packages/skills/skills/remotion-interactivity/SKILL.md",
+  "upstreamSha256": "1b054424172e173070ce2518f2df955cbc9f3c1ad490211d974d49316cca0a36"
+}

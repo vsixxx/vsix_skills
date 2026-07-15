@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Map"
+  short_description: "Use Token Map guidance and workflows in Codex"
+  default_prompt: "Use $token-map to help me complete a relevant task."

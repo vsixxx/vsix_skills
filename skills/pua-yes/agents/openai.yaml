@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Yes"
+  short_description: "Use Pua Yes guidance and workflows in Codex"
+  default_prompt: "Use $pua-yes to help me complete a relevant task."

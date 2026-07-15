@@ -1,0 +1,4 @@
+interface:
+  display_name: "Springboot Tdd"
+  short_description: "Use Springboot Tdd guidance and workflows in Codex"
+  default_prompt: "Use $springboot-tdd to help me complete a relevant task."

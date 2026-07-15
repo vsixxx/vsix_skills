@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retro"
+  short_description: "Use Retro guidance and workflows in Codex"
+  default_prompt: "Use $retro to help me complete a relevant task."

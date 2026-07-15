@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browse"
+  short_description: "Use Browse guidance and workflows in Codex"
+  default_prompt: "Use $browse to help me complete a relevant task."

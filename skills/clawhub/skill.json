@@ -1,0 +1,17 @@
+{
+  "id": "clawhub",
+  "title": "Clawhub",
+  "descriptionZh": "用于 Clawhub 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/clawhub",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/clawhub/SKILL.md",
+  "upstreamSha256": "6bb70d95cbd1a5454beb4bf9d9f01fd3bf548d81c7d3b7d3e028d403c62187ca"
+}

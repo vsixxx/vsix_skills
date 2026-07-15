@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Use Grill Me guidance and workflows in Codex"
+  default_prompt: "Use $grill-me to help me complete a relevant task."

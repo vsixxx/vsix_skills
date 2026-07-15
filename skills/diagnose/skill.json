@@ -1,0 +1,17 @@
+{
+  "id": "diagnose",
+  "title": "Diagnose",
+  "descriptionZh": "用于 Diagnose 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/diagnose",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/diagnose/SKILL.md",
+  "upstreamSha256": "28886402bbfa0470248086eab9106a103b964b76ae9496e63ff0c8a6761b6d13"
+}

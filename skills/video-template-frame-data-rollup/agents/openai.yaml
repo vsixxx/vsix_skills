@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Data Rollup"
+  short_description: "Use Video Template Frame Data Rollup workflows in Codex"
+  default_prompt: "Use $video-template-frame-data-rollup to help me complete a relevant task."

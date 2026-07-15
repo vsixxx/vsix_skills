@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swiss User Research Video Template"
+  short_description: "Use Swiss User Research Video Template workflows in Codex"
+  default_prompt: "Use $swiss-user-research-video-template to help me complete a relevant task."

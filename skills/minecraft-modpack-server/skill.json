@@ -1,0 +1,17 @@
+{
+  "id": "minecraft-modpack-server",
+  "title": "Minecraft Modpack Server",
+  "descriptionZh": "安装、配置和维护 Minecraft 整合包服务器。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/gaming/minecraft-modpack-server",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

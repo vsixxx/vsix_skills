@@ -1,0 +1,17 @@
+{
+  "id": "wireframe-mobile-flow",
+  "title": "Wireframe Mobile Flow",
+  "descriptionZh": "用于 Wireframe Mobile Flow 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/wireframe-mobile-flow",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/wireframe-mobile-flow/SKILL.md",
+  "upstreamSha256": "ff02eacc2c7525b78f47235c12f0d5fabd0ff749bcbac8f354eff5145474dc4c"
+}

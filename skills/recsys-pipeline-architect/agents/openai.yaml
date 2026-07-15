@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recsys Pipeline Architect"
+  short_description: "Use Recsys Pipeline Architect guidance and workflows in Codex"
+  default_prompt: "Use $recsys-pipeline-architect to help me complete a relevant task."

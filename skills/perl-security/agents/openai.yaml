@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perl Security"
+  short_description: "Use Perl Security guidance and workflows in Codex"
+  default_prompt: "Use $perl-security to help me complete a relevant task."

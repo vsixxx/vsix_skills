@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deploy Vercel Static"
+  short_description: "Use Deploy Vercel Static guidance and workflows in Codex"
+  default_prompt: "Use $deploy-vercel-static to help me complete a relevant task."

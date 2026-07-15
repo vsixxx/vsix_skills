@@ -1,0 +1,16 @@
+{
+  "id": "blogwatcher",
+  "title": "Blogwatcher",
+  "descriptionZh": "通过 blogwatcher-cli 工具监控博客和 RSS/Atom 订阅源。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [
+    "Command: blogwatcher-cli"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/research/blogwatcher",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "JulienTant (fork of Hyaxia/blogwatcher)",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

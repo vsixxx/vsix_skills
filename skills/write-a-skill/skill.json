@@ -1,0 +1,17 @@
+{
+  "id": "write-a-skill",
+  "title": "Write A Skill",
+  "descriptionZh": "用于 Write A Skill 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/write-a-skill",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/write-a-skill/SKILL.md",
+  "upstreamSha256": "be8f20e66309258034b82a7db5040b03798aa40546f9d387662c2bd86be23123"
+}

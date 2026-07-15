@@ -1,0 +1,17 @@
+{
+  "id": "embedded-captions",
+  "title": "Embedded Captions",
+  "descriptionZh": "用于 Embedded Captions 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/embedded-captions",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/embedded-captions/SKILL.md",
+  "upstreamSha256": "e4c58462cfd2405782d04f56923ac1313ead0ea9bea812689c100be59c88be9b"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Platform Design"
+  short_description: "Use Platform Design guidance and workflows in Codex"
+  default_prompt: "Use $platform-design to help me complete a relevant task."

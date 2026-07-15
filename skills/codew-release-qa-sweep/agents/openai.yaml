@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codew Release Qa Sweep"
+  short_description: "Use Codew Release Qa Sweep guidance and workflows in Codex"
+  default_prompt: "Use $codew-release-qa-sweep to help me complete a relevant task."

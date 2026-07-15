@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecc Guide"
+  short_description: "Use Ecc Guide guidance and workflows in Codex"
+  default_prompt: "Use $ecc-guide to help me complete a relevant task."

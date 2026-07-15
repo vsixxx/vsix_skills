@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autonomous Loops"
+  short_description: "Use Autonomous Loops guidance and workflows in Codex"
+  default_prompt: "Use $autonomous-loops to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Research"
+  short_description: "Use Deep Research guidance and workflows in Codex"
+  default_prompt: "Use $deep-research to help me complete a relevant task."

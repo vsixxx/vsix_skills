@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrape"
+  short_description: "Use Scrape guidance and workflows in Codex"
+  default_prompt: "Use $scrape to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qiaomu Opencli Oneshot"
+  short_description: "Use Qiaomu Opencli Oneshot guidance and workflows in Codex"
+  default_prompt: "Use $qiaomu-opencli-oneshot to help me complete a relevant task."

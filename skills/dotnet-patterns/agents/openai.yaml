@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dotnet Patterns"
+  short_description: "Use Dotnet Patterns guidance and workflows in Codex"
+  default_prompt: "Use $dotnet-patterns to help me complete a relevant task."

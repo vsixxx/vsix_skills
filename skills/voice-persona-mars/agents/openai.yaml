@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Persona Mars"
+  short_description: "Use Voice Persona Mars guidance and workflows in Codex"
+  default_prompt: "Use $voice-persona-mars to help me complete a relevant task."

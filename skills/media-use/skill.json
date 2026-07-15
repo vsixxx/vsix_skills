@@ -1,0 +1,17 @@
+{
+  "id": "media-use",
+  "title": "Media Use",
+  "descriptionZh": "用于 Media Use 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/media-use",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/media-use/SKILL.md",
+  "upstreamSha256": "e5cb694d650b830c30d801a7d4dea6ee0ea99b52eac01bc6551e4c1b88282901"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentic Os"
+  short_description: "Use Agentic Os guidance and workflows in Codex"
+  default_prompt: "Use $agentic-os to help me complete a relevant task."

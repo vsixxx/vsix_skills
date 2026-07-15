@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unbroker"
+  short_description: "Use Unbroker guidance and workflows in Codex"
+  default_prompt: "Use $unbroker to help me complete a relevant task."

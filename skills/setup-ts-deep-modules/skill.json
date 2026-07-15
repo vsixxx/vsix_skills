@@ -1,0 +1,17 @@
+{
+  "id": "setup-ts-deep-modules",
+  "title": "Setup Ts Deep Modules",
+  "descriptionZh": "用于 Setup Ts Deep Modules 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/setup-ts-deep-modules",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/in-progress/setup-ts-deep-modules/SKILL.md",
+  "upstreamSha256": "2c6e39ccdd77f85337c13a4877c222d47dcd26e31619157af9688798244192d5"
+}

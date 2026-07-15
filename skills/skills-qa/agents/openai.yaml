@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skills Qa"
+  short_description: "Use Skills Qa guidance and workflows in Codex"
+  default_prompt: "Use $skills-qa to help me complete a relevant task."

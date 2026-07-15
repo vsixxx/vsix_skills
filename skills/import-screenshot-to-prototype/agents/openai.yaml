@@ -1,0 +1,4 @@
+interface:
+  display_name: "Import Screenshot To Prototype"
+  short_description: "Use Import Screenshot To Prototype workflows in Codex"
+  default_prompt: "Use $import-screenshot-to-prototype to help me complete a relevant task."

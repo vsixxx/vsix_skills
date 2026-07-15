@@ -1,0 +1,17 @@
+{
+  "id": "java-coding-standards",
+  "title": "Java Coding Standards",
+  "descriptionZh": "用于 Java Coding Standards 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/java-coding-standards",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/java-coding-standards/SKILL.md",
+  "upstreamSha256": "e37b682a763aa25846d035a950c4bdb2f85805b99e0e8dcc52ce5b248ef7fc95"
+}

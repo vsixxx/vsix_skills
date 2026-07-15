@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hand Drawn Diagrams"
+  short_description: "Use Hand Drawn Diagrams guidance and workflows in Codex"
+  default_prompt: "Use $hand-drawn-diagrams to help me complete a relevant task."

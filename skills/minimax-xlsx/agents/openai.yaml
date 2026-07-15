@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimax Xlsx"
+  short_description: "Use Minimax Xlsx guidance and workflows in Codex"
+  default_prompt: "Use $minimax-xlsx to help me complete a relevant task."

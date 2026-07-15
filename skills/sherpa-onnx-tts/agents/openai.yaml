@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sherpa Onnx Tts"
+  short_description: "Use Sherpa Onnx Tts guidance and workflows in Codex"
+  default_prompt: "Use $sherpa-onnx-tts to help me complete a relevant task."

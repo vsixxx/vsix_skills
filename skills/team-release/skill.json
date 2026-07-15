@@ -1,0 +1,17 @@
+{
+  "id": "team-release",
+  "title": "Team Release",
+  "descriptionZh": "用于 Team Release 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/team-release",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/team-release/SKILL.md",
+  "upstreamSha256": "9cb0f1c15b4af864f57717de9f3ef4ad516370d6abf1d0047e0b7ed10d496b69"
+}

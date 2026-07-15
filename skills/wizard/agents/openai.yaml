@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wizard"
+  short_description: "Use Wizard guidance and workflows in Codex"
+  default_prompt: "Use $wizard to help me complete a relevant task."

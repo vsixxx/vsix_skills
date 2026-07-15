@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ios Icon Gen"
+  short_description: "Use Ios Icon Gen guidance and workflows in Codex"
+  default_prompt: "Use $ios-icon-gen to help me complete a relevant task."

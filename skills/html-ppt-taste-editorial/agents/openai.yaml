@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Taste Editorial"
+  short_description: "Use HTML Ppt Taste Editorial guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-taste-editorial to help me complete a relevant task."

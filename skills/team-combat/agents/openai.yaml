@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Combat"
+  short_description: "Use Team Combat guidance and workflows in Codex"
+  default_prompt: "Use $team-combat to help me complete a relevant task."

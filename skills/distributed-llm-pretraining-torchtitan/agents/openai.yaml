@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distributed LLM Pretraining Torchtitan"
+  short_description: "Use Distributed LLM Pretraining Torchtitan workflows in Codex"
+  default_prompt: "Use $distributed-llm-pretraining-torchtitan to help me complete a relevant task."

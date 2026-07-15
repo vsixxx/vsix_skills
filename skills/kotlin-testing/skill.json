@@ -1,0 +1,17 @@
+{
+  "id": "kotlin-testing",
+  "title": "Kotlin Testing",
+  "descriptionZh": "用于 Kotlin Testing 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/kotlin-testing",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/kotlin-testing/SKILL.md",
+  "upstreamSha256": "5e7a41ee97fafba5d53e99eb3a4cc1925c469d05e0516cfc8e1defbdc10e62c6"
+}

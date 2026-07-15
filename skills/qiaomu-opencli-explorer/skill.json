@@ -1,0 +1,17 @@
+{
+  "id": "qiaomu-opencli-explorer",
+  "title": "Qiaomu Opencli Explorer",
+  "descriptionZh": "用于 Qiaomu Opencli Explorer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/joeseesun/qiaomu-opencli-skills/tree/main/qiaomu-opencli-explorer",
+  "homepage": "https://github.com/joeseesun/qiaomu-opencli-skills",
+  "license": "See upstream",
+  "author": "joeseesun",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4d9a08ebff749e5b12ab544d6a72f82bbe78f43d",
+  "upstreamPath": "qiaomu-opencli-explorer/SKILL.md",
+  "upstreamSha256": "21fed2830fd4496a4d3c6750d3f19012a0e7cf3914b5ee7e3cf76518375e9fbe"
+}

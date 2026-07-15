@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Captions"
+  short_description: "Use Remotion Captions guidance and workflows in Codex"
+  default_prompt: "Use $remotion-captions to help me complete a relevant task."

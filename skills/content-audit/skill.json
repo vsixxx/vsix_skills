@@ -1,0 +1,17 @@
+{
+  "id": "content-audit",
+  "title": "Content Audit",
+  "descriptionZh": "用于 Content Audit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/content-audit",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/content-audit/SKILL.md",
+  "upstreamSha256": "6e17272fe8854e93936f55076d88435f3af2226d4e05d0b8b5f987296f00d8ab"
+}

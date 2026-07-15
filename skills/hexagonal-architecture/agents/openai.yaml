@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hexagonal Architecture"
+  short_description: "Use Hexagonal Architecture guidance and workflows in Codex"
+  default_prompt: "Use $hexagonal-architecture to help me complete a relevant task."

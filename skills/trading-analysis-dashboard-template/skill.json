@@ -1,0 +1,17 @@
+{
+  "id": "trading-analysis-dashboard-template",
+  "title": "Trading Analysis Dashboard Template",
+  "descriptionZh": "用于 Trading Analysis Dashboard Template 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/trading-analysis-dashboard-template",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/trading-analysis-dashboard-template/SKILL.md",
+  "upstreamSha256": "c8aa0da35bd6d860226d74d7dd8c43fd2d46c62427fc7018de3992e9ad19d4d2"
+}

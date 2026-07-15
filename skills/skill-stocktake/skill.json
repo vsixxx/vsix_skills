@@ -1,0 +1,17 @@
+{
+  "id": "skill-stocktake",
+  "title": "Skill Stocktake",
+  "descriptionZh": "用于 Skill Stocktake 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/skill-stocktake",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/skill-stocktake/SKILL.md",
+  "upstreamSha256": "aa8f287c48c5a33bf15094358ffccbe0d4faff9eee9fa2ffcd70c8e9f3d22cdd"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "recursive-decision-ledger",
+  "title": "Recursive Decision Ledger",
+  "descriptionZh": "用于 Recursive Decision Ledger 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/recursive-decision-ledger",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/recursive-decision-ledger/SKILL.md",
+  "upstreamSha256": "ae0af4f1a443ab9b7608a70966d965f3dba025905cf2dcaa08dcf9e8cd11bdf5"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "team-okrs",
+  "title": "Team Okrs",
+  "descriptionZh": "用于 Team Okrs 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/team-okrs",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/team-okrs/SKILL.md",
+  "upstreamSha256": "6734db5dcac51923f7c89b3f768d72de2a73a91967d24440858c8d36a9ad5da4"
+}

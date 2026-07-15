@@ -1,0 +1,17 @@
+{
+  "id": "frontend-slides-frontend-slides",
+  "title": "Frontend Slides Frontend Slides",
+  "descriptionZh": "用于 Frontend Slides Frontend Slides 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/zarazhangrui/frontend-slides/tree/main",
+  "homepage": "https://github.com/zarazhangrui/frontend-slides",
+  "license": "See upstream",
+  "author": "zarazhangrui",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9906a34d640d2111f724544cbc50f7f130569ae1",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "832994fe1dfcce2aa7ceca9a1b7b708eca94becef242713999855f4e946cf4d5"
+}

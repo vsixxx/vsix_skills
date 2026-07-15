@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gan Style Harness"
+  short_description: "Use Gan Style Harness guidance and workflows in Codex"
+  default_prompt: "Use $gan-style-harness to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "opc-conversion-loop",
+  "title": "Opc Conversion Loop",
+  "descriptionZh": "用于 Opc Conversion Loop 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/easychen/opc-methodology/tree/master/skills/opc-conversion-loop",
+  "homepage": "https://github.com/easychen/opc-methodology",
+  "license": "See upstream",
+  "author": "easychen",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b3d0503a52298a2fbe4751231f3119d6a015eab5",
+  "upstreamPath": "skills/opc-conversion-loop/SKILL.md",
+  "upstreamSha256": "f0b84ff02a2029690ebec59af2c83786c8bd1780ef02675c283feed9f9e86314"
+}

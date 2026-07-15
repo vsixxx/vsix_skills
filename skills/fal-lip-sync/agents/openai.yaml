@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Lip Sync"
+  short_description: "Use Fal Lip Sync guidance and workflows in Codex"
+  default_prompt: "Use $fal-lip-sync to help me complete a relevant task."

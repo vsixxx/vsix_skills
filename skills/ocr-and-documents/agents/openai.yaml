@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ocr And Documents"
+  short_description: "Use Ocr And Documents guidance and workflows in Codex"
+  default_prompt: "Use $ocr-and-documents to help me complete a relevant task."

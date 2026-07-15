@@ -1,0 +1,17 @@
+{
+  "id": "test-helpers",
+  "title": "Test Helpers",
+  "descriptionZh": "用于 Test Helpers 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/test-helpers",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/test-helpers/SKILL.md",
+  "upstreamSha256": "98494481c7fe0b69611243f9174a1a860622e2b5488499c953a2e539001e3438"
+}

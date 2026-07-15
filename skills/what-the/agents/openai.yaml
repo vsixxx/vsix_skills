@@ -1,0 +1,4 @@
+interface:
+  display_name: "What The"
+  short_description: "Use What The guidance and workflows in Codex"
+  default_prompt: "Use $what-the to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-obsidian",
+  "title": "Openclaw Obsidian",
+  "descriptionZh": "用于 Openclaw Obsidian 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/obsidian",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/obsidian/SKILL.md",
+  "upstreamSha256": "d4ed3ce53146bd6538c47f81da2382fc790598ec1400d34b7d1f73a8839053b4"
+}

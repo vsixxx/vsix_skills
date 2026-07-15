@@ -1,0 +1,17 @@
+{
+  "id": "hps-y2k-chrome",
+  "title": "Hps Y2k Chrome",
+  "descriptionZh": "用于 Hps Y2k Chrome 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/hps-y2k-chrome",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/hps-y2k-chrome/SKILL.md",
+  "upstreamSha256": "5310cb2ba596898af88befa0f85f7692bef6d16f2b8c943552336c2e88cbf291"
+}

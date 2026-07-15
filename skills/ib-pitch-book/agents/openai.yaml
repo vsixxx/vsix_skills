@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ib Pitch Book"
+  short_description: "Use Ib Pitch Book guidance and workflows in Codex"
+  default_prompt: "Use $ib-pitch-book to help me complete a relevant task."

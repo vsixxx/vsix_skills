@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claw Score"
+  short_description: "Use Claw Score guidance and workflows in Codex"
+  default_prompt: "Use $claw-score to help me complete a relevant task."

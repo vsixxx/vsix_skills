@@ -1,0 +1,17 @@
+{
+  "id": "hyperframes-registry",
+  "title": "Hyperframes Registry",
+  "descriptionZh": "用于 Hyperframes Registry 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-registry",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/hyperframes-registry/SKILL.md",
+  "upstreamSha256": "1abaa095aae1b680b5b6e80032e66694fc401ccbfea9526aabcf727c841c9012"
+}

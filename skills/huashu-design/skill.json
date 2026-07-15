@@ -1,0 +1,17 @@
+{
+  "id": "huashu-design",
+  "title": "Huashu Design",
+  "descriptionZh": "用于 Huashu Design 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/alchaincyf/huashu-design/tree/master",
+  "homepage": "https://github.com/alchaincyf/huashu-design",
+  "license": "See upstream",
+  "author": "alchaincyf",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "0e7ec8aca0058184c1a9e06e57697e84f68a3f0f",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "614420f7517075ed7674a4bc48ba3fb074f242a43df064378ebe7f390d116458"
+}

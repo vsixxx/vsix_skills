@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arxiv"
+  short_description: "Use Arxiv guidance and workflows in Codex"
+  default_prompt: "Use $arxiv to help me complete a relevant task."

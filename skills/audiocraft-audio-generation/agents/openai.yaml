@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audiocraft Audio Generation"
+  short_description: "Use Audiocraft Audio Generation guidance and workflows in Codex"
+  default_prompt: "Use $audiocraft-audio-generation to help me complete a relevant task."

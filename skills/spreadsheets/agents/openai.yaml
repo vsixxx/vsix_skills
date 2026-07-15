@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spreadsheets"
+  short_description: "Use Spreadsheets guidance and workflows in Codex"
+  default_prompt: "Use $spreadsheets to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "ppt-orchestra-skill",
+  "title": "Ppt Orchestra Skill",
+  "descriptionZh": "用于 Ppt Orchestra Skill 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/plugins/pptx-plugin/skills/ppt-orchestra-skill",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "Proprietary. LICENSE.txt has complete terms",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "plugins/pptx-plugin/skills/ppt-orchestra-skill/SKILL.md",
+  "upstreamSha256": "60c1981c3d741969ff7ee02bf20a58324f2b7659c7db0105ece09d5288f8b41e"
+}

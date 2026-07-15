@@ -1,0 +1,17 @@
+{
+  "id": "mle-workflow",
+  "title": "Mle Workflow",
+  "descriptionZh": "用于 Mle Workflow 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/mle-workflow",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/mle-workflow/SKILL.md",
+  "upstreamSha256": "273324a7f019107b5ea25e57c4ca29a2e636798e8742b33b48eb83dd50cff428"
+}

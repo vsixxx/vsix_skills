@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai Sdk"
+  short_description: "Use Ai Sdk guidance and workflows in Codex"
+  default_prompt: "Use $ai-sdk to help me complete a relevant task."

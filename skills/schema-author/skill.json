@@ -1,0 +1,17 @@
+{
+  "id": "schema-author",
+  "title": "Schema Author",
+  "descriptionZh": "用于 Schema Author 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/schema-author",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/schema-author/SKILL.md",
+  "upstreamSha256": "4da9a472c966f8e4fb43d97a3a3608c67ec3d43da6b8c626ee0c30a4e70da26f"
+}

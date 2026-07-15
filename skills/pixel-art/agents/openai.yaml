@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Art"
+  short_description: "Use Pixel Art guidance and workflows in Codex"
+  default_prompt: "Use $pixel-art to help me complete a relevant task."

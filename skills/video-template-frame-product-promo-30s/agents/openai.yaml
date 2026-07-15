@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Product Promo 30s"
+  short_description: "Use Video Template Frame Product Promo 30s workflows in Codex"
+  default_prompt: "Use $video-template-frame-product-promo-30s to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parallel CLI"
+  short_description: "Use Parallel CLI guidance and workflows in Codex"
+  default_prompt: "Use $parallel-cli to help me complete a relevant task."

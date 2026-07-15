@@ -1,0 +1,17 @@
+{
+  "id": "player-example",
+  "title": "Player Example",
+  "descriptionZh": "用于 Player Example 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/player-example",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/player-example/SKILL.md",
+  "upstreamSha256": "ba2cf2d1e57fb8957477484cddb3defc9844a96fa9a6c4b91b62167f97f469c1"
+}

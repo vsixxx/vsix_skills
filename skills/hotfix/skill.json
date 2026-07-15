@@ -1,0 +1,17 @@
+{
+  "id": "hotfix",
+  "title": "Hotfix",
+  "descriptionZh": "用于 Hotfix 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/hotfix",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/hotfix/SKILL.md",
+  "upstreamSha256": "6d99a79bce373cd9f8fe02b1db2933c9121ac0a79c778d588dd03b5f337c4bf9"
+}

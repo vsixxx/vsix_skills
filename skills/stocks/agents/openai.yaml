@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stocks"
+  short_description: "Use Stocks guidance and workflows in Codex"
+  default_prompt: "Use $stocks to help me complete a relevant task."

@@ -1,0 +1,14 @@
+{
+  "id": "plan",
+  "title": "Plan",
+  "descriptionZh": "计划模式：将 Markdown 计划写入 `.hermes/plans/`，不执行。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/plan",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (writing-craft adapted from obra/superpowers)",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion To Hyperframes"
+  short_description: "Use Remotion To Hyperframes guidance and workflows in Codex"
+  default_prompt: "Use $remotion-to-hyperframes to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Creator"
+  short_description: "Use Skill Creator guidance and workflows in Codex"
+  default_prompt: "Use $skill-creator to help me complete a relevant task."

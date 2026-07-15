@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Review"
+  short_description: "Use Architecture Review guidance and workflows in Codex"
+  default_prompt: "Use $architecture-review to help me complete a relevant task."

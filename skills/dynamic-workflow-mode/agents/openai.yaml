@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dynamic Workflow Mode"
+  short_description: "Use Dynamic Workflow Mode guidance and workflows in Codex"
+  default_prompt: "Use $dynamic-workflow-mode to help me complete a relevant task."

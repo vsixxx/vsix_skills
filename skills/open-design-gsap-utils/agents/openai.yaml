@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Gsap Utils"
+  short_description: "Use Open Design Gsap Utils guidance and workflows in Codex"
+  default_prompt: "Use $open-design-gsap-utils to help me complete a relevant task."

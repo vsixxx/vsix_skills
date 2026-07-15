@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blueprint"
+  short_description: "Use Blueprint guidance and workflows in Codex"
+  default_prompt: "Use $blueprint to help me complete a relevant task."

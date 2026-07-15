@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Captions"
+  short_description: "Use Embedded Captions guidance and workflows in Codex"
+  default_prompt: "Use $embedded-captions to help me complete a relevant task."

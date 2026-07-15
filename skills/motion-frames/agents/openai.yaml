@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Frames"
+  short_description: "Use Motion Frames guidance and workflows in Codex"
+  default_prompt: "Use $motion-frames to help me complete a relevant task."

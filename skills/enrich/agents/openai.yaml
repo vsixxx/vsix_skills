@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enrich"
+  short_description: "Use Enrich guidance and workflows in Codex"
+  default_prompt: "Use $enrich to help me complete a relevant task."

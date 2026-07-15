@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Browser"
+  short_description: "Use Bb Browser guidance and workflows in Codex"
+  default_prompt: "Use $bb-browser to help me complete a relevant task."

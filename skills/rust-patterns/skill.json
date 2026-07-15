@@ -1,0 +1,17 @@
+{
+  "id": "rust-patterns",
+  "title": "Rust Patterns",
+  "descriptionZh": "用于 Rust Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/rust-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/rust-patterns/SKILL.md",
+  "upstreamSha256": "43612099e89f361a3f3e0114ffb8b5ff6fb3b2987edb84bc0fae2a275ffeea66"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Editing"
+  short_description: "Use Video Editing guidance and workflows in Codex"
+  default_prompt: "Use $video-editing to help me complete a relevant task."

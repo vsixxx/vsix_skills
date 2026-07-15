@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cross Modal Review"
+  short_description: "Use Cross Modal Review guidance and workflows in Codex"
+  default_prompt: "Use $cross-modal-review to help me complete a relevant task."

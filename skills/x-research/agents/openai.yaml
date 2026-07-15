@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Research"
+  short_description: "Use X Research guidance and workflows in Codex"
+  default_prompt: "Use $x-research to help me complete a relevant task."

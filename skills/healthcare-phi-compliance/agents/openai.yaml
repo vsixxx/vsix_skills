@@ -1,0 +1,4 @@
+interface:
+  display_name: "Healthcare Phi Compliance"
+  short_description: "Use Healthcare Phi Compliance guidance and workflows in Codex"
+  default_prompt: "Use $healthcare-phi-compliance to help me complete a relevant task."

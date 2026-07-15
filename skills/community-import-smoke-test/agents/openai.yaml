@@ -1,0 +1,4 @@
+interface:
+  display_name: "Community Import Smoke Test"
+  short_description: "Use Community Import Smoke Test guidance and workflows in Codex"
+  default_prompt: "Use $community-import-smoke-test to help me complete a relevant task."

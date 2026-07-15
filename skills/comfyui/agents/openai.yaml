@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comfyui"
+  short_description: "Use Comfyui guidance and workflows in Codex"
+  default_prompt: "Use $comfyui to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "article-enrichment",
+  "title": "Article Enrichment",
+  "descriptionZh": "用于 Article Enrichment 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/article-enrichment",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/article-enrichment/SKILL.md",
+  "upstreamSha256": "fcdbce0f250aa2c38b86299dae510b8dc7f1e1cd854961cb8520c61642309549"
+}

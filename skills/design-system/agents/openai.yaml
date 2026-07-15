@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System"
+  short_description: "Use Design System guidance and workflows in Codex"
+  default_prompt: "Use $design-system to help me complete a relevant task."

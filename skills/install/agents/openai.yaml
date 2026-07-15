@@ -1,0 +1,4 @@
+interface:
+  display_name: "Install"
+  short_description: "Use Install guidance and workflows in Codex"
+  default_prompt: "Use $install to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Clean Architecture"
+  short_description: "Use Android Clean Architecture guidance and workflows in Codex"
+  default_prompt: "Use $android-clean-architecture to help me complete a relevant task."

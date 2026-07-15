@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tinystruct Patterns"
+  short_description: "Use Tinystruct Patterns guidance and workflows in Codex"
+  default_prompt: "Use $tinystruct-patterns to help me complete a relevant task."

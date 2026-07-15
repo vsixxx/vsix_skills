@@ -1,0 +1,17 @@
+{
+  "id": "ui-demo",
+  "title": "Ui Demo",
+  "descriptionZh": "用于 Ui Demo 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ui-demo",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ui-demo/SKILL.md",
+  "upstreamSha256": "893eee77f98f52d28bffa6bbababa7481300cc13535dea519fa0cc1b0168b2f8"
+}

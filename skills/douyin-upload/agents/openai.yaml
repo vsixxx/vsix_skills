@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Upload"
+  short_description: "Use Douyin Upload guidance and workflows in Codex"
+  default_prompt: "Use $douyin-upload to help me complete a relevant task."

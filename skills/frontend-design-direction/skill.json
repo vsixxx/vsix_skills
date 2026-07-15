@@ -1,0 +1,17 @@
+{
+  "id": "frontend-design-direction",
+  "title": "Frontend Design Direction",
+  "descriptionZh": "用于 Frontend Design Direction 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/frontend-design-direction",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/frontend-design-direction/SKILL.md",
+  "upstreamSha256": "fa254de821f708e5791c4c80d30309ac7da89c2888301e967becb3b21ac73331"
+}

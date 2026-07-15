@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slideshow"
+  short_description: "Use Slideshow guidance and workflows in Codex"
+  default_prompt: "Use $slideshow to help me complete a relevant task."

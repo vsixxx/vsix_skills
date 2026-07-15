@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Design"
+  short_description: "Use Apple Design guidance and workflows in Codex"
+  default_prompt: "Use $apple-design to help me complete a relevant task."

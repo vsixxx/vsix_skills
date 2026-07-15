@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minecraft Modpack Server"
+  short_description: "Use Minecraft Modpack Server guidance and workflows in Codex"
+  default_prompt: "Use $minecraft-modpack-server to help me complete a relevant task."

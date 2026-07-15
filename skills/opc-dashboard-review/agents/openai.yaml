@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Dashboard Review"
+  short_description: "Use Opc Dashboard Review guidance and workflows in Codex"
+  default_prompt: "Use $opc-dashboard-review to help me complete a relevant task."

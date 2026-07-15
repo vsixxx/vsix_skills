@@ -1,0 +1,17 @@
+{
+  "id": "returns-reverse-logistics",
+  "title": "Returns Reverse Logistics",
+  "descriptionZh": "用于 Returns Reverse Logistics 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/returns-reverse-logistics",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "Apache-2.0",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/returns-reverse-logistics/SKILL.md",
+  "upstreamSha256": "12a0d79160e8562c92342063b11931da99ecee049376679c415c259235ddd8e2"
+}

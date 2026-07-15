@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evm Token Decimals"
+  short_description: "Use Evm Token Decimals guidance and workflows in Codex"
+  default_prompt: "Use $evm-token-decimals to help me complete a relevant task."

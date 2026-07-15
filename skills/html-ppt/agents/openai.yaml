@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt"
+  short_description: "Use HTML Ppt guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt to help me complete a relevant task."

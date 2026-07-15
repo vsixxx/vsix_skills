@@ -1,0 +1,17 @@
+{
+  "id": "reference-pack",
+  "title": "Reference Pack",
+  "descriptionZh": "用于 Reference Pack 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/examples/skillpack-reference/skills/reference-pack",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "examples/skillpack-reference/skills/reference-pack/SKILL.md",
+  "upstreamSha256": "e15a5cde2b58e2f0dc729a2f529416f8f5d6c7c5f49c1dbcd85ab03cddbfd0a4"
+}

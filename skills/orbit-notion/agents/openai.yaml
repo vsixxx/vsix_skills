@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orbit Notion"
+  short_description: "Use Orbit Notion guidance and workflows in Codex"
+  default_prompt: "Use $orbit-notion to help me complete a relevant task."

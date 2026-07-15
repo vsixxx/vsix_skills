@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customs Trade Compliance"
+  short_description: "Use Customs Trade Compliance guidance and workflows in Codex"
+  default_prompt: "Use $customs-trade-compliance to help me complete a relevant task."

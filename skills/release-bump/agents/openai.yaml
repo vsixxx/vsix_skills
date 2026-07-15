@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Bump"
+  short_description: "Use Release Bump guidance and workflows in Codex"
+  default_prompt: "Use $release-bump to help me complete a relevant task."

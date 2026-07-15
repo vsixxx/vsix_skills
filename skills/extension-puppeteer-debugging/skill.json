@@ -1,0 +1,17 @@
+{
+  "id": "extension-puppeteer-debugging",
+  "title": "Extension Puppeteer Debugging",
+  "descriptionZh": "用于 Extension Puppeteer Debugging 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/extension-puppeteer-debugging",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/extension-puppeteer-debugging/SKILL.md",
+  "upstreamSha256": "8882f08d0ebd5c8785bd209a85b7402188cf69945d09fa34ea8885fc51fe2c2f"
+}

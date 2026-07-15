@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Billing Ops"
+  short_description: "Use Finance Billing Ops guidance and workflows in Codex"
+  default_prompt: "Use $finance-billing-ops to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Webcodecs Bug"
+  short_description: "Use Add Webcodecs Bug guidance and workflows in Codex"
+  default_prompt: "Use $add-webcodecs-bug to help me complete a relevant task."

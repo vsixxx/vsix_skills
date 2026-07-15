@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Sort"
+  short_description: "Use Agent Sort guidance and workflows in Codex"
+  default_prompt: "Use $agent-sort to help me complete a relevant task."

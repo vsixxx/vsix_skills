@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Throughput Accelerator"
+  short_description: "Use Data Throughput Accelerator guidance and workflows in Codex"
+  default_prompt: "Use $data-throughput-accelerator to help me complete a relevant task."

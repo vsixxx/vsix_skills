@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blucli"
+  short_description: "Use Blucli guidance and workflows in Codex"
+  default_prompt: "Use $blucli to help me complete a relevant task."

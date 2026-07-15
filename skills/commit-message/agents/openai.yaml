@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Message"
+  short_description: "Use Commit Message guidance and workflows in Codex"
+  default_prompt: "Use $commit-message to help me complete a relevant task."

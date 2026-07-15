@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Business Model Design"
+  short_description: "Use Opc Business Model Design guidance and workflows in Codex"
+  default_prompt: "Use $opc-business-model-design to help me complete a relevant task."

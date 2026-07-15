@@ -1,0 +1,17 @@
+{
+  "id": "archive-crawler",
+  "title": "Archive Crawler",
+  "descriptionZh": "用于 Archive Crawler 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/archive-crawler",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/archive-crawler/SKILL.md",
+  "upstreamSha256": "10c529797e1cba75da5bdb13bdd3609ae5f962f7dcc429c3b85d51c0032d9a26"
+}

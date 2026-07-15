@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Qa"
+  short_description: "Use Team Qa guidance and workflows in Codex"
+  default_prompt: "Use $team-qa to help me complete a relevant task."

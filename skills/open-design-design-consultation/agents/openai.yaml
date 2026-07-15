@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Design Consultation"
+  short_description: "Use Open Design Design Consultation workflows in Codex"
+  default_prompt: "Use $open-design-design-consultation to help me complete a relevant task."

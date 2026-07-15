@@ -1,0 +1,17 @@
+{
+  "id": "ecc-recipes",
+  "title": "Ecc Recipes",
+  "descriptionZh": "用于 Ecc Recipes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ecc-recipes",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "KyawZinLatt",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ecc-recipes/SKILL.md",
+  "upstreamSha256": "147bd5763fb925da7f3bf3e413ce7b44e9a2d44529e08b642695a5e3e79311f3"
+}

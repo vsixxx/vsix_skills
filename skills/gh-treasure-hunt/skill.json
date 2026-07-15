@@ -1,0 +1,17 @@
+{
+  "id": "gh-treasure-hunt",
+  "title": "Gh Treasure Hunt",
+  "descriptionZh": "用于 Gh Treasure Hunt 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/docs/skills/gh-treasure-hunt",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "docs/skills/gh-treasure-hunt/SKILL.md",
+  "upstreamSha256": "fb078b4908ee89512a520e74279ba81182f490a631410c1afa6a8e8aa2963fa1"
+}

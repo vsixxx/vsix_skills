@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Protocol Di Testing"
+  short_description: "Use Swift Protocol Di Testing guidance and workflows in Codex"
+  default_prompt: "Use $swift-protocol-di-testing to help me complete a relevant task."

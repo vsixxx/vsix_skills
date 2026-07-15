@@ -1,0 +1,17 @@
+{
+  "id": "qiaomu-opencli-browser",
+  "title": "Qiaomu Opencli Browser",
+  "descriptionZh": "用于 Qiaomu Opencli Browser 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/joeseesun/qiaomu-opencli-skills/tree/main/qiaomu-opencli-browser",
+  "homepage": "https://github.com/joeseesun/qiaomu-opencli-skills",
+  "license": "See upstream",
+  "author": "joeseesun",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4d9a08ebff749e5b12ab544d6a72f82bbe78f43d",
+  "upstreamPath": "qiaomu-opencli-browser/SKILL.md",
+  "upstreamSha256": "f0abef5a5b5cf473ed3e54633f9bc0338090b7669a59e44a1f90615c0962ba2d"
+}

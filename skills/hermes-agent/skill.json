@@ -1,0 +1,14 @@
+{
+  "id": "hermes-agent",
+  "title": "Hermes Agent",
+  "descriptionZh": "配置、扩展或贡献 Hermes Agent。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/autonomous-ai-agents/hermes-agent",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Teknium",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

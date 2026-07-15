@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finishing A Development Branch"
+  short_description: "Use Finishing A Development Branch workflows in Codex"
+  default_prompt: "Use $finishing-a-development-branch to help me complete a relevant task."

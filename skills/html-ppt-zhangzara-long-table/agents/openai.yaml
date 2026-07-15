@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Long Table"
+  short_description: "Use HTML Ppt Zhangzara Long Table workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-long-table to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omnivoice"
+  short_description: "Use Omnivoice guidance and workflows in Codex"
+  default_prompt: "Use $omnivoice to help me complete a relevant task."

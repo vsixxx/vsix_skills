@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Docs"
+  short_description: "Use Writing Docs guidance and workflows in Codex"
+  default_prompt: "Use $writing-docs to help me complete a relevant task."

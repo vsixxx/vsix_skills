@@ -1,0 +1,14 @@
+{
+  "id": "gitnexus-explorer",
+  "title": "Gitnexus Explorer",
+  "descriptionZh": "使用 GitNexus 为代码库建立索引，并通过 Web UI + Cloudflare 隧道提供交互式知识图谱。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/gitnexus-explorer",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Teknium",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

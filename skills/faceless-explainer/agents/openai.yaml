@@ -1,0 +1,4 @@
+interface:
+  display_name: "Faceless Explainer"
+  short_description: "Use Faceless Explainer guidance and workflows in Codex"
+  default_prompt: "Use $faceless-explainer to help me complete a relevant task."

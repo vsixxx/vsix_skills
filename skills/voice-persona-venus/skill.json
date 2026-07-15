@@ -1,0 +1,17 @@
+{
+  "id": "voice-persona-venus",
+  "title": "Voice Persona Venus",
+  "descriptionZh": "用于 Voice Persona Venus 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/recipes/agent-voice/skills/voice-persona-venus",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "recipes/agent-voice/skills/voice-persona-venus/SKILL.md",
+  "upstreamSha256": "fd1bbd6ff4c6298eb4887e8c1d40b0dc0e1ba96780d2266fd690eed4df8ed067"
+}

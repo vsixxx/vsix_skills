@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Ai Media"
+  short_description: "Use Fal Ai Media guidance and workflows in Codex"
+  default_prompt: "Use $fal-ai-media to help me complete a relevant task."

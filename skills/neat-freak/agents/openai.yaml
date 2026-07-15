@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neat Freak"
+  short_description: "Use Neat Freak guidance and workflows in Codex"
+  default_prompt: "Use $neat-freak to help me complete a relevant task."

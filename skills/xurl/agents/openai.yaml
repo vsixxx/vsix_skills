@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xurl"
+  short_description: "Use Xurl guidance and workflows in Codex"
+  default_prompt: "Use $xurl to help me complete a relevant task."

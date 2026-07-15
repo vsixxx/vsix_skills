@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas"
+  short_description: "Use Canvas guidance and workflows in Codex"
+  default_prompt: "Use $canvas to help me complete a relevant task."

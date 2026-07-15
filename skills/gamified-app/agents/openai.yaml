@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gamified App"
+  short_description: "Use Gamified App guidance and workflows in Codex"
+  default_prompt: "Use $gamified-app to help me complete a relevant task."

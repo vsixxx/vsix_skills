@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Article Illustrator"
+  short_description: "Use Baoyu Article Illustrator guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-article-illustrator to help me complete a relevant task."

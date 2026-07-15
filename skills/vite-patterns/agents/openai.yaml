@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vite Patterns"
+  short_description: "Use Vite Patterns guidance and workflows in Codex"
+  default_prompt: "Use $vite-patterns to help me complete a relevant task."

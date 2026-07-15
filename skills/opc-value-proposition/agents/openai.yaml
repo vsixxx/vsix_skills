@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Value Proposition"
+  short_description: "Use Opc Value Proposition guidance and workflows in Codex"
+  default_prompt: "Use $opc-value-proposition to help me complete a relevant task."

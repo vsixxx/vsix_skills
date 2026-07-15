@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Writing"
+  short_description: "Use Article Writing guidance and workflows in Codex"
+  default_prompt: "Use $article-writing to help me complete a relevant task."

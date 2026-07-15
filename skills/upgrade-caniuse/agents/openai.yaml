@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upgrade Caniuse"
+  short_description: "Use Upgrade Caniuse guidance and workflows in Codex"
+  default_prompt: "Use $upgrade-caniuse to help me complete a relevant task."

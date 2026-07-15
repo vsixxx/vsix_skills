@@ -1,0 +1,4 @@
+interface:
+  display_name: "Golang Patterns"
+  short_description: "Use Golang Patterns guidance and workflows in Codex"
+  default_prompt: "Use $golang-patterns to help me complete a relevant task."

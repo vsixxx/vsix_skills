@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animation Vocabulary"
+  short_description: "Use Animation Vocabulary guidance and workflows in Codex"
+  default_prompt: "Use $animation-vocabulary to help me complete a relevant task."

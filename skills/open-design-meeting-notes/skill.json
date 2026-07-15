@@ -1,0 +1,17 @@
+{
+  "id": "open-design-meeting-notes",
+  "title": "Open Design Meeting Notes",
+  "descriptionZh": "用于 Open Design Meeting Notes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/meeting-notes",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/meeting-notes/SKILL.md",
+  "upstreamSha256": "544e1caccfea768e47bdaea1c88647b857ad75767d73832d5b6a4c5148c6d8a3"
+}

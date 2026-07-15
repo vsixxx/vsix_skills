@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canary Watch"
+  short_description: "Use Canary Watch guidance and workflows in Codex"
+  default_prompt: "Use $canary-watch to help me complete a relevant task."

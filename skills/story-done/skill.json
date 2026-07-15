@@ -1,0 +1,17 @@
+{
+  "id": "story-done",
+  "title": "Story Done",
+  "descriptionZh": "用于 Story Done 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/story-done",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/story-done/SKILL.md",
+  "upstreamSha256": "a9215959142b6417223ff818f99f2f33b10d401bb9ff446f622ec8573433b261"
+}

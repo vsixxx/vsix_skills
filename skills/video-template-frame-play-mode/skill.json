@@ -1,0 +1,17 @@
+{
+  "id": "video-template-frame-play-mode",
+  "title": "Video Template Frame Play Mode",
+  "descriptionZh": "用于 Video Template Frame Play Mode 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/video-templates/frame-play-mode",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "Apache-2.0",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/video-templates/frame-play-mode/SKILL.md",
+  "upstreamSha256": "82a7e59a5e36744fce7308792ec5eb56e34ed2eb432c84ef4eaa2faf141d0cbb"
+}

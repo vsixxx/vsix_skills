@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nano PDF"
+  short_description: "Use Nano PDF guidance and workflows in Codex"
+  default_prompt: "Use $nano-pdf to help me complete a relevant task."

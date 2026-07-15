@@ -1,0 +1,4 @@
+interface:
+  display_name: "How It Works"
+  short_description: "Use How It Works guidance and workflows in Codex"
+  default_prompt: "Use $how-it-works to help me complete a relevant task."

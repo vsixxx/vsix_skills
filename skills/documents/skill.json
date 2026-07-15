@@ -1,0 +1,17 @@
+{
+  "id": "documents",
+  "title": "Documents",
+  "descriptionZh": "用于 Documents 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/crates/tui/assets/skills/documents",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "crates/tui/assets/skills/documents/SKILL.md",
+  "upstreamSha256": "5480dac20230127a42ee36e1984dcafbab005c47c02e50b1720522342f293076"
+}

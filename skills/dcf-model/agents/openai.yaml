@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dcf Model"
+  short_description: "Use Dcf Model guidance and workflows in Codex"
+  default_prompt: "Use $dcf-model to help me complete a relevant task."

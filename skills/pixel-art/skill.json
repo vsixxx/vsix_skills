@@ -1,0 +1,14 @@
+{
+  "id": "pixel-art",
+  "title": "Pixel Art",
+  "descriptionZh": "设计和生成像素画、精灵及像素风视觉资源。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "dodo-reach",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

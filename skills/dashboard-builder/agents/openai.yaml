@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dashboard Builder"
+  short_description: "Use Dashboard Builder guidance and workflows in Codex"
+  default_prompt: "Use $dashboard-builder to help me complete a relevant task."

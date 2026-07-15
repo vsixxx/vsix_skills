@@ -1,0 +1,4 @@
+interface:
+  display_name: "Using Git Worktrees"
+  short_description: "Use Using Git Worktrees guidance and workflows in Codex"
+  default_prompt: "Use $using-git-worktrees to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telegram Crabbox E2e Proof"
+  short_description: "Use Telegram Crabbox E2e Proof guidance and workflows in Codex"
+  default_prompt: "Use $telegram-crabbox-e2e-proof to help me complete a relevant task."

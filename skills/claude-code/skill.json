@@ -1,0 +1,14 @@
+{
+  "id": "claude-code",
+  "title": "Claude Code",
+  "descriptionZh": "将编码任务委托给 Claude Code CLI（功能开发、PR）。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/autonomous-ai-agents/claude-code",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Teknium",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

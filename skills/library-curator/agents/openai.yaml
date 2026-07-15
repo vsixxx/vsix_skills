@@ -1,0 +1,4 @@
+interface:
+  display_name: "Library Curator"
+  short_description: "Use Library Curator guidance and workflows in Codex"
+  default_prompt: "Use $library-curator to help me complete a relevant task."

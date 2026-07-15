@@ -1,0 +1,17 @@
+{
+  "id": "test-setup",
+  "title": "Test Setup",
+  "descriptionZh": "用于 Test Setup 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/test-setup",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/test-setup/SKILL.md",
+  "upstreamSha256": "bf3477f58af77fdeabed42e9c15f1b7bd41d6837c1ddff0450922cee694c628d"
+}

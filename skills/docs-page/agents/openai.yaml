@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs Page"
+  short_description: "Use Docs Page guidance and workflows in Codex"
+  default_prompt: "Use $docs-page to help me complete a relevant task."

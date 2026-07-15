@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guidance"
+  short_description: "Use Guidance guidance and workflows in Codex"
+  default_prompt: "Use $guidance to help me complete a relevant task."

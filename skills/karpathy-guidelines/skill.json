@@ -1,0 +1,17 @@
+{
+  "id": "karpathy-guidelines",
+  "title": "Karpathy Guidelines",
+  "descriptionZh": "用于 Karpathy Guidelines 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/multica-ai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines",
+  "homepage": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "license": "MIT",
+  "author": "multica-ai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+  "upstreamPath": "skills/karpathy-guidelines/SKILL.md",
+  "upstreamSha256": "6e22cc54cb02a5e98ae42d06d9d7292db0c1b43894831b32879beb0166b2aea7"
+}

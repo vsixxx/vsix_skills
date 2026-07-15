@@ -1,0 +1,17 @@
+{
+  "id": "od-media-generation",
+  "title": "Od Media Generation",
+  "descriptionZh": "用于 Od Media Generation 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/scenarios/od-media-generation",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/scenarios/od-media-generation/SKILL.md",
+  "upstreamSha256": "3beadfbe45ba2d35d1a32f62eed078050c184feb0250a62586268ce49f7f0c66"
+}

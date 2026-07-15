@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acp Router"
+  short_description: "Use Acp Router guidance and workflows in Codex"
+  default_prompt: "Use $acp-router to help me complete a relevant task."

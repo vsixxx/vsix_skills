@@ -1,0 +1,17 @@
+{
+  "id": "react-native-dev",
+  "title": "React Native Dev",
+  "descriptionZh": "用于 React Native Dev 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/react-native-dev",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/react-native-dev/SKILL.md",
+  "upstreamSha256": "6e16a6c9ab081bc0192316ebfe514915e55ef18ab0001ccc64763ea600aa304d"
+}

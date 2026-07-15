@@ -1,0 +1,4 @@
+interface:
+  display_name: "Composing Videos"
+  short_description: "Use Composing Videos guidance and workflows in Codex"
+  default_prompt: "Use $composing-videos to help me complete a relevant task."

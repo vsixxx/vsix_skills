@@ -1,0 +1,4 @@
+interface:
+  display_name: "Merge"
+  short_description: "Use Merge guidance and workflows in Codex"
+  default_prompt: "Use $merge to help me complete a relevant task."

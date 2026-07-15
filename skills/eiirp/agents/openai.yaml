@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eiirp"
+  short_description: "Use Eiirp guidance and workflows in Codex"
+  default_prompt: "Use $eiirp to help me complete a relevant task."

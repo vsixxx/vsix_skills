@@ -1,0 +1,4 @@
+interface:
+  display_name: "P9"
+  short_description: "Use P9 guidance and workflows in Codex"
+  default_prompt: "Use $p9 to help me complete a relevant task."

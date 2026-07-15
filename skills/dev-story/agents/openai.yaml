@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Story"
+  short_description: "Use Dev Story guidance and workflows in Codex"
+  default_prompt: "Use $dev-story to help me complete a relevant task."

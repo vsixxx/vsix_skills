@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nanoclaw Repl"
+  short_description: "Use Nanoclaw Repl guidance and workflows in Codex"
+  default_prompt: "Use $nanoclaw-repl to help me complete a relevant task."

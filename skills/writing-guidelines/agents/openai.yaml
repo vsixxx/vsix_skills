@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Guidelines"
+  short_description: "Use Writing Guidelines guidance and workflows in Codex"
+  default_prompt: "Use $writing-guidelines to help me complete a relevant task."

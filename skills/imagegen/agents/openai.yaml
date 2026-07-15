@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imagegen"
+  short_description: "Use Imagegen guidance and workflows in Codex"
+  default_prompt: "Use $imagegen to help me complete a relevant task."

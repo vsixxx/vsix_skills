@@ -1,0 +1,17 @@
+{
+  "id": "obsidian-vault-maintainer",
+  "title": "Obsidian Vault Maintainer",
+  "descriptionZh": "用于 Obsidian Vault Maintainer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/memory-wiki/skills/obsidian-vault-maintainer",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/memory-wiki/skills/obsidian-vault-maintainer/SKILL.md",
+  "upstreamSha256": "c3c719a7b7722511f80c5abd65b48df68669aa471eb3d304c2299f7d56a9a21b"
+}

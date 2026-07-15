@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Animations"
+  short_description: "Use Improve Animations guidance and workflows in Codex"
+  default_prompt: "Use $improve-animations to help me complete a relevant task."

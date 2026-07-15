@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brain Taxonomist"
+  short_description: "Use Brain Taxonomist guidance and workflows in Codex"
+  default_prompt: "Use $brain-taxonomist to help me complete a relevant task."

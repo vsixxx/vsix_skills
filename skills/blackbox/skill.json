@@ -1,0 +1,14 @@
+{
+  "id": "blackbox",
+  "title": "Blackbox",
+  "descriptionZh": "将编码任务委托给 Blackbox AI CLI agent。内置评判机制的多模型 agent，通过多个 LLM 运行任务并选出最佳结果。需要 blackbox CLI 和 Blackbox AI API 密钥。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/autonomous-ai-agents/blackbox",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (Nous Research)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

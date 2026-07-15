@@ -1,0 +1,4 @@
+interface:
+  display_name: "Happy Release"
+  short_description: "Use Happy Release guidance and workflows in Codex"
+  default_prompt: "Use $happy-release to help me complete a relevant task."

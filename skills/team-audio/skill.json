@@ -1,0 +1,17 @@
+{
+  "id": "team-audio",
+  "title": "Team Audio",
+  "descriptionZh": "用于 Team Audio 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/team-audio",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/team-audio/SKILL.md",
+  "upstreamSha256": "6dd03358962dbef74b6c67e7d34383e0721571a534b75f1ba562f39e92287416"
+}

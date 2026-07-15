@@ -1,0 +1,4 @@
+interface:
+  display_name: "Standup Summary"
+  short_description: "Use Standup Summary guidance and workflows in Codex"
+  default_prompt: "Use $standup-summary to help me complete a relevant task."

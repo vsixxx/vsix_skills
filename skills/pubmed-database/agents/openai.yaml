@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pubmed Database"
+  short_description: "Use Pubmed Database guidance and workflows in Codex"
+  default_prompt: "Use $pubmed-database to help me complete a relevant task."

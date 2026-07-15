@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara 8 Bit Orbit"
+  short_description: "Use HTML Ppt Zhangzara 8 Bit Orbit workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-8-bit-orbit to help me complete a relevant task."

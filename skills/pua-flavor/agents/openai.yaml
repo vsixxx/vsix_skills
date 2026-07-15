@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Flavor"
+  short_description: "Use Pua Flavor guidance and workflows in Codex"
+  default_prompt: "Use $pua-flavor to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Color Font Skill"
+  short_description: "Use Color Font Skill guidance and workflows in Codex"
+  default_prompt: "Use $color-font-skill to help me complete a relevant task."

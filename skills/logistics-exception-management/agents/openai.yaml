@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logistics Exception Management"
+  short_description: "Use Logistics Exception Management workflows in Codex"
+  default_prompt: "Use $logistics-exception-management to help me complete a relevant task."

@@ -1,0 +1,16 @@
+{
+  "id": "lambda-labs-gpu-cloud",
+  "title": "Lambda Labs Gpu Cloud",
+  "descriptionZh": "用于 ML 训练和推理的按需及预留 GPU 云实例。适用于需要通过简单 SSH 访问专用 GPU 实例、持久化文件系统或用于大规模训练的高性能多节点集群的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: lambda-cloud-client>=1.0.0"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/lambda-labs",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

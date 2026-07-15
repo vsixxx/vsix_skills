@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify Release"
+  short_description: "Use Verify Release guidance and workflows in Codex"
+  default_prompt: "Use $verify-release to help me complete a relevant task."

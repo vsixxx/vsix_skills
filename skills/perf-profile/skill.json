@@ -1,0 +1,17 @@
+{
+  "id": "perf-profile",
+  "title": "Perf Profile",
+  "descriptionZh": "用于 Perf Profile 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/perf-profile",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/perf-profile/SKILL.md",
+  "upstreamSha256": "376f4f24dff70ec9e4a4883ec3352e0008c6c10c3f3660e0a4946b4b48ef7aa7"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ios-icon-gen",
+  "title": "Ios Icon Gen",
+  "descriptionZh": "用于 Ios Icon Gen 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ios-icon-gen",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ios-icon-gen/SKILL.md",
+  "upstreamSha256": "893627c44e6d209f9b2e02de2f4879188649d22ae9723cd5b9445de6df3d6482"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "add-new-package",
+  "title": "Add New Package",
+  "descriptionZh": "用于 Add New Package 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/add-new-package",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/add-new-package/SKILL.md",
+  "upstreamSha256": "5cd62d025409bb16ff3bee24d37671ac1e6ed723c59a80800586d9ead96d3c2d"
+}

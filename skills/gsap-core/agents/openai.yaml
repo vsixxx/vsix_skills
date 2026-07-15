@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap Core"
+  short_description: "Use Gsap Core guidance and workflows in Codex"
+  default_prompt: "Use $gsap-core to help me complete a relevant task."

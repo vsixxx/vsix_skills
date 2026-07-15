@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-secret-scanning-maintainer",
+  "title": "Openclaw Secret Scanning Maintainer",
+  "descriptionZh": "用于 Openclaw Secret Scanning Maintainer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-secret-scanning-maintainer",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/openclaw-secret-scanning-maintainer/SKILL.md",
+  "upstreamSha256": "631d6d7d8aa24fbe45027bc3f9d60a91e21564818a1dd53b0c159dc18bdbcdd8"
+}

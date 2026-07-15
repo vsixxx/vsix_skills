@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flowai Live Dashboard Template"
+  short_description: "Use Flowai Live Dashboard Template workflows in Codex"
+  default_prompt: "Use $flowai-live-dashboard-template to help me complete a relevant task."

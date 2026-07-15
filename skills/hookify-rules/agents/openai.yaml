@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hookify Rules"
+  short_description: "Use Hookify Rules guidance and workflows in Codex"
+  default_prompt: "Use $hookify-rules to help me complete a relevant task."

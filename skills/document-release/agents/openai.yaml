@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document Release"
+  short_description: "Use Document Release guidance and workflows in Codex"
+  default_prompt: "Use $document-release to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quarkus Patterns"
+  short_description: "Use Quarkus Patterns guidance and workflows in Codex"
+  default_prompt: "Use $quarkus-patterns to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fs Emerald Editorial"
+  short_description: "Use Fs Emerald Editorial guidance and workflows in Codex"
+  default_prompt: "Use $fs-emerald-editorial to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Teardown All"
+  short_description: "Use Pua Teardown All guidance and workflows in Codex"
+  default_prompt: "Use $pua-teardown-all to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "To Tickets"
+  short_description: "Use To Tickets guidance and workflows in Codex"
+  default_prompt: "Use $to-tickets to help me complete a relevant task."

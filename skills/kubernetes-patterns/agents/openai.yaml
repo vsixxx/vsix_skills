@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kubernetes Patterns"
+  short_description: "Use Kubernetes Patterns guidance and workflows in Codex"
+  default_prompt: "Use $kubernetes-patterns to help me complete a relevant task."

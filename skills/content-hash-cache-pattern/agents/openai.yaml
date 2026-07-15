@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Hash Cache Pattern"
+  short_description: "Use Content Hash Cache Pattern guidance and workflows in Codex"
+  default_prompt: "Use $content-hash-cache-pattern to help me complete a relevant task."

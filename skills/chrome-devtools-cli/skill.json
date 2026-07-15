@@ -1,0 +1,17 @@
+{
+  "id": "chrome-devtools-cli",
+  "title": "Chrome Devtools CLI",
+  "descriptionZh": "用于 Chrome Devtools CLI 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp/tree/main/skills/chrome-devtools-cli",
+  "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "license": "See upstream",
+  "author": "ChromeDevTools",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2d944f9f4e6b107a6b42fb82c7e957384883bf7d",
+  "upstreamPath": "skills/chrome-devtools-cli/SKILL.md",
+  "upstreamSha256": "7382e3581eebfce8ccdb1f2f08e725e02f389fb0cc4ac5173dac8ca8272c6b3f"
+}

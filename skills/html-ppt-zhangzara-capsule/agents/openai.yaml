@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Capsule"
+  short_description: "Use HTML Ppt Zhangzara Capsule guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-capsule to help me complete a relevant task."

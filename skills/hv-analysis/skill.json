@@ -1,0 +1,17 @@
+{
+  "id": "hv-analysis",
+  "title": "Hv Analysis",
+  "descriptionZh": "用于 Hv Analysis 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/tree/main/hv-analysis",
+  "homepage": "https://github.com/KKKKhazix/khazix-skills",
+  "license": "See upstream",
+  "author": "KKKKhazix",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5a963d91f772e0d4f6659c43a36876a74c468143",
+  "upstreamPath": "hv-analysis/SKILL.md",
+  "upstreamSha256": "898f21b1f7b45456a54419b1b31765c896662a1e3f614d2c3413f809824de3a2"
+}

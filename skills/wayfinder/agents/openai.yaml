@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wayfinder"
+  short_description: "Use Wayfinder guidance and workflows in Codex"
+  default_prompt: "Use $wayfinder to help me complete a relevant task."

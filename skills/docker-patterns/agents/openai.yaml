@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Patterns"
+  short_description: "Use Docker Patterns guidance and workflows in Codex"
+  default_prompt: "Use $docker-patterns to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Digital Eguide"
+  short_description: "Use Digital Eguide guidance and workflows in Codex"
+  default_prompt: "Use $digital-eguide to help me complete a relevant task."

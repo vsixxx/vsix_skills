@@ -1,0 +1,4 @@
+interface:
+  display_name: "React"
+  short_description: "Use React guidance and workflows in Codex"
+  default_prompt: "Use $react to help me complete a relevant task."

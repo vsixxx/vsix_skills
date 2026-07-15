@@ -1,0 +1,17 @@
+{
+  "id": "gsap-performance",
+  "title": "Gsap Performance",
+  "descriptionZh": "用于 Gsap Performance 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-performance",
+  "homepage": "https://github.com/greensock/gsap-skills",
+  "license": "MIT",
+  "author": "greensock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+  "upstreamPath": "skills/gsap-performance/SKILL.md",
+  "upstreamSha256": "cb5408d6fba707aabcbfe3320317a14c1f8fca6070074e5261047930f50d441e"
+}

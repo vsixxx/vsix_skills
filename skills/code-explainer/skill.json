@@ -1,0 +1,17 @@
+{
+  "id": "code-explainer",
+  "title": "Code Explainer",
+  "descriptionZh": "用于 Code Explainer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mergisi/awesome-openclaw-agents/tree/main/skills/gemma/code-explainer",
+  "homepage": "https://github.com/mergisi/awesome-openclaw-agents",
+  "license": "See upstream",
+  "author": "mergisi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "05820c51125e86a979432e21651d34dc9b14621f",
+  "upstreamPath": "skills/gemma/code-explainer/SKILL.md",
+  "upstreamSha256": "38c22d1989636814f560a4645eba1938400a2723d9b5c913d60e62b38b886629"
+}

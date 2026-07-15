@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Openclaw Plugin Testing"
+  short_description: "Use Release Openclaw Plugin Testing workflows in Codex"
+  default_prompt: "Use $release-openclaw-plugin-testing to help me complete a relevant task."

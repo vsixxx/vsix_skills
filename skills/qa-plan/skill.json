@@ -1,0 +1,17 @@
+{
+  "id": "qa-plan",
+  "title": "Qa Plan",
+  "descriptionZh": "用于 Qa Plan 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/qa-plan",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/qa-plan/SKILL.md",
+  "upstreamSha256": "f4e9823754aaad75ff87fe700a826c0953ce9ddf853130e2d6cdf3ba2d3622ba"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "1Password"
+  short_description: "Use 1Password guidance and workflows in Codex"
+  default_prompt: "Use $1password to help me complete a relevant task."

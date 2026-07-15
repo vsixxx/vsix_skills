@@ -1,0 +1,16 @@
+{
+  "id": "honcho",
+  "title": "Honcho",
+  "descriptionZh": "配置并使用 Honcho 记忆与 Hermes — 跨会话用户建模、多配置文件对等隔离、观测配置、辩证推理、会话摘要及上下文预算执行。适用于配置 Honcho、故障排查等场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Python package: honcho-ai"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/autonomous-ai-agents/honcho",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Prototype Taste Soft"
+  short_description: "Use Web Prototype Taste Soft guidance and workflows in Codex"
+  default_prompt: "Use $web-prototype-taste-soft to help me complete a relevant task."

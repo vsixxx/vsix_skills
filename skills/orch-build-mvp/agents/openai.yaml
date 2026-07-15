@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orch Build Mvp"
+  short_description: "Use Orch Build Mvp guidance and workflows in Codex"
+  default_prompt: "Use $orch-build-mvp to help me complete a relevant task."

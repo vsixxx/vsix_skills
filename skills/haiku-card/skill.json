@@ -1,0 +1,17 @@
+{
+  "id": "haiku-card",
+  "title": "Haiku Card",
+  "descriptionZh": "用于 Haiku Card 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mergisi/awesome-openclaw-agents/tree/main/skills/gemma/haiku-card",
+  "homepage": "https://github.com/mergisi/awesome-openclaw-agents",
+  "license": "See upstream",
+  "author": "mergisi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "05820c51125e86a979432e21651d34dc9b14621f",
+  "upstreamPath": "skills/gemma/haiku-card/SKILL.md",
+  "upstreamSha256": "f173be3a57187732bb4a387257c61f2a654457bd74a5f6375f5e7348af308a40"
+}

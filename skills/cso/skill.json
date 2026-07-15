@@ -1,0 +1,17 @@
+{
+  "id": "cso",
+  "title": "Cso",
+  "descriptionZh": "用于 Cso 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/cso",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "cso/SKILL.md",
+  "upstreamSha256": "4d5da6367475aaad38bbf59f29e5c7fa2b184d48590951100b1d409b723133ea"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Report"
+  short_description: "Use Video Report guidance and workflows in Codex"
+  default_prompt: "Use $video-report to help me complete a relevant task."

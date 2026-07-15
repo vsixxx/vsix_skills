@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Format Markdown"
+  short_description: "Use Baoyu Format Markdown guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-format-markdown to help me complete a relevant task."

@@ -1,0 +1,18 @@
+{
+  "id": "huggingface-tokenizers",
+  "title": "Huggingface Tokenizers",
+  "descriptionZh": "为研究和生产优化的快速 tokenizer（分词器）。基于 Rust 实现，可在 20 秒内对 1GB 文本完成分词。支持 BPE、WordPiece 和 Unigram 算法。训练自定义词表、追踪对齐、处理填充/截断，与 HuggingFace 生态集成。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: tokenizers",
+    "Package: transformers",
+    "Package: datasets"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/huggingface-tokenizers",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

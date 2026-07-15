@@ -1,0 +1,17 @@
+{
+  "id": "kotlin-patterns",
+  "title": "Kotlin Patterns",
+  "descriptionZh": "用于 Kotlin Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/kotlin-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/kotlin-patterns/SKILL.md",
+  "upstreamSha256": "737fc9e0bbc1f518e4fd2223f1356f1f86e865c49f8e56c4dc247ac631625056"
+}

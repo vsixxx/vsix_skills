@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polymarket"
+  short_description: "Use Polymarket guidance and workflows in Codex"
+  default_prompt: "Use $polymarket to help me complete a relevant task."

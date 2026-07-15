@@ -1,0 +1,4 @@
+interface:
+  display_name: "Triage Prs"
+  short_description: "Use Triage Prs guidance and workflows in Codex"
+  default_prompt: "Use $triage-prs to help me complete a relevant task."

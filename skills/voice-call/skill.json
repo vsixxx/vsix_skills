@@ -1,0 +1,17 @@
+{
+  "id": "voice-call",
+  "title": "Voice Call",
+  "descriptionZh": "用于 Voice Call 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/voice-call/skills/voice-call",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/voice-call/skills/voice-call/SKILL.md",
+  "upstreamSha256": "b1d11e251dd75a6d260a4c591446e623f3ab68e23ffd76a7f37db059b2ef0d2c"
+}

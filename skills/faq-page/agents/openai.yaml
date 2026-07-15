@@ -1,0 +1,4 @@
+interface:
+  display_name: "Faq Page"
+  short_description: "Use Faq Page guidance and workflows in Codex"
+  default_prompt: "Use $faq-page to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homelab Pihole Dns"
+  short_description: "Use Homelab Pihole Dns guidance and workflows in Codex"
+  default_prompt: "Use $homelab-pihole-dns to help me complete a relevant task."

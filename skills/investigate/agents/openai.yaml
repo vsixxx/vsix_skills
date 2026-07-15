@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investigate"
+  short_description: "Use Investigate guidance and workflows in Codex"
+  default_prompt: "Use $investigate to help me complete a relevant task."

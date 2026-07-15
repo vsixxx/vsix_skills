@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Review"
+  short_description: "Use Adversarial Review guidance and workflows in Codex"
+  default_prompt: "Use $adversarial-review to help me complete a relevant task."

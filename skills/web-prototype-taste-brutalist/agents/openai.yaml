@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Prototype Taste Brutalist"
+  short_description: "Use Web Prototype Taste Brutalist workflows in Codex"
+  default_prompt: "Use $web-prototype-taste-brutalist to help me complete a relevant task."

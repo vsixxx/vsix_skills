@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Offline"
+  short_description: "Use Pua Offline guidance and workflows in Codex"
+  default_prompt: "Use $pua-offline to help me complete a relevant task."

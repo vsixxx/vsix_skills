@@ -1,0 +1,20 @@
+{
+  "id": "simpo-training",
+  "title": "Simpo Training",
+  "descriptionZh": "用于 LLM 对齐的简单偏好优化（SimPO）。无需参考模型的 DPO 替代方案，性能更优（在 AlpacaEval 2.0 上提升 +6.4 分）。比 DPO 更高效。适用于希望简化偏好对齐流程的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: torch",
+    "Package: transformers",
+    "Package: datasets",
+    "Package: trl",
+    "Package: accelerate"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/simpo",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

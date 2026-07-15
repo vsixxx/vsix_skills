@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Experience"
+  short_description: "Use Webgl Experience guidance and workflows in Codex"
+  default_prompt: "Use $webgl-experience to help me complete a relevant task."

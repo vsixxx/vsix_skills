@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slack Gif Creator"
+  short_description: "Use Slack Gif Creator guidance and workflows in Codex"
+  default_prompt: "Use $slack-gif-creator to help me complete a relevant task."

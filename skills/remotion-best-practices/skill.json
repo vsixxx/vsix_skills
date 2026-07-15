@@ -1,0 +1,17 @@
+{
+  "id": "remotion-best-practices",
+  "title": "Remotion Best Practices",
+  "descriptionZh": "用于 Remotion Best Practices 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/packages/skills/skills/remotion-best-practices",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": "packages/skills/skills/remotion-best-practices/SKILL.md",
+  "upstreamSha256": "103af8c7f8fb33f124aa6ed8afafeed33894a7fc487866a15855b52b5c13f55c"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Plan"
+  short_description: "Use Make Plan guidance and workflows in Codex"
+  default_prompt: "Use $make-plan to help me complete a relevant task."

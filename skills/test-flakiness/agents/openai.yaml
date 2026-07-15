@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Flakiness"
+  short_description: "Use Test Flakiness guidance and workflows in Codex"
+  default_prompt: "Use $test-flakiness to help me complete a relevant task."

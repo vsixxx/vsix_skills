@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serving Llms Vllm"
+  short_description: "Use Serving Llms Vllm guidance and workflows in Codex"
+  default_prompt: "Use $serving-llms-vllm to help me complete a relevant task."

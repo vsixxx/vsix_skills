@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Sparkline Arc"
+  short_description: "Use Huashu Sparkline Arc guidance and workflows in Codex"
+  default_prompt: "Use $huashu-sparkline-arc to help me complete a relevant task."

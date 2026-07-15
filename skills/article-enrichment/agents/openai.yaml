@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Enrichment"
+  short_description: "Use Article Enrichment guidance and workflows in Codex"
+  default_prompt: "Use $article-enrichment to help me complete a relevant task."

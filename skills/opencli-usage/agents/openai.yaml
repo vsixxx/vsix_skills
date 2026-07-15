@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencli Usage"
+  short_description: "Use Opencli Usage guidance and workflows in Codex"
+  default_prompt: "Use $opencli-usage to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stripe Projects"
+  short_description: "Use Stripe Projects guidance and workflows in Codex"
+  default_prompt: "Use $stripe-projects to help me complete a relevant task."

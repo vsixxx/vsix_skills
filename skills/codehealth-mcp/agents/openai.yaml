@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codehealth MCP"
+  short_description: "Use Codehealth MCP guidance and workflows in Codex"
+  default_prompt: "Use $codehealth-mcp to help me complete a relevant task."

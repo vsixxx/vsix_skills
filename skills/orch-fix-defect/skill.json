@@ -1,0 +1,17 @@
+{
+  "id": "orch-fix-defect",
+  "title": "Orch Fix Defect",
+  "descriptionZh": "用于 Orch Fix Defect 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/orch-fix-defect",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/orch-fix-defect/SKILL.md",
+  "upstreamSha256": "399e142bbf3751b5a0fdec1ae450f5673bd1a038304a221748c865280e885b2d"
+}

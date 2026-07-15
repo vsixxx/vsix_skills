@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX"
+  short_description: "Use PPTX guidance and workflows in Codex"
+  default_prompt: "Use $pptx to help me complete a relevant task."

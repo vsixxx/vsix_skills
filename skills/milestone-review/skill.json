@@ -1,0 +1,17 @@
+{
+  "id": "milestone-review",
+  "title": "Milestone Review",
+  "descriptionZh": "用于 Milestone Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/milestone-review",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/milestone-review/SKILL.md",
+  "upstreamSha256": "736a1cffb028b96b890fd0b6b469dcdd5f948a907d5a7f0e157ccca92ac8adc7"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saas Landing"
+  short_description: "Use Saas Landing guidance and workflows in Codex"
+  default_prompt: "Use $saas-landing to help me complete a relevant task."

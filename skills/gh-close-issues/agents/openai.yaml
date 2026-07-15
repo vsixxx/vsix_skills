@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gh Close Issues"
+  short_description: "Use Gh Close Issues guidance and workflows in Codex"
+  default_prompt: "Use $gh-close-issues to help me complete a relevant task."

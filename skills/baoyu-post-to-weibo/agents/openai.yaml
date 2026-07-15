@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Post To Weibo"
+  short_description: "Use Baoyu Post To Weibo guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-post-to-weibo to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "pr",
+  "title": "PR",
+  "descriptionZh": "用于 PR 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/pr",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/pr/SKILL.md",
+  "upstreamSha256": "12405b1b01ab34a2b6bde30a952a00aa09ad939546d3b9b0e862b4d22dfac209"
+}

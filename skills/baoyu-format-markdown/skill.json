@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-format-markdown",
+  "title": "Baoyu Format Markdown",
+  "descriptionZh": "用于 Baoyu Format Markdown 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-format-markdown",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-format-markdown/SKILL.md",
+  "upstreamSha256": "39bd9eeb5373365c84ac139b85a11311eab57710707e54b101e41085636b56bb"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Himalaya"
+  short_description: "Use Himalaya guidance and workflows in Codex"
+  default_prompt: "Use $himalaya to help me complete a relevant task."

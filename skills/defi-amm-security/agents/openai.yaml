@@ -1,0 +1,4 @@
+interface:
+  display_name: "Defi Amm Security"
+  short_description: "Use Defi Amm Security guidance and workflows in Codex"
+  default_prompt: "Use $defi-amm-security to help me complete a relevant task."

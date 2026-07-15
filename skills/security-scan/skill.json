@@ -1,0 +1,17 @@
+{
+  "id": "security-scan",
+  "title": "Security Scan",
+  "descriptionZh": "用于 Security Scan 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/security-scan",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/security-scan/SKILL.md",
+  "upstreamSha256": "36c34d020eef3c386a82a409f8e3e47edbed441eaf83ae6055d6a029828511e8"
+}

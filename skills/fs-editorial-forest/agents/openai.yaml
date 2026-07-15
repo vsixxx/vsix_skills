@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fs Editorial Forest"
+  short_description: "Use Fs Editorial Forest guidance and workflows in Codex"
+  default_prompt: "Use $fs-editorial-forest to help me complete a relevant task."

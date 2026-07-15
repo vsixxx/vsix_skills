@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Bounty Hunter"
+  short_description: "Use Security Bounty Hunter guidance and workflows in Codex"
+  default_prompt: "Use $security-bounty-hunter to help me complete a relevant task."

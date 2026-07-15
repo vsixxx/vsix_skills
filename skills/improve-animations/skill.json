@@ -1,0 +1,17 @@
+{
+  "id": "improve-animations",
+  "title": "Improve Animations",
+  "descriptionZh": "用于 Improve Animations 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/improve-animations",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/improve-animations/SKILL.md",
+  "upstreamSha256": "68f17bbc4671593d2f43dba26a679243e2153ba5f26965fb7d59df52842534ff"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Patterns"
+  short_description: "Use Laravel Patterns guidance and workflows in Codex"
+  default_prompt: "Use $laravel-patterns to help me complete a relevant task."

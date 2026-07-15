@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Web Effect Extractor"
+  short_description: "Use Od Web Effect Extractor guidance and workflows in Codex"
+  default_prompt: "Use $od-web-effect-extractor to help me complete a relevant task."

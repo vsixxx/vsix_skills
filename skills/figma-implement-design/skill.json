@@ -1,0 +1,17 @@
+{
+  "id": "figma-implement-design",
+  "title": "Figma Implement Design",
+  "descriptionZh": "用于 Figma Implement Design 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/figma-implement-design",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/figma-implement-design/SKILL.md",
+  "upstreamSha256": "6716f21cbe055999d05f6be3bf01f32d22c92f363f61afb8f856e17d2a6edb15"
+}

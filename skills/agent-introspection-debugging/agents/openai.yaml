@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Introspection Debugging"
+  short_description: "Use Agent Introspection Debugging workflows in Codex"
+  default_prompt: "Use $agent-introspection-debugging to help me complete a relevant task."

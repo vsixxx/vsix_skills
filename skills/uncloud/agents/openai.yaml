@@ -1,0 +1,4 @@
+interface:
+  display_name: "Uncloud"
+  short_description: "Use Uncloud guidance and workflows in Codex"
+  default_prompt: "Use $uncloud to help me complete a relevant task."

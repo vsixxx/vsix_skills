@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencli Browser Sitemap"
+  short_description: "Use Opencli Browser Sitemap guidance and workflows in Codex"
+  default_prompt: "Use $opencli-browser-sitemap to help me complete a relevant task."

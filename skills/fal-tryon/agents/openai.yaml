@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Tryon"
+  short_description: "Use Fal Tryon guidance and workflows in Codex"
+  default_prompt: "Use $fal-tryon to help me complete a relevant task."

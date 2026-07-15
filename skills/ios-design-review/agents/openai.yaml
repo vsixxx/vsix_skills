@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ios Design Review"
+  short_description: "Use Ios Design Review guidance and workflows in Codex"
+  default_prompt: "Use $ios-design-review to help me complete a relevant task."

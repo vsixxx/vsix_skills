@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superpowers Requesting Code Review"
+  short_description: "Use Superpowers Requesting Code Review workflows in Codex"
+  default_prompt: "Use $superpowers-requesting-code-review to help me complete a relevant task."

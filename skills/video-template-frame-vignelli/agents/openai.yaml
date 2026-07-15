@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Vignelli"
+  short_description: "Use Video Template Frame Vignelli workflows in Codex"
+  default_prompt: "Use $video-template-frame-vignelli to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Concurrency 6 2"
+  short_description: "Use Swift Concurrency 6 2 guidance and workflows in Codex"
+  default_prompt: "Use $swift-concurrency-6-2 to help me complete a relevant task."

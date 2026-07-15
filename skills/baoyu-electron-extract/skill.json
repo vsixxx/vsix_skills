@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-electron-extract",
+  "title": "Baoyu Electron Extract",
+  "descriptionZh": "用于 Baoyu Electron Extract 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-electron-extract",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-electron-extract/SKILL.md",
+  "upstreamSha256": "3f8714f3030dd12e2b11a60ed5e561c0b2297de5b31251b40f6da081e06ae4ee"
+}

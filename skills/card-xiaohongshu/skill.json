@@ -1,0 +1,17 @@
+{
+  "id": "card-xiaohongshu",
+  "title": "Card Xiaohongshu",
+  "descriptionZh": "用于 Card Xiaohongshu 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/card-xiaohongshu",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/card-xiaohongshu/SKILL.md",
+  "upstreamSha256": "4c6812e70c7d8d62dc5ca1b061aca7dff70c331c55848fa7ce133748e52a7079"
+}

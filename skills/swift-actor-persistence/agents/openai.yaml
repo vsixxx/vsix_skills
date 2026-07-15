@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Actor Persistence"
+  short_description: "Use Swift Actor Persistence guidance and workflows in Codex"
+  default_prompt: "Use $swift-actor-persistence to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "video-template-frame-takram-organic",
+  "title": "Video Template Frame Takram Organic",
+  "descriptionZh": "用于 Video Template Frame Takram Organic 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/video-templates/frame-takram-organic",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "Apache-2.0",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/video-templates/frame-takram-organic/SKILL.md",
+  "upstreamSha256": "6901db9b5faf4a8645b4db7cf8dc03edfeff482bda710c6f570ef51ae1373d88"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX HTML Fidelity Audit"
+  short_description: "Use PPTX HTML Fidelity Audit guidance and workflows in Codex"
+  default_prompt: "Use $pptx-html-fidelity-audit to help me complete a relevant task."

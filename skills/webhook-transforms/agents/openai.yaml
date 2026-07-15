@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webhook Transforms"
+  short_description: "Use Webhook Transforms guidance and workflows in Codex"
+  default_prompt: "Use $webhook-transforms to help me complete a relevant task."

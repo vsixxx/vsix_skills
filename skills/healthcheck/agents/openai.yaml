@@ -1,0 +1,4 @@
+interface:
+  display_name: "Healthcheck"
+  short_description: "Use Healthcheck guidance and workflows in Codex"
+  default_prompt: "Use $healthcheck to help me complete a relevant task."

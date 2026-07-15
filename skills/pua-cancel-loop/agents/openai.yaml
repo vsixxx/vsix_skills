@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Cancel Loop"
+  short_description: "Use Pua Cancel Loop guidance and workflows in Codex"
+  default_prompt: "Use $pua-cancel-loop to help me complete a relevant task."

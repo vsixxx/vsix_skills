@@ -1,0 +1,17 @@
+{
+  "id": "qiaomu-smart-search",
+  "title": "Qiaomu Smart Search",
+  "descriptionZh": "用于 Qiaomu Smart Search 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/joeseesun/qiaomu-opencli-skills/tree/main/qiaomu-smart-search",
+  "homepage": "https://github.com/joeseesun/qiaomu-opencli-skills",
+  "license": "See upstream",
+  "author": "joeseesun",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4d9a08ebff749e5b12ab544d6a72f82bbe78f43d",
+  "upstreamPath": "qiaomu-smart-search/SKILL.md",
+  "upstreamSha256": "640587ab5bb40cd4413240edbc724741b83457aec14cd861ab06c5f319c03874"
+}

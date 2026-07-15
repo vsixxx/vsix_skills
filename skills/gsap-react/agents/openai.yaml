@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap React"
+  short_description: "Use Gsap React guidance and workflows in Codex"
+  default_prompt: "Use $gsap-react to help me complete a relevant task."

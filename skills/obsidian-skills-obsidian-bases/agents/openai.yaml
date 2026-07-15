@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Skills Obsidian Bases"
+  short_description: "Use Obsidian Skills Obsidian Bases workflows in Codex"
+  default_prompt: "Use $obsidian-skills-obsidian-bases to help me complete a relevant task."

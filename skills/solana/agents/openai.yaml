@@ -1,0 +1,4 @@
+interface:
+  display_name: "Solana"
+  short_description: "Use Solana guidance and workflows in Codex"
+  default_prompt: "Use $solana to help me complete a relevant task."

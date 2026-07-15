@@ -1,0 +1,17 @@
+{
+  "id": "stripe-projects",
+  "title": "Stripe Projects",
+  "descriptionZh": "使用 Stripe API 创建和管理支付项目与相关资源。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/payments/stripe-projects",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Teknium (teknium1), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

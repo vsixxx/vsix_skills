@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qqbot Media"
+  short_description: "Use Qqbot Media guidance and workflows in Codex"
+  default_prompt: "Use $qqbot-media to help me complete a relevant task."

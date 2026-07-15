@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venice Video"
+  short_description: "Use Venice Video guidance and workflows in Codex"
+  default_prompt: "Use $venice-video to help me complete a relevant task."

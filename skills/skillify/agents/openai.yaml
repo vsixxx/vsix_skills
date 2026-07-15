@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skillify"
+  short_description: "Use Skillify guidance and workflows in Codex"
+  default_prompt: "Use $skillify to help me complete a relevant task."

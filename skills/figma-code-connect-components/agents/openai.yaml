@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Code Connect Components"
+  short_description: "Use Figma Code Connect Components workflows in Codex"
+  default_prompt: "Use $figma-code-connect-components to help me complete a relevant task."

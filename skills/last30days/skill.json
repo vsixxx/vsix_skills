@@ -1,0 +1,17 @@
+{
+  "id": "last30days",
+  "title": "Last30days",
+  "descriptionZh": "用于 Last30days 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mvanhorn/last30days-skill/tree/main/skills/last30days",
+  "homepage": "https://github.com/mvanhorn/last30days-skill",
+  "license": "MIT",
+  "author": "mvanhorn",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "86c5303c1a549a05e3911191b1b6ba45544b3eec",
+  "upstreamPath": "skills/last30days/SKILL.md",
+  "upstreamSha256": "4bf3411fa8025f2f2f724df6de43bb6c21d326ec793636a4334e381a64d9d447"
+}

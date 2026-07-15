@@ -1,0 +1,17 @@
+{
+  "id": "canary-watch",
+  "title": "Canary Watch",
+  "descriptionZh": "用于 Canary Watch 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/canary-watch",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/canary-watch/SKILL.md",
+  "upstreamSha256": "d2cb536f8ccb201266e094542cb20af8a4d6474feb5b16116cfb4497c2b8149f"
+}

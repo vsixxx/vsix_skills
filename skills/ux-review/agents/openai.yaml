@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ux Review"
+  short_description: "Use Ux Review guidance and workflows in Codex"
+  default_prompt: "Use $ux-review to help me complete a relevant task."

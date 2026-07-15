@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Data Chart Nyt"
+  short_description: "Use Video Template Frame Data Chart Nyt workflows in Codex"
+  default_prompt: "Use $video-template-frame-data-chart-nyt to help me complete a relevant task."

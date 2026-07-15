@@ -1,0 +1,17 @@
+{
+  "id": "story-readiness",
+  "title": "Story Readiness",
+  "descriptionZh": "用于 Story Readiness 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/story-readiness",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/story-readiness/SKILL.md",
+  "upstreamSha256": "f1fc25f80f811fd38c53144c305706488c031974a5f0925cdf18986467de90eb"
+}

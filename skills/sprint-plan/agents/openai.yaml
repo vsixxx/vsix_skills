@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sprint Plan"
+  short_description: "Use Sprint Plan guidance and workflows in Codex"
+  default_prompt: "Use $sprint-plan to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Off"
+  short_description: "Use Pua Off guidance and workflows in Codex"
+  default_prompt: "Use $pua-off to help me complete a relevant task."

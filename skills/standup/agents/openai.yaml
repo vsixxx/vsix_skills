@@ -1,0 +1,4 @@
+interface:
+  display_name: "Standup"
+  short_description: "Use Standup guidance and workflows in Codex"
+  default_prompt: "Use $standup to help me complete a relevant task."

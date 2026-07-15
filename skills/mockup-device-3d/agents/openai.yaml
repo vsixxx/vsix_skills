@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mockup Device 3d"
+  short_description: "Use Mockup Device 3d guidance and workflows in Codex"
+  default_prompt: "Use $mockup-device-3d to help me complete a relevant task."

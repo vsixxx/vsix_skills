@@ -1,0 +1,17 @@
+{
+  "id": "grill-with-docs",
+  "title": "Grill With Docs",
+  "descriptionZh": "用于 Grill With Docs 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/engineering/grill-with-docs/SKILL.md",
+  "upstreamSha256": "610d091047bcfb9db0f75c057d15538481a721111579fc5ec7f83ad9131a2165"
+}

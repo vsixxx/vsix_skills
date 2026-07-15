@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Intelligence"
+  short_description: "Use Lead Intelligence guidance and workflows in Codex"
+  default_prompt: "Use $lead-intelligence to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "metrics-graphana",
+  "title": "Metrics Graphana",
+  "descriptionZh": "用于 Metrics Graphana 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/metrics-graphana",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/metrics-graphana/SKILL.md",
+  "upstreamSha256": "ccc972549d48a99c4a01b2394b64c43adca415782af602f778247f1cb36b5ca4"
+}

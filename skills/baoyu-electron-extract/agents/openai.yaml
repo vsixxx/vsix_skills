@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Electron Extract"
+  short_description: "Use Baoyu Electron Extract guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-electron-extract to help me complete a relevant task."

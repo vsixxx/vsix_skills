@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer Zh"
+  short_description: "Use Humanizer Zh guidance and workflows in Codex"
+  default_prompt: "Use $humanizer-zh to help me complete a relevant task."

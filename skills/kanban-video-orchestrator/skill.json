@@ -1,0 +1,14 @@
+{
+  "id": "kanban-video-orchestrator",
+  "title": "Kanban Video Orchestrator",
+  "descriptionZh": "规划、搭建并监控由 Hermes Kanban 支撑的多 agent 视频制作流水线。适用于用户希望制作任何类型视频的场景 — 叙事影片、产品/营销视频、MV、解说视频、ASCII/终端艺术、抽象/生成式循环等。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/kanban-video-orchestrator",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "SHL0MS, alt-glitch",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

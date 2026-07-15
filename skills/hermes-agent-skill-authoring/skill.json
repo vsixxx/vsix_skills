@@ -1,0 +1,14 @@
+{
+  "id": "hermes-agent-skill-authoring",
+  "title": "Hermes Agent Skill Authoring",
+  "descriptionZh": "编写仓库内 SKILL.md：frontmatter、验证器、结构规范。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/hermes-agent-skill-authoring",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

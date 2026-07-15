@@ -1,0 +1,17 @@
+{
+  "id": "ios-qa",
+  "title": "Ios Qa",
+  "descriptionZh": "用于 Ios Qa 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/ios-qa",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "ios-qa/SKILL.md",
+  "upstreamSha256": "7d0702a9134e6d656cfcfdbb77f959d65136e2ef82e7ab2d62ef21a7a96d6905"
+}

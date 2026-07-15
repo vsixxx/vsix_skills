@@ -1,0 +1,17 @@
+{
+  "id": "retrieval-reflex",
+  "title": "Retrieval Reflex",
+  "descriptionZh": "用于 Retrieval Reflex 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/recipes/retrieval-reflex/skills/retrieval-reflex",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "recipes/retrieval-reflex/skills/retrieval-reflex/SKILL.md",
+  "upstreamSha256": "dc96692b7643cd4c5e4c0d5a960ff28d38b87d390e8ef6176cf1f72ce0f72b57"
+}

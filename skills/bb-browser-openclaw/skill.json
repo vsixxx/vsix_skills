@@ -1,0 +1,17 @@
+{
+  "id": "bb-browser-openclaw",
+  "title": "Bb Browser Openclaw",
+  "descriptionZh": "用于 Bb Browser Openclaw 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/epiral/bb-browser/tree/main/skills/bb-browser-openclaw",
+  "homepage": "https://github.com/epiral/bb-browser",
+  "license": "See upstream",
+  "author": "epiral",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "7975dc74b3f637d54906228e52f2ba9454874105",
+  "upstreamPath": "skills/bb-browser-openclaw/SKILL.md",
+  "upstreamSha256": "fecec2323538488183c1f02f6883a582ee8d9bdf2554eda02b8e95cc2308fa7f"
+}

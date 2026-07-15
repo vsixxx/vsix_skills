@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blog Post"
+  short_description: "Use Blog Post guidance and workflows in Codex"
+  default_prompt: "Use $blog-post to help me complete a relevant task."

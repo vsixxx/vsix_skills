@@ -1,0 +1,17 @@
+{
+  "id": "ios-application-dev",
+  "title": "Ios Application Dev",
+  "descriptionZh": "用于 Ios Application Dev 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/ios-application-dev",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/ios-application-dev/SKILL.md",
+  "upstreamSha256": "4f4da03f2144d0d50174d36edd514ca56ad06e23570c173ac5f4c61d27d40c1e"
+}

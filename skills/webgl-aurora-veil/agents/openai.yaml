@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Aurora Veil"
+  short_description: "Use Webgl Aurora Veil guidance and workflows in Codex"
+  default_prompt: "Use $webgl-aurora-veil to help me complete a relevant task."

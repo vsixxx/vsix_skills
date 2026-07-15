@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nemo Curator"
+  short_description: "Use Nemo Curator guidance and workflows in Codex"
+  default_prompt: "Use $nemo-curator to help me complete a relevant task."

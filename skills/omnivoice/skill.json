@@ -1,0 +1,17 @@
+{
+  "id": "omnivoice",
+  "title": "Omnivoice",
+  "descriptionZh": "用于 Omnivoice 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/debpalash/OmniVoice-Studio/tree/main/skills/omnivoice",
+  "homepage": "https://github.com/debpalash/OmniVoice-Studio",
+  "license": "See upstream",
+  "author": "debpalash",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "0d4eb0f2694f05f98da6084fa0cf218619b89e91",
+  "upstreamPath": "skills/omnivoice/SKILL.md",
+  "upstreamSha256": "50344b7666b40c662ef951ff8920fa87056ee6cc900dedc81e3afd7e68fc160e"
+}

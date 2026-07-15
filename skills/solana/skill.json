@@ -1,0 +1,14 @@
+{
+  "id": "solana",
+  "title": "Solana",
+  "descriptionZh": "查询 Solana 链上数据并附带 USD 定价 — 钱包余额、带估值的代币组合、交易详情、NFT、巨鲸检测及实时网络统计。使用 Solana RPC + CoinGecko，无需 API 密钥。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/blockchain/solana",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Deniz Alagoz (gizdusum), enhanced by Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

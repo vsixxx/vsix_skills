@@ -1,0 +1,14 @@
+{
+  "id": "openclaw-migration",
+  "title": "Openclaw Migration",
+  "descriptionZh": "将用户的 OpenClaw 自定义配置迁移至 Hermes Agent。从 ~/.openclaw 导入兼容 Hermes 的记忆、SOUL.md、命令白名单、用户技能及选定的工作区资产，并报告无法迁移的内容。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/migration/openclaw-migration",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (Nous Research)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

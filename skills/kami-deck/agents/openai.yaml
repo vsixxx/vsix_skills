@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kami Deck"
+  short_description: "Use Kami Deck guidance and workflows in Codex"
+  default_prompt: "Use $kami-deck to help me complete a relevant task."

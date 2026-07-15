@@ -1,0 +1,17 @@
+{
+  "id": "obsidian-mind-qmd",
+  "title": "Obsidian Mind Qmd",
+  "descriptionZh": "用于 Obsidian Mind Qmd 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/breferrari/obsidian-mind/tree/main/.claude/skills/qmd",
+  "homepage": "https://github.com/breferrari/obsidian-mind",
+  "license": "See upstream",
+  "author": "breferrari",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9ae6860d01c4bb563dfe972dae89515866f4fbff",
+  "upstreamPath": ".claude/skills/qmd/SKILL.md",
+  "upstreamSha256": "1f0f09d4915a5fe035eef72869c5916be4b87089b0aa030935fa9ccb3c01567d"
+}

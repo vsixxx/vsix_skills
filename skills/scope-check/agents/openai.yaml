@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scope Check"
+  short_description: "Use Scope Check guidance and workflows in Codex"
+  default_prompt: "Use $scope-check to help me complete a relevant task."

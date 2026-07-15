@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Downloader"
+  short_description: "Use Video Downloader guidance and workflows in Codex"
+  default_prompt: "Use $video-downloader to help me complete a relevant task."

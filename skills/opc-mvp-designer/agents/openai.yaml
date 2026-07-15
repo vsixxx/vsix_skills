@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Mvp Designer"
+  short_description: "Use Opc Mvp Designer guidance and workflows in Codex"
+  default_prompt: "Use $opc-mvp-designer to help me complete a relevant task."

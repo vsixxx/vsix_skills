@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Update"
+  short_description: "Use Weekly Update guidance and workflows in Codex"
+  default_prompt: "Use $weekly-update to help me complete a relevant task."

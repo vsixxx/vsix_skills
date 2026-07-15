@@ -1,0 +1,17 @@
+{
+  "id": "land-and-deploy",
+  "title": "Land And Deploy",
+  "descriptionZh": "用于 Land And Deploy 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/land-and-deploy",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "land-and-deploy/SKILL.md",
+  "upstreamSha256": "c81e6a392765f765990484c6cb1d7b60d7354359f4561655d15e86e3feb2169f"
+}

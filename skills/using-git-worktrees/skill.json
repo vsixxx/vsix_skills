@@ -1,0 +1,17 @@
+{
+  "id": "using-git-worktrees",
+  "title": "Using Git Worktrees",
+  "descriptionZh": "用于 Using Git Worktrees 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees",
+  "homepage": "https://github.com/obra/superpowers",
+  "license": "See upstream",
+  "author": "obra",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+  "upstreamPath": "skills/using-git-worktrees/SKILL.md",
+  "upstreamSha256": "e2c3ec142e52868a51af246c620cd76ab648dcf27d6900d47e6ffd07159a9794"
+}

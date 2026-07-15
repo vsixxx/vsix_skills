@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost Optimizer"
+  short_description: "Use Cost Optimizer guidance and workflows in Codex"
+  default_prompt: "Use $cost-optimizer to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extracting Thumbnails"
+  short_description: "Use Extracting Thumbnails guidance and workflows in Codex"
+  default_prompt: "Use $extracting-thumbnails to help me complete a relevant task."

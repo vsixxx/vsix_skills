@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Access"
+  short_description: "Use Web Access guidance and workflows in Codex"
+  default_prompt: "Use $web-access to help me complete a relevant task."

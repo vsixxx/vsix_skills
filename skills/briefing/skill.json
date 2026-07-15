@@ -1,0 +1,17 @@
+{
+  "id": "briefing",
+  "title": "Briefing",
+  "descriptionZh": "用于 Briefing 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/briefing",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/briefing/SKILL.md",
+  "upstreamSha256": "a661804c3eb2ce5bd4eb6f3e7106283046913945d9dba0b967bdc8483a58dd66"
+}

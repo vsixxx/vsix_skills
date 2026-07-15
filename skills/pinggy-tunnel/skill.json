@@ -1,0 +1,14 @@
+{
+  "id": "pinggy-tunnel",
+  "title": "Pinggy Tunnel",
+  "descriptionZh": "通过 Pinggy 经 SSH 实现零安装本地隧道。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/devops/pinggy-tunnel",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Teknium (teknium1), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

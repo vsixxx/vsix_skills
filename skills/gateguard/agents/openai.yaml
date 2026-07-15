@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gateguard"
+  short_description: "Use Gateguard guidance and workflows in Codex"
+  default_prompt: "Use $gateguard to help me complete a relevant task."

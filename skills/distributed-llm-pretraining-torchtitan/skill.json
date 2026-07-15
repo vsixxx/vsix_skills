@@ -1,0 +1,20 @@
+{
+  "id": "distributed-llm-pretraining-torchtitan",
+  "title": "Distributed LLM Pretraining Torchtitan",
+  "descriptionZh": "使用 torchtitan 进行 PyTorch 原生分布式 LLM 预训练，支持 4D 并行（FSDP2、TP、PP、CP）。适用于在 8 到 512+ GPU 上预训练 Llama 3.1、DeepSeek V3 或自定义模型，并使用 Float8、torch.compile 及分布式检查点的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: torch>=2.6.0",
+    "Package: torchtitan>=0.2.0",
+    "Package: torchao>=0.5.0"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/torchtitan",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

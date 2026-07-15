@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gstack Openclaw Ceo Review"
+  short_description: "Use Gstack Openclaw Ceo Review guidance and workflows in Codex"
+  default_prompt: "Use $gstack-openclaw-ceo-review to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Code Plugin Release"
+  short_description: "Use Claude Code Plugin Release guidance and workflows in Codex"
+  default_prompt: "Use $claude-code-plugin-release to help me complete a relevant task."

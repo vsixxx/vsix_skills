@@ -1,0 +1,17 @@
+{
+  "id": "apple-notes",
+  "title": "Apple Notes",
+  "descriptionZh": "通过 memo CLI 管理 Apple Notes：创建、搜索、编辑。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: macos",
+    "Command: memo"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/apple/apple-notes",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

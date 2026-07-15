@@ -1,0 +1,17 @@
+{
+  "id": "shader-dev",
+  "title": "Shader Dev",
+  "descriptionZh": "用于 Shader Dev 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/shader-dev",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/shader-dev/SKILL.md",
+  "upstreamSha256": "7d3cc9d69da2b598e423da5ec927ff61371edab669e2b9a2f4bcf3ec0f29db4d"
+}

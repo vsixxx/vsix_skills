@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add CLI Option"
+  short_description: "Use Add CLI Option guidance and workflows in Codex"
+  default_prompt: "Use $add-cli-option to help me complete a relevant task."

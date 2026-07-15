@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan"
+  short_description: "Use Plan guidance and workflows in Codex"
+  default_prompt: "Use $plan to help me complete a relevant task."

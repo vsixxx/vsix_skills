@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Danger Gemini Web"
+  short_description: "Use Baoyu Danger Gemini Web guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-danger-gemini-web to help me complete a relevant task."

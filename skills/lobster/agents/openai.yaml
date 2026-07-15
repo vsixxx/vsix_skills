@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lobster"
+  short_description: "Use Lobster guidance and workflows in Codex"
+  default_prompt: "Use $lobster to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "edit-article",
+  "title": "Edit Article",
+  "descriptionZh": "用于 Edit Article 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/personal/edit-article",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/personal/edit-article/SKILL.md",
+  "upstreamSha256": "e10fba546f45357fe0aaa7494b9e186910d4525818d19f9b2ad6f28cc506aa5e"
+}

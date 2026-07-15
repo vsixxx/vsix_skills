@@ -1,0 +1,4 @@
+interface:
+  display_name: "Direction Picker"
+  short_description: "Use Direction Picker guidance and workflows in Codex"
+  default_prompt: "Use $direction-picker to help me complete a relevant task."

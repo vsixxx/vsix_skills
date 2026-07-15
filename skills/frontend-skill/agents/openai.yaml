@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Skill"
+  short_description: "Use Frontend Skill guidance and workflows in Codex"
+  default_prompt: "Use $frontend-skill to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Continuous Agent Loop"
+  short_description: "Use Continuous Agent Loop guidance and workflows in Codex"
+  default_prompt: "Use $continuous-agent-loop to help me complete a relevant task."

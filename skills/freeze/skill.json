@@ -1,0 +1,17 @@
+{
+  "id": "freeze",
+  "title": "Freeze",
+  "descriptionZh": "用于 Freeze 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/freeze",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "freeze/SKILL.md",
+  "upstreamSha256": "f8cb02804952392dc966954e089e3f934b148eddade4327ead3d1aa1af8229cb"
+}

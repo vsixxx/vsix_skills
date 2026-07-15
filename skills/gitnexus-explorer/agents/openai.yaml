@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gitnexus Explorer"
+  short_description: "Use Gitnexus Explorer guidance and workflows in Codex"
+  default_prompt: "Use $gitnexus-explorer to help me complete a relevant task."

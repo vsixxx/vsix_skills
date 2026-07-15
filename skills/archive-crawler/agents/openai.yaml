@@ -1,0 +1,4 @@
+interface:
+  display_name: "Archive Crawler"
+  short_description: "Use Archive Crawler guidance and workflows in Codex"
+  default_prompt: "Use $archive-crawler to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "architecture-decision",
+  "title": "Architecture Decision",
+  "descriptionZh": "用于 Architecture Decision 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/architecture-decision",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/architecture-decision/SKILL.md",
+  "upstreamSha256": "94a2299ae4ff370062e15d37680abdb13c1fc2dc05b916dcb65f46088d12b854"
+}

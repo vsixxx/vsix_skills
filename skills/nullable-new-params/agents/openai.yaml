@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nullable New Params"
+  short_description: "Use Nullable New Params guidance and workflows in Codex"
+  default_prompt: "Use $nullable-new-params to help me complete a relevant task."

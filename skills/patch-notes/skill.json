@@ -1,0 +1,17 @@
+{
+  "id": "patch-notes",
+  "title": "Patch Notes",
+  "descriptionZh": "用于 Patch Notes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/patch-notes",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/patch-notes/SKILL.md",
+  "upstreamSha256": "ffb34d12e0d3fe21d31e6406a77b6db77b16a8185358ee8183b08de584498d30"
+}

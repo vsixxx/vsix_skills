@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Pentagram Stat"
+  short_description: "Use Video Template Frame Pentagram Stat workflows in Codex"
+  default_prompt: "Use $video-template-frame-pentagram-stat to help me complete a relevant task."

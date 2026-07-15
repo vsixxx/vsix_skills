@@ -1,0 +1,17 @@
+{
+  "id": "videodb",
+  "title": "Videodb",
+  "descriptionZh": "用于 Videodb 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/videodb",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/videodb/SKILL.md",
+  "upstreamSha256": "514e9cc1d5735b6a0810f0d76a261bb9d37a49fd6b8e76d9fe5d7821dfb955b9"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Carousel"
+  short_description: "Use Social Carousel guidance and workflows in Codex"
+  default_prompt: "Use $social-carousel to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gif Search"
+  short_description: "Use Gif Search guidance and workflows in Codex"
+  default_prompt: "Use $gif-search to help me complete a relevant task."

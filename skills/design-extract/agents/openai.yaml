@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Extract"
+  short_description: "Use Design Extract guidance and workflows in Codex"
+  default_prompt: "Use $design-extract to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paywall Upgrade Cro"
+  short_description: "Use Paywall Upgrade Cro guidance and workflows in Codex"
+  default_prompt: "Use $paywall-upgrade-cro to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "minimax-pdf",
+  "title": "Minimax PDF",
+  "descriptionZh": "用于 Minimax PDF 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-pdf",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/minimax-pdf/SKILL.md",
+  "upstreamSha256": "8b0497ddd27da142deb09b570a56f702f95e5f3f1e192cfe1ae24421416a408d"
+}

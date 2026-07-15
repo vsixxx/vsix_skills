@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hps Academic Paper"
+  short_description: "Use Hps Academic Paper guidance and workflows in Codex"
+  default_prompt: "Use $hps-academic-paper to help me complete a relevant task."

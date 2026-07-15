@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Agent"
+  short_description: "Use Knowledge Agent guidance and workflows in Codex"
+  default_prompt: "Use $knowledge-agent to help me complete a relevant task."

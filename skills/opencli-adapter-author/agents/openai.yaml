@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencli Adapter Author"
+  short_description: "Use Opencli Adapter Author guidance and workflows in Codex"
+  default_prompt: "Use $opencli-adapter-author to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Prototype"
+  short_description: "Use Aitoearn Prototype guidance and workflows in Codex"
+  default_prompt: "Use $aitoearn-prototype to help me complete a relevant task."

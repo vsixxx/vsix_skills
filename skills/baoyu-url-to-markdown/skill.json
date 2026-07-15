@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-url-to-markdown",
+  "title": "Baoyu Url To Markdown",
+  "descriptionZh": "用于 Baoyu Url To Markdown 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-url-to-markdown",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-url-to-markdown/SKILL.md",
+  "upstreamSha256": "40913749b0e95165b02771bdf17bb8ed9fa0a72787d3e09571341ab7148359d0"
+}

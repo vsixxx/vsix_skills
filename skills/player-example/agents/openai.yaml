@@ -1,0 +1,4 @@
+interface:
+  display_name: "Player Example"
+  short_description: "Use Player Example guidance and workflows in Codex"
+  default_prompt: "Use $player-example to help me complete a relevant task."

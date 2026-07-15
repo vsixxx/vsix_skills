@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dcf Valuation"
+  short_description: "Use Dcf Valuation guidance and workflows in Codex"
+  default_prompt: "Use $dcf-valuation to help me complete a relevant task."

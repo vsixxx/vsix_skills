@@ -1,0 +1,14 @@
+{
+  "id": "rest-graphql-debug",
+  "title": "Rest Graphql Debug",
+  "descriptionZh": "调试 REST/GraphQL API：状态码、认证、schema、问题复现。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/software-development/rest-graphql-debug",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "eren-karakus0",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

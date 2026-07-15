@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cpp Testing"
+  short_description: "Use Cpp Testing guidance and workflows in Codex"
+  default_prompt: "Use $cpp-testing to help me complete a relevant task."

@@ -1,0 +1,14 @@
+{
+  "id": "github-code-review",
+  "title": "GitHub Code Review",
+  "descriptionZh": "审查 PR：通过 gh 或 REST API 查看 diff、添加行内评论。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/github/github-code-review",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

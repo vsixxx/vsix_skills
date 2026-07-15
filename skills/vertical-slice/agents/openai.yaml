@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vertical Slice"
+  short_description: "Use Vertical Slice guidance and workflows in Codex"
+  default_prompt: "Use $vertical-slice to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deployment Patterns"
+  short_description: "Use Deployment Patterns guidance and workflows in Codex"
+  default_prompt: "Use $deployment-patterns to help me complete a relevant task."

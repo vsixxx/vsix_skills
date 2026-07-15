@@ -1,0 +1,17 @@
+{
+  "id": "ito-data-atlas-agent",
+  "title": "Ito Data Atlas Agent",
+  "descriptionZh": "用于 Ito Data Atlas Agent 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ito-data-atlas-agent",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ito-data-atlas-agent/SKILL.md",
+  "upstreamSha256": "c3ce06ee779e869776d621cd50fbaf38bbdee8df96685eabfc0842b4df61f65a"
+}

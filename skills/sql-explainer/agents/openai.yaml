@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Explainer"
+  short_description: "Use SQL Explainer guidance and workflows in Codex"
+  default_prompt: "Use $sql-explainer to help me complete a relevant task."

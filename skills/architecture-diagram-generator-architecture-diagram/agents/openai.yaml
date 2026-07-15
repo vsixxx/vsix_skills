@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Diagram Generator Architecture Diagram"
+  short_description: "Use Architecture Diagram Generator Architecture D workflows in C"
+  default_prompt: "Use $architecture-diagram-generator-architecture-diagram to help me complete a relevant task."

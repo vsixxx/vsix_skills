@@ -1,0 +1,17 @@
+{
+  "id": "land-pr",
+  "title": "Land PR",
+  "descriptionZh": "用于 Land PR 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Martian-Engineering/lossless-claw/tree/main/.agents/skills/land-pr",
+  "homepage": "https://github.com/Martian-Engineering/lossless-claw",
+  "license": "See upstream",
+  "author": "Martian-Engineering",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e7f4cbd4af6b19b1609ee1958764bc50b6e3d8a8",
+  "upstreamPath": ".agents/skills/land-pr/SKILL.md",
+  "upstreamSha256": "a9b5e035016dc4bf7ebce3f6ee71c22e8e7d6f433e8d31343e9668d99367f1b5"
+}

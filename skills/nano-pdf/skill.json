@@ -1,0 +1,14 @@
+{
+  "id": "nano-pdf",
+  "title": "Nano PDF",
+  "descriptionZh": "通过 nano-pdf CLI 编辑 PDF 文本/错别字/标题（自然语言 prompt）。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/nano-pdf",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Modeling"
+  short_description: "Use Domain Modeling guidance and workflows in Codex"
+  default_prompt: "Use $domain-modeling to help me complete a relevant task."

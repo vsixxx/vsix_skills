@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gbrain Skill Creator"
+  short_description: "Use Gbrain Skill Creator guidance and workflows in Codex"
+  default_prompt: "Use $gbrain-skill-creator to help me complete a relevant task."

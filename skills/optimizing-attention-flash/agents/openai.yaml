@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimizing Attention Flash"
+  short_description: "Use Optimizing Attention Flash guidance and workflows in Codex"
+  default_prompt: "Use $optimizing-attention-flash to help me complete a relevant task."

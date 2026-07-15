@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reports"
+  short_description: "Use Reports guidance and workflows in Codex"
+  default_prompt: "Use $reports to help me complete a relevant task."

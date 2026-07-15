@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Scan"
+  short_description: "Use Security Scan guidance and workflows in Codex"
+  default_prompt: "Use $security-scan to help me complete a relevant task."

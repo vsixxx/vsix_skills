@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start"
+  short_description: "Use Start guidance and workflows in Codex"
+  default_prompt: "Use $start to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencli Autofix"
+  short_description: "Use Opencli Autofix guidance and workflows in Codex"
+  default_prompt: "Use $opencli-autofix to help me complete a relevant task."

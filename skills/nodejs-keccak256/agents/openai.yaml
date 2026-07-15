@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nodejs Keccak256"
+  short_description: "Use Nodejs Keccak256 guidance and workflows in Codex"
+  default_prompt: "Use $nodejs-keccak256 to help me complete a relevant task."

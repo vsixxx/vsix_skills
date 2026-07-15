@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pricing Page"
+  short_description: "Use Pricing Page guidance and workflows in Codex"
+  default_prompt: "Use $pricing-page to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vision Analysis"
+  short_description: "Use Vision Analysis guidance and workflows in Codex"
+  default_prompt: "Use $vision-analysis to help me complete a relevant task."

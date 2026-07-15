@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimax PDF"
+  short_description: "Use Minimax PDF guidance and workflows in Codex"
+  default_prompt: "Use $minimax-pdf to help me complete a relevant task."

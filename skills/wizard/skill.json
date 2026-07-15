@@ -1,0 +1,17 @@
+{
+  "id": "wizard",
+  "title": "Wizard",
+  "descriptionZh": "用于 Wizard 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/wizard",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/in-progress/wizard/SKILL.md",
+  "upstreamSha256": "e113612095b14178e680022153f2409fb14ea8b992e55d59ad8ce94071ffaf49"
+}

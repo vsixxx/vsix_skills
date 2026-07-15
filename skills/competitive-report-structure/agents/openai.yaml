@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Report Structure"
+  short_description: "Use Competitive Report Structure guidance and workflows in Codex"
+  default_prompt: "Use $competitive-report-structure to help me complete a relevant task."

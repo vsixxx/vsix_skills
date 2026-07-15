@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wowerpoint"
+  short_description: "Use Wowerpoint guidance and workflows in Codex"
+  default_prompt: "Use $wowerpoint to help me complete a relevant task."

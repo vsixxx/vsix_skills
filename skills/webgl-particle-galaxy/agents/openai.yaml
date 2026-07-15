@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Particle Galaxy"
+  short_description: "Use Webgl Particle Galaxy guidance and workflows in Codex"
+  default_prompt: "Use $webgl-particle-galaxy to help me complete a relevant task."

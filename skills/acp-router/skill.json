@@ -1,0 +1,17 @@
+{
+  "id": "acp-router",
+  "title": "Acp Router",
+  "descriptionZh": "用于 Acp Router 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/acpx/skills/acp-router",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/acpx/skills/acp-router/SKILL.md",
+  "upstreamSha256": "8597fce2e0894564bdbd1eeb2a6ac359748c4b9437311928439c694c77e6a461"
+}

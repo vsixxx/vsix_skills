@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huggingface Hub"
+  short_description: "Use Huggingface Hub guidance and workflows in Codex"
+  default_prompt: "Use $huggingface-hub to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storage Analyzer"
+  short_description: "Use Storage Analyzer guidance and workflows in Codex"
+  default_prompt: "Use $storage-analyzer to help me complete a relevant task."

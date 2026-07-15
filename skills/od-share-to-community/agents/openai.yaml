@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Share To Community"
+  short_description: "Use Od Share To Community guidance and workflows in Codex"
+  default_prompt: "Use $od-share-to-community to help me complete a relevant task."

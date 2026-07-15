@@ -1,0 +1,17 @@
+{
+  "id": "skill-test",
+  "title": "Skill Test",
+  "descriptionZh": "用于 Skill Test 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/skill-test",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/skill-test/SKILL.md",
+  "upstreamSha256": "24d09805593a811cc10b46d40a45eb1e36b040cfdc4e7a2ae3e36ffa51bd4cf9"
+}

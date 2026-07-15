@@ -1,0 +1,17 @@
+{
+  "id": "pubmed-database",
+  "title": "Pubmed Database",
+  "descriptionZh": "用于 Pubmed Database 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/scientific-db-pubmed-database",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/scientific-db-pubmed-database/SKILL.md",
+  "upstreamSha256": "9ded7ae522c8893da3dce383022d80beb9745d1a311d948034a75d4568ebd0d5"
+}

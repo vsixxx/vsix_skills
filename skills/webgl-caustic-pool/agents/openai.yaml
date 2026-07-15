@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Caustic Pool"
+  short_description: "Use Webgl Caustic Pool guidance and workflows in Codex"
+  default_prompt: "Use $webgl-caustic-pool to help me complete a relevant task."

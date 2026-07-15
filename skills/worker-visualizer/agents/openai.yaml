@@ -1,0 +1,4 @@
+interface:
+  display_name: "Worker Visualizer"
+  short_description: "Use Worker Visualizer guidance and workflows in Codex"
+  default_prompt: "Use $worker-visualizer to help me complete a relevant task."

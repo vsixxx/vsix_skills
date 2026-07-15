@@ -1,0 +1,17 @@
+{
+  "id": "knowledge-agent",
+  "title": "Knowledge Agent",
+  "descriptionZh": "用于 Knowledge Agent 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/knowledge-agent",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/knowledge-agent/SKILL.md",
+  "upstreamSha256": "538de006ebe2619b8a47dd47b09c5afa51ccbe0f806f5fd17ab348609eef6fd1"
+}

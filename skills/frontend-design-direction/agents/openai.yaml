@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design Direction"
+  short_description: "Use Frontend Design Direction guidance and workflows in Codex"
+  default_prompt: "Use $frontend-design-direction to help me complete a relevant task."

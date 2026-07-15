@@ -1,0 +1,17 @@
+{
+  "id": "add-tts-engine",
+  "title": "Add Tts Engine",
+  "descriptionZh": "用于 Add Tts Engine 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/jamiepine/voicebox/tree/main/.agents/skills/add-tts-engine",
+  "homepage": "https://github.com/jamiepine/voicebox",
+  "license": "See upstream",
+  "author": "jamiepine",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f2cf2a729d733acd7c759d85c6ace2d602f50d6e",
+  "upstreamPath": ".agents/skills/add-tts-engine/SKILL.md",
+  "upstreamSha256": "ac1d6d859938bf52936862248f0457bbe96b2798c0e570195b6a011dc3fceb2c"
+}

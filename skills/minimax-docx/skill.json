@@ -1,0 +1,17 @@
+{
+  "id": "minimax-docx",
+  "title": "Minimax Docx",
+  "descriptionZh": "用于 Minimax Docx 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-docx",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/minimax-docx/SKILL.md",
+  "upstreamSha256": "45c169630f30b8f034bc7d53edf73d592fbd82e82188beec7da3ca1996a97fb5"
+}

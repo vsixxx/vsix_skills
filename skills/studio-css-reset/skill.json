@@ -1,0 +1,17 @@
+{
+  "id": "studio-css-reset",
+  "title": "Studio Css Reset",
+  "descriptionZh": "用于 Studio Css Reset 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/studio-css-reset",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/studio-css-reset/SKILL.md",
+  "upstreamSha256": "154315e0aa0d8de500efc332bd5f71c084857060cf8472e1b0c24ef70554f3e8"
+}

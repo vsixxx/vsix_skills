@@ -1,0 +1,17 @@
+{
+  "id": "design-style-skill",
+  "title": "Design Style Skill",
+  "descriptionZh": "用于 Design Style Skill 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/plugins/pptx-plugin/skills/design-style-skill",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "See upstream",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "plugins/pptx-plugin/skills/design-style-skill/SKILL.md",
+  "upstreamSha256": "b89d4b37c1024ab5d4852cea3bba9c7823e3a76e5e255c9bfcb07cde546899fe"
+}

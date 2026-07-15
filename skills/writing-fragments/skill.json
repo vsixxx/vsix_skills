@@ -1,0 +1,17 @@
+{
+  "id": "writing-fragments",
+  "title": "Writing Fragments",
+  "descriptionZh": "用于 Writing Fragments 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/in-progress/writing-fragments/SKILL.md",
+  "upstreamSha256": "c61b6608f227b0eee1b832273360cf5088ad68c343c15ec9c06673086662e64e"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p10",
+  "title": "P10",
+  "descriptionZh": "用于 P10 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/skills/p10",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "skills/p10/SKILL.md",
+  "upstreamSha256": "950bcb0420a3c960da31235bdc4b62c83a59d963d87acb24655959d0bf097722"
+}

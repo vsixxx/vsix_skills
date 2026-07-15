@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Kling O3"
+  short_description: "Use Fal Kling O3 guidance and workflows in Codex"
+  default_prompt: "Use $fal-kling-o3 to help me complete a relevant task."

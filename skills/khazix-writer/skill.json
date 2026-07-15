@@ -1,0 +1,17 @@
+{
+  "id": "khazix-writer",
+  "title": "Khazix Writer",
+  "descriptionZh": "用于 Khazix Writer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/tree/main/khazix-writer",
+  "homepage": "https://github.com/KKKKhazix/khazix-skills",
+  "license": "See upstream",
+  "author": "KKKKhazix",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5a963d91f772e0d4f6659c43a36876a74c468143",
+  "upstreamPath": "khazix-writer/SKILL.md",
+  "upstreamSha256": "081bfbf5bc0f0c9a2c5a6410eaaa9de18a0cc50f932a1195f45df04e30018602"
+}

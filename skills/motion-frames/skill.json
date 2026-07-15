@@ -1,0 +1,17 @@
+{
+  "id": "motion-frames",
+  "title": "Motion Frames",
+  "descriptionZh": "用于 Motion Frames 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/motion-frames",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/motion-frames/SKILL.md",
+  "upstreamSha256": "c6ca317d618a67b55e4431552cca9b030df8229d22507ef51db51c6a00c82014"
+}

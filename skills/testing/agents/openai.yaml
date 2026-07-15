@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testing"
+  short_description: "Use Testing guidance and workflows in Codex"
+  default_prompt: "Use $testing to help me complete a relevant task."

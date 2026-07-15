@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gif Sticker Maker"
+  short_description: "Use Gif Sticker Maker guidance and workflows in Codex"
+  default_prompt: "Use $gif-sticker-maker to help me complete a relevant task."

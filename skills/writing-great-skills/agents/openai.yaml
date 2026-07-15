@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Great Skills"
+  short_description: "Use Writing Great Skills guidance and workflows in Codex"
+  default_prompt: "Use $writing-great-skills to help me complete a relevant task."

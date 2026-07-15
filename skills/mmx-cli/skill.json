@@ -1,0 +1,17 @@
+{
+  "id": "mmx-cli",
+  "title": "Mmx CLI",
+  "descriptionZh": "用于 Mmx CLI 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-multimodal-toolkit",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "See upstream",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/minimax-multimodal-toolkit/SKILL.md",
+  "upstreamSha256": "2388fddd3f8f767818540b6d47cfbfcc5c51e89799f55aa66f03c200d3c391a8"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "landing-report",
+  "title": "Landing Report",
+  "descriptionZh": "用于 Landing Report 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/landing-report",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "landing-report/SKILL.md",
+  "upstreamSha256": "bb328522f77372717e1d41c2ca1911586f0518c30c16f336f6eb8d51eaca1931"
+}

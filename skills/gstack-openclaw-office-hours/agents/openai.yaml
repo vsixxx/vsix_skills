@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gstack Openclaw Office Hours"
+  short_description: "Use Gstack Openclaw Office Hours guidance and workflows in Codex"
+  default_prompt: "Use $gstack-openclaw-office-hours to help me complete a relevant task."

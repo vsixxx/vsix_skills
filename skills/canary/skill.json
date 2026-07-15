@@ -1,0 +1,17 @@
+{
+  "id": "canary",
+  "title": "Canary",
+  "descriptionZh": "用于 Canary 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/canary",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "canary/SKILL.md",
+  "upstreamSha256": "b83f2a2f407d40e2c440857f0e5f6e0fbca071f6dd26f35eb2efd4009f2c2b5d"
+}

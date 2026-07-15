@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Comply"
+  short_description: "Use Skill Comply guidance and workflows in Codex"
+  default_prompt: "Use $skill-comply to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "minimalist-review",
+  "title": "Minimalist Review",
+  "descriptionZh": "用于 Minimalist Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slavingia/skills/tree/main/skills/minimalist-review",
+  "homepage": "https://github.com/slavingia/skills",
+  "license": "See upstream",
+  "author": "slavingia",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "eb9f57fba03ddb0382ed3bfe6654d3d7df128c70",
+  "upstreamPath": "skills/minimalist-review/SKILL.md",
+  "upstreamSha256": "113e74edc80297635748df6b425efcd4c04e493a5a11c392486e76917c101619"
+}

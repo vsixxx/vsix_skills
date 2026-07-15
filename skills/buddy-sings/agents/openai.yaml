@@ -1,0 +1,4 @@
+interface:
+  display_name: "Buddy Sings"
+  short_description: "Use Buddy Sings guidance and workflows in Codex"
+  default_prompt: "Use $buddy-sings to help me complete a relevant task."

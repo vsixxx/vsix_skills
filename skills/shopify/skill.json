@@ -1,0 +1,20 @@
+{
+  "id": "shopify",
+  "title": "Shopify",
+  "descriptionZh": "通过 curl 使用 Shopify Admin 和 Storefront GraphQL API。支持商品、订单、客户、库存、元字段。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [
+    "Command: curl",
+    "Command: jq",
+    "Environment variable: SHOPIFY_ACCESS_TOKEN",
+    "Environment variable: SHOPIFY_STORE_DOMAIN",
+    "Environment variable: SHOPIFY_API_VERSION"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/productivity/shopify",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

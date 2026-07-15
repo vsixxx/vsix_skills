@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu YouTube Transcript"
+  short_description: "Use Baoyu YouTube Transcript guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-youtube-transcript to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "migrate",
+  "title": "Migrate",
+  "descriptionZh": "用于 Migrate 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/migrate",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/migrate/SKILL.md",
+  "upstreamSha256": "442c117cfe50026a142ff4f934e489c56ee226d454b639d20bba3b111a86d8fd"
+}

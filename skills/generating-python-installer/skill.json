@@ -1,0 +1,17 @@
+{
+  "id": "generating-python-installer",
+  "title": "Generating Python Installer",
+  "descriptionZh": "用于 Generating Python Installer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/generating-python-installer",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/generating-python-installer/SKILL.md",
+  "upstreamSha256": "b214c00051ee872e01f4007a1fdcaf993af5aede1e6497a0740ea4afc1c6f0b1"
+}

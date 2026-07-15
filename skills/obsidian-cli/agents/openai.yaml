@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian CLI"
+  short_description: "Use Obsidian CLI guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-cli to help me complete a relevant task."

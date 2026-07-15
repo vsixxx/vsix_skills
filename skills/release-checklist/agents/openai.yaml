@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Checklist"
+  short_description: "Use Release Checklist guidance and workflows in Codex"
+  default_prompt: "Use $release-checklist to help me complete a relevant task."

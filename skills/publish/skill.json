@@ -1,0 +1,17 @@
+{
+  "id": "publish",
+  "title": "Publish",
+  "descriptionZh": "用于 Publish 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/publish",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/publish/SKILL.md",
+  "upstreamSha256": "e06b609db780a3cc93a1755a87b30ff08ffdc0fdbc834c1422b2ad2489b57497"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ship And Babysit"
+  short_description: "Use Ship And Babysit guidance and workflows in Codex"
+  default_prompt: "Use $ship-and-babysit to help me complete a relevant task."

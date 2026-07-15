@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Patterns"
+  short_description: "Use Rust Patterns guidance and workflows in Codex"
+  default_prompt: "Use $rust-patterns to help me complete a relevant task."

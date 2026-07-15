@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Vercel React Best Practices"
+  short_description: "Use Aitoearn Vercel React Best Practices workflows in Codex"
+  default_prompt: "Use $aitoearn-vercel-react-best-practices to help me complete a relevant task."

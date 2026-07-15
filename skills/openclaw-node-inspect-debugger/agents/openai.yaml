@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Node Inspect Debugger"
+  short_description: "Use Openclaw Node Inspect Debugger workflows in Codex"
+  default_prompt: "Use $openclaw-node-inspect-debugger to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slime Rl Training"
+  short_description: "Use Slime Rl Training guidance and workflows in Codex"
+  default_prompt: "Use $slime-rl-training to help me complete a relevant task."

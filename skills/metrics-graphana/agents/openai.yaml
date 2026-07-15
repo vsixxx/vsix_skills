@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metrics Graphana"
+  short_description: "Use Metrics Graphana guidance and workflows in Codex"
+  default_prompt: "Use $metrics-graphana to help me complete a relevant task."

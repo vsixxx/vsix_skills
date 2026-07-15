@@ -1,0 +1,14 @@
+{
+  "id": "humanizer",
+  "title": "Humanizer",
+  "descriptionZh": "人性化文本：去除 AI 腔，加入真实语气。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/humanizer",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Siqi Chen (@blader, https://github.com/blader/humanizer), ported by Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

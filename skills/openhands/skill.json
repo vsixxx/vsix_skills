@@ -1,0 +1,17 @@
+{
+  "id": "openhands",
+  "title": "Openhands",
+  "descriptionZh": "将软件开发任务委托给支持多模型的 OpenHands CLI。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/autonomous-ai-agents/openhands",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Tim Koepsel (xzessmedia), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "excalidraw-architecture",
+  "title": "Excalidraw Architecture",
+  "descriptionZh": "用于 Excalidraw Architecture 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mergisi/awesome-openclaw-agents/tree/main/skills/claude/excalidraw-architecture",
+  "homepage": "https://github.com/mergisi/awesome-openclaw-agents",
+  "license": "See upstream",
+  "author": "mergisi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "05820c51125e86a979432e21651d34dc9b14621f",
+  "upstreamPath": "skills/claude/excalidraw-architecture/SKILL.md",
+  "upstreamSha256": "16f0df4b6d881b91d0e01f11a36378fbeadfe218e0b267fe9fe642059ad444c5"
+}

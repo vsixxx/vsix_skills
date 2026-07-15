@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wpds"
+  short_description: "Use Wpds guidance and workflows in Codex"
+  default_prompt: "Use $wpds to help me complete a relevant task."

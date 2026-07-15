@@ -1,0 +1,17 @@
+{
+  "id": "aitoearn-grill-me",
+  "title": "Aitoearn Grill Me",
+  "descriptionZh": "用于 Aitoearn Grill Me 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/grill-me",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/grill-me/SKILL.md",
+  "upstreamSha256": "74147eb6010a65957efef2b9e0f0b3ff935c1def7fc117697151b1d0f3610556"
+}

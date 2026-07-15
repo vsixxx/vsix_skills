@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Raw Grid"
+  short_description: "Use HTML Ppt Zhangzara Raw Grid guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-raw-grid to help me complete a relevant task."

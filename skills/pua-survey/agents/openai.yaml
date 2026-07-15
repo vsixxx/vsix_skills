@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Survey"
+  short_description: "Use Pua Survey guidance and workflows in Codex"
+  default_prompt: "Use $pua-survey to help me complete a relevant task."

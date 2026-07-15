@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dating Web"
+  short_description: "Use Dating Web guidance and workflows in Codex"
+  default_prompt: "Use $dating-web to help me complete a relevant task."

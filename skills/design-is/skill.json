@@ -1,0 +1,17 @@
+{
+  "id": "design-is",
+  "title": "Design Is",
+  "descriptionZh": "用于 Design Is 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/design-is",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/design-is/SKILL.md",
+  "upstreamSha256": "1d6529372738c64a74e2ad1b3a8521fe354d166ca9909d448aa2ac1094fc8627"
+}

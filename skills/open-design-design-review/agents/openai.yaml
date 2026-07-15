@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Design Review"
+  short_description: "Use Open Design Design Review guidance and workflows in Codex"
+  default_prompt: "Use $open-design-design-review to help me complete a relevant task."

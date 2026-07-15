@@ -1,0 +1,17 @@
+{
+  "id": "vertical-slice",
+  "title": "Vertical Slice",
+  "descriptionZh": "用于 Vertical Slice 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/vertical-slice",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/vertical-slice/SKILL.md",
+  "upstreamSha256": "a555d5a79fceee22229b5587778ccae3f2c17514c92ffa62b708db613c574f9a"
+}

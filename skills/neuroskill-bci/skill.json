@@ -1,0 +1,14 @@
+{
+  "id": "neuroskill-bci",
+  "title": "Neuroskill Bci",
+  "descriptionZh": "连接运行中的 NeuroSkill 实例，将用户的实时认知和情绪状态（专注度、放松度、情绪、认知负荷、困倦度、心率、HRV、睡眠分期及 40+ 项衍生 EXG 评分）融入响应中。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/health/neuroskill-bci",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Nous Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

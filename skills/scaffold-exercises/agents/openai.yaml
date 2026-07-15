@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scaffold Exercises"
+  short_description: "Use Scaffold Exercises guidance and workflows in Codex"
+  default_prompt: "Use $scaffold-exercises to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meme Maker"
+  short_description: "Use Meme Maker guidance and workflows in Codex"
+  default_prompt: "Use $meme-maker to help me complete a relevant task."

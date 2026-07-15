@@ -1,0 +1,17 @@
+{
+  "id": "grid-image-generator",
+  "title": "Grid Image Generator",
+  "descriptionZh": "用于 Grid Image Generator 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/chatfire-AI/huobao-drama/tree/master/skills/grid_prompt_generator",
+  "homepage": "https://github.com/chatfire-AI/huobao-drama",
+  "license": "See upstream",
+  "author": "chatfire-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ad1cd7cd0127389ce8304aa9ebda3cfc8f406a6d",
+  "upstreamPath": "skills/grid_prompt_generator/SKILL.md",
+  "upstreamSha256": "c5346d9424d10134e9b26e979dd3c4ebf61dccdbfd7cacce035c19dc4e6c4747"
+}

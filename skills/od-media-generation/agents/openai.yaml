@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Media Generation"
+  short_description: "Use Od Media Generation guidance and workflows in Codex"
+  default_prompt: "Use $od-media-generation to help me complete a relevant task."

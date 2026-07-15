@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pytorch Fsdp"
+  short_description: "Use Pytorch Fsdp guidance and workflows in Codex"
+  default_prompt: "Use $pytorch-fsdp to help me complete a relevant task."

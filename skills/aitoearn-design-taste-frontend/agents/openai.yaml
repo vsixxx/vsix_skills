@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Design Taste Frontend"
+  short_description: "Use Aitoearn Design Taste Frontend workflows in Codex"
+  default_prompt: "Use $aitoearn-design-taste-frontend to help me complete a relevant task."

@@ -1,0 +1,16 @@
+{
+  "id": "weights-and-biases",
+  "title": "Weights And Biases",
+  "descriptionZh": "W&B：记录 ML 实验、超参数搜索、模型注册表、仪表盘。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: wandb"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/evaluation/weights-and-biases",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

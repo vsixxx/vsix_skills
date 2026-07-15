@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Modern"
+  short_description: "Use Resume Modern guidance and workflows in Codex"
+  default_prompt: "Use $resume-modern to help me complete a relevant task."

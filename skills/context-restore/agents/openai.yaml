@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Restore"
+  short_description: "Use Context Restore guidance and workflows in Codex"
+  default_prompt: "Use $context-restore to help me complete a relevant task."

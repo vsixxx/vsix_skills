@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Handoff"
+  short_description: "Use Claude Handoff guidance and workflows in Codex"
+  default_prompt: "Use $claude-handoff to help me complete a relevant task."

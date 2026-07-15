@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crabbox"
+  short_description: "Use Crabbox guidance and workflows in Codex"
+  default_prompt: "Use $crabbox to help me complete a relevant task."

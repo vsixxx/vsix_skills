@@ -1,0 +1,17 @@
+{
+  "id": "happy-office-hours",
+  "title": "Happy Office Hours",
+  "descriptionZh": "用于 Happy Office Hours 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/office-hours",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/office-hours/SKILL.md",
+  "upstreamSha256": "e42291baa40517dfacf6a9e9557b75184ed5fc5c4bbc9e19d40c168e0bd76b87"
+}

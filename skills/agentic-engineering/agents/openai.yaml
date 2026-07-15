@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentic Engineering"
+  short_description: "Use Agentic Engineering guidance and workflows in Codex"
+  default_prompt: "Use $agentic-engineering to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Play Mode"
+  short_description: "Use Video Template Frame Play Mode workflows in Codex"
+  default_prompt: "Use $video-template-frame-play-mode to help me complete a relevant task."

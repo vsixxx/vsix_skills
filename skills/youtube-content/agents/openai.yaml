@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Content"
+  short_description: "Use YouTube Content guidance and workflows in Codex"
+  default_prompt: "Use $youtube-content to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Magazine Poster"
+  short_description: "Use Magazine Poster guidance and workflows in Codex"
+  default_prompt: "Use $magazine-poster to help me complete a relevant task."

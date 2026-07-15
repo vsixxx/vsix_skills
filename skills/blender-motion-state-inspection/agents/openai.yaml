@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Motion State Inspection"
+  short_description: "Use Blender Motion State Inspection workflows in Codex"
+  default_prompt: "Use $blender-motion-state-inspection to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Design Md"
+  short_description: "Use Open Design Design Md guidance and workflows in Codex"
+  default_prompt: "Use $open-design-design-md to help me complete a relevant task."

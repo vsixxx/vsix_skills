@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Openclaw Ci"
+  short_description: "Use Release Openclaw Ci guidance and workflows in Codex"
+  default_prompt: "Use $release-openclaw-ci to help me complete a relevant task."

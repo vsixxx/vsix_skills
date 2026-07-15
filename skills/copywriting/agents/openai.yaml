@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copywriting"
+  short_description: "Use Copywriting guidance and workflows in Codex"
+  default_prompt: "Use $copywriting to help me complete a relevant task."

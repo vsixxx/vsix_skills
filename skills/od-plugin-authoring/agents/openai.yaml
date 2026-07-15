@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Plugin Authoring"
+  short_description: "Use Od Plugin Authoring guidance and workflows in Codex"
+  default_prompt: "Use $od-plugin-authoring to help me complete a relevant task."

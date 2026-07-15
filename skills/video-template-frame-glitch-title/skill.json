@@ -1,0 +1,17 @@
+{
+  "id": "video-template-frame-glitch-title",
+  "title": "Video Template Frame Glitch Title",
+  "descriptionZh": "用于 Video Template Frame Glitch Title 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/video-templates/frame-glitch-title",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "Apache-2.0",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/video-templates/frame-glitch-title/SKILL.md",
+  "upstreamSha256": "33c2b23d55abd574e57743f9349942e531814069959d70bd1709a64d62efa4b1"
+}

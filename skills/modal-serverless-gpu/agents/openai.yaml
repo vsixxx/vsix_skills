@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modal Serverless Gpu"
+  short_description: "Use Modal Serverless Gpu guidance and workflows in Codex"
+  default_prompt: "Use $modal-serverless-gpu to help me complete a relevant task."

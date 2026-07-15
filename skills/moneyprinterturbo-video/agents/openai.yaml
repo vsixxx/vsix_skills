@@ -1,0 +1,4 @@
+interface:
+  display_name: "Moneyprinterturbo Video"
+  short_description: "Use Moneyprinterturbo Video guidance and workflows in Codex"
+  default_prompt: "Use $moneyprinterturbo-video to help me complete a relevant task."

@@ -1,0 +1,19 @@
+---
+name: card-twitter
+description: Twitter quote or data card designed to pair with a post. Use when Codex needs to perform Card Twitter tasks, or when the user explicitly mentions card-twitter.
+---
+
+# Card Twitter
+
+## Codex compatibility
+
+Use the tools available in the current Codex environment. Treat Hermes-specific tool names as capability labels and map them to the closest available Codex tool. When upstream instructions use `HERMES_SKILL_DIR`, resolve it to the directory containing this `SKILL.md`; do not assume that environment variable exists. Follow Codex sandbox, approval, and file-editing rules. Preserve the upstream workflow unless it conflicts with higher-priority instructions.
+
+【模板: Twitter 分享卡】
+- 容器 `w-[1600px] h-[900px]`, 暗色 / 亮色二选一根据内容情绪。
+- 中央一句 hero 金句 (text-6xl, font-semibold, 限 2-3 行)。
+- 下方作者署名 + 头像占位 + handle。
+- 左上角小标签 (类型: "Insight" / "Data" / "Quote")。
+- 右下角品牌水印。
+- 整张卡片有微妙的纹理 (grid 网格 / noise / dot pattern)。
+- 截图后可直接配推文发出, 视觉简洁有力。

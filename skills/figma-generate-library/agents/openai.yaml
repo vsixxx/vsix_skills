@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Generate Library"
+  short_description: "Use Figma Generate Library guidance and workflows in Codex"
+  default_prompt: "Use $figma-generate-library to help me complete a relevant task."

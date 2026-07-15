@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Upscale"
+  short_description: "Use Fal Upscale guidance and workflows in Codex"
+  default_prompt: "Use $fal-upscale to help me complete a relevant task."

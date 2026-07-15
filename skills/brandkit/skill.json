@@ -1,0 +1,17 @@
+{
+  "id": "brandkit",
+  "title": "Brandkit",
+  "descriptionZh": "用于 Brandkit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/brandkit",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/brandkit/SKILL.md",
+  "upstreamSha256": "22dd701e88695e8559527461f6b0f56f272fc583fb2133845d3307d7c5785b2a"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Plugin Discovery"
+  short_description: "Use Laravel Plugin Discovery guidance and workflows in Codex"
+  default_prompt: "Use $laravel-plugin-discovery to help me complete a relevant task."

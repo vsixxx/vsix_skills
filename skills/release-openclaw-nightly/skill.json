@@ -1,0 +1,17 @@
+{
+  "id": "release-openclaw-nightly",
+  "title": "Release Openclaw Nightly",
+  "descriptionZh": "用于 Release Openclaw Nightly 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/release-openclaw-nightly",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/release-openclaw-nightly/SKILL.md",
+  "upstreamSha256": "8e61fdd757371933d91934cfe2285d1a4e23d692c6d8a9e7f9a1b446be162a73"
+}

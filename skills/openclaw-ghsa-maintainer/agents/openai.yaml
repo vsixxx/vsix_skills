@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Ghsa Maintainer"
+  short_description: "Use Openclaw Ghsa Maintainer guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-ghsa-maintainer to help me complete a relevant task."

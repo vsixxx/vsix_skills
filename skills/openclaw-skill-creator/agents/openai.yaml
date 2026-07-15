@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Skill Creator"
+  short_description: "Use Openclaw Skill Creator guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-skill-creator to help me complete a relevant task."

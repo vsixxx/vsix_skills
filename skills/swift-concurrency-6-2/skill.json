@@ -1,0 +1,17 @@
+{
+  "id": "swift-concurrency-6-2",
+  "title": "Swift Concurrency 6 2",
+  "descriptionZh": "用于 Swift Concurrency 6 2 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/swift-concurrency-6-2",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/swift-concurrency-6-2/SKILL.md",
+  "upstreamSha256": "f12ca9feeed25834fc06f59a70c679629962a4653c8354ecd833b68403da652c"
+}

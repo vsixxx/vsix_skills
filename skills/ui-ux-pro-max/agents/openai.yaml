@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ui Ux Pro Max"
+  short_description: "Use Ui Ux Pro Max guidance and workflows in Codex"
+  default_prompt: "Use $ui-ux-pro-max to help me complete a relevant task."

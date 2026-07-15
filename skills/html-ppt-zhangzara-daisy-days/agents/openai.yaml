@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Daisy Days"
+  short_description: "Use HTML Ppt Zhangzara Daisy Days workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-daisy-days to help me complete a relevant task."

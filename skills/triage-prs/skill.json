@@ -1,0 +1,17 @@
+{
+  "id": "triage-prs",
+  "title": "Triage Prs",
+  "descriptionZh": "用于 Triage Prs 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/jamiepine/voicebox/tree/main/.agents/skills/triage-prs",
+  "homepage": "https://github.com/jamiepine/voicebox",
+  "license": "See upstream",
+  "author": "jamiepine",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f2cf2a729d733acd7c759d85c6ace2d602f50d6e",
+  "upstreamPath": ".agents/skills/triage-prs/SKILL.md",
+  "upstreamSha256": "0a53c9151af451897f279865f59a803d91782ce980d3e314b388d22f5f36c34b"
+}

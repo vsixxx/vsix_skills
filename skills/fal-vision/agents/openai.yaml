@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Vision"
+  short_description: "Use Fal Vision guidance and workflows in Codex"
+  default_prompt: "Use $fal-vision to help me complete a relevant task."

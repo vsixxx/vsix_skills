@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Foundations"
+  short_description: "Use Motion Foundations guidance and workflows in Codex"
+  default_prompt: "Use $motion-foundations to help me complete a relevant task."

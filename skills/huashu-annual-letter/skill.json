@@ -1,0 +1,17 @@
+{
+  "id": "huashu-annual-letter",
+  "title": "Huashu Annual Letter",
+  "descriptionZh": "用于 Huashu Annual Letter 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/huashu-annual-letter",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/huashu-annual-letter/SKILL.md",
+  "upstreamSha256": "09d12a3970278c8280939c79aaec82c673d353a2bc4944b6e85db742e99b6349"
+}

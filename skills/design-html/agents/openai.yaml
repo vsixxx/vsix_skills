@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design HTML"
+  short_description: "Use Design HTML guidance and workflows in Codex"
+  default_prompt: "Use $design-html to help me complete a relevant task."

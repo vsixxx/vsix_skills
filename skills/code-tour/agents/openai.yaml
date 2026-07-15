@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Tour"
+  short_description: "Use Code Tour guidance and workflows in Codex"
+  default_prompt: "Use $code-tour to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "claude-handoff",
+  "title": "Claude Handoff",
+  "descriptionZh": "用于 Claude Handoff 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/claude-handoff",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/in-progress/claude-handoff/SKILL.md",
+  "upstreamSha256": "bbb25773158d78f610461e4041ffb56fe871cb297626e1f52b0535a9083b7996"
+}

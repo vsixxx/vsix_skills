@@ -1,0 +1,14 @@
+{
+  "id": "architecture-diagram",
+  "title": "Architecture Diagram",
+  "descriptionZh": "以 HTML 形式生成深色主题的 SVG 架构/云/基础设施图。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/architecture-diagram",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Cocoon AI (hello@cocoon-ai.com), ported by Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

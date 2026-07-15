@@ -1,0 +1,17 @@
+{
+  "id": "imsg",
+  "title": "Imsg",
+  "descriptionZh": "用于 Imsg 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/imessage/skills/imsg",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/imessage/skills/imsg/SKILL.md",
+  "upstreamSha256": "0cce5f483e5e58ad888663f7ad270b80b3bcd57a4b4fa6e1f3a90d082d1e4b89"
+}

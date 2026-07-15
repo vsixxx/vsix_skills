@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Handoff"
+  short_description: "Use Open Design Handoff guidance and workflows in Codex"
+  default_prompt: "Use $open-design-handoff to help me complete a relevant task."

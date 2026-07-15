@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Orchestrate"
+  short_description: "Use Plan Orchestrate guidance and workflows in Codex"
+  default_prompt: "Use $plan-orchestrate to help me complete a relevant task."

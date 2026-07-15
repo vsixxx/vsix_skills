@@ -1,0 +1,17 @@
+{
+  "id": "create-image-campaign",
+  "title": "Create Image Campaign",
+  "descriptionZh": "用于 Create Image Campaign 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/spec/examples/create-image-campaign",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "MIT",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/spec/examples/create-image-campaign/SKILL.md",
+  "upstreamSha256": "f354e0bee55a4eb4a4ce7c3039ec1c36a7185191737adb7a13fbae95789c7a55"
+}

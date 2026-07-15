@@ -1,0 +1,17 @@
+{
+  "id": "reasonix-guide",
+  "title": "Reasonix Guide",
+  "descriptionZh": "用于 Reasonix Guide 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/esengine/DeepSeek-Reasonix/tree/main-v2/internal/skill/builtincontent/reasonix-guide",
+  "homepage": "https://github.com/esengine/DeepSeek-Reasonix",
+  "license": "See upstream",
+  "author": "esengine",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ad9c3fc138b3e7b953405d94b96027b3275c4a50",
+  "upstreamPath": "internal/skill/builtincontent/reasonix-guide/SKILL.md",
+  "upstreamSha256": "38636ad0a1681494b96cca5a0ad1891948ec60a454522e71d087a7faef5c2adb"
+}

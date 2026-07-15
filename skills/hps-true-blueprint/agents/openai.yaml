@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hps True Blueprint"
+  short_description: "Use Hps True Blueprint guidance and workflows in Codex"
+  default_prompt: "Use $hps-true-blueprint to help me complete a relevant task."

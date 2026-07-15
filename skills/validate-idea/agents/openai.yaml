@@ -1,0 +1,4 @@
+interface:
+  display_name: "Validate Idea"
+  short_description: "Use Validate Idea guidance and workflows in Codex"
+  default_prompt: "Use $validate-idea to help me complete a relevant task."

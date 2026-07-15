@@ -1,0 +1,17 @@
+{
+  "id": "open-design-minimax-docx",
+  "title": "Open Design Minimax Docx",
+  "descriptionZh": "用于 Open Design Minimax Docx 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/minimax-docx",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/minimax-docx/SKILL.md",
+  "upstreamSha256": "bce2d8d9975461fb038d398c5bcafa22d235c7ad8317f6d9781d121c7256c8fc"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Canvas"
+  short_description: "Use Plan Canvas guidance and workflows in Codex"
+  default_prompt: "Use $plan-canvas to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "processize",
+  "title": "Processize",
+  "descriptionZh": "用于 Processize 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slavingia/skills/tree/main/skills/processize",
+  "homepage": "https://github.com/slavingia/skills",
+  "license": "See upstream",
+  "author": "slavingia",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "eb9f57fba03ddb0382ed3bfe6654d3d7df128c70",
+  "upstreamPath": "skills/processize/SKILL.md",
+  "upstreamSha256": "a5a6888ce36d56a63b0abeff06256e64642b79f4f35309993ea80f243f078560"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyperframes Animation"
+  short_description: "Use Hyperframes Animation guidance and workflows in Codex"
+  default_prompt: "Use $hyperframes-animation to help me complete a relevant task."

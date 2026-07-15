@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ubiquitous Language"
+  short_description: "Use Ubiquitous Language guidance and workflows in Codex"
+  default_prompt: "Use $ubiquitous-language to help me complete a relevant task."

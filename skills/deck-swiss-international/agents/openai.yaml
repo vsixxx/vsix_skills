@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deck Swiss International"
+  short_description: "Use Deck Swiss International guidance and workflows in Codex"
+  default_prompt: "Use $deck-swiss-international to help me complete a relevant task."

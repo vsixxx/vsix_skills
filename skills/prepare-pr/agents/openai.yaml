@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare PR"
+  short_description: "Use Prepare PR guidance and workflows in Codex"
+  default_prompt: "Use $prepare-pr to help me complete a relevant task."

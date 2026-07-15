@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Cost Compare"
+  short_description: "Use Model Cost Compare guidance and workflows in Codex"
+  default_prompt: "Use $model-cost-compare to help me complete a relevant task."

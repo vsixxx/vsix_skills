@@ -1,0 +1,17 @@
+{
+  "id": "sprint-status",
+  "title": "Sprint Status",
+  "descriptionZh": "用于 Sprint Status 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/sprint-status",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/sprint-status/SKILL.md",
+  "upstreamSha256": "58b80b7ee9a31eb4798f0700b4054fd705b1d6642eb63cead4166d3ffbe6f138"
+}

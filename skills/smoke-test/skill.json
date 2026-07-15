@@ -1,0 +1,17 @@
+{
+  "id": "smoke-test",
+  "title": "Smoke Test",
+  "descriptionZh": "用于 Smoke Test 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/smoke-test",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/smoke-test/SKILL.md",
+  "upstreamSha256": "f2f2172d41e63e288095451132a0c56848ccc34101d265b330b6cf00e5769f5d"
+}

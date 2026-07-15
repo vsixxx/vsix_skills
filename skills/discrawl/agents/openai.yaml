@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discrawl"
+  short_description: "Use Discrawl guidance and workflows in Codex"
+  default_prompt: "Use $discrawl to help me complete a relevant task."

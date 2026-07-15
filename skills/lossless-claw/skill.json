@@ -1,0 +1,17 @@
+{
+  "id": "lossless-claw",
+  "title": "Lossless Claw",
+  "descriptionZh": "用于 Lossless Claw 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Martian-Engineering/lossless-claw/tree/main/skills/lossless-claw",
+  "homepage": "https://github.com/Martian-Engineering/lossless-claw",
+  "license": "See upstream",
+  "author": "Martian-Engineering",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e7f4cbd4af6b19b1609ee1958764bc50b6e3d8a8",
+  "upstreamPath": "skills/lossless-claw/SKILL.md",
+  "upstreamSha256": "1348cf39531ee9c819a917cf77bcc25bfec0d3f9945054aaec0e1258594f3382"
+}

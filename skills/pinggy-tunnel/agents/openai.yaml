@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pinggy Tunnel"
+  short_description: "Use Pinggy Tunnel guidance and workflows in Codex"
+  default_prompt: "Use $pinggy-tunnel to help me complete a relevant task."

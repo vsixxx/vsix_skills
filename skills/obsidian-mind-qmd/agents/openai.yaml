@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Mind Qmd"
+  short_description: "Use Obsidian Mind Qmd guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-mind-qmd to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "cloud-sync",
+  "title": "Cloud Sync",
+  "descriptionZh": "用于 Cloud Sync 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/cloud-sync",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/cloud-sync/SKILL.md",
+  "upstreamSha256": "6e8b4a84d5729d0ae70260c8a7abe6a45af552a8fa19717403016e6d81571b7a"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Benchmark Methodology"
+  short_description: "Use Benchmark Methodology guidance and workflows in Codex"
+  default_prompt: "Use $benchmark-methodology to help me complete a relevant task."

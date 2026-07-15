@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Weekly Report"
+  short_description: "Use HTML Ppt Weekly Report guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-weekly-report to help me complete a relevant task."

@@ -1,0 +1,14 @@
+{
+  "id": "inference-sh-cli",
+  "title": "Inference Sh CLI",
+  "descriptionZh": "通过 inference.sh CLI（infsh）运行 150+ AI 应用 — 图像生成、视频创作、LLM、搜索、3D、社交自动化。使用终端工具。触发词：inference.sh、infsh、ai apps、flux、veo、图像生成、视频生成、seedrea 等。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/devops/cli",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "okaris",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

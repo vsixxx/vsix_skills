@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Epics"
+  short_description: "Use Create Epics guidance and workflows in Codex"
+  default_prompt: "Use $create-epics to help me complete a relevant task."

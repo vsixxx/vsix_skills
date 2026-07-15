@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superpowers Brainstorming"
+  short_description: "Use Superpowers Brainstorming guidance and workflows in Codex"
+  default_prompt: "Use $superpowers-brainstorming to help me complete a relevant task."

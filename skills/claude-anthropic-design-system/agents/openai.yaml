@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Anthropic Design System"
+  short_description: "Use Claude Anthropic Design System workflows in Codex"
+  default_prompt: "Use $claude-anthropic-design-system to help me complete a relevant task."

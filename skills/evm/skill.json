@@ -1,0 +1,14 @@
+{
+  "id": "evm",
+  "title": "Evm",
+  "descriptionZh": "只读 EVM 客户端：支持 8 条链的钱包、代币、Gas 查询。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/blockchain/evm",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Mibayy (@Mibayy), youssefea (@youssefea), ethernet8023 (@ethernet8023), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

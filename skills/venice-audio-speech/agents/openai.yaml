@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venice Audio Speech"
+  short_description: "Use Venice Audio Speech guidance and workflows in Codex"
+  default_prompt: "Use $venice-audio-speech to help me complete a relevant task."

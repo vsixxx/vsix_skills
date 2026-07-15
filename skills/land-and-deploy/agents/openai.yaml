@@ -1,0 +1,4 @@
+interface:
+  display_name: "Land And Deploy"
+  short_description: "Use Land And Deploy guidance and workflows in Codex"
+  default_prompt: "Use $land-and-deploy to help me complete a relevant task."

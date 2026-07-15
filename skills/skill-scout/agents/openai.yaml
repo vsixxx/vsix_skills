@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Scout"
+  short_description: "Use Skill Scout guidance and workflows in Codex"
+  default_prompt: "Use $skill-scout to help me complete a relevant task."

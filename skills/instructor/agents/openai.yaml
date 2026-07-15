@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instructor"
+  short_description: "Use Instructor guidance and workflows in Codex"
+  default_prompt: "Use $instructor to help me complete a relevant task."

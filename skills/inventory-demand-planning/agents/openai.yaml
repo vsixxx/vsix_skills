@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inventory Demand Planning"
+  short_description: "Use Inventory Demand Planning guidance and workflows in Codex"
+  default_prompt: "Use $inventory-demand-planning to help me complete a relevant task."

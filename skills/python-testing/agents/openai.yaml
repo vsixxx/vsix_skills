@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Testing"
+  short_description: "Use Python Testing guidance and workflows in Codex"
+  default_prompt: "Use $python-testing to help me complete a relevant task."

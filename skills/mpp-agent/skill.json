@@ -1,0 +1,17 @@
+{
+  "id": "mpp-agent",
+  "title": "Mpp Agent",
+  "descriptionZh": "通过 Machine Payments Protocol 为 Agent 接入机器支付能力。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/payments/mpp-agent",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Teknium (teknium1), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

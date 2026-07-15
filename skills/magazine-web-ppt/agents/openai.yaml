@@ -1,0 +1,4 @@
+interface:
+  display_name: "Magazine Web Ppt"
+  short_description: "Use Magazine Web Ppt guidance and workflows in Codex"
+  default_prompt: "Use $magazine-web-ppt to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Publish"
+  short_description: "Use Image Publish guidance and workflows in Codex"
+  default_prompt: "Use $image-publish to help me complete a relevant task."

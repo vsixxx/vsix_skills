@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Code Migration"
+  short_description: "Use Od Code Migration guidance and workflows in Codex"
+  default_prompt: "Use $od-code-migration to help me complete a relevant task."

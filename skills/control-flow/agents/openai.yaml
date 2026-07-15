@@ -1,0 +1,4 @@
+interface:
+  display_name: "Control Flow"
+  short_description: "Use Control Flow guidance and workflows in Codex"
+  default_prompt: "Use $control-flow to help me complete a relevant task."

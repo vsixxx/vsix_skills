@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lambda Labs Gpu Cloud"
+  short_description: "Use Lambda Labs Gpu Cloud guidance and workflows in Codex"
+  default_prompt: "Use $lambda-labs-gpu-cloud to help me complete a relevant task."

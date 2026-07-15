@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simple Deck"
+  short_description: "Use Simple Deck guidance and workflows in Codex"
+  default_prompt: "Use $simple-deck to help me complete a relevant task."

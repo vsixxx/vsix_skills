@@ -1,0 +1,17 @@
+{
+  "id": "test-evidence-review",
+  "title": "Test Evidence Review",
+  "descriptionZh": "用于 Test Evidence Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/test-evidence-review",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/test-evidence-review/SKILL.md",
+  "upstreamSha256": "04cdf0b7e94ab2dab58850bf1a70a2a6f33810ea7abb6102eaec8f2d00b9026e"
+}

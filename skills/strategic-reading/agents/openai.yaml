@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strategic Reading"
+  short_description: "Use Strategic Reading guidance and workflows in Codex"
+  default_prompt: "Use $strategic-reading to help me complete a relevant task."

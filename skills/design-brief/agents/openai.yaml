@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Brief"
+  short_description: "Use Design Brief guidance and workflows in Codex"
+  default_prompt: "Use $design-brief to help me complete a relevant task."

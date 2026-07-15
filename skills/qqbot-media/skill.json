@@ -1,0 +1,17 @@
+{
+  "id": "qqbot-media",
+  "title": "Qqbot Media",
+  "descriptionZh": "用于 Qqbot Media 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/qqbot/skills/qqbot-media",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/qqbot/skills/qqbot-media/SKILL.md",
+  "upstreamSha256": "f4d85e96c31f9e54e0f3d066996e2a510964b7b836e3301c8a832b0ac33ca223"
+}

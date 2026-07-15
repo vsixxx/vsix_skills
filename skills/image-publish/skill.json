@@ -1,0 +1,17 @@
+{
+  "id": "image-publish",
+  "title": "Image Publish",
+  "descriptionZh": "用于 Image Publish 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/freestylefly/CodexGuide/tree/main/.agents/skills/image-publish",
+  "homepage": "https://github.com/freestylefly/CodexGuide",
+  "license": "See upstream",
+  "author": "freestylefly",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "dea26b4ca9a0b02b8fb21e33a59fcfb9d2d880f0",
+  "upstreamPath": ".agents/skills/image-publish/SKILL.md",
+  "upstreamSha256": "de1dd05b09c9113bdbf52c9bdcf51a8261bbe7074a78de2b5ebff925e6a38591"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Studio Css Reset"
+  short_description: "Use Studio Css Reset guidance and workflows in Codex"
+  default_prompt: "Use $studio-css-reset to help me complete a relevant task."

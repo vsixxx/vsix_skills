@@ -1,0 +1,17 @@
+{
+  "id": "academic-verify",
+  "title": "Academic Verify",
+  "descriptionZh": "用于 Academic Verify 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/academic-verify",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/academic-verify/SKILL.md",
+  "upstreamSha256": "1c19e27e75249d869da428ce8d060075feef8fbbfe146af58b305d11a260ebbc"
+}

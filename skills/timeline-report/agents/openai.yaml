@@ -1,0 +1,4 @@
+interface:
+  display_name: "Timeline Report"
+  short_description: "Use Timeline Report guidance and workflows in Codex"
+  default_prompt: "Use $timeline-report to help me complete a relevant task."

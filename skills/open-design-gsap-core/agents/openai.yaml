@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Gsap Core"
+  short_description: "Use Open Design Gsap Core guidance and workflows in Codex"
+  default_prompt: "Use $open-design-gsap-core to help me complete a relevant task."

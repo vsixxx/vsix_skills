@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gpt Taste"
+  short_description: "Use Gpt Taste guidance and workflows in Codex"
+  default_prompt: "Use $gpt-taste to help me complete a relevant task."

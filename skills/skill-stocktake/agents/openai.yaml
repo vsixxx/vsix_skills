@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Stocktake"
+  short_description: "Use Skill Stocktake guidance and workflows in Codex"
+  default_prompt: "Use $skill-stocktake to help me complete a relevant task."

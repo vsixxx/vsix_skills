@@ -1,0 +1,14 @@
+{
+  "id": "youtube-content",
+  "title": "YouTube Content",
+  "descriptionZh": "将 YouTube 字幕转换为摘要、推文串、博客文章。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/media/youtube-content",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

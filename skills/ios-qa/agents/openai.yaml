@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ios Qa"
+  short_description: "Use Ios Qa guidance and workflows in Codex"
+  default_prompt: "Use $ios-qa to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Stories"
+  short_description: "Use Create Stories guidance and workflows in Codex"
+  default_prompt: "Use $create-stories to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mediabunny"
+  short_description: "Use Mediabunny guidance and workflows in Codex"
+  default_prompt: "Use $mediabunny to help me complete a relevant task."

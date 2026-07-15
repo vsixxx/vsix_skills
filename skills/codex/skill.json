@@ -1,0 +1,14 @@
+{
+  "id": "codex",
+  "title": "Codex",
+  "descriptionZh": "将编码任务委托给 OpenAI Codex CLI（功能开发、PR）。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/autonomous-ai-agents/codex",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

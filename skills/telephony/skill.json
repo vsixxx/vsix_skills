@@ -1,0 +1,14 @@
+{
+  "id": "telephony",
+  "title": "Telephony",
+  "descriptionZh": "为 Hermes 添加电话能力，无需修改核心工具。配置并持久化 Twilio 号码，发送和接收 SMS/MMS，拨打直接通话，并通过 Bland.ai 或 Vapi 发起 AI 驱动的外呼。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/productivity/telephony",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

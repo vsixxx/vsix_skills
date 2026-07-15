@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Wiki"
+  short_description: "Use LLM Wiki guidance and workflows in Codex"
+  default_prompt: "Use $llm-wiki to help me complete a relevant task."

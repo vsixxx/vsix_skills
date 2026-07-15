@@ -1,0 +1,4 @@
+interface:
+  display_name: "Control Ui E2e"
+  short_description: "Use Control Ui E2e guidance and workflows in Codex"
+  default_prompt: "Use $control-ui-e2e to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workspace Surface Audit"
+  short_description: "Use Workspace Surface Audit guidance and workflows in Codex"
+  default_prompt: "Use $workspace-surface-audit to help me complete a relevant task."

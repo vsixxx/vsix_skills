@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Ops"
+  short_description: "Use Email Ops guidance and workflows in Codex"
+  default_prompt: "Use $email-ops to help me complete a relevant task."

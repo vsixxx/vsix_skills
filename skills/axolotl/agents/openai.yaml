@@ -1,0 +1,4 @@
+interface:
+  display_name: "Axolotl"
+  short_description: "Use Axolotl guidance and workflows in Codex"
+  default_prompt: "Use $axolotl to help me complete a relevant task."

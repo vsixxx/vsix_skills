@@ -1,0 +1,17 @@
+{
+  "id": "codew-release-qa-sweep",
+  "title": "Codew Release Qa Sweep",
+  "descriptionZh": "用于 Codew Release Qa Sweep 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/docs/skills/codew-release-qa-sweep",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "docs/skills/codew-release-qa-sweep/SKILL.md",
+  "upstreamSha256": "f662b8654ed44611fcd76dbb82e651cac14e39ea464a237385b6e074451d0bef"
+}

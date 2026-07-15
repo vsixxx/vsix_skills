@@ -1,0 +1,17 @@
+{
+  "id": "convert",
+  "title": "Convert",
+  "descriptionZh": "用于 Convert 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/convert",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/convert/SKILL.md",
+  "upstreamSha256": "fe9c1f5ec4710663818f1d88cf0bf1abb0e149aa41e41763b9a11365a5d0795d"
+}

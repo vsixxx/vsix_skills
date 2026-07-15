@@ -1,0 +1,17 @@
+{
+  "id": "gh-compile-issues",
+  "title": "Gh Compile Issues",
+  "descriptionZh": "用于 Gh Compile Issues 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/docs/skills/gh-compile-issues",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "docs/skills/gh-compile-issues/SKILL.md",
+  "upstreamSha256": "3d32313c0f0d7614d838fb9facfbf12aa54502305cd66c562922124f4022687c"
+}

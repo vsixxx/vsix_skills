@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Tune Collab"
+  short_description: "Use Od Tune Collab guidance and workflows in Codex"
+  default_prompt: "Use $od-tune-collab to help me complete a relevant task."

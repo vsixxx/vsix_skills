@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Apple Notes"
+  short_description: "Use Openclaw Apple Notes guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-apple-notes to help me complete a relevant task."

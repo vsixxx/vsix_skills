@@ -1,0 +1,17 @@
+{
+  "id": "qiaomu-opencli-oneshot",
+  "title": "Qiaomu Opencli Oneshot",
+  "descriptionZh": "用于 Qiaomu Opencli Oneshot 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/joeseesun/qiaomu-opencli-skills/tree/main/qiaomu-opencli-oneshot",
+  "homepage": "https://github.com/joeseesun/qiaomu-opencli-skills",
+  "license": "See upstream",
+  "author": "joeseesun",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4d9a08ebff749e5b12ab544d6a72f82bbe78f43d",
+  "upstreamPath": "qiaomu-opencli-oneshot/SKILL.md",
+  "upstreamSha256": "47a220f52fcd04943951fb45d0d23448ce2f0d1777b9f9ae82a7615ac993e0dd"
+}

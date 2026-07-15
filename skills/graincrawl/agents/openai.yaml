@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graincrawl"
+  short_description: "Use Graincrawl guidance and workflows in Codex"
+  default_prompt: "Use $graincrawl to help me complete a relevant task."

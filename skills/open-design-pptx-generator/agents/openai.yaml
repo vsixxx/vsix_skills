@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design PPTX Generator"
+  short_description: "Use Open Design PPTX Generator guidance and workflows in Codex"
+  default_prompt: "Use $open-design-pptx-generator to help me complete a relevant task."

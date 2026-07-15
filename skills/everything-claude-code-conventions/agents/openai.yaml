@@ -1,0 +1,4 @@
+interface:
+  display_name: "Everything Claude Code Conventions"
+  short_description: "Use Everything Claude Code Conventions workflows in Codex"
+  default_prompt: "Use $everything-claude-code-conventions to help me complete a relevant task."

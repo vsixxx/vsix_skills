@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Light Leak Cinema"
+  short_description: "Use Video Template Frame Light Leak Cinema workflows in Codex"
+  default_prompt: "Use $video-template-frame-light-leak-cinema to help me complete a relevant task."

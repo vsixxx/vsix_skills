@@ -1,0 +1,17 @@
+{
+  "id": "taskflow",
+  "title": "Taskflow",
+  "descriptionZh": "用于 Taskflow 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/taskflow",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/taskflow/SKILL.md",
+  "upstreamSha256": "d8b6a48d329aef0a8a72d008f1e2104db55e0228c7b2785042b815c1812861d1"
+}

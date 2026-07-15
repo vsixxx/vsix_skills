@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retrospective"
+  short_description: "Use Retrospective guidance and workflows in Codex"
+  default_prompt: "Use $retrospective to help me complete a relevant task."

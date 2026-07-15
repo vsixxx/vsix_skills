@@ -1,0 +1,17 @@
+{
+  "id": "pua-team-status",
+  "title": "Pua Team Status",
+  "descriptionZh": "用于 Pua Team Status 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/codex/pua-team-status",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "codex/pua-team-status/SKILL.md",
+  "upstreamSha256": "326a4313cf05152caa883a20753fefe38473d818d51d9b59ac7030f0ab6fa691"
+}

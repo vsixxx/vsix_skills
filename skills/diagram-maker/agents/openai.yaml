@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagram Maker"
+  short_description: "Use Diagram Maker guidance and workflows in Codex"
+  default_prompt: "Use $diagram-maker to help me complete a relevant task."

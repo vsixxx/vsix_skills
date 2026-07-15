@@ -1,0 +1,4 @@
+interface:
+  display_name: "After Hours Editorial Template"
+  short_description: "Use After Hours Editorial Template workflows in Codex"
+  default_prompt: "Use $after-hours-editorial-template to help me complete a relevant task."

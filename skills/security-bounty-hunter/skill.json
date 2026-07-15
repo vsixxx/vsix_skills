@@ -1,0 +1,17 @@
+{
+  "id": "security-bounty-hunter",
+  "title": "Security Bounty Hunter",
+  "descriptionZh": "用于 Security Bounty Hunter 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/security-bounty-hunter",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/security-bounty-hunter/SKILL.md",
+  "upstreamSha256": "7b3163f0ba54946ea007b556fff8430e3711772b8019575d23b18c6a30112ea1"
+}

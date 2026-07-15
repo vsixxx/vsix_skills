@@ -1,0 +1,17 @@
+{
+  "id": "generating-images",
+  "title": "Generating Images",
+  "descriptionZh": "用于 Generating Images 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/generating-images",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/generating-images/SKILL.md",
+  "upstreamSha256": "c2311646fae852011de5a4254db10f02cd22600f0589ed763e91f01c0261ed62"
+}

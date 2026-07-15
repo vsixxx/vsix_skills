@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Liquid Bg Hero"
+  short_description: "Use Video Template Frame Liquid Bg Hero workflows in Codex"
+  default_prompt: "Use $video-template-frame-liquid-bg-hero to help me complete a relevant task."

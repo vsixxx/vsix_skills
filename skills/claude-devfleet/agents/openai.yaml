@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Devfleet"
+  short_description: "Use Claude Devfleet guidance and workflows in Codex"
+  default_prompt: "Use $claude-devfleet to help me complete a relevant task."

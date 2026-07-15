@@ -1,0 +1,4 @@
+interface:
+  display_name: "Card Xiaohongshu"
+  short_description: "Use Card Xiaohongshu guidance and workflows in Codex"
+  default_prompt: "Use $card-xiaohongshu to help me complete a relevant task."

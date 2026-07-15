@@ -1,0 +1,17 @@
+{
+  "id": "opc-resource-audit",
+  "title": "Opc Resource Audit",
+  "descriptionZh": "用于 Opc Resource Audit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/easychen/opc-methodology/tree/master/skills/opc-resource-audit",
+  "homepage": "https://github.com/easychen/opc-methodology",
+  "license": "See upstream",
+  "author": "easychen",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b3d0503a52298a2fbe4751231f3119d6a015eab5",
+  "upstreamPath": "skills/opc-resource-audit/SKILL.md",
+  "upstreamSha256": "ff447bc8f27425f14c1ced06134ebe80e68d51a6367786ad9755f8b7f7a3f4a3"
+}

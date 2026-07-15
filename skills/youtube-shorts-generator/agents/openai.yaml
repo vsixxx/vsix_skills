@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Shorts Generator"
+  short_description: "Use YouTube Shorts Generator guidance and workflows in Codex"
+  default_prompt: "Use $youtube-shorts-generator to help me complete a relevant task."

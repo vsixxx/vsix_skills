@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord"
+  short_description: "Use Discord guidance and workflows in Codex"
+  default_prompt: "Use $discord to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Shotgun"
+  short_description: "Use Design Shotgun guidance and workflows in Codex"
+  default_prompt: "Use $design-shotgun to help me complete a relevant task."

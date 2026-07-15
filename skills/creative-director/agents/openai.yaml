@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Director"
+  short_description: "Use Creative Director guidance and workflows in Codex"
+  default_prompt: "Use $creative-director to help me complete a relevant task."

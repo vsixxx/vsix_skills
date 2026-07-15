@@ -1,0 +1,17 @@
+{
+  "id": "qa-only",
+  "title": "Qa Only",
+  "descriptionZh": "用于 Qa Only 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/qa-only",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "qa-only/SKILL.md",
+  "upstreamSha256": "911aec7f512a8179c78979873d599c00e497c55f2385f221d9ab033bb23ee927"
+}

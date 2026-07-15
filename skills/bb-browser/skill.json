@@ -1,0 +1,17 @@
+{
+  "id": "bb-browser",
+  "title": "Bb Browser",
+  "descriptionZh": "用于 Bb Browser 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/epiral/bb-browser/tree/main/skills/bb-browser",
+  "homepage": "https://github.com/epiral/bb-browser",
+  "license": "See upstream",
+  "author": "epiral",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "7975dc74b3f637d54906228e52f2ba9454874105",
+  "upstreamPath": "skills/bb-browser/SKILL.md",
+  "upstreamSha256": "416cd0c18499d8d9a0c80f98a2b92f78f03785d74443e43043e06fb33447be1a"
+}

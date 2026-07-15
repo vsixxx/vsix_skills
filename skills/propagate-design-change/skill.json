@@ -1,0 +1,17 @@
+{
+  "id": "propagate-design-change",
+  "title": "Propagate Design Change",
+  "descriptionZh": "用于 Propagate Design Change 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/propagate-design-change",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/propagate-design-change/SKILL.md",
+  "upstreamSha256": "eba7901d3875f81946ab8803f458d142427102c438296fae83e3f4c4101115ed"
+}

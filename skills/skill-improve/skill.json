@@ -1,0 +1,17 @@
+{
+  "id": "skill-improve",
+  "title": "Skill Improve",
+  "descriptionZh": "用于 Skill Improve 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/skill-improve",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/skill-improve/SKILL.md",
+  "upstreamSha256": "24efa8aa68ab240c1d9b1366275490ec9cce4034e1bbe34f214b830bda15617b"
+}

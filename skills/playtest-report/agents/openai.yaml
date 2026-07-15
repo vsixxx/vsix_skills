@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playtest Report"
+  short_description: "Use Playtest Report guidance and workflows in Codex"
+  default_prompt: "Use $playtest-report to help me complete a relevant task."

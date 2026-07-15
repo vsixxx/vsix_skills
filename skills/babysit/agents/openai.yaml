@@ -1,0 +1,4 @@
+interface:
+  display_name: "Babysit"
+  short_description: "Use Babysit guidance and workflows in Codex"
+  default_prompt: "Use $babysit to help me complete a relevant task."

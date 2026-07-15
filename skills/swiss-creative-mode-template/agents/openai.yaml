@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swiss Creative Mode Template"
+  short_description: "Use Swiss Creative Mode Template guidance and workflows in Codex"
+  default_prompt: "Use $swiss-creative-mode-template to help me complete a relevant task."

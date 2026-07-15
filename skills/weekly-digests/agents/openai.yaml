@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Digests"
+  short_description: "Use Weekly Digests guidance and workflows in Codex"
+  default_prompt: "Use $weekly-digests to help me complete a relevant task."

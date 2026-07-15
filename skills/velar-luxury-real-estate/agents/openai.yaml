@@ -1,0 +1,4 @@
+interface:
+  display_name: "Velar Luxury Real Estate"
+  short_description: "Use Velar Luxury Real Estate guidance and workflows in Codex"
+  default_prompt: "Use $velar-luxury-real-estate to help me complete a relevant task."

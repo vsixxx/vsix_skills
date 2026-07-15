@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jpa Patterns"
+  short_description: "Use Jpa Patterns guidance and workflows in Codex"
+  default_prompt: "Use $jpa-patterns to help me complete a relevant task."

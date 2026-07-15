@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Gif Sticker Maker"
+  short_description: "Use Open Design Gif Sticker Maker workflows in Codex"
+  default_prompt: "Use $open-design-gif-sticker-maker to help me complete a relevant task."

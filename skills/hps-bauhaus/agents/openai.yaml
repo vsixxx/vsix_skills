@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hps Bauhaus"
+  short_description: "Use Hps Bauhaus guidance and workflows in Codex"
+  default_prompt: "Use $hps-bauhaus to help me complete a relevant task."

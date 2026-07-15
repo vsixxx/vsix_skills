@@ -1,0 +1,14 @@
+{
+  "id": "opencode",
+  "title": "Opencode",
+  "descriptionZh": "将编码任务委托给 OpenCode CLI（功能开发、PR 审查）。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/autonomous-ai-agents/opencode",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

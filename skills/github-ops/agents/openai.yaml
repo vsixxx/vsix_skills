@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Ops"
+  short_description: "Use GitHub Ops guidance and workflows in Codex"
+  default_prompt: "Use $github-ops to help me complete a relevant task."

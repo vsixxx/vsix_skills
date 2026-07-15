@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sonoscli"
+  short_description: "Use Sonoscli guidance and workflows in Codex"
+  default_prompt: "Use $sonoscli to help me complete a relevant task."

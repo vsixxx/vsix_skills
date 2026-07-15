@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homelab Vlan Segmentation"
+  short_description: "Use Homelab Vlan Segmentation guidance and workflows in Codex"
+  default_prompt: "Use $homelab-vlan-segmentation to help me complete a relevant task."

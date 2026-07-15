@@ -1,0 +1,17 @@
+{
+  "id": "data-throughput-accelerator",
+  "title": "Data Throughput Accelerator",
+  "descriptionZh": "用于 Data Throughput Accelerator 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/data-throughput-accelerator",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/data-throughput-accelerator/SKILL.md",
+  "upstreamSha256": "5bc1e41e8bd1f1f71bacfffa1f0d7157eaf7c707b92dc1e4dd1baa28ff5f00e2"
+}

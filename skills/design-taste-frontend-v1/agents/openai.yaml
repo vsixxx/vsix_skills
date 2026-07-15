@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Taste Frontend V1"
+  short_description: "Use Design Taste Frontend V1 guidance and workflows in Codex"
+  default_prompt: "Use $design-taste-frontend-v1 to help me complete a relevant task."

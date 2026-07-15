@@ -1,0 +1,17 @@
+{
+  "id": "defuddle",
+  "title": "Defuddle",
+  "descriptionZh": "用于 Defuddle 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/breferrari/obsidian-mind/tree/main/.claude/skills/defuddle",
+  "homepage": "https://github.com/breferrari/obsidian-mind",
+  "license": "See upstream",
+  "author": "breferrari",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9ae6860d01c4bb563dfe972dae89515866f4fbff",
+  "upstreamPath": ".claude/skills/defuddle/SKILL.md",
+  "upstreamSha256": "10673a4dc70a0a057612d443243ab7a5aa4abdd4a0fadc3f6eec5fd71ad5a971"
+}

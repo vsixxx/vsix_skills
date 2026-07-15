@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Use Manim Video"
+  short_description: "Use Video Use Manim Video guidance and workflows in Codex"
+  default_prompt: "Use $video-use-manim-video to help me complete a relevant task."

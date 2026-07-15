@@ -1,0 +1,17 @@
+{
+  "id": "browser-automation",
+  "title": "Browser Automation",
+  "descriptionZh": "用于 Browser Automation 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/browser/skills/browser-automation",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/browser/skills/browser-automation/SKILL.md",
+  "upstreamSha256": "aaae50b33eee5b003bd4e1c1191093b73fae86eaa536fe75dcde19faec7522cc"
+}

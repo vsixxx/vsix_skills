@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gh Assign Issues"
+  short_description: "Use Gh Assign Issues guidance and workflows in Codex"
+  default_prompt: "Use $gh-assign-issues to help me complete a relevant task."

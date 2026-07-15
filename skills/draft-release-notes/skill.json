@@ -1,0 +1,17 @@
+{
+  "id": "draft-release-notes",
+  "title": "Draft Release Notes",
+  "descriptionZh": "用于 Draft Release Notes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/jamiepine/voicebox/tree/main/.agents/skills/draft-release-notes",
+  "homepage": "https://github.com/jamiepine/voicebox",
+  "license": "See upstream",
+  "author": "jamiepine",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f2cf2a729d733acd7c759d85c6ace2d602f50d6e",
+  "upstreamPath": ".agents/skills/draft-release-notes/SKILL.md",
+  "upstreamSha256": "98a9f072827f97dc2c2e53850f45023fc6a24720df033371ea1b104af8f856ec"
+}

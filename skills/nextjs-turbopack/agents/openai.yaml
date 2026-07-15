@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nextjs Turbopack"
+  short_description: "Use Nextjs Turbopack guidance and workflows in Codex"
+  default_prompt: "Use $nextjs-turbopack to help me complete a relevant task."

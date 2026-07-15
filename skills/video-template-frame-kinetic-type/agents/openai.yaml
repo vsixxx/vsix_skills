@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Kinetic Type"
+  short_description: "Use Video Template Frame Kinetic Type workflows in Codex"
+  default_prompt: "Use $video-template-frame-kinetic-type to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "architecture-diagram-generator-architecture-diagram",
+  "title": "Architecture Diagram Generator Architecture Diagram",
+  "descriptionZh": "用于 Architecture Diagram Generator Architecture Diagram 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Cocoon-AI/architecture-diagram-generator/tree/main/architecture-diagram",
+  "homepage": "https://github.com/Cocoon-AI/architecture-diagram-generator",
+  "license": "See upstream",
+  "author": "Cocoon-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4b9087d55268c79a935105439dbcd37b630fc3f3",
+  "upstreamPath": "architecture-diagram/SKILL.md",
+  "upstreamSha256": "a8dc11b2a648d906cf883d65dbf4cbe16608f08b4641c19ee46c3428ec28ed1c"
+}

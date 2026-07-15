@@ -1,0 +1,17 @@
+{
+  "id": "graincrawl",
+  "title": "Graincrawl",
+  "descriptionZh": "用于 Graincrawl 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/graincrawl",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/graincrawl/SKILL.md",
+  "upstreamSha256": "1837d00e0e81ce6b10523b443fe2a5c244aa249ffad4ecd6be46f5062c57b1c5"
+}

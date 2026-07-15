@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Codebase Architecture"
+  short_description: "Use Improve Codebase Architecture workflows in Codex"
+  default_prompt: "Use $improve-codebase-architecture to help me complete a relevant task."

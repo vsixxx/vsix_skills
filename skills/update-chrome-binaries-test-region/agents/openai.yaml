@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Chrome Binaries Test Region"
+  short_description: "Use Update Chrome Binaries Test Region workflows in Codex"
+  default_prompt: "Use $update-chrome-binaries-test-region to help me complete a relevant task."

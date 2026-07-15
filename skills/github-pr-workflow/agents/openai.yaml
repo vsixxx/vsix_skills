@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub PR Workflow"
+  short_description: "Use GitHub PR Workflow guidance and workflows in Codex"
+  default_prompt: "Use $github-pr-workflow to help me complete a relevant task."

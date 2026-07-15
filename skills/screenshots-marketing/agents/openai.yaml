@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screenshots Marketing"
+  short_description: "Use Screenshots Marketing guidance and workflows in Codex"
+  default_prompt: "Use $screenshots-marketing to help me complete a relevant task."

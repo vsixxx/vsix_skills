@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Retro Quarterly Review"
+  short_description: "Use HTML Ppt Retro Quarterly Review workflows in Codex"
+  default_prompt: "Use $html-ppt-retro-quarterly-review to help me complete a relevant task."

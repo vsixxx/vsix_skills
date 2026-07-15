@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Changelog Update"
+  short_description: "Use Openclaw Changelog Update guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-changelog-update to help me complete a relevant task."

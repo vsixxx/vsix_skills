@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hotfix"
+  short_description: "Use Hotfix guidance and workflows in Codex"
+  default_prompt: "Use $hotfix to help me complete a relevant task."

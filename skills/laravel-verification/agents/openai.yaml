@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Verification"
+  short_description: "Use Laravel Verification guidance and workflows in Codex"
+  default_prompt: "Use $laravel-verification to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ve Terminal Mono"
+  short_description: "Use Ve Terminal Mono guidance and workflows in Codex"
+  default_prompt: "Use $ve-terminal-mono to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diff Review"
+  short_description: "Use Diff Review guidance and workflows in Codex"
+  default_prompt: "Use $diff-review to help me complete a relevant task."

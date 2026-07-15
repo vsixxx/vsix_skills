@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-xhs-images",
+  "title": "Baoyu Xhs Images",
+  "descriptionZh": "用于 Baoyu Xhs Images 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-xhs-images",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-xhs-images/SKILL.md",
+  "upstreamSha256": "17bf5498641cc60cb98f0cc15fbea27fd42777d119a39fb54fd6418840442bba"
+}

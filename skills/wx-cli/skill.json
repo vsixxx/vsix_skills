@@ -1,0 +1,17 @@
+{
+  "id": "wx-cli",
+  "title": "Wx CLI",
+  "descriptionZh": "用于 Wx CLI 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/jackwener/wx-cli/tree/main",
+  "homepage": "https://github.com/jackwener/wx-cli",
+  "license": "See upstream",
+  "author": "jackwener",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "08af894594b4afd468e23e17dbd783f15403f13b",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "d13d05c72b8827a32d639cbd7de1a136781aee1e176e70ccc00d1e8fd85a82a6"
+}

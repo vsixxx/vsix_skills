@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kanban Video Orchestrator"
+  short_description: "Use Kanban Video Orchestrator guidance and workflows in Codex"
+  default_prompt: "Use $kanban-video-orchestrator to help me complete a relevant task."

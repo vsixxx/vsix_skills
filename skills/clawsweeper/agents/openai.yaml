@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clawsweeper"
+  short_description: "Use Clawsweeper guidance and workflows in Codex"
+  default_prompt: "Use $clawsweeper to help me complete a relevant task."

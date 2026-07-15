@@ -1,0 +1,17 @@
+{
+  "id": "prototype",
+  "title": "Prototype",
+  "descriptionZh": "用于 Prototype 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/prototype",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/prototype/SKILL.md",
+  "upstreamSha256": "d9475f988c6ec1bb676ab5d8149ef7b7321e63a6b4eb7f7194cfd598be1255de"
+}

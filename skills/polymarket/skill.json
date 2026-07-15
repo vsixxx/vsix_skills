@@ -1,0 +1,14 @@
+{
+  "id": "polymarket",
+  "title": "Polymarket",
+  "descriptionZh": "查询 Polymarket：市场、价格、订单簿、历史数据。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/research/polymarket",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Teknium",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

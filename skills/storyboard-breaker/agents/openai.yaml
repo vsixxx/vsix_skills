@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storyboard Breaker"
+  short_description: "Use Storyboard Breaker guidance and workflows in Codex"
+  default_prompt: "Use $storyboard-breaker to help me complete a relevant task."

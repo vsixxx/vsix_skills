@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrial Brutalist Ui"
+  short_description: "Use Industrial Brutalist Ui guidance and workflows in Codex"
+  default_prompt: "Use $industrial-brutalist-ui to help me complete a relevant task."

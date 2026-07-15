@@ -1,0 +1,4 @@
+interface:
+  display_name: "Uspto Database"
+  short_description: "Use Uspto Database guidance and workflows in Codex"
+  default_prompt: "Use $uspto-database to help me complete a relevant task."

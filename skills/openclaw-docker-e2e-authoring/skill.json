@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-docker-e2e-authoring",
+  "title": "Openclaw Docker E2e Authoring",
+  "descriptionZh": "用于 Openclaw Docker E2e Authoring 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-docker-e2e-authoring",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/openclaw-docker-e2e-authoring/SKILL.md",
+  "upstreamSha256": "73372d0e73c006a4867785f0bf48ad13126b28124e63308f22a5a48fac79491c"
+}

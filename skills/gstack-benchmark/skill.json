@@ -1,0 +1,17 @@
+{
+  "id": "gstack-benchmark",
+  "title": "Gstack Benchmark",
+  "descriptionZh": "用于 Gstack Benchmark 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/benchmark",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "benchmark/SKILL.md",
+  "upstreamSha256": "e1061bb7f982966170b98fc1a75c17637af27dfd2f23e8a49c1d4c7d7a8baf08"
+}

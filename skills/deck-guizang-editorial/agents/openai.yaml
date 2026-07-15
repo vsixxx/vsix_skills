@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deck Guizang Editorial"
+  short_description: "Use Deck Guizang Editorial guidance and workflows in Codex"
+  default_prompt: "Use $deck-guizang-editorial to help me complete a relevant task."

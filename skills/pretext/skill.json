@@ -1,0 +1,14 @@
+{
+  "id": "pretext",
+  "title": "Pretext",
+  "descriptionZh": "使用 @chenglou/pretext 构建创意浏览器 demo——无 DOM 的文本布局，支持 ASCII 艺术、绕障碍物的排版流、文字即几何游戏、动态排版和文字驱动的生成艺术。生成单文件 HTML。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/pretext",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

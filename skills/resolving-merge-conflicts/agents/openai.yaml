@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resolving Merge Conflicts"
+  short_description: "Use Resolving Merge Conflicts guidance and workflows in Codex"
+  default_prompt: "Use $resolving-merge-conflicts to help me complete a relevant task."

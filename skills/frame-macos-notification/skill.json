@@ -1,0 +1,17 @@
+{
+  "id": "frame-macos-notification",
+  "title": "Frame Macos Notification",
+  "descriptionZh": "用于 Frame Macos Notification 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/frame-macos-notification",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/frame-macos-notification/SKILL.md",
+  "upstreamSha256": "5082d85630198c3289dade33248e9fc9ab833dd07facc8f6a24a01b169dab085"
+}

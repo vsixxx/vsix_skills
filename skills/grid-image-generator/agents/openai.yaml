@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grid Image Generator"
+  short_description: "Use Grid Image Generator guidance and workflows in Codex"
+  default_prompt: "Use $grid-image-generator to help me complete a relevant task."

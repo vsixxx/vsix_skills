@@ -1,0 +1,17 @@
+{
+  "id": "venice-video",
+  "title": "Venice Video",
+  "descriptionZh": "用于 Venice Video 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/venice-video",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/venice-video/SKILL.md",
+  "upstreamSha256": "04bd59d445899d8893350b8ea8dc408a17cf1a1dba7e7dfff55c916a76e94e23"
+}

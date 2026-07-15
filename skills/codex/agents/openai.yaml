@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex"
+  short_description: "Use Codex guidance and workflows in Codex"
+  default_prompt: "Use $codex to help me complete a relevant task."

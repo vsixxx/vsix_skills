@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnosing Bugs"
+  short_description: "Use Diagnosing Bugs guidance and workflows in Codex"
+  default_prompt: "Use $diagnosing-bugs to help me complete a relevant task."

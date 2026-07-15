@@ -1,0 +1,4 @@
+interface:
+  display_name: "Community Registry Starter"
+  short_description: "Use Community Registry Starter guidance and workflows in Codex"
+  default_prompt: "Use $community-registry-starter to help me complete a relevant task."

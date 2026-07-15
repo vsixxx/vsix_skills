@@ -1,0 +1,17 @@
+{
+  "id": "hps-true-blueprint",
+  "title": "Hps True Blueprint",
+  "descriptionZh": "用于 Hps True Blueprint 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/hps-true-blueprint",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/hps-true-blueprint/SKILL.md",
+  "upstreamSha256": "4fc840528416e5705268c2903a61d665dea20992d143002d9fcc6356c078a519"
+}

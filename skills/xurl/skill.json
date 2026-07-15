@@ -1,0 +1,18 @@
+{
+  "id": "xurl",
+  "title": "Xurl",
+  "descriptionZh": "通过 xurl CLI 操作 X/Twitter：发帖、搜索、私信、媒体、v2 API。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Command: xurl"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/social-media/xurl",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "xdevplatform + openclaw + Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "nanoclaw-repl",
+  "title": "Nanoclaw Repl",
+  "descriptionZh": "用于 Nanoclaw Repl 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/nanoclaw-repl",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/nanoclaw-repl/SKILL.md",
+  "upstreamSha256": "b8ed7ce2874dd29c83dc4ed4047e7f6a4c79aa84e85630ff2cbbce0871a93985"
+}

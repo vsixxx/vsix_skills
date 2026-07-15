@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimax Music Gen"
+  short_description: "Use Minimax Music Gen guidance and workflows in Codex"
+  default_prompt: "Use $minimax-music-gen to help me complete a relevant task."

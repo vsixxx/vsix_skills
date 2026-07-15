@@ -1,0 +1,19 @@
+{
+  "id": "outlines",
+  "title": "Outlines",
+  "descriptionZh": "Outlines：结构化 JSON/正则表达式/Pydantic LLM 生成。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: outlines",
+    "Package: transformers",
+    "Package: vllm",
+    "Package: pydantic"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/inference/outlines",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

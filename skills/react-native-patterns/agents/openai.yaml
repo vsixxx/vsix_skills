@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Native Patterns"
+  short_description: "Use React Native Patterns guidance and workflows in Codex"
+  default_prompt: "Use $react-native-patterns to help me complete a relevant task."

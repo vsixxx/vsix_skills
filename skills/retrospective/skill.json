@@ -1,0 +1,17 @@
+{
+  "id": "retrospective",
+  "title": "Retrospective",
+  "descriptionZh": "用于 Retrospective 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/retrospective",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/retrospective/SKILL.md",
+  "upstreamSha256": "60f9525887c94e4cf8239de3a2078389e6d6b19dd9f10705772490650c11ffda"
+}

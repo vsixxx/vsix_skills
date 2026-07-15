@@ -1,0 +1,4 @@
+interface:
+  display_name: "Santa Method"
+  short_description: "Use Santa Method guidance and workflows in Codex"
+  default_prompt: "Use $santa-method to help me complete a relevant task."

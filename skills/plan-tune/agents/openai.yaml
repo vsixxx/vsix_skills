@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Tune"
+  short_description: "Use Plan Tune guidance and workflows in Codex"
+  default_prompt: "Use $plan-tune to help me complete a relevant task."

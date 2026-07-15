@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Exposed Patterns"
+  short_description: "Use Kotlin Exposed Patterns guidance and workflows in Codex"
+  default_prompt: "Use $kotlin-exposed-patterns to help me complete a relevant task."

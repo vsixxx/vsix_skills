@@ -1,0 +1,17 @@
+{
+  "id": "ck",
+  "title": "Ck",
+  "descriptionZh": "用于 Ck 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ck",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "sreedhargs89",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ck/SKILL.md",
+  "upstreamSha256": "1c855c392c88d118610c6b18fc62a62bf811525be8e813bcd554a8b1d72f0ec2"
+}

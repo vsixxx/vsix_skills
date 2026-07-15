@@ -1,0 +1,18 @@
+{
+  "id": "pytorch-lightning",
+  "title": "Pytorch Lightning",
+  "descriptionZh": "高层 PyTorch 框架，提供 Trainer 类、自动分布式训练（DDP/FSDP/DeepSpeed）、回调系统及极少样板代码。同一套代码可从笔记本扩展至超算。适用于希望训练循环简洁、同时保留完整 PyTorch 灵活性的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: lightning",
+    "Package: torch",
+    "Package: transformers"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/pytorch-lightning",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

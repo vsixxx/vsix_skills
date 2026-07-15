@@ -1,0 +1,4 @@
+interface:
+  display_name: "Processize"
+  short_description: "Use Processize guidance and workflows in Codex"
+  default_prompt: "Use $processize to help me complete a relevant task."

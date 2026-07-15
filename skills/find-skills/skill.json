@@ -1,0 +1,17 @@
+{
+  "id": "find-skills",
+  "title": "Find Skills",
+  "descriptionZh": "用于 Find Skills 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/find-skills",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/find-skills/SKILL.md",
+  "upstreamSha256": "54b44dc9539df865fbb060f62fb062e8232e765852a0cf14c38301fe0c1eb264"
+}

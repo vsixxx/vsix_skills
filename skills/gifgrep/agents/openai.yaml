@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gifgrep"
+  short_description: "Use Gifgrep guidance and workflows in Codex"
+  default_prompt: "Use $gifgrep to help me complete a relevant task."

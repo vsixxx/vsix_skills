@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma"
+  short_description: "Use Figma guidance and workflows in Codex"
+  default_prompt: "Use $figma to help me complete a relevant task."

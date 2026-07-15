@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord Clawd"
+  short_description: "Use Discord Clawd guidance and workflows in Codex"
+  default_prompt: "Use $discord-clawd to help me complete a relevant task."

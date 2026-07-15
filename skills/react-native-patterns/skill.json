@@ -1,0 +1,17 @@
+{
+  "id": "react-native-patterns",
+  "title": "React Native Patterns",
+  "descriptionZh": "用于 React Native Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/react-native-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/react-native-patterns/SKILL.md",
+  "upstreamSha256": "caf04da7ea1f20213b010f24dc19a8a20f1939c928156caa2f0482f26c31b12b"
+}

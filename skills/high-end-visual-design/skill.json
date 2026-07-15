@@ -1,0 +1,17 @@
+{
+  "id": "high-end-visual-design",
+  "title": "High End Visual Design",
+  "descriptionZh": "用于 High End Visual Design 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/soft-skill",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/soft-skill/SKILL.md",
+  "upstreamSha256": "773422c5a48c372059c4b92ae84ad3abb5fa64202f2dbf757357896c66d76210"
+}

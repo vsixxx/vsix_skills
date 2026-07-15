@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Gsap Performance"
+  short_description: "Use Open Design Gsap Performance guidance and workflows in Codex"
+  default_prompt: "Use $open-design-gsap-performance to help me complete a relevant task."

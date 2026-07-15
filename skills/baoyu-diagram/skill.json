@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-diagram",
+  "title": "Baoyu Diagram",
+  "descriptionZh": "用于 Baoyu Diagram 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-diagram",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-diagram/SKILL.md",
+  "upstreamSha256": "55a2d050c3a2faea8721d1cec31749dfafa7e7d346a586e99e757f77a3526860"
+}

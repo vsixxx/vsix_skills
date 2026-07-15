@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cisco Ios Patterns"
+  short_description: "Use Cisco Ios Patterns guidance and workflows in Codex"
+  default_prompt: "Use $cisco-ios-patterns to help me complete a relevant task."

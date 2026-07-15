@@ -1,0 +1,17 @@
+{
+  "id": "babysit",
+  "title": "Babysit",
+  "descriptionZh": "用于 Babysit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/babysit",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/babysit/SKILL.md",
+  "upstreamSha256": "e322b0c36fa1c62caa399170e660672096f527f9f6761fb7b6477bf8f1c106ea"
+}

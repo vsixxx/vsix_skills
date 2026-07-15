@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Pitch Deck"
+  short_description: "Use HTML Ppt Pitch Deck guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-pitch-deck to help me complete a relevant task."

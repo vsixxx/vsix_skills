@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presentations"
+  short_description: "Use Presentations guidance and workflows in Codex"
+  default_prompt: "Use $presentations to help me complete a relevant task."

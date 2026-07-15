@@ -1,0 +1,4 @@
+interface:
+  display_name: "Here Now"
+  short_description: "Use Here Now guidance and workflows in Codex"
+  default_prompt: "Use $here-now to help me complete a relevant task."

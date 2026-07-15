@@ -1,0 +1,20 @@
+{
+  "id": "faiss",
+  "title": "Faiss",
+  "descriptionZh": "Facebook 用于高效相似性搜索和稠密向量聚类的库。支持数十亿向量、GPU 加速及多种索引类型（Flat、IVF、HNSW）。适用于快速 k-NN 搜索、大规模向量检索等场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: faiss-cpu",
+    "Package: faiss-gpu",
+    "Package: numpy"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/faiss",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Ui"
+  short_description: "Use Team Ui guidance and workflows in Codex"
+  default_prompt: "Use $team-ui to help me complete a relevant task."

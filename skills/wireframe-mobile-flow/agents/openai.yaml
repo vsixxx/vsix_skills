@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wireframe Mobile Flow"
+  short_description: "Use Wireframe Mobile Flow guidance and workflows in Codex"
+  default_prompt: "Use $wireframe-mobile-flow to help me complete a relevant task."

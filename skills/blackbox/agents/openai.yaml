@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blackbox"
+  short_description: "Use Blackbox guidance and workflows in Codex"
+  default_prompt: "Use $blackbox to help me complete a relevant task."

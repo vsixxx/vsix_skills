@@ -1,0 +1,4 @@
+interface:
+  display_name: "Invoice"
+  short_description: "Use Invoice guidance and workflows in Codex"
+  default_prompt: "Use $invoice to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Upload"
+  short_description: "Use Bilibili Upload guidance and workflows in Codex"
+  default_prompt: "Use $bilibili-upload to help me complete a relevant task."

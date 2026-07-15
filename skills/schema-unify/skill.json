@@ -1,0 +1,17 @@
+{
+  "id": "schema-unify",
+  "title": "Schema Unify",
+  "descriptionZh": "用于 Schema Unify 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/schema-unify",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/schema-unify/SKILL.md",
+  "upstreamSha256": "c7d5f66bc33c8b6f1c58660560cf70fac9bb317ed6869aeefe6fb1c668bc6fb3"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Beats"
+  short_description: "Use Writing Beats guidance and workflows in Codex"
+  default_prompt: "Use $writing-beats to help me complete a relevant task."

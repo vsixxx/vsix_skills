@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parallels Discord Roundtrip"
+  short_description: "Use Parallels Discord Roundtrip guidance and workflows in Codex"
+  default_prompt: "Use $parallels-discord-roundtrip to help me complete a relevant task."

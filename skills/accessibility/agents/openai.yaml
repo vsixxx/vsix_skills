@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accessibility"
+  short_description: "Use Accessibility guidance and workflows in Codex"
+  default_prompt: "Use $accessibility to help me complete a relevant task."

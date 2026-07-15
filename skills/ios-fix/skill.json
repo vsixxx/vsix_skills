@@ -1,0 +1,17 @@
+{
+  "id": "ios-fix",
+  "title": "Ios Fix",
+  "descriptionZh": "用于 Ios Fix 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/ios-fix",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "ios-fix/SKILL.md",
+  "upstreamSha256": "381c4f7e8c86d346ff48655ea4e0f814127b87515fe48fac1ee3d9ef4975e2b6"
+}

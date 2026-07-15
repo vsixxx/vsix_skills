@@ -1,0 +1,4 @@
+interface:
+  display_name: "Music To Video"
+  short_description: "Use Music To Video guidance and workflows in Codex"
+  default_prompt: "Use $music-to-video to help me complete a relevant task."

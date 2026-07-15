@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redis Patterns"
+  short_description: "Use Redis Patterns guidance and workflows in Codex"
+  default_prompt: "Use $redis-patterns to help me complete a relevant task."

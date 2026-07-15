@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Trading Agent Security"
+  short_description: "Use LLM Trading Agent Security guidance and workflows in Codex"
+  default_prompt: "Use $llm-trading-agent-security to help me complete a relevant task."

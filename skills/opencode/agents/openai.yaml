@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencode"
+  short_description: "Use Opencode guidance and workflows in Codex"
+  default_prompt: "Use $opencode to help me complete a relevant task."

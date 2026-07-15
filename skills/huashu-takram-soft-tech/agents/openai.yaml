@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Takram Soft Tech"
+  short_description: "Use Huashu Takram Soft Tech guidance and workflows in Codex"
+  default_prompt: "Use $huashu-takram-soft-tech to help me complete a relevant task."

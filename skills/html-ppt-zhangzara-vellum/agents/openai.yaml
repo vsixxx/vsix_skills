@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Vellum"
+  short_description: "Use HTML Ppt Zhangzara Vellum guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-vellum to help me complete a relevant task."

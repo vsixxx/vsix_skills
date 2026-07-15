@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simplify Code"
+  short_description: "Use Simplify Code guidance and workflows in Codex"
+  default_prompt: "Use $simplify-code to help me complete a relevant task."

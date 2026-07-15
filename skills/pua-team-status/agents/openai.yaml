@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Team Status"
+  short_description: "Use Pua Team Status guidance and workflows in Codex"
+  default_prompt: "Use $pua-team-status to help me complete a relevant task."

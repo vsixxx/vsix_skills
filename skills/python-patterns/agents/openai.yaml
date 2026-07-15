@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Patterns"
+  short_description: "Use Python Patterns guidance and workflows in Codex"
+  default_prompt: "Use $python-patterns to help me complete a relevant task."

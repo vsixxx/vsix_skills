@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blogwatcher"
+  short_description: "Use Blogwatcher guidance and workflows in Codex"
+  default_prompt: "Use $blogwatcher to help me complete a relevant task."

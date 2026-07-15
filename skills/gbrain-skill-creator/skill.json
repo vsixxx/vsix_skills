@@ -1,0 +1,17 @@
+{
+  "id": "gbrain-skill-creator",
+  "title": "Gbrain Skill Creator",
+  "descriptionZh": "用于 Gbrain Skill Creator 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/skill-creator",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/skill-creator/SKILL.md",
+  "upstreamSha256": "4a11f8935d4214b21b4664a5c0c03149733731020ec0d5d09dc9fd8c40bd92f6"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Retro Windows"
+  short_description: "Use HTML Ppt Zhangzara Retro Windows workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-retro-windows to help me complete a relevant task."

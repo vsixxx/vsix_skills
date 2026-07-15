@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-zhangzara-creative-mode",
+  "title": "HTML Ppt Zhangzara Creative Mode",
+  "descriptionZh": "用于 HTML Ppt Zhangzara Creative Mode 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-creative-mode",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-zhangzara-creative-mode/SKILL.md",
+  "upstreamSha256": "126d767c50e1c671967dff11dff6f5cc60ce5c113edbf4b7e50fbe680702703f"
+}

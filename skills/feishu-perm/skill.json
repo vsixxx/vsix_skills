@@ -1,0 +1,17 @@
+{
+  "id": "feishu-perm",
+  "title": "Feishu Perm",
+  "descriptionZh": "用于 Feishu Perm 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-perm",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/feishu/skills/feishu-perm/SKILL.md",
+  "upstreamSha256": "db64b7c5ccb4669966bdd973a551e2ed01a27baef4ab14e468ff65f0a25a368d"
+}

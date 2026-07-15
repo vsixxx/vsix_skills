@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Pro"
+  short_description: "Use Pua Pro guidance and workflows in Codex"
+  default_prompt: "Use $pua-pro to help me complete a relevant task."

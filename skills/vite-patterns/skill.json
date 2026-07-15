@@ -1,0 +1,17 @@
+{
+  "id": "vite-patterns",
+  "title": "Vite Patterns",
+  "descriptionZh": "用于 Vite Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/vite-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/vite-patterns/SKILL.md",
+  "upstreamSha256": "2238d353196b6732ba897e32f1872078fde7a9d11f5aca43b53da8bfc7e3917d"
+}

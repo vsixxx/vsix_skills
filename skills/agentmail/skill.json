@@ -1,0 +1,14 @@
+{
+  "id": "agentmail",
+  "title": "Agentmail",
+  "descriptionZh": "通过 AgentMail 为 agent 提供专属邮箱。使用 agent 专属邮件地址（如 hermes-agent@agentmail.to）自主发送、接收和管理邮件。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/email/agentmail",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "character-scene-extractor",
+  "title": "Character Scene Extractor",
+  "descriptionZh": "用于 Character Scene Extractor 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/chatfire-AI/huobao-drama/tree/master/skills/extractor",
+  "homepage": "https://github.com/chatfire-AI/huobao-drama",
+  "license": "See upstream",
+  "author": "chatfire-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ad1cd7cd0127389ce8304aa9ebda3cfc8f406a6d",
+  "upstreamPath": "skills/extractor/SKILL.md",
+  "upstreamSha256": "fd8057d2eaf3a0f63d2d9bb4edd75da01ed8567cd38566a6c5e35004a8957352"
+}

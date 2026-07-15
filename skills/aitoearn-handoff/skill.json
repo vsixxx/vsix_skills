@@ -1,0 +1,17 @@
+{
+  "id": "aitoearn-handoff",
+  "title": "Aitoearn Handoff",
+  "descriptionZh": "用于 Aitoearn Handoff 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/handoff",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/handoff/SKILL.md",
+  "upstreamSha256": "77abcc4152081c7201242d220839ca865aca6c0a4c5b7e08f80c89c3a17d91a3"
+}

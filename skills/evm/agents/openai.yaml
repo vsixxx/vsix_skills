@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evm"
+  short_description: "Use Evm guidance and workflows in Codex"
+  default_prompt: "Use $evm to help me complete a relevant task."

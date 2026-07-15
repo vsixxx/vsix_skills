@@ -1,0 +1,17 @@
+{
+  "id": "soak-test",
+  "title": "Soak Test",
+  "descriptionZh": "用于 Soak Test 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/soak-test",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/soak-test/SKILL.md",
+  "upstreamSha256": "9f090f0e39575265a9e8e5e042dd81af81191e346ed3a92983a8d1d1a5ba6bc1"
+}

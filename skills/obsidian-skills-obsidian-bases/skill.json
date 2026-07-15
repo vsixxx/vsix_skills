@@ -1,0 +1,17 @@
+{
+  "id": "obsidian-skills-obsidian-bases",
+  "title": "Obsidian Skills Obsidian Bases",
+  "descriptionZh": "用于 Obsidian Skills Obsidian Bases 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-bases",
+  "homepage": "https://github.com/kepano/obsidian-skills",
+  "license": "See upstream",
+  "author": "kepano",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a1dc48e68138490d522c04cbf5822214c6eb1202",
+  "upstreamPath": "skills/obsidian-bases/SKILL.md",
+  "upstreamSha256": "c0037f20926c7d8591cdd040365e4c0e4c0c4146386a506f28f241faee9a27d9"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meme Generation"
+  short_description: "Use Meme Generation guidance and workflows in Codex"
+  default_prompt: "Use $meme-generation to help me complete a relevant task."

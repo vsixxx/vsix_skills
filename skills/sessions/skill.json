@@ -1,0 +1,17 @@
+{
+  "id": "sessions",
+  "title": "Sessions",
+  "descriptionZh": "用于 Sessions 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/sessions",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/sessions/SKILL.md",
+  "upstreamSha256": "6ad2164f6a5a848c8b41b5ebc090750bdb9eafc1b8dba40fb5aab86a6eba5be4"
+}

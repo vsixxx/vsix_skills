@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Interactive Capability Map"
+  short_description: "Use Codex Interactive Capability Map workflows in Codex"
+  default_prompt: "Use $codex-interactive-capability-map to help me complete a relevant task."

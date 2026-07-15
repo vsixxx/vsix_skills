@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Decision"
+  short_description: "Use Architecture Decision guidance and workflows in Codex"
+  default_prompt: "Use $architecture-decision to help me complete a relevant task."

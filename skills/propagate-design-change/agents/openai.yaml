@@ -1,0 +1,4 @@
+interface:
+  display_name: "Propagate Design Change"
+  short_description: "Use Propagate Design Change guidance and workflows in Codex"
+  default_prompt: "Use $propagate-design-change to help me complete a relevant task."

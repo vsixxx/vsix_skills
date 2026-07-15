@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Logo Outro"
+  short_description: "Use Frame Logo Outro guidance and workflows in Codex"
+  default_prompt: "Use $frame-logo-outro to help me complete a relevant task."

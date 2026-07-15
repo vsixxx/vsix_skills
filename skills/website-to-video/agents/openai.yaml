@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website To Video"
+  short_description: "Use Website To Video guidance and workflows in Codex"
+  default_prompt: "Use $website-to-video to help me complete a relevant task."

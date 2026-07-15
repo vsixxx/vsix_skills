@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap Timeline"
+  short_description: "Use Gsap Timeline guidance and workflows in Codex"
+  default_prompt: "Use $gsap-timeline to help me complete a relevant task."

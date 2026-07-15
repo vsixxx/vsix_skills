@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shop"
+  short_description: "Use Shop guidance and workflows in Codex"
+  default_prompt: "Use $shop to help me complete a relevant task."

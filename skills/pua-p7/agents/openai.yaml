@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua P7"
+  short_description: "Use Pua P7 guidance and workflows in Codex"
+  default_prompt: "Use $pua-p7 to help me complete a relevant task."

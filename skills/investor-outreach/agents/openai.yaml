@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investor Outreach"
+  short_description: "Use Investor Outreach guidance and workflows in Codex"
+  default_prompt: "Use $investor-outreach to help me complete a relevant task."

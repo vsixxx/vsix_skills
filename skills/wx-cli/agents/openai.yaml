@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wx CLI"
+  short_description: "Use Wx CLI guidance and workflows in Codex"
+  default_prompt: "Use $wx-cli to help me complete a relevant task."

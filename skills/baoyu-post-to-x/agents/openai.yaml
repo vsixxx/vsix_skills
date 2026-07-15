@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Post To X"
+  short_description: "Use Baoyu Post To X guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-post-to-x to help me complete a relevant task."

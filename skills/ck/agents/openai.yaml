@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ck"
+  short_description: "Use Ck guidance and workflows in Codex"
+  default_prompt: "Use $ck to help me complete a relevant task."

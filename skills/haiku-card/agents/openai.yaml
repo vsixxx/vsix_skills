@@ -1,0 +1,4 @@
+interface:
+  display_name: "Haiku Card"
+  short_description: "Use Haiku Card guidance and workflows in Codex"
+  default_prompt: "Use $haiku-card to help me complete a relevant task."

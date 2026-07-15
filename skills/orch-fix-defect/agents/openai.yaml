@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orch Fix Defect"
+  short_description: "Use Orch Fix Defect guidance and workflows in Codex"
+  default_prompt: "Use $orch-fix-defect to help me complete a relevant task."

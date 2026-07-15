@@ -1,0 +1,17 @@
+{
+  "id": "gsap-utils",
+  "title": "Gsap Utils",
+  "descriptionZh": "用于 Gsap Utils 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/greensock/gsap-skills/tree/main/skills/gsap-utils",
+  "homepage": "https://github.com/greensock/gsap-skills",
+  "license": "MIT",
+  "author": "greensock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+  "upstreamPath": "skills/gsap-utils/SKILL.md",
+  "upstreamSha256": "1927bcc4ea95b38203404ad5ea1d060b15c4a886c65ae53e885ff1793aabe0ba"
+}

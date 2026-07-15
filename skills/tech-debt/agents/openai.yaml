@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Debt"
+  short_description: "Use Tech Debt guidance and workflows in Codex"
+  default_prompt: "Use $tech-debt to help me complete a relevant task."

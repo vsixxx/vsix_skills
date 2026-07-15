@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas Design"
+  short_description: "Use Canvas Design guidance and workflows in Codex"
+  default_prompt: "Use $canvas-design to help me complete a relevant task."

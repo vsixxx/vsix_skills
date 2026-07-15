@@ -1,0 +1,17 @@
+{
+  "id": "domain-name-brainstormer",
+  "title": "Domain Name Brainstormer",
+  "descriptionZh": "用于 Domain Name Brainstormer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/domain-name-brainstormer",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/domain-name-brainstormer/SKILL.md",
+  "upstreamSha256": "22a4f2c005a85fcc514e63170d471292e3229ffca844597850dc242b75bd9072"
+}

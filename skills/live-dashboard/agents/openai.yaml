@@ -1,0 +1,4 @@
+interface:
+  display_name: "Live Dashboard"
+  short_description: "Use Live Dashboard guidance and workflows in Codex"
+  default_prompt: "Use $live-dashboard to help me complete a relevant task."

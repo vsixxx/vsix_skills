@@ -1,0 +1,17 @@
+{
+  "id": "minimax-music-gen",
+  "title": "Minimax Music Gen",
+  "descriptionZh": "用于 Minimax Music Gen 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-music-gen",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/minimax-music-gen/SKILL.md",
+  "upstreamSha256": "0c81d746c2ea895cbf92094087812304cdf83ff9fe1eb7ba7f8efe650b0a5914"
+}

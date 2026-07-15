@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tdd Workflow"
+  short_description: "Use Tdd Workflow guidance and workflows in Codex"
+  default_prompt: "Use $tdd-workflow to help me complete a relevant task."

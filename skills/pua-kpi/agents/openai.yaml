@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua Kpi"
+  short_description: "Use Pua Kpi guidance and workflows in Codex"
+  default_prompt: "Use $pua-kpi to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Openclaw Nightly"
+  short_description: "Use Release Openclaw Nightly guidance and workflows in Codex"
+  default_prompt: "Use $release-openclaw-nightly to help me complete a relevant task."

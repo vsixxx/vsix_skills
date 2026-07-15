@@ -1,0 +1,17 @@
+{
+  "id": "scrapling",
+  "title": "Scrapling",
+  "descriptionZh": "使用 Scrapling 进行网页抓取 — 通过 CLI 和 Python 实现 HTTP 获取、隐身浏览器自动化、Cloudflare 绕过及爬虫抓取。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [
+    "Command: scrapling",
+    "Command: python"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/scrapling",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "FEUAZUR",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Report"
+  short_description: "Use Data Report guidance and workflows in Codex"
+  default_prompt: "Use $data-report to help me complete a relevant task."

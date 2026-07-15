@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimalist Ui"
+  short_description: "Use Minimalist Ui guidance and workflows in Codex"
+  default_prompt: "Use $minimalist-ui to help me complete a relevant task."

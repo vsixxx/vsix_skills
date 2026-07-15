@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mem Search"
+  short_description: "Use Mem Search guidance and workflows in Codex"
+  default_prompt: "Use $mem-search to help me complete a relevant task."

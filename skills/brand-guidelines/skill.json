@@ -1,0 +1,17 @@
+{
+  "id": "brand-guidelines",
+  "title": "Brand Guidelines",
+  "descriptionZh": "用于 Brand Guidelines 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/brand-guidelines",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/brand-guidelines/SKILL.md",
+  "upstreamSha256": "4eb29f9d2e49083959a1f66721db8ea7a39fd902e66170b11042f883bf46185a"
+}

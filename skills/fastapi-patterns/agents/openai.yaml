@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fastapi Patterns"
+  short_description: "Use Fastapi Patterns guidance and workflows in Codex"
+  default_prompt: "Use $fastapi-patterns to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venice Image Edit"
+  short_description: "Use Venice Image Edit guidance and workflows in Codex"
+  default_prompt: "Use $venice-image-edit to help me complete a relevant task."

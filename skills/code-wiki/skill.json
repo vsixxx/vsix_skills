@@ -1,0 +1,14 @@
+{
+  "id": "code-wiki",
+  "title": "Code Wiki",
+  "descriptionZh": "为代码库生成包含 Mermaid 图表的结构化 Wiki 文档。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/software-development/code-wiki",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Teknium (teknium1), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "content-engine",
+  "title": "Content Engine",
+  "descriptionZh": "用于 Content Engine 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/content-engine",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/content-engine/SKILL.md",
+  "upstreamSha256": "a1ccc0ecfe30ae53db26a73159a80ecad8c63a6a96c461a297789d889bf9ad2c"
+}

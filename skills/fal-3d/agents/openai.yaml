@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal 3d"
+  short_description: "Use Fal 3d guidance and workflows in Codex"
+  default_prompt: "Use $fal-3d to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Usage"
+  short_description: "Use Model Usage guidance and workflows in Codex"
+  default_prompt: "Use $model-usage to help me complete a relevant task."

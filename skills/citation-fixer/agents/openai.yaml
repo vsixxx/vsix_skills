@@ -1,0 +1,4 @@
+interface:
+  display_name: "Citation Fixer"
+  short_description: "Use Citation Fixer guidance and workflows in Codex"
+  default_prompt: "Use $citation-fixer to help me complete a relevant task."

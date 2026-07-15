@@ -1,0 +1,17 @@
+{
+  "id": "bilibili-upload",
+  "title": "Bilibili Upload",
+  "descriptionZh": "用于 Bilibili Upload 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/dreammis/social-auto-upload/tree/main/skills/bilibili-upload",
+  "homepage": "https://github.com/dreammis/social-auto-upload",
+  "license": "See upstream",
+  "author": "dreammis",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d32280c98b51057915cfb61f5fec139a464b8178",
+  "upstreamPath": "skills/bilibili-upload/SKILL.md",
+  "upstreamSha256": "b2f16069716ff558001f0d3ab5fc41f231ea5a0341cb4e49b10e5d7b52b0f203"
+}

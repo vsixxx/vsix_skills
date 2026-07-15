@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review All Gdds"
+  short_description: "Use Review All Gdds guidance and workflows in Codex"
+  default_prompt: "Use $review-all-gdds to help me complete a relevant task."

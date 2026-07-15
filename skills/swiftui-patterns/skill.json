@@ -1,0 +1,17 @@
+{
+  "id": "swiftui-patterns",
+  "title": "Swiftui Patterns",
+  "descriptionZh": "用于 Swiftui Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/swiftui-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/swiftui-patterns/SKILL.md",
+  "upstreamSha256": "c27f90145101dd77d64e9f9b70297c4167af26abb8a924f2a91326289bc3ec2c"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Orchestrator"
+  short_description: "Use Opc Orchestrator guidance and workflows in Codex"
+  default_prompt: "Use $opc-orchestrator to help me complete a relevant task."

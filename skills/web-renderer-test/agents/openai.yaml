@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Renderer Test"
+  short_description: "Use Web Renderer Test guidance and workflows in Codex"
+  default_prompt: "Use $web-renderer-test to help me complete a relevant task."

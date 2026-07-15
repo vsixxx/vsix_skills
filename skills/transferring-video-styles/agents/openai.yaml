@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transferring Video Styles"
+  short_description: "Use Transferring Video Styles guidance and workflows in Codex"
+  default_prompt: "Use $transferring-video-styles to help me complete a relevant task."

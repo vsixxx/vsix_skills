@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Graph Ranker"
+  short_description: "Use Social Graph Ranker guidance and workflows in Codex"
+  default_prompt: "Use $social-graph-ranker to help me complete a relevant task."

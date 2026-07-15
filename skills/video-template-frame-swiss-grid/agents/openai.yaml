@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Swiss Grid"
+  short_description: "Use Video Template Frame Swiss Grid workflows in Codex"
+  default_prompt: "Use $video-template-frame-swiss-grid to help me complete a relevant task."

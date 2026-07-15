@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impeccable Design Polish"
+  short_description: "Use Impeccable Design Polish guidance and workflows in Codex"
+  default_prompt: "Use $impeccable-design-polish to help me complete a relevant task."

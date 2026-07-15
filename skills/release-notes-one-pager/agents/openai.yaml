@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Notes One Pager"
+  short_description: "Use Release Notes One Pager guidance and workflows in Codex"
+  default_prompt: "Use $release-notes-one-pager to help me complete a relevant task."

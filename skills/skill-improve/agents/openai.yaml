@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Improve"
+  short_description: "Use Skill Improve guidance and workflows in Codex"
+  default_prompt: "Use $skill-improve to help me complete a relevant task."

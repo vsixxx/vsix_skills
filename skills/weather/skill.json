@@ -1,0 +1,17 @@
+{
+  "id": "weather",
+  "title": "Weather",
+  "descriptionZh": "用于 Weather 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/weather",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/weather/SKILL.md",
+  "upstreamSha256": "62ab4821aa873949d1c1091836be1659a42b32caadce4bd145f5505a1ceaeec1"
+}

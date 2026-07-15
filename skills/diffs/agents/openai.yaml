@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diffs"
+  short_description: "Use Diffs guidance and workflows in Codex"
+  default_prompt: "Use $diffs to help me complete a relevant task."

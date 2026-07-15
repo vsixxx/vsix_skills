@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autoplan"
+  short_description: "Use Autoplan guidance and workflows in Codex"
+  default_prompt: "Use $autoplan to help me complete a relevant task."

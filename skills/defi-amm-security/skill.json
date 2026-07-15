@@ -1,0 +1,17 @@
+{
+  "id": "defi-amm-security",
+  "title": "Defi Amm Security",
+  "descriptionZh": "用于 Defi Amm Security 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/defi-amm-security",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/defi-amm-security/SKILL.md",
+  "upstreamSha256": "84a24f80f8cef46cf6f50adedfd8045bf7c25363fc160d2985d6b49d6603c559"
+}

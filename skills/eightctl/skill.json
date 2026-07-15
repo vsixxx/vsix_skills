@@ -1,0 +1,17 @@
+{
+  "id": "eightctl",
+  "title": "Eightctl",
+  "descriptionZh": "用于 Eightctl 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/eightctl",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/eightctl/SKILL.md",
+  "upstreamSha256": "ec9962d3f96bb7c5060760a1a5a292347d10bd68545e5a884f271b403592213a"
+}

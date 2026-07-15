@@ -1,0 +1,17 @@
+{
+  "id": "map-systems",
+  "title": "Map Systems",
+  "descriptionZh": "用于 Map Systems 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/map-systems",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/map-systems/SKILL.md",
+  "upstreamSha256": "a46393797f5227603d87722d8c546d61c8944182db28e00207dc5ad318aa577e"
+}

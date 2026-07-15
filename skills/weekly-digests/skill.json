@@ -1,0 +1,17 @@
+{
+  "id": "weekly-digests",
+  "title": "Weekly Digests",
+  "descriptionZh": "用于 Weekly Digests 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/weekly-digests",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/weekly-digests/SKILL.md",
+  "upstreamSha256": "811f0022e493703698f8bf8a9eeaf8db37ffe8ed16fb5697effe2d840a2a8b7c"
+}

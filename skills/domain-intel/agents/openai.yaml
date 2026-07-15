@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Intel"
+  short_description: "Use Domain Intel guidance and workflows in Codex"
+  default_prompt: "Use $domain-intel to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delivery Gate"
+  short_description: "Use Delivery Gate guidance and workflows in Codex"
+  default_prompt: "Use $delivery-gate to help me complete a relevant task."

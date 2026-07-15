@@ -1,0 +1,17 @@
+{
+  "id": "mailtrap-email-integration",
+  "title": "Mailtrap Email Integration",
+  "descriptionZh": "用于 Mailtrap Email Integration 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/mailtrap-email-integration",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/mailtrap-email-integration/SKILL.md",
+  "upstreamSha256": "917fe931b1ce8e796768d71686d4f90b37e413529593e5f7cf108c4c73b35ce4"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homelab Network Setup"
+  short_description: "Use Homelab Network Setup guidance and workflows in Codex"
+  default_prompt: "Use $homelab-network-setup to help me complete a relevant task."

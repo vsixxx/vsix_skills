@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regex Vs LLM Structured Text"
+  short_description: "Use Regex Vs LLM Structured Text guidance and workflows in Codex"
+  default_prompt: "Use $regex-vs-llm-structured-text to help me complete a relevant task."

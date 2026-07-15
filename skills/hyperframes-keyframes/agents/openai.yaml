@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyperframes Keyframes"
+  short_description: "Use Hyperframes Keyframes guidance and workflows in Codex"
+  default_prompt: "Use $hyperframes-keyframes to help me complete a relevant task."

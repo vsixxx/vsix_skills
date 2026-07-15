@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make PDF"
+  short_description: "Use Make PDF guidance and workflows in Codex"
+  default_prompt: "Use $make-pdf to help me complete a relevant task."

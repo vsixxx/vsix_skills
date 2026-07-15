@@ -1,0 +1,17 @@
+{
+  "id": "brainstorming",
+  "title": "Brainstorming",
+  "descriptionZh": "用于 Brainstorming 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/brainstorming",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/brainstorming/SKILL.md",
+  "upstreamSha256": "5f21d2cc02a25137fe3cff289f8fc6e7b86502adeb33a6c5c11a7dc734742d7e"
+}

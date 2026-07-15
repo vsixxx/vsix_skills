@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend Patterns"
+  short_description: "Use Backend Patterns guidance and workflows in Codex"
+  default_prompt: "Use $backend-patterns to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-zhangzara-coral",
+  "title": "HTML Ppt Zhangzara Coral",
+  "descriptionZh": "用于 HTML Ppt Zhangzara Coral 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-coral",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-zhangzara-coral/SKILL.md",
+  "upstreamSha256": "6d13372c8edb4e9f6e42a68f6e227b8bc9c85a6a806586097d1c8c50766c559c"
+}

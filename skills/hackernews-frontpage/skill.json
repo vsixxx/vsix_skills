@@ -1,0 +1,17 @@
+{
+  "id": "hackernews-frontpage",
+  "title": "Hackernews Frontpage",
+  "descriptionZh": "用于 Hackernews Frontpage 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/browser-skills/hackernews-frontpage",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "browser-skills/hackernews-frontpage/SKILL.md",
+  "upstreamSha256": "1a4e91d00ffdbdd38d2dc2986cf764b6d7d4d9348fdce19f2c60e92fa4a564da"
+}

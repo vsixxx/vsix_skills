@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skillpack Harvest"
+  short_description: "Use Skillpack Harvest guidance and workflows in Codex"
+  default_prompt: "Use $skillpack-harvest to help me complete a relevant task."

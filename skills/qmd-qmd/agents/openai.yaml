@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qmd Qmd"
+  short_description: "Use Qmd Qmd guidance and workflows in Codex"
+  default_prompt: "Use $qmd-qmd to help me complete a relevant task."

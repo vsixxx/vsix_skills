@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Gbrain"
+  short_description: "Use Setup Gbrain guidance and workflows in Codex"
+  default_prompt: "Use $setup-gbrain to help me complete a relevant task."

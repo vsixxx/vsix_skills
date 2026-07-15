@@ -1,0 +1,17 @@
+{
+  "id": "composing-videos",
+  "title": "Composing Videos",
+  "descriptionZh": "用于 Composing Videos 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/composing-videos",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/composing-videos/SKILL.md",
+  "upstreamSha256": "ca20534b8eddd36b15442d4c49422b3c5a301379d3470f1b53cc81e4949d45f4"
+}

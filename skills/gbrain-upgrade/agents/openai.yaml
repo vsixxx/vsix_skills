@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gbrain Upgrade"
+  short_description: "Use Gbrain Upgrade guidance and workflows in Codex"
+  default_prompt: "Use $gbrain-upgrade to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "ordercli",
+  "title": "Ordercli",
+  "descriptionZh": "用于 Ordercli 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/ordercli",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/ordercli/SKILL.md",
+  "upstreamSha256": "538a33d66aae6059128aa08f4428863a42d7d657f6edeefdb3c45c7d25c5605e"
+}

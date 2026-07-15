@@ -1,0 +1,17 @@
+{
+  "id": "extension-real-browser-testing",
+  "title": "Extension Real Browser Testing",
+  "descriptionZh": "用于 Extension Real Browser Testing 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/extension-real-browser-testing",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/extension-real-browser-testing/SKILL.md",
+  "upstreamSha256": "f3cc513881b58b72d3bc8f84c4e23c25c44cded58a36e844bbdfba5957256e02"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fal-image-edit",
+  "title": "Fal Image Edit",
+  "descriptionZh": "用于 Fal Image Edit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/fal-image-edit",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/fal-image-edit/SKILL.md",
+  "upstreamSha256": "065c9ebd7b582b0654677dff5fde0d4f931587e39db44a821ff383261a14ea35"
+}

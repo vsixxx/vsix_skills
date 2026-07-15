@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Prototype Taste Editorial"
+  short_description: "Use Web Prototype Taste Editorial workflows in Codex"
+  default_prompt: "Use $web-prototype-taste-editorial to help me complete a relevant task."

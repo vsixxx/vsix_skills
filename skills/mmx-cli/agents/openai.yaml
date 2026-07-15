@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mmx CLI"
+  short_description: "Use Mmx CLI guidance and workflows in Codex"
+  default_prompt: "Use $mmx-cli to help me complete a relevant task."

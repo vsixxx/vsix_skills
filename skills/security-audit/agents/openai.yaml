@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Audit"
+  short_description: "Use Security Audit guidance and workflows in Codex"
+  default_prompt: "Use $security-audit to help me complete a relevant task."

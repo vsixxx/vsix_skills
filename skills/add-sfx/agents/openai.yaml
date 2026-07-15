@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Sfx"
+  short_description: "Use Add Sfx guidance and workflows in Codex"
+  default_prompt: "Use $add-sfx to help me complete a relevant task."

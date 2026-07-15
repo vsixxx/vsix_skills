@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hatch Pet"
+  short_description: "Use Hatch Pet guidance and workflows in Codex"
+  default_prompt: "Use $hatch-pet to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Budget Advisor"
+  short_description: "Use Token Budget Advisor guidance and workflows in Codex"
+  default_prompt: "Use $token-budget-advisor to help me complete a relevant task."

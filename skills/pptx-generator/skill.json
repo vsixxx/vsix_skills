@@ -1,0 +1,17 @@
+{
+  "id": "pptx-generator",
+  "title": "PPTX Generator",
+  "descriptionZh": "用于 PPTX Generator 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/pptx-generator",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/pptx-generator/SKILL.md",
+  "upstreamSha256": "6eeb36239fdef35ab133ca462e1ec4674cb96dd9c5cd63da39c29151899bda10"
+}

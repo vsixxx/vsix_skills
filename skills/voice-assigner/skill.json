@@ -1,0 +1,17 @@
+{
+  "id": "voice-assigner",
+  "title": "Voice Assigner",
+  "descriptionZh": "用于 Voice Assigner 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/chatfire-AI/huobao-drama/tree/master/skills/voice_assigner",
+  "homepage": "https://github.com/chatfire-AI/huobao-drama",
+  "license": "See upstream",
+  "author": "chatfire-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ad1cd7cd0127389ce8304aa9ebda3cfc8f406a6d",
+  "upstreamPath": "skills/voice_assigner/SKILL.md",
+  "upstreamSha256": "e09263c88553cfa0987a7e89ba8803b3cef73e9417c79a64ae3e350caea6a922"
+}

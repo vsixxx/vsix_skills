@@ -1,0 +1,4 @@
+interface:
+  display_name: "Troubleshooting"
+  short_description: "Use Troubleshooting guidance and workflows in Codex"
+  default_prompt: "Use $troubleshooting to help me complete a relevant task."

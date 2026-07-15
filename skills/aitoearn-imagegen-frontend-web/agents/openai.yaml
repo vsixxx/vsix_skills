@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Imagegen Frontend Web"
+  short_description: "Use Aitoearn Imagegen Frontend Web workflows in Codex"
+  default_prompt: "Use $aitoearn-imagegen-frontend-web to help me complete a relevant task."

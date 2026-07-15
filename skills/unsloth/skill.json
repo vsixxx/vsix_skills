@@ -1,0 +1,23 @@
+{
+  "id": "unsloth",
+  "title": "Unsloth",
+  "descriptionZh": "Unsloth：2-5 倍更快的 LoRA/QLoRA 微调，更低 VRAM 占用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: unsloth",
+    "Package: torch",
+    "Package: transformers",
+    "Package: trl",
+    "Package: datasets",
+    "Package: peft"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/training/unsloth",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

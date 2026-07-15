@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Meeting Notes"
+  short_description: "Use Open Design Meeting Notes guidance and workflows in Codex"
+  default_prompt: "Use $open-design-meeting-notes to help me complete a relevant task."

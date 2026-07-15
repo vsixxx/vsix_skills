@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ppt Keynote"
+  short_description: "Use Ppt Keynote guidance and workflows in Codex"
+  default_prompt: "Use $ppt-keynote to help me complete a relevant task."

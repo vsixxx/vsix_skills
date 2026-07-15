@@ -1,0 +1,17 @@
+{
+  "id": "discovery-question-form",
+  "title": "Discovery Question Form",
+  "descriptionZh": "用于 Discovery Question Form 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/atoms/discovery-question-form",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/atoms/discovery-question-form/SKILL.md",
+  "upstreamSha256": "eb07f3a803e430a6f7fcb8a8f6f688ed93ca71c013e12da14ecd1ad0cdb72a00"
+}

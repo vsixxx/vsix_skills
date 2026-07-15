@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gbrain Advisor"
+  short_description: "Use Gbrain Advisor guidance and workflows in Codex"
+  default_prompt: "Use $gbrain-advisor to help me complete a relevant task."

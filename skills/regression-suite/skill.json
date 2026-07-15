@@ -1,0 +1,17 @@
+{
+  "id": "regression-suite",
+  "title": "Regression Suite",
+  "descriptionZh": "用于 Regression Suite 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/regression-suite",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/regression-suite/SKILL.md",
+  "upstreamSha256": "8f073b6b576c88fba6129efd57f4c71f04c97563f3c5a532c0ae28d2a5c0f0fc"
+}

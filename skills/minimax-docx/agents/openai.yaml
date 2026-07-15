@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimax Docx"
+  short_description: "Use Minimax Docx guidance and workflows in Codex"
+  default_prompt: "Use $minimax-docx to help me complete a relevant task."

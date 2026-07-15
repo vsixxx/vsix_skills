@@ -1,0 +1,4 @@
+interface:
+  display_name: "Do"
+  short_description: "Use Do guidance and workflows in Codex"
+  default_prompt: "Use $do to help me complete a relevant task."

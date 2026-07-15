@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Okrs"
+  short_description: "Use Team Okrs guidance and workflows in Codex"
+  default_prompt: "Use $team-okrs to help me complete a relevant task."

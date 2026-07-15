@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Version"
+  short_description: "Use Update Version guidance and workflows in Codex"
+  default_prompt: "Use $update-version to help me complete a relevant task."

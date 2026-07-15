@@ -1,0 +1,17 @@
+{
+  "id": "remotion-create",
+  "title": "Remotion Create",
+  "descriptionZh": "用于 Remotion Create 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/packages/skills/skills/remotion-create",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": "packages/skills/skills/remotion-create/SKILL.md",
+  "upstreamSha256": "570296da4279e03ff6a1d714511c6c34e5528d1eeb701b3ad11c51fd8ed24d4c"
+}

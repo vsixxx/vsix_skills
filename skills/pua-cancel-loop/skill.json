@@ -1,0 +1,17 @@
+{
+  "id": "pua-cancel-loop",
+  "title": "Pua Cancel Loop",
+  "descriptionZh": "用于 Pua Cancel Loop 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/codex/pua-cancel-loop",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "codex/pua-cancel-loop/SKILL.md",
+  "upstreamSha256": "db473744a6f9b078c1d41d1f1a02fdef4578cf8c97edeeffacde4cfe39313435"
+}

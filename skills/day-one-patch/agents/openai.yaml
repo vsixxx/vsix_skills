@@ -1,0 +1,4 @@
+interface:
+  display_name: "Day One Patch"
+  short_description: "Use Day One Patch guidance and workflows in Codex"
+  default_prompt: "Use $day-one-patch to help me complete a relevant task."

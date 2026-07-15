@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs Demo"
+  short_description: "Use Docs Demo guidance and workflows in Codex"
+  default_prompt: "Use $docs-demo to help me complete a relevant task."

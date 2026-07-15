@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replit Deck"
+  short_description: "Use Replit Deck guidance and workflows in Codex"
+  default_prompt: "Use $replit-deck to help me complete a relevant task."

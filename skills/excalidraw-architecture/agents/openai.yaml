@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excalidraw Architecture"
+  short_description: "Use Excalidraw Architecture guidance and workflows in Codex"
+  default_prompt: "Use $excalidraw-architecture to help me complete a relevant task."

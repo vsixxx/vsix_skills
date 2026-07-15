@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Nextjs Export"
+  short_description: "Use Od Nextjs Export guidance and workflows in Codex"
+  default_prompt: "Use $od-nextjs-export to help me complete a relevant task."

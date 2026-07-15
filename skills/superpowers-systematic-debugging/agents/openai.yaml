@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superpowers Systematic Debugging"
+  short_description: "Use Superpowers Systematic Debugging workflows in Codex"
+  default_prompt: "Use $superpowers-systematic-debugging to help me complete a relevant task."

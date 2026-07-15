@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qa Only"
+  short_description: "Use Qa Only guidance and workflows in Codex"
+  default_prompt: "Use $qa-only to help me complete a relevant task."

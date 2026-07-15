@@ -1,0 +1,17 @@
+{
+  "id": "impeccable",
+  "title": "Impeccable",
+  "descriptionZh": "用于 Impeccable 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/pbakaus/impeccable/tree/main/.agents/skills/impeccable",
+  "homepage": "https://github.com/pbakaus/impeccable",
+  "license": "See upstream",
+  "author": "pbakaus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "8259c28209b92792005cec14dad573df39f68eaf",
+  "upstreamPath": ".agents/skills/impeccable/SKILL.md",
+  "upstreamSha256": "14c4642368557af1f7bbaaac0aa184b791e6d70665dfd8fc53d8d4124f81abb8"
+}

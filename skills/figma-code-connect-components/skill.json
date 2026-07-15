@@ -1,0 +1,17 @@
+{
+  "id": "figma-code-connect-components",
+  "title": "Figma Code Connect Components",
+  "descriptionZh": "用于 Figma Code Connect Components 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/figma-code-connect-components",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/figma-code-connect-components/SKILL.md",
+  "upstreamSha256": "c264f647713a72a3001407b975c825b2a278c4c0d5e18db097697b0cc54e774d"
+}

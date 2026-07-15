@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Review"
+  short_description: "Use PR Review guidance and workflows in Codex"
+  default_prompt: "Use $pr-review to help me complete a relevant task."

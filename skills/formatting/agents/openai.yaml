@@ -1,0 +1,4 @@
+interface:
+  display_name: "Formatting"
+  short_description: "Use Formatting guidance and workflows in Codex"
+  default_prompt: "Use $formatting to help me complete a relevant task."

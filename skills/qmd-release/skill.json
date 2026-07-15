@@ -1,0 +1,17 @@
+{
+  "id": "qmd-release",
+  "title": "Qmd Release",
+  "descriptionZh": "用于 Qmd Release 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tobi/qmd/tree/main/skills/release",
+  "homepage": "https://github.com/tobi/qmd",
+  "license": "See upstream",
+  "author": "tobi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e428df76bc0274d9e93eb7ca3e95673315c42e90",
+  "upstreamPath": "skills/release/SKILL.md",
+  "upstreamSha256": "59f4b99a7d3fe512324aca85f9fd704c0706da8368441821ecff5c63c53c602b"
+}

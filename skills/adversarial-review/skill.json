@@ -1,0 +1,17 @@
+{
+  "id": "adversarial-review",
+  "title": "Adversarial Review",
+  "descriptionZh": "用于 Adversarial Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/adversarial-review",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/adversarial-review/SKILL.md",
+  "upstreamSha256": "b93a869e8d3015c1bdaccfc5bd9dc3167bcc14f36b88bfa4a74f31ee6b23a87d"
+}

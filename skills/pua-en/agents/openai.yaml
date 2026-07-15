@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pua En"
+  short_description: "Use Pua En guidance and workflows in Codex"
+  default_prompt: "Use $pua-en to help me complete a relevant task."

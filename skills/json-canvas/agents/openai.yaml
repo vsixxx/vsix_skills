@@ -1,0 +1,4 @@
+interface:
+  display_name: "Json Canvas"
+  short_description: "Use Json Canvas guidance and workflows in Codex"
+  default_prompt: "Use $json-canvas to help me complete a relevant task."

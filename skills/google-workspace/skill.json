@@ -1,0 +1,17 @@
+{
+  "id": "google-workspace",
+  "title": "Google Workspace",
+  "descriptionZh": "通过 gws CLI 或 Python 操作 Gmail、Calendar、Drive、Docs、Sheets。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [
+    "Credential file: google_token.json",
+    "Credential file: google_client_secret.json"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/google-workspace",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "agent-browser",
+  "title": "Agent Browser",
+  "descriptionZh": "用于 Agent Browser 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/agent-browser",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/agent-browser/SKILL.md",
+  "upstreamSha256": "1e2d2f4ee1f08be18c2dd45037d05964b872ef018b65ea2d67fb537fbd3078ed"
+}

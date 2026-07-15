@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prisma Patterns"
+  short_description: "Use Prisma Patterns guidance and workflows in Codex"
+  default_prompt: "Use $prisma-patterns to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ml Adoption Playbook"
+  short_description: "Use Ml Adoption Playbook guidance and workflows in Codex"
+  default_prompt: "Use $ml-adoption-playbook to help me complete a relevant task."

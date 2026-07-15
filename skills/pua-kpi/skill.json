@@ -1,0 +1,17 @@
+{
+  "id": "pua-kpi",
+  "title": "Pua Kpi",
+  "descriptionZh": "用于 Pua Kpi 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/codex/pua-kpi",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "codex/pua-kpi/SKILL.md",
+  "upstreamSha256": "38bd1c27259c0a87aa0279866e36834a85459dfcb5aed04cca2197be6a0478e3"
+}

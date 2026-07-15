@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nuxt4 Patterns"
+  short_description: "Use Nuxt4 Patterns guidance and workflows in Codex"
+  default_prompt: "Use $nuxt4-patterns to help me complete a relevant task."

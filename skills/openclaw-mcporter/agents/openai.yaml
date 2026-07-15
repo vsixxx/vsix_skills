@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Mcporter"
+  short_description: "Use Openclaw Mcporter guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-mcporter to help me complete a relevant task."

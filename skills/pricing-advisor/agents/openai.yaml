@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pricing Advisor"
+  short_description: "Use Pricing Advisor guidance and workflows in Codex"
+  default_prompt: "Use $pricing-advisor to help me complete a relevant task."

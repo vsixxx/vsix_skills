@@ -1,0 +1,4 @@
+interface:
+  display_name: "Color Expert"
+  short_description: "Use Color Expert guidance and workflows in Codex"
+  default_prompt: "Use $color-expert to help me complete a relevant task."

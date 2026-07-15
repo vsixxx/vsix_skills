@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swiftui Patterns"
+  short_description: "Use Swiftui Patterns guidance and workflows in Codex"
+  default_prompt: "Use $swiftui-patterns to help me complete a relevant task."

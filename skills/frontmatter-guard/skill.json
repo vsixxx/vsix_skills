@@ -1,0 +1,17 @@
+{
+  "id": "frontmatter-guard",
+  "title": "Frontmatter Guard",
+  "descriptionZh": "用于 Frontmatter Guard 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/frontmatter-guard",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/frontmatter-guard/SKILL.md",
+  "upstreamSha256": "5142ab53f5428ebc084ded78f1fb7eb4bfa386d276ee034bf4d57273256570c6"
+}

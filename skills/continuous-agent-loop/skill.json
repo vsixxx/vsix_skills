@@ -1,0 +1,17 @@
+{
+  "id": "continuous-agent-loop",
+  "title": "Continuous Agent Loop",
+  "descriptionZh": "用于 Continuous Agent Loop 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/continuous-agent-loop",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/continuous-agent-loop/SKILL.md",
+  "upstreamSha256": "204d907b5a36368539c3f460cfb674c9b847cd833d3210e029ecfb30406efc8d"
+}

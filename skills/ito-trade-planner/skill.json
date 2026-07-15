@@ -1,0 +1,17 @@
+{
+  "id": "ito-trade-planner",
+  "title": "Ito Trade Planner",
+  "descriptionZh": "用于 Ito Trade Planner 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ito-trade-planner",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ito-trade-planner/SKILL.md",
+  "upstreamSha256": "45dc43a4b67432ce12512c5f18b9cc4f521a04f0e158a4aeadf8b160c7d5bb0e"
+}

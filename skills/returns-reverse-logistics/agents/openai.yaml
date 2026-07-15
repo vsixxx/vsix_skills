@@ -1,0 +1,4 @@
+interface:
+  display_name: "Returns Reverse Logistics"
+  short_description: "Use Returns Reverse Logistics guidance and workflows in Codex"
+  default_prompt: "Use $returns-reverse-logistics to help me complete a relevant task."

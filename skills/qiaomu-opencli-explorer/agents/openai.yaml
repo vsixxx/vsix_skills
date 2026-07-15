@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qiaomu Opencli Explorer"
+  short_description: "Use Qiaomu Opencli Explorer guidance and workflows in Codex"
+  default_prompt: "Use $qiaomu-opencli-explorer to help me complete a relevant task."

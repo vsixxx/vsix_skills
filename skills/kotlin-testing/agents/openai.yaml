@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Testing"
+  short_description: "Use Kotlin Testing guidance and workflows in Codex"
+  default_prompt: "Use $kotlin-testing to help me complete a relevant task."

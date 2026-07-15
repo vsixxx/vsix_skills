@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Neo Grid Bold"
+  short_description: "Use HTML Ppt Zhangzara Neo Grid Bold workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-neo-grid-bold to help me complete a relevant task."

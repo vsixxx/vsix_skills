@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Native Dev"
+  short_description: "Use React Native Dev guidance and workflows in Codex"
+  default_prompt: "Use $react-native-dev to help me complete a relevant task."

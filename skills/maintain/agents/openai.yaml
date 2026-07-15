@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain"
+  short_description: "Use Maintain guidance and workflows in Codex"
+  default_prompt: "Use $maintain to help me complete a relevant task."

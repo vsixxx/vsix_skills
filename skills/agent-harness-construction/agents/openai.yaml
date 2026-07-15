@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Harness Construction"
+  short_description: "Use Agent Harness Construction guidance and workflows in Codex"
+  default_prompt: "Use $agent-harness-construction to help me complete a relevant task."

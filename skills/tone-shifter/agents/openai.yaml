@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tone Shifter"
+  short_description: "Use Tone Shifter guidance and workflows in Codex"
+  default_prompt: "Use $tone-shifter to help me complete a relevant task."

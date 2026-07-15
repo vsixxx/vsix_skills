@@ -1,0 +1,17 @@
+{
+  "id": "fs-emerald-editorial",
+  "title": "Fs Emerald Editorial",
+  "descriptionZh": "用于 Fs Emerald Editorial 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/fs-emerald-editorial",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/fs-emerald-editorial/SKILL.md",
+  "upstreamSha256": "2d1366f40e02bd8a2cc2563f0ab064c8abac7cd03ffb48f582960d8f42185094"
+}

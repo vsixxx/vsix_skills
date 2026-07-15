@@ -1,0 +1,17 @@
+{
+  "id": "orch-refine-code",
+  "title": "Orch Refine Code",
+  "descriptionZh": "用于 Orch Refine Code 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/orch-refine-code",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/orch-refine-code/SKILL.md",
+  "upstreamSha256": "5f0f468ffa4e220bd8f76684b3df6a14b67b34333e1ae52e0de49ed2c16fa17b"
+}

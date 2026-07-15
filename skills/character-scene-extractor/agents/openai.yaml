@@ -1,0 +1,4 @@
+interface:
+  display_name: "Character Scene Extractor"
+  short_description: "Use Character Scene Extractor guidance and workflows in Codex"
+  default_prompt: "Use $character-scene-extractor to help me complete a relevant task."

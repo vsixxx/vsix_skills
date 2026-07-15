@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencli Sitemap Author"
+  short_description: "Use Opencli Sitemap Author guidance and workflows in Codex"
+  default_prompt: "Use $opencli-sitemap-author to help me complete a relevant task."

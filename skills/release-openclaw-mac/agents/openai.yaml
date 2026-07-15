@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Openclaw Mac"
+  short_description: "Use Release Openclaw Mac guidance and workflows in Codex"
+  default_prompt: "Use $release-openclaw-mac to help me complete a relevant task."

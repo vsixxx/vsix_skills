@@ -1,0 +1,17 @@
+{
+  "id": "memory-leak-debugging",
+  "title": "Memory Leak Debugging",
+  "descriptionZh": "用于 Memory Leak Debugging 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp/tree/main/skills/memory-leak-debugging",
+  "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "license": "See upstream",
+  "author": "ChromeDevTools",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2d944f9f4e6b107a6b42fb82c7e957384883bf7d",
+  "upstreamPath": "skills/memory-leak-debugging/SKILL.md",
+  "upstreamSha256": "d0c5a08e3189ae28a61bd5964d48e5b0dd6253dd30679187733f9c8a6b31c2b6"
+}

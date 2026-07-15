@@ -1,0 +1,17 @@
+{
+  "id": "code-import",
+  "title": "Code Import",
+  "descriptionZh": "用于 Code Import 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/atoms/code-import",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/atoms/code-import/SKILL.md",
+  "upstreamSha256": "d245db0e7f2838c3e11d5ebe20f15301401c6b81701796b14b6317e648a4c9b7"
+}

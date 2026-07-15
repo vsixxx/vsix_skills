@@ -1,0 +1,14 @@
+{
+  "id": "arxiv",
+  "title": "Arxiv",
+  "descriptionZh": "按关键词、作者、分类或 ID 搜索 arXiv 论文。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/research/arxiv",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

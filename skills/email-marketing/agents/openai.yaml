@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Marketing"
+  short_description: "Use Email Marketing guidance and workflows in Codex"
+  default_prompt: "Use $email-marketing to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Horizontal Parallax"
+  short_description: "Use Webgl Horizontal Parallax guidance and workflows in Codex"
+  default_prompt: "Use $webgl-horizontal-parallax to help me complete a relevant task."

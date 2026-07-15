@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gh Find Prs"
+  short_description: "Use Gh Find Prs guidance and workflows in Codex"
+  default_prompt: "Use $gh-find-prs to help me complete a relevant task."

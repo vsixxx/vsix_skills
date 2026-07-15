@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create PR"
+  short_description: "Use Create PR guidance and workflows in Codex"
+  default_prompt: "Use $create-pr to help me complete a relevant task."

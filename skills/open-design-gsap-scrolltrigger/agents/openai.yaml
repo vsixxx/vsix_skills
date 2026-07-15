@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Gsap Scrolltrigger"
+  short_description: "Use Open Design Gsap Scrolltrigger workflows in Codex"
+  default_prompt: "Use $open-design-gsap-scrolltrigger to help me complete a relevant task."

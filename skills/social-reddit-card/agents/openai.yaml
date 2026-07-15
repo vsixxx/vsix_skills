@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Reddit Card"
+  short_description: "Use Social Reddit Card guidance and workflows in Codex"
+  default_prompt: "Use $social-reddit-card to help me complete a relevant task."

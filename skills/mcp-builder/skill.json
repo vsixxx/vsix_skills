@@ -1,0 +1,17 @@
+{
+  "id": "mcp-builder",
+  "title": "MCP Builder",
+  "descriptionZh": "用于 MCP Builder 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/crates/tui/assets/skills/mcp-builder",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "crates/tui/assets/skills/mcp-builder/SKILL.md",
+  "upstreamSha256": "92d4e6acdee86c6912af186b9e903ba8821e2d0ddcf8e44a5333fe5253f705b3"
+}

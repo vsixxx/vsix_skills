@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Agent"
+  short_description: "Use Coding Agent guidance and workflows in Codex"
+  default_prompt: "Use $coding-agent to help me complete a relevant task."

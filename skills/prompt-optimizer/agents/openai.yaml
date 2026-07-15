@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Optimizer"
+  short_description: "Use Prompt Optimizer guidance and workflows in Codex"
+  default_prompt: "Use $prompt-optimizer to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seo"
+  short_description: "Use Seo guidance and workflows in Codex"
+  default_prompt: "Use $seo to help me complete a relevant task."

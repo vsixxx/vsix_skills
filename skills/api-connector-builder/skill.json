@@ -1,0 +1,17 @@
+{
+  "id": "api-connector-builder",
+  "title": "API Connector Builder",
+  "descriptionZh": "用于 API Connector Builder 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/api-connector-builder",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/api-connector-builder/SKILL.md",
+  "upstreamSha256": "3887da5d7268e5e53037ba9f518d9aba993c42a15e9fd3910149c8fbef15b0ee"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gget",
+  "title": "Gget",
+  "descriptionZh": "用于 Gget 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/scientific-pkg-gget",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/scientific-pkg-gget/SKILL.md",
+  "upstreamSha256": "8ec1e7e3ba70f3d4fbd02906c53e6c69c53da31689ef008b0746eea93856075d"
+}

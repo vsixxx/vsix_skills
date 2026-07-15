@@ -1,0 +1,4 @@
+interface:
+  display_name: "Patch Notes"
+  short_description: "Use Patch Notes guidance and workflows in Codex"
+  default_prompt: "Use $patch-notes to help me complete a relevant task."

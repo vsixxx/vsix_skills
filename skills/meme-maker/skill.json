@@ -1,0 +1,17 @@
+{
+  "id": "meme-maker",
+  "title": "Meme Maker",
+  "descriptionZh": "用于 Meme Maker 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/meme-maker",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/meme-maker/SKILL.md",
+  "upstreamSha256": "8b8832f9f0f58b16bc7f6207465b78d637a7c4ea302a73467adea75de9064de9"
+}

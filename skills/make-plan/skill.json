@@ -1,0 +1,17 @@
+{
+  "id": "make-plan",
+  "title": "Make Plan",
+  "descriptionZh": "用于 Make Plan 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/make-plan",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/make-plan/SKILL.md",
+  "upstreamSha256": "5e83552aa87eb321451e1da464aff5765d84ef053f0c1062e3ff7b789b08448d"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pretext"
+  short_description: "Use Pretext guidance and workflows in Codex"
+  default_prompt: "Use $pretext to help me complete a relevant task."

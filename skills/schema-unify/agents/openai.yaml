@@ -1,0 +1,4 @@
+interface:
+  display_name: "Schema Unify"
+  short_description: "Use Schema Unify guidance and workflows in Codex"
+  default_prompt: "Use $schema-unify to help me complete a relevant task."

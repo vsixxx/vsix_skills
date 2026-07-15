@@ -1,0 +1,4 @@
+interface:
+  display_name: "Estimate"
+  short_description: "Use Estimate guidance and workflows in Codex"
+  default_prompt: "Use $estimate to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generating Images"
+  short_description: "Use Generating Images guidance and workflows in Codex"
+  default_prompt: "Use $generating-images to help me complete a relevant task."

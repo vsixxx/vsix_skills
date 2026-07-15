@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Contribute"
+  short_description: "Use Od Contribute guidance and workflows in Codex"
+  default_prompt: "Use $od-contribute to help me complete a relevant task."

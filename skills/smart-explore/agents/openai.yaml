@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smart Explore"
+  short_description: "Use Smart Explore guidance and workflows in Codex"
+  default_prompt: "Use $smart-explore to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shot"
+  short_description: "Use Shot guidance and workflows in Codex"
+  default_prompt: "Use $shot to help me complete a relevant task."

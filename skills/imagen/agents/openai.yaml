@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imagen"
+  short_description: "Use Imagen guidance and workflows in Codex"
+  default_prompt: "Use $imagen to help me complete a relevant task."

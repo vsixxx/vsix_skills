@@ -1,0 +1,17 @@
+{
+  "id": "wowerpoint",
+  "title": "Wowerpoint",
+  "descriptionZh": "用于 Wowerpoint 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/wowerpoint",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/wowerpoint/SKILL.md",
+  "upstreamSha256": "05ae7cd337a61d6c4a7f172b822acc69ab903538014201ac64caec4676d9d6a6"
+}

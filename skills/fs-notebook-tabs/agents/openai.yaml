@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fs Notebook Tabs"
+  short_description: "Use Fs Notebook Tabs guidance and workflows in Codex"
+  default_prompt: "Use $fs-notebook-tabs to help me complete a relevant task."

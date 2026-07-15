@@ -1,0 +1,17 @@
+{
+  "id": "homelab-wireguard-vpn",
+  "title": "Homelab Wireguard Vpn",
+  "descriptionZh": "用于 Homelab Wireguard Vpn 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/homelab-wireguard-vpn",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/homelab-wireguard-vpn/SKILL.md",
+  "upstreamSha256": "f6f8cc2d0efc0873e4c153b3ebba9e4c4efc367244dca9316886d7f2a54dad0f"
+}

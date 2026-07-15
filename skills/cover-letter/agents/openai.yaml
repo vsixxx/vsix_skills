@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cover Letter"
+  short_description: "Use Cover Letter guidance and workflows in Codex"
+  default_prompt: "Use $cover-letter to help me complete a relevant task."

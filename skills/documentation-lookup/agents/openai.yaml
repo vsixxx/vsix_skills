@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Lookup"
+  short_description: "Use Documentation Lookup guidance and workflows in Codex"
+  default_prompt: "Use $documentation-lookup to help me complete a relevant task."

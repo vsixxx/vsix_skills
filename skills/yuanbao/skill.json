@@ -1,0 +1,14 @@
+{
+  "id": "yuanbao",
+  "title": "Yuanbao",
+  "descriptionZh": "元宝（Yuanbao）群组：@提及用户、查询信息/成员。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/yuanbao",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

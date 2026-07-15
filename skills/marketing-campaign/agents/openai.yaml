@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Campaign"
+  short_description: "Use Marketing Campaign guidance and workflows in Codex"
+  default_prompt: "Use $marketing-campaign to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "gh-find-prs",
+  "title": "Gh Find Prs",
+  "descriptionZh": "用于 Gh Find Prs 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/docs/skills/gh-find-prs",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "docs/skills/gh-find-prs/SKILL.md",
+  "upstreamSha256": "79babd7a705b7059e5a404189758fee7dff8e693c303e1be1921091bb6d4e1db"
+}

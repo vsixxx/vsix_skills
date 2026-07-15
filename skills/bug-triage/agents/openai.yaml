@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bug Triage"
+  short_description: "Use Bug Triage guidance and workflows in Codex"
+  default_prompt: "Use $bug-triage to help me complete a relevant task."

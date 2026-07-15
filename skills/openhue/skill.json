@@ -1,0 +1,16 @@
+{
+  "id": "openhue",
+  "title": "Openhue",
+  "descriptionZh": "通过 OpenHue CLI 控制 Philips Hue 灯光、场景、房间。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Command: openhue"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/smart-home/openhue",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Name Brainstormer"
+  short_description: "Use Domain Name Brainstormer guidance and workflows in Codex"
+  default_prompt: "Use $domain-name-brainstormer to help me complete a relevant task."

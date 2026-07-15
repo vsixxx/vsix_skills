@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Reach"
+  short_description: "Use Agent Reach guidance and workflows in Codex"
+  default_prompt: "Use $agent-reach to help me complete a relevant task."

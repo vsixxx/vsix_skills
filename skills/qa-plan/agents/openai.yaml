@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qa Plan"
+  short_description: "Use Qa Plan guidance and workflows in Codex"
+  default_prompt: "Use $qa-plan to help me complete a relevant task."

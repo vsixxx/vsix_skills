@@ -1,0 +1,20 @@
+{
+  "id": "whisper",
+  "title": "Whisper",
+  "descriptionZh": "OpenAI 的通用语音识别模型。支持 99 种语言、转录、翻译为英语及语言识别。六种模型规格，从 tiny（39M 参数）到 large（1550M 参数）。适用于语音转文字、播客转录等场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: openai-whisper",
+    "Package: transformers",
+    "Package: torch"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/whisper",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

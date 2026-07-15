@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Tts Engine"
+  short_description: "Use Add Tts Engine guidance and workflows in Codex"
+  default_prompt: "Use $add-tts-engine to help me complete a relevant task."

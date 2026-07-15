@@ -1,0 +1,17 @@
+{
+  "id": "darwinian-evolver",
+  "title": "Darwinian Evolver",
+  "descriptionZh": "使用 Imbue 的进化循环演化 prompt/正则表达式/SQL/代码。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/darwinian-evolver",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Bihruze (Asahi0x), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

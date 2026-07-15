@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Url To Markdown"
+  short_description: "Use Baoyu Url To Markdown guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-url-to-markdown to help me complete a relevant task."

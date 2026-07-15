@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outlines"
+  short_description: "Use Outlines guidance and workflows in Codex"
+  default_prompt: "Use $outlines to help me complete a relevant task."

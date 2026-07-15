@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Voice"
+  short_description: "Use Brand Voice guidance and workflows in Codex"
+  default_prompt: "Use $brand-voice to help me complete a relevant task."

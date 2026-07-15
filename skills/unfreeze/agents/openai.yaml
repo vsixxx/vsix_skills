@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unfreeze"
+  short_description: "Use Unfreeze guidance and workflows in Codex"
+  default_prompt: "Use $unfreeze to help me complete a relevant task."

@@ -1,0 +1,14 @@
+{
+  "id": "p5js",
+  "title": "P5js",
+  "descriptionZh": "p5.js 草图：生成艺术、着色器、交互、3D。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/p5js",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

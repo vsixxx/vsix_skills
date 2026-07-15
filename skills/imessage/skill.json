@@ -1,0 +1,17 @@
+{
+  "id": "imessage",
+  "title": "Imessage",
+  "descriptionZh": "在 macOS 上通过 imsg CLI 发送和接收 iMessage/SMS。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: macos",
+    "Command: imsg"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/apple/imessage",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

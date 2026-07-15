@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homelab Network Readiness"
+  short_description: "Use Homelab Network Readiness guidance and workflows in Codex"
+  default_prompt: "Use $homelab-network-readiness to help me complete a relevant task."

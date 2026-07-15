@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Maintainer"
+  short_description: "Use Wiki Maintainer guidance and workflows in Codex"
+  default_prompt: "Use $wiki-maintainer to help me complete a relevant task."

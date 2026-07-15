@@ -1,0 +1,4 @@
+interface:
+  display_name: "Poster Hero"
+  short_description: "Use Poster Hero guidance and workflows in Codex"
+  default_prompt: "Use $poster-hero to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autonomous Agent Harness"
+  short_description: "Use Autonomous Agent Harness guidance and workflows in Codex"
+  default_prompt: "Use $autonomous-agent-harness to help me complete a relevant task."

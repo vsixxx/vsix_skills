@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documents"
+  short_description: "Use Documents guidance and workflows in Codex"
+  default_prompt: "Use $documents to help me complete a relevant task."

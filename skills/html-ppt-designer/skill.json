@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-designer",
+  "title": "HTML Ppt Designer",
+  "descriptionZh": "用于 HTML Ppt Designer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/andyhuo520/html-ppt-designer/tree/master",
+  "homepage": "https://github.com/andyhuo520/html-ppt-designer",
+  "license": "See upstream",
+  "author": "andyhuo520",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "17b6610fb213150d48a7b06a452871c0f7082d9c",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "9e983695a38eaf4d09858e9dd3c59b6efcd6b4366c4d9706804b1fa7d5ea41b8"
+}

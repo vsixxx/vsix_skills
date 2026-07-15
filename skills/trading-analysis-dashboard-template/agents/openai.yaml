@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trading Analysis Dashboard Template"
+  short_description: "Use Trading Analysis Dashboard Template workflows in Codex"
+  default_prompt: "Use $trading-analysis-dashboard-template to help me complete a relevant task."

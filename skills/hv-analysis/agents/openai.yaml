@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hv Analysis"
+  short_description: "Use Hv Analysis guidance and workflows in Codex"
+  default_prompt: "Use $hv-analysis to help me complete a relevant task."

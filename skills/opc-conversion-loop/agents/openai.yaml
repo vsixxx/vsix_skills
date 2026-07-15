@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opc Conversion Loop"
+  short_description: "Use Opc Conversion Loop guidance and workflows in Codex"
+  default_prompt: "Use $opc-conversion-loop to help me complete a relevant task."

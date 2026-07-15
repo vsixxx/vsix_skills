@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Test"
+  short_description: "Use Skill Test guidance and workflows in Codex"
+  default_prompt: "Use $skill-test to help me complete a relevant task."

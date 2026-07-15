@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capture"
+  short_description: "Use Capture guidance and workflows in Codex"
+  default_prompt: "Use $capture to help me complete a relevant task."

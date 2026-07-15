@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slack"
+  short_description: "Use Slack guidance and workflows in Codex"
+  default_prompt: "Use $slack to help me complete a relevant task."

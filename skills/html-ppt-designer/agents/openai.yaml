@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Designer"
+  short_description: "Use HTML Ppt Designer guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-designer to help me complete a relevant task."

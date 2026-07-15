@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vfx Text Cursor"
+  short_description: "Use Vfx Text Cursor guidance and workflows in Codex"
+  default_prompt: "Use $vfx-text-cursor to help me complete a relevant task."

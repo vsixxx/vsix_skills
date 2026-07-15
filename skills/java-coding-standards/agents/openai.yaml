@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Coding Standards"
+  short_description: "Use Java Coding Standards guidance and workflows in Codex"
+  default_prompt: "Use $java-coding-standards to help me complete a relevant task."

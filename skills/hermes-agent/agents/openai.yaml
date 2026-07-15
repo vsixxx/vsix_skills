@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes Agent"
+  short_description: "Use Hermes Agent guidance and workflows in Codex"
+  default_prompt: "Use $hermes-agent to help me complete a relevant task."

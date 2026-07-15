@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Liquid Bg Hero"
+  short_description: "Use Frame Liquid Bg Hero guidance and workflows in Codex"
+  default_prompt: "Use $frame-liquid-bg-hero to help me complete a relevant task."

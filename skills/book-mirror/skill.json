@@ -1,0 +1,17 @@
+{
+  "id": "book-mirror",
+  "title": "Book Mirror",
+  "descriptionZh": "用于 Book Mirror 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/book-mirror",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/book-mirror/SKILL.md",
+  "upstreamSha256": "a80b2fb1daf832ecf34b10260bafcaa17ab40853a2d30bd730fc66960c727fc3"
+}

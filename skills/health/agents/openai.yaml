@@ -1,0 +1,4 @@
+interface:
+  display_name: "Health"
+  short_description: "Use Health guidance and workflows in Codex"
+  default_prompt: "Use $health to help me complete a relevant task."

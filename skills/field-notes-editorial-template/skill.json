@@ -1,0 +1,17 @@
+{
+  "id": "field-notes-editorial-template",
+  "title": "Field Notes Editorial Template",
+  "descriptionZh": "用于 Field Notes Editorial Template 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/field-notes-editorial-template",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/field-notes-editorial-template/SKILL.md",
+  "upstreamSha256": "d6adbb24dc20b889ca060bb4605c0c9380238fa8a545ed014a4af28c9488040e"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Guardrails Claude Code"
+  short_description: "Use Git Guardrails Claude Code guidance and workflows in Codex"
+  default_prompt: "Use $git-guardrails-claude-code to help me complete a relevant task."

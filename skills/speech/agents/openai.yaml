@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speech"
+  short_description: "Use Speech guidance and workflows in Codex"
+  default_prompt: "Use $speech to help me complete a relevant task."

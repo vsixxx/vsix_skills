@@ -1,0 +1,17 @@
+{
+  "id": "project-flow-ops",
+  "title": "Project Flow Ops",
+  "descriptionZh": "用于 Project Flow Ops 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/project-flow-ops",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/project-flow-ops/SKILL.md",
+  "upstreamSha256": "6d59e4118a91419fdc66cf51925371a3f9fad66881c5a1720ed1c5cc490df1f7"
+}

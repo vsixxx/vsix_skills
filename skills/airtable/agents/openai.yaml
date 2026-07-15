@@ -1,0 +1,4 @@
+interface:
+  display_name: "Airtable"
+  short_description: "Use Airtable guidance and workflows in Codex"
+  default_prompt: "Use $airtable to help me complete a relevant task."

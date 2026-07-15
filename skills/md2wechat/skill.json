@@ -1,0 +1,17 @@
+{
+  "id": "md2wechat",
+  "title": "Md2wechat",
+  "descriptionZh": "用于 Md2wechat 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/geekjourneyx/md2wechat-skill/tree/main/skills/md2wechat",
+  "homepage": "https://github.com/geekjourneyx/md2wechat-skill",
+  "license": "See upstream",
+  "author": "geekjourneyx",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f9af7a9110b2b472c8fc3fd9a3103863f6bf3862",
+  "upstreamPath": "skills/md2wechat/SKILL.md",
+  "upstreamSha256": "92554ccf3d8a84e0fc2fed5c85ee7fdc88ef5179d606fad59488bf9d2ce23a42"
+}

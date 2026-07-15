@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weread Year In Review Video Template"
+  short_description: "Use Weread Year In Review Video Template workflows in Codex"
+  default_prompt: "Use $weread-year-in-review-video-template to help me complete a relevant task."

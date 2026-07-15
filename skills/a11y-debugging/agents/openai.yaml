@@ -1,0 +1,4 @@
+interface:
+  display_name: "A11y Debugging"
+  short_description: "Use A11y Debugging guidance and workflows in Codex"
+  default_prompt: "Use $a11y-debugging to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-post-to-x",
+  "title": "Baoyu Post To X",
+  "descriptionZh": "用于 Baoyu Post To X 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-post-to-x",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-post-to-x/SKILL.md",
+  "upstreamSha256": "6eca9de552dd0b7bebfbbab9192a915f73ac40396ca89501dfcfbb94efb141fc"
+}

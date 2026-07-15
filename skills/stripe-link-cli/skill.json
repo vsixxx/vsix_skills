@@ -1,0 +1,17 @@
+{
+  "id": "stripe-link-cli",
+  "title": "Stripe Link CLI",
+  "descriptionZh": "通过命令行配置和操作 Stripe Link 支付流程。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/payments/stripe-link-cli",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Teknium (teknium1), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

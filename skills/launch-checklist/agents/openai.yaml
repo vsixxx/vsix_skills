@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch Checklist"
+  short_description: "Use Launch Checklist guidance and workflows in Codex"
+  default_prompt: "Use $launch-checklist to help me complete a relevant task."

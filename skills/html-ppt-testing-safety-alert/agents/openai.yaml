@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Testing Safety Alert"
+  short_description: "Use HTML Ppt Testing Safety Alert workflows in Codex"
+  default_prompt: "Use $html-ppt-testing-safety-alert to help me complete a relevant task."

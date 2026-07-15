@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend A11y"
+  short_description: "Use Frontend A11y guidance and workflows in Codex"
+  default_prompt: "Use $frontend-a11y to help me complete a relevant task."

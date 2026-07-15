@@ -1,0 +1,21 @@
+{
+  "id": "slime-rl-training",
+  "title": "Slime Rl Training",
+  "descriptionZh": "提供使用 slime（Megatron+SGLang 框架）进行 LLM RL 后训练的指导。适用于训练 GLM 模型、实现自定义数据生成工作流或需要紧密 Megatron-LM 集成以进行 RL 扩展的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: sglang-router>=0.2.3",
+    "Package: ray",
+    "Package: torch>=2.0.0",
+    "Package: transformers>=4.40.0"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/slime",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

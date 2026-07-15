@@ -1,0 +1,4 @@
+interface:
+  display_name: "Watchers"
+  short_description: "Use Watchers guidance and workflows in Codex"
+  default_prompt: "Use $watchers to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Llama Cpp"
+  short_description: "Use Llama Cpp guidance and workflows in Codex"
+  default_prompt: "Use $llama-cpp to help me complete a relevant task."

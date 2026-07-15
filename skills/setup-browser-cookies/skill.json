@@ -1,0 +1,17 @@
+{
+  "id": "setup-browser-cookies",
+  "title": "Setup Browser Cookies",
+  "descriptionZh": "用于 Setup Browser Cookies 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/setup-browser-cookies",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "setup-browser-cookies/SKILL.md",
+  "upstreamSha256": "17363a8db951cb0e91bb1cc6e5d67721dfc06d6fc7823af44b981d79d4c5120b"
+}

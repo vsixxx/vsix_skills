@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-changelog-update",
+  "title": "Openclaw Changelog Update",
+  "descriptionZh": "用于 Openclaw Changelog Update 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-changelog-update",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": ".agents/skills/openclaw-changelog-update/SKILL.md",
+  "upstreamSha256": "07d908d00a577c4ea50c84f6ff5dee3dc4ebef04379c6a139889a85c4bd6bd95"
+}

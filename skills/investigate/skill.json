@@ -1,0 +1,17 @@
+{
+  "id": "investigate",
+  "title": "Investigate",
+  "descriptionZh": "用于 Investigate 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/investigate",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "investigate/SKILL.md",
+  "upstreamSha256": "6296d2cedc1dda85d55044f68a52bce2f6dbf867e770e255a9d3bb2b67dec747"
+}

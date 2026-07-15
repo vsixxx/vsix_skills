@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Plans"
+  short_description: "Use Writing Plans guidance and workflows in Codex"
+  default_prompt: "Use $writing-plans to help me complete a relevant task."

@@ -1,0 +1,14 @@
+{
+  "id": "jupyter-live-kernel",
+  "title": "Jupyter Live Kernel",
+  "descriptionZh": "通过实时 Jupyter kernel（hamelnb）进行迭代式 Python 开发。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/data-science/jupyter-live-kernel",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

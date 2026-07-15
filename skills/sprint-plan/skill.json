@@ -1,0 +1,17 @@
+{
+  "id": "sprint-plan",
+  "title": "Sprint Plan",
+  "descriptionZh": "用于 Sprint Plan 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/sprint-plan",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/sprint-plan/SKILL.md",
+  "upstreamSha256": "d402a9f276f81663c8b07f6c4fd2b19a3fa9d4ee9411e3d57e6868daa095ee42"
+}

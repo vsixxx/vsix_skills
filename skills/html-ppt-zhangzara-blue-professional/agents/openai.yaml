@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Blue Professional"
+  short_description: "Use HTML Ppt Zhangzara Blue Professional workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-blue-professional to help me complete a relevant task."

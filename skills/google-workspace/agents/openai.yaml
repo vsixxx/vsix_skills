@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Workspace"
+  short_description: "Use Google Workspace guidance and workflows in Codex"
+  default_prompt: "Use $google-workspace to help me complete a relevant task."

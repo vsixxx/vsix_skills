@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homepage Video Assets"
+  short_description: "Use Homepage Video Assets guidance and workflows in Codex"
+  default_prompt: "Use $homepage-video-assets to help me complete a relevant task."

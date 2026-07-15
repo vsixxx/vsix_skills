@@ -1,0 +1,17 @@
+{
+  "id": "dev",
+  "title": "Dev",
+  "descriptionZh": "用于 Dev 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/dev",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/dev/SKILL.md",
+  "upstreamSha256": "2a32c638df2968ac9f9d6c9bed9a20c6e25a47dcc640fe4326a1469a12450c96"
+}

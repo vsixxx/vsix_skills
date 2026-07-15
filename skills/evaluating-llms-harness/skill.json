@@ -1,0 +1,20 @@
+{
+  "id": "evaluating-llms-harness",
+  "title": "Evaluating Llms Harness",
+  "descriptionZh": "lm-eval-harness：对 LLM 进行基准测试（MMLU、GSM8K 等）。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: lm-eval",
+    "Package: transformers",
+    "Package: vllm"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/evaluation/lm-evaluation-harness",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

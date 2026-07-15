@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Desktop E2e"
+  short_description: "Use Windows Desktop E2e guidance and workflows in Codex"
+  default_prompt: "Use $windows-desktop-e2e to help me complete a relevant task."

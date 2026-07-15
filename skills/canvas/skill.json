@@ -1,0 +1,17 @@
+{
+  "id": "canvas",
+  "title": "Canvas",
+  "descriptionZh": "Canvas LMS 集成 — 使用 API token 认证获取已注册课程和作业。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [
+    "Environment variable: CANVAS_API_TOKEN",
+    "Environment variable: CANVAS_BASE_URL"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/productivity/canvas",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

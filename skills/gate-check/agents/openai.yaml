@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gate Check"
+  short_description: "Use Gate Check guidance and workflows in Codex"
+  default_prompt: "Use $gate-check to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imsg"
+  short_description: "Use Imsg guidance and workflows in Codex"
+  default_prompt: "Use $imsg to help me complete a relevant task."

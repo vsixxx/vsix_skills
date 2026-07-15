@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Automation"
+  short_description: "Use Browser Automation guidance and workflows in Codex"
+  default_prompt: "Use $browser-automation to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "dcf-valuation",
+  "title": "Dcf Valuation",
+  "descriptionZh": "用于 Dcf Valuation 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/dcf-valuation",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/dcf-valuation/SKILL.md",
+  "upstreamSha256": "cc7af021a7036c8fbc5203165746964bb2325097098ad2250c251aada7e3292e"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fal Train"
+  short_description: "Use Fal Train guidance and workflows in Codex"
+  default_prompt: "Use $fal-train to help me complete a relevant task."

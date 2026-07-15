@@ -1,0 +1,17 @@
+{
+  "id": "webext-core",
+  "title": "Webext Core",
+  "descriptionZh": "用于 Webext Core 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/webext-core",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/webext-core/SKILL.md",
+  "upstreamSha256": "bf6d8f7d1b6f0b12831f2516d796bf8d3a6195b7990ddf0a35c3a28f86acc9f4"
+}

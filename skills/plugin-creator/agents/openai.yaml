@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plugin Creator"
+  short_description: "Use Plugin Creator guidance and workflows in Codex"
+  default_prompt: "Use $plugin-creator to help me complete a relevant task."

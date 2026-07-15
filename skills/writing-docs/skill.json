@@ -1,0 +1,17 @@
+{
+  "id": "writing-docs",
+  "title": "Writing Docs",
+  "descriptionZh": "用于 Writing Docs 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.agents/skills/writing-docs",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": ".agents/skills/writing-docs/SKILL.md",
+  "upstreamSha256": "39b37adb54dd4e312ffe85742c08bafc93e2c78ff86691e169a668267853e727"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Waitlist Page"
+  short_description: "Use Waitlist Page guidance and workflows in Codex"
+  default_prompt: "Use $waitlist-page to help me complete a relevant task."

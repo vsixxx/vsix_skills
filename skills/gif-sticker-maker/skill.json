@@ -1,0 +1,17 @@
+{
+  "id": "gif-sticker-maker",
+  "title": "Gif Sticker Maker",
+  "descriptionZh": "用于 Gif Sticker Maker 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/gif-sticker-maker",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/gif-sticker-maker/SKILL.md",
+  "upstreamSha256": "57002b47b7aaffb784acedae2750e14a75dc18ba58edb003f846755d7eb0c447"
+}

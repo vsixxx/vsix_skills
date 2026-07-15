@@ -1,0 +1,17 @@
+{
+  "id": "deck-swiss-international",
+  "title": "Deck Swiss International",
+  "descriptionZh": "用于 Deck Swiss International 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/deck-swiss-international",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/deck-swiss-international/SKILL.md",
+  "upstreamSha256": "f05a29b01b771d6b5ec9e44835fc00a83ee6619aa165a132f63bdc8182754c3f"
+}

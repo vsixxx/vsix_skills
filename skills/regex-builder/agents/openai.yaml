@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regex Builder"
+  short_description: "Use Regex Builder guidance and workflows in Codex"
+  default_prompt: "Use $regex-builder to help me complete a relevant task."

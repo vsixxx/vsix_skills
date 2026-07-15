@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Browser Cookies"
+  short_description: "Use Setup Browser Cookies guidance and workflows in Codex"
+  default_prompt: "Use $setup-browser-cookies to help me complete a relevant task."

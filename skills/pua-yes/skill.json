@@ -1,0 +1,17 @@
+{
+  "id": "pua-yes",
+  "title": "Pua Yes",
+  "descriptionZh": "用于 Pua Yes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/codex/pua-yes",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "codex/pua-yes/SKILL.md",
+  "upstreamSha256": "673461a1e35f57ceb2ba4eb12b01ae16ce1196582b7f59a52c64da0382fe77ab"
+}

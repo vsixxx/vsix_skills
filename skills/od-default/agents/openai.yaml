@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Default"
+  short_description: "Use Od Default guidance and workflows in Codex"
+  default_prompt: "Use $od-default to help me complete a relevant task."

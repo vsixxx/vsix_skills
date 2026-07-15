@@ -1,0 +1,17 @@
+{
+  "id": "continuous-learning-v2",
+  "title": "Continuous Learning V2",
+  "descriptionZh": "用于 Continuous Learning V2 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/continuous-learning-v2",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/continuous-learning-v2/SKILL.md",
+  "upstreamSha256": "75485ddb37e2d1d6f056b404d9939bf46a2b409b1286aec209a510112e5b64b1"
+}

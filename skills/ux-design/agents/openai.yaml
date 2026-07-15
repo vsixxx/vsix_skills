@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ux Design"
+  short_description: "Use Ux Design guidance and workflows in Codex"
+  default_prompt: "Use $ux-design to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo Write"
+  short_description: "Use Todo Write guidance and workflows in Codex"
+  default_prompt: "Use $todo-write to help me complete a relevant task."

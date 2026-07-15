@@ -1,0 +1,17 @@
+{
+  "id": "voice-persona-mars",
+  "title": "Voice Persona Mars",
+  "descriptionZh": "用于 Voice Persona Mars 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/recipes/agent-voice/skills/voice-persona-mars",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "recipes/agent-voice/skills/voice-persona-mars/SKILL.md",
+  "upstreamSha256": "c079a3a17091bf62d511eb7e7c1242c901b4617a75179cf9ca7e9b95d1b0e484"
+}

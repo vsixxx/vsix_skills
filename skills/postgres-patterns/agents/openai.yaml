@@ -1,0 +1,4 @@
+interface:
+  display_name: "Postgres Patterns"
+  short_description: "Use Postgres Patterns guidance and workflows in Codex"
+  default_prompt: "Use $postgres-patterns to help me complete a relevant task."

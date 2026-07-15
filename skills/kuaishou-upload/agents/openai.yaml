@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kuaishou Upload"
+  short_description: "Use Kuaishou Upload guidance and workflows in Codex"
+  default_prompt: "Use $kuaishou-upload to help me complete a relevant task."

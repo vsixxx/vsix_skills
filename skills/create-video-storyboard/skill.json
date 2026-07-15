@@ -1,0 +1,17 @@
+{
+  "id": "create-video-storyboard",
+  "title": "Create Video Storyboard",
+  "descriptionZh": "用于 Create Video Storyboard 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/spec/examples/create-video-storyboard",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "MIT",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/spec/examples/create-video-storyboard/SKILL.md",
+  "upstreamSha256": "0b655f25671621555a6876b1a50b48cbdc87ef426e7948b66f5614255ec1960d"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orbit GitHub"
+  short_description: "Use Orbit GitHub guidance and workflows in Codex"
+  default_prompt: "Use $orbit-github to help me complete a relevant task."

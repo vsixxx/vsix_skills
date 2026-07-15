@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grilling"
+  short_description: "Use Grilling guidance and workflows in Codex"
+  default_prompt: "Use $grilling to help me complete a relevant task."

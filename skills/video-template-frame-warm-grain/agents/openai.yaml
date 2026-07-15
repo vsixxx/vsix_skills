@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Template Frame Warm Grain"
+  short_description: "Use Video Template Frame Warm Grain workflows in Codex"
+  default_prompt: "Use $video-template-frame-warm-grain to help me complete a relevant task."

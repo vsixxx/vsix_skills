@@ -1,0 +1,17 @@
+{
+  "id": "prediction-market-risk-review",
+  "title": "Prediction Market Risk Review",
+  "descriptionZh": "用于 Prediction Market Risk Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/prediction-market-risk-review",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/prediction-market-risk-review/SKILL.md",
+  "upstreamSha256": "19195e218716ed298fd8de9743e78462d17d95233b14e052c3bd1d1d7df31f91"
+}

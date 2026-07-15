@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concept Synthesis"
+  short_description: "Use Concept Synthesis guidance and workflows in Codex"
+  default_prompt: "Use $concept-synthesis to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qiaomu Opencli Autofix"
+  short_description: "Use Qiaomu Opencli Autofix guidance and workflows in Codex"
+  default_prompt: "Use $qiaomu-opencli-autofix to help me complete a relevant task."

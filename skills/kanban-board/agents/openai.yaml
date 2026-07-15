@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kanban Board"
+  short_description: "Use Kanban Board guidance and workflows in Codex"
+  default_prompt: "Use $kanban-board to help me complete a relevant task."

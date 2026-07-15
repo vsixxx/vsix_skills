@@ -1,0 +1,17 @@
+{
+  "id": "guard",
+  "title": "Guard",
+  "descriptionZh": "用于 Guard 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/guard",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "guard/SKILL.md",
+  "upstreamSha256": "ab22714e84c096eed506f314aa49f44161f08eb37a4b4651fb2725bab6ca07ff"
+}

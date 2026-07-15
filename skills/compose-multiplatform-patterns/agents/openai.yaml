@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Multiplatform Patterns"
+  short_description: "Use Compose Multiplatform Patterns workflows in Codex"
+  default_prompt: "Use $compose-multiplatform-patterns to help me complete a relevant task."

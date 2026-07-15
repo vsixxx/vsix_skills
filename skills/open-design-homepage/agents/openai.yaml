@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Homepage"
+  short_description: "Use Open Design Homepage guidance and workflows in Codex"
+  default_prompt: "Use $open-design-homepage to help me complete a relevant task."

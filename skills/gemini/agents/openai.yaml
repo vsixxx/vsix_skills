@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini"
+  short_description: "Use Gemini guidance and workflows in Codex"
+  default_prompt: "Use $gemini to help me complete a relevant task."

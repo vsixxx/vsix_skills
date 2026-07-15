@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Secret Scanning Maintainer"
+  short_description: "Use Openclaw Secret Scanning Maintainer workflows in Codex"
+  default_prompt: "Use $openclaw-secret-scanning-maintainer to help me complete a relevant task."

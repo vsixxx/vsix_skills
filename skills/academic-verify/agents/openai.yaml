@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Verify"
+  short_description: "Use Academic Verify guidance and workflows in Codex"
+  default_prompt: "Use $academic-verify to help me complete a relevant task."

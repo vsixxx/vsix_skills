@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inherit Legacy Style"
+  short_description: "Use Inherit Legacy Style guidance and workflows in Codex"
+  default_prompt: "Use $inherit-legacy-style to help me complete a relevant task."

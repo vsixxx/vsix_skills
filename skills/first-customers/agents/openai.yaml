@@ -1,0 +1,4 @@
+interface:
+  display_name: "First Customers"
+  short_description: "Use First Customers guidance and workflows in Codex"
+  default_prompt: "Use $first-customers to help me complete a relevant task."

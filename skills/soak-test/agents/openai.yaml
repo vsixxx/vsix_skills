@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soak Test"
+  short_description: "Use Soak Test guidance and workflows in Codex"
+  default_prompt: "Use $soak-test to help me complete a relevant task."

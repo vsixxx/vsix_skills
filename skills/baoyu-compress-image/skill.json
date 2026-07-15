@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-compress-image",
+  "title": "Baoyu Compress Image",
+  "descriptionZh": "用于 Baoyu Compress Image 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-compress-image",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-compress-image/SKILL.md",
+  "upstreamSha256": "b14b2ac50b798aa7cdac1ba489a5963312b0faf538fdb3f88e69733045c3f9dc"
+}

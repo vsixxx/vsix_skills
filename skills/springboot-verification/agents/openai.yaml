@@ -1,0 +1,4 @@
+interface:
+  display_name: "Springboot Verification"
+  short_description: "Use Springboot Verification guidance and workflows in Codex"
+  default_prompt: "Use $springboot-verification to help me complete a relevant task."

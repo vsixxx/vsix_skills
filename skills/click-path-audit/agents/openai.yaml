@@ -1,0 +1,4 @@
+interface:
+  display_name: "Click Path Audit"
+  short_description: "Use Click Path Audit guidance and workflows in Codex"
+  default_prompt: "Use $click-path-audit to help me complete a relevant task."

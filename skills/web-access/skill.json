@@ -1,0 +1,17 @@
+{
+  "id": "web-access",
+  "title": "Web Access",
+  "descriptionZh": "用于 Web Access 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/eze-is/web-access/tree/main",
+  "homepage": "https://github.com/eze-is/web-access",
+  "license": "MIT",
+  "author": "eze-is",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "7af34af6a25940d917905f0e5f2a7ef056952971",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "3c8ec65ec6785c75eb37e3d0e207f2bc110b1f19af4a47431a24543c3a170c50"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Release"
+  short_description: "Use Team Release guidance and workflows in Codex"
+  default_prompt: "Use $team-release to help me complete a relevant task."

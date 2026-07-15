@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Workflow"
+  short_description: "Use Git Workflow guidance and workflows in Codex"
+  default_prompt: "Use $git-workflow to help me complete a relevant task."

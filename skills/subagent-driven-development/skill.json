@@ -1,0 +1,14 @@
+{
+  "id": "subagent-driven-development",
+  "title": "Subagent Driven Development",
+  "descriptionZh": "通过子 Agent 执行开发计划，并进行实现与质量双阶段审查。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/software-development/subagent-driven-development",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (adapted from obra/superpowers)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inference Sh CLI"
+  short_description: "Use Inference Sh CLI guidance and workflows in Codex"
+  default_prompt: "Use $inference-sh-cli to help me complete a relevant task."

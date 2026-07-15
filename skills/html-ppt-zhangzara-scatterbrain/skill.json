@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-zhangzara-scatterbrain",
+  "title": "HTML Ppt Zhangzara Scatterbrain",
+  "descriptionZh": "用于 HTML Ppt Zhangzara Scatterbrain 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-scatterbrain",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-zhangzara-scatterbrain/SKILL.md",
+  "upstreamSha256": "fc82e464642a92063375c3eb61f850444fc78bbb577430fcb4dbaddf5754dd06"
+}

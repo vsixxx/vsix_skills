@@ -1,0 +1,19 @@
+{
+  "id": "pytorch-fsdp",
+  "title": "Pytorch Fsdp",
+  "descriptionZh": "PyTorch FSDP 全分片数据并行训练专家指导 — 参数分片、混合精度、CPU 卸载、FSDP2。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: torch>=2.0",
+    "Package: transformers"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/pytorch-fsdp",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

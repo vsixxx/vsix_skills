@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dart Flutter Patterns"
+  short_description: "Use Dart Flutter Patterns guidance and workflows in Codex"
+  default_prompt: "Use $dart-flutter-patterns to help me complete a relevant task."

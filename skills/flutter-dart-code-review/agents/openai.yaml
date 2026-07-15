@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Dart Code Review"
+  short_description: "Use Flutter Dart Code Review guidance and workflows in Codex"
+  default_prompt: "Use $flutter-dart-code-review to help me complete a relevant task."

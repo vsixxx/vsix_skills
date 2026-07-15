@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Builder"
+  short_description: "Use MCP Builder guidance and workflows in Codex"
+  default_prompt: "Use $mcp-builder to help me complete a relevant task."

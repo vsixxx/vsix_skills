@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ito Market Intelligence"
+  short_description: "Use Ito Market Intelligence guidance and workflows in Codex"
+  default_prompt: "Use $ito-market-intelligence to help me complete a relevant task."

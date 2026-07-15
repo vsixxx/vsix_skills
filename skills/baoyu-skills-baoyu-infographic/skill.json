@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-skills-baoyu-infographic",
+  "title": "Baoyu Skills Baoyu Infographic",
+  "descriptionZh": "用于 Baoyu Skills Baoyu Infographic 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-infographic",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-infographic/SKILL.md",
+  "upstreamSha256": "1572aaa294c5f7547889f520b6efeed979aeaaf58b4e7c4bcaaa26ace2ee3564"
+}

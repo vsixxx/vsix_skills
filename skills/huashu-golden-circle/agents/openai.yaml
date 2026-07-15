@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Golden Circle"
+  short_description: "Use Huashu Golden Circle guidance and workflows in Codex"
+  default_prompt: "Use $huashu-golden-circle to help me complete a relevant task."

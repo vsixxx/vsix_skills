@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Grill With Docs"
+  short_description: "Use Aitoearn Grill With Docs guidance and workflows in Codex"
+  default_prompt: "Use $aitoearn-grill-with-docs to help me complete a relevant task."

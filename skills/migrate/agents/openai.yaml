@@ -1,0 +1,4 @@
+interface:
+  display_name: "Migrate"
+  short_description: "Use Migrate guidance and workflows in Codex"
+  default_prompt: "Use $migrate to help me complete a relevant task."

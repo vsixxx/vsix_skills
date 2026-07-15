@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Review"
+  short_description: "Use Literature Review guidance and workflows in Codex"
+  default_prompt: "Use $literature-review to help me complete a relevant task."

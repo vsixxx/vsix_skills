@@ -1,0 +1,17 @@
+{
+  "id": "cost-optimizer",
+  "title": "Cost Optimizer",
+  "descriptionZh": "用于 Cost Optimizer 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mergisi/awesome-openclaw-agents/tree/main/skills/claude/cost-optimizer",
+  "homepage": "https://github.com/mergisi/awesome-openclaw-agents",
+  "license": "See upstream",
+  "author": "mergisi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "05820c51125e86a979432e21651d34dc9b14621f",
+  "upstreamPath": "skills/claude/cost-optimizer/SKILL.md",
+  "upstreamSha256": "06bd4abeb95131b2cb51850b0c08456dbf65ad5969fb239da18312b3045d2b58"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "webgl-raymarched-hero",
+  "title": "Webgl Raymarched Hero",
+  "descriptionZh": "用于 Webgl Raymarched Hero 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-raymarched-hero",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/webgl-raymarched-hero/SKILL.md",
+  "upstreamSha256": "ca32d09ac67657ea87fcf791d9b82b397862e91b3b6a23c52783000c0b3c98d8"
+}

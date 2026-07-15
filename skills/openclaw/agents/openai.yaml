@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw"
+  short_description: "Use Openclaw guidance and workflows in Codex"
+  default_prompt: "Use $openclaw to help me complete a relevant task."

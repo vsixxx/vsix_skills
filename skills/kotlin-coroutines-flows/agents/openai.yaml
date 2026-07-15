@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Coroutines Flows"
+  short_description: "Use Kotlin Coroutines Flows guidance and workflows in Codex"
+  default_prompt: "Use $kotlin-coroutines-flows to help me complete a relevant task."

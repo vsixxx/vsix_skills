@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrapling"
+  short_description: "Use Scrapling guidance and workflows in Codex"
+  default_prompt: "Use $scrapling to help me complete a relevant task."

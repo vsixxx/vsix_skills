@@ -1,0 +1,17 @@
+{
+  "id": "humanizer-zh",
+  "title": "Humanizer Zh",
+  "descriptionZh": "用于 Humanizer Zh 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/op7418/Humanizer-zh/tree/main",
+  "homepage": "https://github.com/op7418/Humanizer-zh",
+  "license": "See upstream",
+  "author": "op7418",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "91f3d394db8419c20d67ebe22a96cf8fee0a404b",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "e0edbdbc9008644263d5573fb59beac95794e188fd99c35012bfd79e9ae4beeb"
+}

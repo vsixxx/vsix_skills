@@ -1,0 +1,17 @@
+{
+  "id": "openclaw-notion",
+  "title": "Openclaw Notion",
+  "descriptionZh": "用于 Openclaw Notion 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/notion",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/notion/SKILL.md",
+  "upstreamSha256": "d45e2c1270d58c7878c13467ab27780530de2af89fb8b307c662b5d4859dc555"
+}

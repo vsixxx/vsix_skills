@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sprite Animation"
+  short_description: "Use Sprite Animation guidance and workflows in Codex"
+  default_prompt: "Use $sprite-animation to help me complete a relevant task."

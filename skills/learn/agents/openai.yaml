@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn"
+  short_description: "Use Learn guidance and workflows in Codex"
+  default_prompt: "Use $learn to help me complete a relevant task."

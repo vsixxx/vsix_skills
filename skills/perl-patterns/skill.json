@@ -1,0 +1,17 @@
+{
+  "id": "perl-patterns",
+  "title": "Perl Patterns",
+  "descriptionZh": "用于 Perl Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/perl-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/perl-patterns/SKILL.md",
+  "upstreamSha256": "288958ce4e753b797f64ced6a123c0d6cc30633076fa1a8462a4b6477e32688f"
+}

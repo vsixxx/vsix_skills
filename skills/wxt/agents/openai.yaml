@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wxt"
+  short_description: "Use Wxt guidance and workflows in Codex"
+  default_prompt: "Use $wxt to help me complete a relevant task."

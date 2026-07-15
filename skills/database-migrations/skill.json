@@ -1,0 +1,17 @@
+{
+  "id": "database-migrations",
+  "title": "Database Migrations",
+  "descriptionZh": "用于 Database Migrations 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/database-migrations",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/database-migrations/SKILL.md",
+  "upstreamSha256": "de9f2c26474639d7962f14e3b6dd7b271d7253debf9f840f63ae3e026a283141"
+}

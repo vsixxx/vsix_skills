@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Creative Mode"
+  short_description: "Use HTML Ppt Zhangzara Creative Mode workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-creative-mode to help me complete a relevant task."

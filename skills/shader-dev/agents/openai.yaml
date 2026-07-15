@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shader Dev"
+  short_description: "Use Shader Dev guidance and workflows in Codex"
+  default_prompt: "Use $shader-dev to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "editing-images",
+  "title": "Editing Images",
+  "descriptionZh": "用于 Editing Images 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/editing-images",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/apps/aitoearn-ai/src/core/agent/skills/editing-images/SKILL.md",
+  "upstreamSha256": "73df6f754031e4b1762eb42fcef26899bc34828669f2d3c7422e2274b404704e"
+}

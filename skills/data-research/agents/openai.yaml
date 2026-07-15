@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Research"
+  short_description: "Use Data Research guidance and workflows in Codex"
+  default_prompt: "Use $data-research to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doc Kami Parchment"
+  short_description: "Use Doc Kami Parchment guidance and workflows in Codex"
+  default_prompt: "Use $doc-kami-parchment to help me complete a relevant task."

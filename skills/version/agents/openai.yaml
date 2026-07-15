@@ -1,0 +1,4 @@
+interface:
+  display_name: "Version"
+  short_description: "Use Version guidance and workflows in Codex"
+  default_prompt: "Use $version to help me complete a relevant task."

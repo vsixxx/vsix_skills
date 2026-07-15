@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bug Report"
+  short_description: "Use Bug Report guidance and workflows in Codex"
+  default_prompt: "Use $bug-report to help me complete a relevant task."

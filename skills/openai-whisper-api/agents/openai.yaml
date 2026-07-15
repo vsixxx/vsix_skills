@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenAI Whisper API"
+  short_description: "Use OpenAI Whisper API guidance and workflows in Codex"
+  default_prompt: "Use $openai-whisper-api to help me complete a relevant task."

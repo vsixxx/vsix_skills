@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gh File Issue"
+  short_description: "Use Gh File Issue guidance and workflows in Codex"
+  default_prompt: "Use $gh-file-issue to help me complete a relevant task."

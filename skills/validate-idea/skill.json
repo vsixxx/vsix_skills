@@ -1,0 +1,17 @@
+{
+  "id": "validate-idea",
+  "title": "Validate Idea",
+  "descriptionZh": "用于 Validate Idea 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slavingia/skills/tree/main/skills/validate-idea",
+  "homepage": "https://github.com/slavingia/skills",
+  "license": "See upstream",
+  "author": "slavingia",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "eb9f57fba03ddb0382ed3bfe6654d3d7df128c70",
+  "upstreamPath": "skills/validate-idea/SKILL.md",
+  "upstreamSha256": "46d931aaef8e74c358253161d3950ea0c18525778b3b0286a925bf42917d6b03"
+}

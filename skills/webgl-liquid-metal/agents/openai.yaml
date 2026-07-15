@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Liquid Metal"
+  short_description: "Use Webgl Liquid Metal guidance and workflows in Codex"
+  default_prompt: "Use $webgl-liquid-metal to help me complete a relevant task."

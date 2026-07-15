@@ -1,0 +1,4 @@
+interface:
+  display_name: "Healthcare Eval Harness"
+  short_description: "Use Healthcare Eval Harness guidance and workflows in Codex"
+  default_prompt: "Use $healthcare-eval-harness to help me complete a relevant task."

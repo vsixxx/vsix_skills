@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oss Forensics"
+  short_description: "Use Oss Forensics guidance and workflows in Codex"
+  default_prompt: "Use $oss-forensics to help me complete a relevant task."

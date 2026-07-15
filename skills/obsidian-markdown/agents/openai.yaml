@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Markdown"
+  short_description: "Use Obsidian Markdown guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-markdown to help me complete a relevant task."

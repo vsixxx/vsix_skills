@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hps Y2k Chrome"
+  short_description: "Use Hps Y2k Chrome guidance and workflows in Codex"
+  default_prompt: "Use $hps-y2k-chrome to help me complete a relevant task."

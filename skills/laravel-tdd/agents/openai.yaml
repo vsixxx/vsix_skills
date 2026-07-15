@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Tdd"
+  short_description: "Use Laravel Tdd guidance and workflows in Codex"
+  default_prompt: "Use $laravel-tdd to help me complete a relevant task."

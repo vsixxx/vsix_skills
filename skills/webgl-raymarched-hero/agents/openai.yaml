@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Raymarched Hero"
+  short_description: "Use Webgl Raymarched Hero guidance and workflows in Codex"
+  default_prompt: "Use $webgl-raymarched-hero to help me complete a relevant task."

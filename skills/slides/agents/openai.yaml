@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slides"
+  short_description: "Use Slides guidance and workflows in Codex"
+  default_prompt: "Use $slides to help me complete a relevant task."

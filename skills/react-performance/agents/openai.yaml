@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Performance"
+  short_description: "Use React Performance guidance and workflows in Codex"
+  default_prompt: "Use $react-performance to help me complete a relevant task."

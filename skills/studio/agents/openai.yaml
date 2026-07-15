@@ -1,0 +1,4 @@
+interface:
+  display_name: "Studio"
+  short_description: "Use Studio guidance and workflows in Codex"
+  default_prompt: "Use $studio to help me complete a relevant task."

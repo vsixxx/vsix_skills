@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upgrade Mediabunny"
+  short_description: "Use Upgrade Mediabunny guidance and workflows in Codex"
+  default_prompt: "Use $upgrade-mediabunny to help me complete a relevant task."

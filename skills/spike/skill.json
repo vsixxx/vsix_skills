@@ -1,0 +1,14 @@
+{
+  "id": "spike",
+  "title": "Spike",
+  "descriptionZh": "一次性实验，在正式构建前验证想法。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/spike",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (adapted from gsd-build/get-shit-done)",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

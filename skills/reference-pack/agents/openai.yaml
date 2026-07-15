@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference Pack"
+  short_description: "Use Reference Pack guidance and workflows in Codex"
+  default_prompt: "Use $reference-pack to help me complete a relevant task."

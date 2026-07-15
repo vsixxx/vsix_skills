@@ -1,0 +1,17 @@
+{
+  "id": "network-config-validation",
+  "title": "Network Config Validation",
+  "descriptionZh": "用于 Network Config Validation 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/network-config-validation",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/network-config-validation/SKILL.md",
+  "upstreamSha256": "d92d129d517470d35c6a6be6899afbfea9ab0bf170323af9fd1992c805ef91f3"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Clipper"
+  short_description: "Use YouTube Clipper guidance and workflows in Codex"
+  default_prompt: "Use $youtube-clipper to help me complete a relevant task."

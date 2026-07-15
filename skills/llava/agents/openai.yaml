@@ -1,0 +1,4 @@
+interface:
+  display_name: "Llava"
+  short_description: "Use Llava guidance and workflows in Codex"
+  default_prompt: "Use $llava to help me complete a relevant task."

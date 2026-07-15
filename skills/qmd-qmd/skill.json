@@ -1,0 +1,17 @@
+{
+  "id": "qmd-qmd",
+  "title": "Qmd Qmd",
+  "descriptionZh": "用于 Qmd Qmd 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tobi/qmd/tree/main/skills/qmd",
+  "homepage": "https://github.com/tobi/qmd",
+  "license": "MIT",
+  "author": "tobi",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e428df76bc0274d9e93eb7ca3e95673315c42e90",
+  "upstreamPath": "skills/qmd/SKILL.md",
+  "upstreamSha256": "a0a7b0c86b0c4f3af9759a9885749620e2aa2237896ea90081f72e4a87b3f75f"
+}

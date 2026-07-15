@@ -1,0 +1,4 @@
+interface:
+  display_name: "Springboot Patterns"
+  short_description: "Use Springboot Patterns guidance and workflows in Codex"
+  default_prompt: "Use $springboot-patterns to help me complete a relevant task."

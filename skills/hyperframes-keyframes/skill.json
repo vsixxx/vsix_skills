@@ -1,0 +1,17 @@
+{
+  "id": "hyperframes-keyframes",
+  "title": "Hyperframes Keyframes",
+  "descriptionZh": "用于 Hyperframes Keyframes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-keyframes",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/hyperframes-keyframes/SKILL.md",
+  "upstreamSha256": "4c8b1210c0b6434c6620b528e4c7eea6250eaacfeff7afa5f1ff41e0d281cbb1"
+}

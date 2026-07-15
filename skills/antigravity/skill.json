@@ -1,0 +1,17 @@
+{
+  "id": "antigravity",
+  "title": "Antigravity",
+  "descriptionZh": "用于 Antigravity 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/jackwener/OpenCLI/tree/main/clis/antigravity",
+  "homepage": "https://github.com/jackwener/OpenCLI",
+  "license": "See upstream",
+  "author": "jackwener",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b0f84c99c93037add29e1c1b361f5f7094f52f74",
+  "upstreamPath": "clis/antigravity/SKILL.md",
+  "upstreamSha256": "a8adcb7d8e886c063e9125a58b9d634ab343edfa8bbf05855e41eab5b29eda44"
+}

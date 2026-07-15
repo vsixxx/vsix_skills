@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consistency Check"
+  short_description: "Use Consistency Check guidance and workflows in Codex"
+  default_prompt: "Use $consistency-check to help me complete a relevant task."

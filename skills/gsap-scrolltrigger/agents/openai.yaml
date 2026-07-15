@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gsap Scrolltrigger"
+  short_description: "Use Gsap Scrolltrigger guidance and workflows in Codex"
+  default_prompt: "Use $gsap-scrolltrigger to help me complete a relevant task."

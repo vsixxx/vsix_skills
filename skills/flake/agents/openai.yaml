@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flake"
+  short_description: "Use Flake guidance and workflows in Codex"
+  default_prompt: "Use $flake to help me complete a relevant task."

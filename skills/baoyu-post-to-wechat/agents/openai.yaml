@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Post To Wechat"
+  short_description: "Use Baoyu Post To Wechat guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-post-to-wechat to help me complete a relevant task."

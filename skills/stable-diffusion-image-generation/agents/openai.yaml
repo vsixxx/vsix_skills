@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stable Diffusion Image Generation"
+  short_description: "Use Stable Diffusion Image Generation workflows in Codex"
+  default_prompt: "Use $stable-diffusion-image-generation to help me complete a relevant task."

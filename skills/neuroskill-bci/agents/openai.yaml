@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neuroskill Bci"
+  short_description: "Use Neuroskill Bci guidance and workflows in Codex"
+  default_prompt: "Use $neuroskill-bci to help me complete a relevant task."

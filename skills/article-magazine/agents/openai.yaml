@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Magazine"
+  short_description: "Use Article Magazine guidance and workflows in Codex"
+  default_prompt: "Use $article-magazine to help me complete a relevant task."

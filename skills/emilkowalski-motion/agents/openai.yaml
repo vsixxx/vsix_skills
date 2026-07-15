@@ -1,0 +1,4 @@
+interface:
+  display_name: "Emilkowalski Motion"
+  short_description: "Use Emilkowalski Motion guidance and workflows in Codex"
+  default_prompt: "Use $emilkowalski-motion to help me complete a relevant task."

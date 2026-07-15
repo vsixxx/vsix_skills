@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender MCP"
+  short_description: "Use Blender MCP guidance and workflows in Codex"
+  default_prompt: "Use $blender-mcp to help me complete a relevant task."

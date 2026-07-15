@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Taste Brutalist"
+  short_description: "Use HTML Ppt Taste Brutalist guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-taste-brutalist to help me complete a relevant task."

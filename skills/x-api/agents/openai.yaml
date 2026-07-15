@@ -1,0 +1,4 @@
+interface:
+  display_name: "X API"
+  short_description: "Use X API guidance and workflows in Codex"
+  default_prompt: "Use $x-api to help me complete a relevant task."

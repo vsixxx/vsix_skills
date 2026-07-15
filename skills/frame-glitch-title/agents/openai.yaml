@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Glitch Title"
+  short_description: "Use Frame Glitch Title guidance and workflows in Codex"
+  default_prompt: "Use $frame-glitch-title to help me complete a relevant task."

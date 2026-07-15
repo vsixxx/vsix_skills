@@ -1,0 +1,4 @@
+interface:
+  display_name: "Everything Claude Code"
+  short_description: "Use Everything Claude Code guidance and workflows in Codex"
+  default_prompt: "Use $everything-claude-code to help me complete a relevant task."

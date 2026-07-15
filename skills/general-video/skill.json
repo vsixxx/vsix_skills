@@ -1,0 +1,17 @@
+{
+  "id": "general-video",
+  "title": "General Video",
+  "descriptionZh": "用于 General Video 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/main/skills/general-video",
+  "homepage": "https://github.com/heygen-com/hyperframes",
+  "license": "See upstream",
+  "author": "heygen-com",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "c54bf13fb4644b5d4ce27525788faaf80c12d80b",
+  "upstreamPath": "skills/general-video/SKILL.md",
+  "upstreamSha256": "18089f2f84c9cf94ec1e12c77d234d7ffaf37f3eeabc899b197c4691be07659f"
+}

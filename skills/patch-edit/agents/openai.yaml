@@ -1,0 +1,4 @@
+interface:
+  display_name: "Patch Edit"
+  short_description: "Use Patch Edit guidance and workflows in Codex"
+  default_prompt: "Use $patch-edit to help me complete a relevant task."

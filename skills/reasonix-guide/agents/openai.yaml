@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reasonix Guide"
+  short_description: "Use Reasonix Guide guidance and workflows in Codex"
+  default_prompt: "Use $reasonix-guide to help me complete a relevant task."

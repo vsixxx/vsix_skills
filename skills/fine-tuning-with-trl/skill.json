@@ -1,0 +1,21 @@
+{
+  "id": "fine-tuning-with-trl",
+  "title": "Fine Tuning With Trl",
+  "descriptionZh": "TRL：用于 LLM RLHF 的 SFT、DPO、PPO、GRPO 及奖励建模。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: trl",
+    "Package: transformers",
+    "Package: datasets",
+    "Package: peft",
+    "Package: accelerate",
+    "Package: torch"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/training/trl-fine-tuning",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

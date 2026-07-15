@@ -1,0 +1,17 @@
+{
+  "id": "youtube-clipper",
+  "title": "YouTube Clipper",
+  "descriptionZh": "用于 YouTube Clipper 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/youtube-clipper",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/youtube-clipper/SKILL.md",
+  "upstreamSha256": "241c66024cec469988bb8fb7cc8561c5520feffd8045b0f8f7e4a97d0a66c0d9"
+}

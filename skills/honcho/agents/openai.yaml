@@ -1,0 +1,4 @@
+interface:
+  display_name: "Honcho"
+  short_description: "Use Honcho guidance and workflows in Codex"
+  default_prompt: "Use $honcho to help me complete a relevant task."

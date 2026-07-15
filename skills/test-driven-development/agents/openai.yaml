@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Driven Development"
+  short_description: "Use Test Driven Development guidance and workflows in Codex"
+  default_prompt: "Use $test-driven-development to help me complete a relevant task."

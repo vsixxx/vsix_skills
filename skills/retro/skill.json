@@ -1,0 +1,17 @@
+{
+  "id": "retro",
+  "title": "Retro",
+  "descriptionZh": "用于 Retro 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main/retro",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "retro/SKILL.md",
+  "upstreamSha256": "e9daa78ffc9629e2315be84c4c21c794b2c872c362d8e25455cc2ed697c91ca1"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pathfinder",
+  "title": "Pathfinder",
+  "descriptionZh": "用于 Pathfinder 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/pathfinder",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "license": "See upstream",
+  "author": "thedotmack",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f5633c1f84181673896c038cbe285131c6d669a3",
+  "upstreamPath": "plugin/skills/pathfinder/SKILL.md",
+  "upstreamSha256": "a3e17bf66e7c2eb198f4b04c06adaff29bf62b7cbd09005c7c234cdcf4ad796b"
+}

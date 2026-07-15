@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Workspace Ops"
+  short_description: "Use Google Workspace Ops guidance and workflows in Codex"
+  default_prompt: "Use $google-workspace-ops to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Design Frontend Dev"
+  short_description: "Use Open Design Frontend Dev guidance and workflows in Codex"
+  default_prompt: "Use $open-design-frontend-dev to help me complete a relevant task."

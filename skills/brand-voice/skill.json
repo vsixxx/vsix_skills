@@ -1,0 +1,17 @@
+{
+  "id": "brand-voice",
+  "title": "Brand Voice",
+  "descriptionZh": "用于 Brand Voice 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/brand-voice",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/brand-voice/SKILL.md",
+  "upstreamSha256": "57c7f8440b7bd4c91c0d325640b5c6fb7a3dc7fc05595946c7bc705761a987a7"
+}

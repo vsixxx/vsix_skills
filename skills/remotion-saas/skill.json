@@ -1,0 +1,17 @@
+{
+  "id": "remotion-saas",
+  "title": "Remotion Saas",
+  "descriptionZh": "用于 Remotion Saas 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/packages/skills/skills/remotion-saas",
+  "homepage": "https://github.com/remotion-dev/remotion",
+  "license": "See upstream",
+  "author": "remotion-dev",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ae327ffe05aa4ca47fe20e2a6e440180ceb17ae5",
+  "upstreamPath": "packages/skills/skills/remotion-saas/SKILL.md",
+  "upstreamSha256": "70fd7d364aa4538788de1f746a1bbf9d55994d2556cd6c1adecdc7ad5c40b287"
+}

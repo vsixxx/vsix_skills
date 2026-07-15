@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Burgundy Principles Template"
+  short_description: "Use Editorial Burgundy Principles Template workflows in Codex"
+  default_prompt: "Use $editorial-burgundy-principles-template to help me complete a relevant task."

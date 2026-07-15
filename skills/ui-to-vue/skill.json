@@ -1,0 +1,17 @@
+{
+  "id": "ui-to-vue",
+  "title": "Ui To Vue",
+  "descriptionZh": "用于 Ui To Vue 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/ui-to-vue",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/ui-to-vue/SKILL.md",
+  "upstreamSha256": "cb6c17f7ae28a53b31fb2904180521ccdaa31ad0deafa96c6b4f5b2f4bfea480"
+}

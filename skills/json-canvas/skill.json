@@ -1,0 +1,17 @@
+{
+  "id": "json-canvas",
+  "title": "Json Canvas",
+  "descriptionZh": "用于 Json Canvas 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/breferrari/obsidian-mind/tree/main/.claude/skills/json-canvas",
+  "homepage": "https://github.com/breferrari/obsidian-mind",
+  "license": "See upstream",
+  "author": "breferrari",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9ae6860d01c4bb563dfe972dae89515866f4fbff",
+  "upstreamPath": ".claude/skills/json-canvas/SKILL.md",
+  "upstreamSha256": "97d1ae0728955c4203922753d5656890e5e4dd371b8306ea11884f9b510f1b85"
+}

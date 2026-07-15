@@ -1,0 +1,17 @@
+{
+  "id": "to-issues",
+  "title": "To Issues",
+  "descriptionZh": "用于 To Issues 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/to-issues",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/to-issues/SKILL.md",
+  "upstreamSha256": "0e6a2973fa5bdf32570227c578f7e474d945dd9281615d31439664c3ef016fce"
+}

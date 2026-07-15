@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Knowledge Arch Blueprint"
+  short_description: "Use HTML Ppt Knowledge Arch Blueprint workflows in Codex"
+  default_prompt: "Use $html-ppt-knowledge-arch-blueprint to help me complete a relevant task."

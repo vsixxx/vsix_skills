@@ -1,0 +1,25 @@
+{
+  "id": "research-paper-writing",
+  "title": "Research Paper Writing Pipeline",
+  "descriptionZh": "为 NeurIPS/ICML/ICLR 撰写 ML 论文：从设计到投稿。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: semanticscholar",
+    "Package: arxiv",
+    "Package: habanero",
+    "Package: requests",
+    "Package: scipy",
+    "Package: numpy",
+    "Package: matplotlib",
+    "Package: SciencePlots"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/research/research-paper-writing",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

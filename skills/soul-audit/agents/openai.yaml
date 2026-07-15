@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soul Audit"
+  short_description: "Use Soul Audit guidance and workflows in Codex"
+  default_prompt: "Use $soul-audit to help me complete a relevant task."

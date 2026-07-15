@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dspy"
+  short_description: "Use Dspy guidance and workflows in Codex"
+  default_prompt: "Use $dspy to help me complete a relevant task."

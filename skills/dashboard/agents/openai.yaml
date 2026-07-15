@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dashboard"
+  short_description: "Use Dashboard guidance and workflows in Codex"
+  default_prompt: "Use $dashboard to help me complete a relevant task."

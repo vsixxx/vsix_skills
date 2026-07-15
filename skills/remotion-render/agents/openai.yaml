@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Render"
+  short_description: "Use Remotion Render guidance and workflows in Codex"
+  default_prompt: "Use $remotion-render to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Digits Fintech Swiss Template"
+  short_description: "Use Digits Fintech Swiss Template workflows in Codex"
+  default_prompt: "Use $digits-fintech-swiss-template to help me complete a relevant task."

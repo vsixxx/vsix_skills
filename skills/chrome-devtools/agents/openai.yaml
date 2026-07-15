@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chrome Devtools"
+  short_description: "Use Chrome Devtools guidance and workflows in Codex"
+  default_prompt: "Use $chrome-devtools to help me complete a relevant task."

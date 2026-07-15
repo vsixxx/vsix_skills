@@ -1,0 +1,4 @@
+interface:
+  display_name: "Segment Anything Model"
+  short_description: "Use Segment Anything Model guidance and workflows in Codex"
+  default_prompt: "Use $segment-anything-model to help me complete a relevant task."

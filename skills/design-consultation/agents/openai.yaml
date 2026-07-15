@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Consultation"
+  short_description: "Use Design Consultation guidance and workflows in Codex"
+  default_prompt: "Use $design-consultation to help me complete a relevant task."

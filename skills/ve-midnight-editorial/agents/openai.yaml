@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ve Midnight Editorial"
+  short_description: "Use Ve Midnight Editorial guidance and workflows in Codex"
+  default_prompt: "Use $ve-midnight-editorial to help me complete a relevant task."

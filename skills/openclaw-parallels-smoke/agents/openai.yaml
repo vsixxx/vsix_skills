@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Parallels Smoke"
+  short_description: "Use Openclaw Parallels Smoke guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-parallels-smoke to help me complete a relevant task."

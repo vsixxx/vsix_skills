@@ -1,0 +1,4 @@
+interface:
+  display_name: "Talking Head Recut"
+  short_description: "Use Talking Head Recut guidance and workflows in Codex"
+  default_prompt: "Use $talking-head-recut to help me complete a relevant task."

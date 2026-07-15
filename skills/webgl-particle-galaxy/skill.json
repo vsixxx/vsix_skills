@@ -1,0 +1,17 @@
+{
+  "id": "webgl-particle-galaxy",
+  "title": "Webgl Particle Galaxy",
+  "descriptionZh": "用于 Webgl Particle Galaxy 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-particle-galaxy",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "plugins/_official/examples/webgl-particle-galaxy/SKILL.md",
+  "upstreamSha256": "12e75a66437df5694c2bbbfdd7ebbb45d9670d06ecc85817108935b302c51958"
+}

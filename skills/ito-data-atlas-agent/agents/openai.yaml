@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ito Data Atlas Agent"
+  short_description: "Use Ito Data Atlas Agent guidance and workflows in Codex"
+  default_prompt: "Use $ito-data-atlas-agent to help me complete a relevant task."

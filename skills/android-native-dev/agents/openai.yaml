@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Native Dev"
+  short_description: "Use Android Native Dev guidance and workflows in Codex"
+  default_prompt: "Use $android-native-dev to help me complete a relevant task."

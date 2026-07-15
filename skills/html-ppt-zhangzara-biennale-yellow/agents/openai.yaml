@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Biennale Yellow"
+  short_description: "Use HTML Ppt Zhangzara Biennale Yellow workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-biennale-yellow to help me complete a relevant task."

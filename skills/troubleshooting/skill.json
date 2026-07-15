@@ -1,0 +1,17 @@
+{
+  "id": "troubleshooting",
+  "title": "Troubleshooting",
+  "descriptionZh": "用于 Troubleshooting 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp/tree/main/skills/troubleshooting",
+  "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "license": "See upstream",
+  "author": "ChromeDevTools",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2d944f9f4e6b107a6b42fb82c7e957384883bf7d",
+  "upstreamPath": "skills/troubleshooting/SKILL.md",
+  "upstreamSha256": "f7deca2af0ea0f6519b350a0fcb1e05d948228eac86f23d71ff3985508cf331f"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prediction Market Oracle Research"
+  short_description: "Use Prediction Market Oracle Research workflows in Codex"
+  default_prompt: "Use $prediction-market-oracle-research to help me complete a relevant task."

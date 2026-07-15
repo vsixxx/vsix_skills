@@ -1,0 +1,17 @@
+{
+  "id": "soul-audit",
+  "title": "Soul Audit",
+  "descriptionZh": "用于 Soul Audit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/soul-audit",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/soul-audit/SKILL.md",
+  "upstreamSha256": "7f162dddcc511e97a24db3a46136295fcbda76023019ad8994546744d7b8eb0a"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Healthcare Cdss Patterns"
+  short_description: "Use Healthcare Cdss Patterns guidance and workflows in Codex"
+  default_prompt: "Use $healthcare-cdss-patterns to help me complete a relevant task."

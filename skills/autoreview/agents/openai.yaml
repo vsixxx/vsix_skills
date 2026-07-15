@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autoreview"
+  short_description: "Use Autoreview guidance and workflows in Codex"
+  default_prompt: "Use $autoreview to help me complete a relevant task."

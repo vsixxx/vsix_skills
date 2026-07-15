@@ -1,0 +1,4 @@
+interface:
+  display_name: "Functional Area Resolver"
+  short_description: "Use Functional Area Resolver guidance and workflows in Codex"
+  default_prompt: "Use $functional-area-resolver to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Localize"
+  short_description: "Use Localize guidance and workflows in Codex"
+  default_prompt: "Use $localize to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Login Flow"
+  short_description: "Use Login Flow guidance and workflows in Codex"
+  default_prompt: "Use $login-flow to help me complete a relevant task."

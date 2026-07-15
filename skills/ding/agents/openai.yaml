@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ding"
+  short_description: "Use Ding guidance and workflows in Codex"
+  default_prompt: "Use $ding to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telephony"
+  short_description: "Use Telephony guidance and workflows in Codex"
+  default_prompt: "Use $telephony to help me complete a relevant task."

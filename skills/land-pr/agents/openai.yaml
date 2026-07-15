@@ -1,0 +1,4 @@
+interface:
+  display_name: "Land PR"
+  short_description: "Use Land PR guidance and workflows in Codex"
+  default_prompt: "Use $land-pr to help me complete a relevant task."

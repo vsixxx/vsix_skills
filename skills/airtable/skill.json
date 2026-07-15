@@ -1,0 +1,17 @@
+{
+  "id": "airtable",
+  "title": "Airtable",
+  "descriptionZh": "通过 curl 调用 Airtable REST API：记录增删改查、过滤、upsert。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [
+    "Command: curl",
+    "Environment variable: AIRTABLE_API_KEY"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/airtable",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

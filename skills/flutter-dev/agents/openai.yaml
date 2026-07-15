@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Dev"
+  short_description: "Use Flutter Dev guidance and workflows in Codex"
+  default_prompt: "Use $flutter-dev to help me complete a relevant task."

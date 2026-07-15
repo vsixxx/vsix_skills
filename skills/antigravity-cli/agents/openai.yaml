@@ -1,0 +1,4 @@
+interface:
+  display_name: "Antigravity CLI"
+  short_description: "Use Antigravity CLI guidance and workflows in Codex"
+  default_prompt: "Use $antigravity-cli to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Drive"
+  short_description: "Use Feishu Drive guidance and workflows in Codex"
+  default_prompt: "Use $feishu-drive to help me complete a relevant task."

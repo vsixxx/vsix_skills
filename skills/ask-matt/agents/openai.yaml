@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask Matt"
+  short_description: "Use Ask Matt guidance and workflows in Codex"
+  default_prompt: "Use $ask-matt to help me complete a relevant task."

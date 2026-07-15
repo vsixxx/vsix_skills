@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop Design Check"
+  short_description: "Use Loop Design Check guidance and workflows in Codex"
+  default_prompt: "Use $loop-design-check to help me complete a relevant task."

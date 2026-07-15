@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image To Code"
+  short_description: "Use Image To Code guidance and workflows in Codex"
+  default_prompt: "Use $image-to-code to help me complete a relevant task."

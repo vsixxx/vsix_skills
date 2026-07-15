@@ -1,0 +1,17 @@
+{
+  "id": "neat-freak",
+  "title": "Neat Freak",
+  "descriptionZh": "用于 Neat Freak 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/tree/main/neat-freak",
+  "homepage": "https://github.com/KKKKhazix/khazix-skills",
+  "license": "See upstream",
+  "author": "KKKKhazix",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5a963d91f772e0d4f6659c43a36876a74c468143",
+  "upstreamPath": "neat-freak/SKILL.md",
+  "upstreamSha256": "31ab2058d60664799af767e46c985a59025934315bee1b9c20d7ff442b0af687"
+}

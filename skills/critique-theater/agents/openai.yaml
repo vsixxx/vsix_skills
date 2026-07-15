@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critique Theater"
+  short_description: "Use Critique Theater guidance and workflows in Codex"
+  default_prompt: "Use $critique-theater to help me complete a relevant task."

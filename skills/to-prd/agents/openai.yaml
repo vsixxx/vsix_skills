@@ -1,0 +1,4 @@
+interface:
+  display_name: "To Prd"
+  short_description: "Use To Prd guidance and workflows in Codex"
+  default_prompt: "Use $to-prd to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "production-audit",
+  "title": "Production Audit",
+  "descriptionZh": "用于 Production Audit 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/production-audit",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/production-audit/SKILL.md",
+  "upstreamSha256": "4b5d2bf0530ca5ba7dad0dece7a4c14e028334e9d54066025171ac2ff28f3375"
+}

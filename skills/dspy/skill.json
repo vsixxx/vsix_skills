@@ -1,0 +1,18 @@
+{
+  "id": "dspy",
+  "title": "Dspy",
+  "descriptionZh": "使用 DSPy 构建、优化和评估模块化大模型程序。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: dspy",
+    "Package: openai",
+    "Package: anthropic"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/research/dspy",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

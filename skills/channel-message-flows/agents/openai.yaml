@@ -1,0 +1,4 @@
+interface:
+  display_name: "Channel Message Flows"
+  short_description: "Use Channel Message Flows guidance and workflows in Codex"
+  default_prompt: "Use $channel-message-flows to help me complete a relevant task."

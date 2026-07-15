@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Codebase"
+  short_description: "Use Learn Codebase guidance and workflows in Codex"
+  default_prompt: "Use $learn-codebase to help me complete a relevant task."

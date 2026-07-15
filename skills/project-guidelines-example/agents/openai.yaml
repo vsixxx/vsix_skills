@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Guidelines Example"
+  short_description: "Use Project Guidelines Example guidance and workflows in Codex"
+  default_prompt: "Use $project-guidelines-example to help me complete a relevant task."

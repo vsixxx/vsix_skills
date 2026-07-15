@@ -1,0 +1,4 @@
+interface:
+  display_name: "Khazix Writer"
+  short_description: "Use Khazix Writer guidance and workflows in Codex"
+  default_prompt: "Use $khazix-writer to help me complete a relevant task."

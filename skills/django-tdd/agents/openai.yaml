@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Tdd"
+  short_description: "Use Django Tdd guidance and workflows in Codex"
+  default_prompt: "Use $django-tdd to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "terminal-emulator",
+  "title": "Terminal Emulator",
+  "descriptionZh": "用于 Terminal Emulator 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/slopus/happy/tree/main/.agents/skills/terminal-emulator",
+  "homepage": "https://github.com/slopus/happy",
+  "license": "See upstream",
+  "author": "slopus",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3f161de70541b1cedaf0b7547ed70889d8dae22d",
+  "upstreamPath": ".agents/skills/terminal-emulator/SKILL.md",
+  "upstreamSha256": "c44b1d0093bbd519eb6c5286d6463c72745aa365f030ad882a81a8b3acf72646"
+}

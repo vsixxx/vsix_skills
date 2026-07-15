@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Clone"
+  short_description: "Use Web Clone guidance and workflows in Codex"
+  default_prompt: "Use $web-clone to help me complete a relevant task."

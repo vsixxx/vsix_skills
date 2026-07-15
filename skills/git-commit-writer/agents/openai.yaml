@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Writer"
+  short_description: "Use Git Commit Writer guidance and workflows in Codex"
+  default_prompt: "Use $git-commit-writer to help me complete a relevant task."

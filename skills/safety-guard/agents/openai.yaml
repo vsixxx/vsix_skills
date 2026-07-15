@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safety Guard"
+  short_description: "Use Safety Guard guidance and workflows in Codex"
+  default_prompt: "Use $safety-guard to help me complete a relevant task."

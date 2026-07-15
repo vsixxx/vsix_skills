@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Interactivity"
+  short_description: "Use Remotion Interactivity guidance and workflows in Codex"
+  default_prompt: "Use $remotion-interactivity to help me complete a relevant task."

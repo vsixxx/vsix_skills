@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Xurl"
+  short_description: "Use Openclaw Xurl guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-xurl to help me complete a relevant task."

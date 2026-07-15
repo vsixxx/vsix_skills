@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unsloth"
+  short_description: "Use Unsloth guidance and workflows in Codex"
+  default_prompt: "Use $unsloth to help me complete a relevant task."

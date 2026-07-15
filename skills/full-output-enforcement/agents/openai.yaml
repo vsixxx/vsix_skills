@@ -1,0 +1,4 @@
+interface:
+  display_name: "Full Output Enforcement"
+  short_description: "Use Full Output Enforcement guidance and workflows in Codex"
+  default_prompt: "Use $full-output-enforcement to help me complete a relevant task."

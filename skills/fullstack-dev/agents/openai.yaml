@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fullstack Dev"
+  short_description: "Use Fullstack Dev guidance and workflows in Codex"
+  default_prompt: "Use $fullstack-dev to help me complete a relevant task."

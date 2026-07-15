@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Test Heap Leaks"
+  short_description: "Use Openclaw Test Heap Leaks guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-test-heap-leaks to help me complete a relevant task."

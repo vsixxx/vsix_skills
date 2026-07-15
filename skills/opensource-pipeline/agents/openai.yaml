@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opensource Pipeline"
+  short_description: "Use Opensource Pipeline guidance and workflows in Codex"
+  default_prompt: "Use $opensource-pipeline to help me complete a relevant task."

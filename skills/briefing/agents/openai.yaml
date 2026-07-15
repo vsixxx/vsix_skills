@@ -1,0 +1,4 @@
+interface:
+  display_name: "Briefing"
+  short_description: "Use Briefing guidance and workflows in Codex"
+  default_prompt: "Use $briefing to help me complete a relevant task."

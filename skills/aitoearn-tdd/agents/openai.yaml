@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aitoearn Tdd"
+  short_description: "Use Aitoearn Tdd guidance and workflows in Codex"
+  default_prompt: "Use $aitoearn-tdd to help me complete a relevant task."

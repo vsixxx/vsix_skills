@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Media Dashboard"
+  short_description: "Use Social Media Dashboard guidance and workflows in Codex"
+  default_prompt: "Use $social-media-dashboard to help me complete a relevant task."

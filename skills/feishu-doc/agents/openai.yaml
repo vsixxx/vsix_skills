@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Doc"
+  short_description: "Use Feishu Doc guidance and workflows in Codex"
+  default_prompt: "Use $feishu-doc to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "tdd",
+  "title": "Tdd",
+  "descriptionZh": "用于 Tdd 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/engineering/tdd/SKILL.md",
+  "upstreamSha256": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f"
+}

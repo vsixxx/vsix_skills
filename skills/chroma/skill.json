@@ -1,0 +1,17 @@
+{
+  "id": "chroma",
+  "title": "Chroma",
+  "descriptionZh": "面向 AI 应用的开源 embedding（向量嵌入）数据库。存储 embedding 和元数据，执行向量及全文搜索，按元数据过滤。简洁的 4 函数 API，从 notebook 扩展至生产集群。适用于语义搜索、RAG 等场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: chromadb",
+    "Package: sentence-transformers"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/chroma",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

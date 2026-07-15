@@ -1,0 +1,18 @@
+{
+  "id": "gif-search",
+  "title": "Gif Search",
+  "descriptionZh": "通过 curl + jq 从 Tenor 搜索/下载 GIF。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [
+    "Command: curl",
+    "Command: jq",
+    "Environment variable: TENOR_API_KEY"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/media/gif-search",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

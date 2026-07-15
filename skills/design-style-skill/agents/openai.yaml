@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Style Skill"
+  short_description: "Use Design Style Skill guidance and workflows in Codex"
+  default_prompt: "Use $design-style-skill to help me complete a relevant task."

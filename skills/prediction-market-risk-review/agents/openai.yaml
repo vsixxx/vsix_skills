@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prediction Market Risk Review"
+  short_description: "Use Prediction Market Risk Review workflows in Codex"
+  default_prompt: "Use $prediction-market-risk-review to help me complete a relevant task."

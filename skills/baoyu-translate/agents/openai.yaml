@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Translate"
+  short_description: "Use Baoyu Translate guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-translate to help me complete a relevant task."

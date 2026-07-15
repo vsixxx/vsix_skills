@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teams Meeting Pipeline"
+  short_description: "Use Teams Meeting Pipeline guidance and workflows in Codex"
+  default_prompt: "Use $teams-meeting-pipeline to help me complete a relevant task."

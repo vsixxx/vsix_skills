@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rules Distill"
+  short_description: "Use Rules Distill guidance and workflows in Codex"
+  default_prompt: "Use $rules-distill to help me complete a relevant task."

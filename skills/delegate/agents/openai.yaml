@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delegate"
+  short_description: "Use Delegate guidance and workflows in Codex"
+  default_prompt: "Use $delegate to help me complete a relevant task."

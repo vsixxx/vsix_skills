@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imagegen Frontend Mobile"
+  short_description: "Use Imagegen Frontend Mobile guidance and workflows in Codex"
+  default_prompt: "Use $imagegen-frontend-mobile to help me complete a relevant task."

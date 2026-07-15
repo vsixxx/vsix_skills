@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orbit General"
+  short_description: "Use Orbit General guidance and workflows in Codex"
+  default_prompt: "Use $orbit-general to help me complete a relevant task."

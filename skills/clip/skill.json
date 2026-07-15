@@ -1,0 +1,18 @@
+{
+  "id": "clip",
+  "title": "Clip",
+  "descriptionZh": "OpenAI 连接视觉与语言的模型。支持零样本图像分类、图文匹配及跨模态检索。在 4 亿图文对上训练。适用于图像搜索、内容审核或视觉语言任务。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: transformers",
+    "Package: torch",
+    "Package: pillow"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/clip",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

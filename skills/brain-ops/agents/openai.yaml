@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brain Ops"
+  short_description: "Use Brain Ops guidance and workflows in Codex"
+  default_prompt: "Use $brain-ops to help me complete a relevant task."

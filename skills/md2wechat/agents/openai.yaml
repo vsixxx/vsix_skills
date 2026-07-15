@@ -1,0 +1,4 @@
+interface:
+  display_name: "Md2wechat"
+  short_description: "Use Md2wechat guidance and workflows in Codex"
+  default_prompt: "Use $md2wechat to help me complete a relevant task."

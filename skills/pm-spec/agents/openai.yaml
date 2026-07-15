@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pm Spec"
+  short_description: "Use Pm Spec guidance and workflows in Codex"
+  default_prompt: "Use $pm-spec to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "codexguide-development",
+  "title": "Codexguide Development",
+  "descriptionZh": "用于 Codexguide Development 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/freestylefly/CodexGuide/tree/main/.agents/skills/codexguide-development",
+  "homepage": "https://github.com/freestylefly/CodexGuide",
+  "license": "See upstream",
+  "author": "freestylefly",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "dea26b4ca9a0b02b8fb21e33a59fcfb9d2d880f0",
+  "upstreamPath": ".agents/skills/codexguide-development/SKILL.md",
+  "upstreamSha256": "3ab7af963426fe50f709c13b00b0fd9732a30c7cb5d63ae431bae96cdac9dc0a"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Task Prep"
+  short_description: "Use Daily Task Prep guidance and workflows in Codex"
+  default_prompt: "Use $daily-task-prep to help me complete a relevant task."

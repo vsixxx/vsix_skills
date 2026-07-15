@@ -1,0 +1,17 @@
+{
+  "id": "html-ppt-zhangzara-blue-professional",
+  "title": "HTML Ppt Zhangzara Blue Professional",
+  "descriptionZh": "用于 HTML Ppt Zhangzara Blue Professional 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-blue-professional",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "design-templates/html-ppt-zhangzara-blue-professional/SKILL.md",
+  "upstreamSha256": "ab8eccf8997e52f3f6cb506f4d3a2acd6e245bb3cf17ebe8de3008b4d512e3b6"
+}

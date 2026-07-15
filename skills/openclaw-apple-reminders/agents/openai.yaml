@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Apple Reminders"
+  short_description: "Use Openclaw Apple Reminders guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-apple-reminders to help me complete a relevant task."

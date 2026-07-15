@@ -1,0 +1,17 @@
+{
+  "id": "query",
+  "title": "Query",
+  "descriptionZh": "用于 Query 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/query",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/query/SKILL.md",
+  "upstreamSha256": "e155a08049984c524b838988ba456d16ccedf162442160f6ba66bfd97cd5208e"
+}

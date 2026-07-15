@@ -1,0 +1,17 @@
+{
+  "id": "kotlin-ktor-patterns",
+  "title": "Kotlin Ktor Patterns",
+  "descriptionZh": "用于 Kotlin Ktor Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/kotlin-ktor-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/kotlin-ktor-patterns/SKILL.md",
+  "upstreamSha256": "feeaf135f17888c0af781461fb86d0d7b7969a03ad8fc4df6bdfd0c9264dcdac"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF"
+  short_description: "Use PDF guidance and workflows in Codex"
+  default_prompt: "Use $pdf to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Database Migrations"
+  short_description: "Use Database Migrations guidance and workflows in Codex"
+  default_prompt: "Use $database-migrations to help me complete a relevant task."

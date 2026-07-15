@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sora"
+  short_description: "Use Sora guidance and workflows in Codex"
+  default_prompt: "Use $sora to help me complete a relevant task."

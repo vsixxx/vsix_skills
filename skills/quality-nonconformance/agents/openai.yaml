@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quality Nonconformance"
+  short_description: "Use Quality Nonconformance guidance and workflows in Codex"
+  default_prompt: "Use $quality-nonconformance to help me complete a relevant task."

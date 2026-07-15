@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memory Leak Debugging"
+  short_description: "Use Memory Leak Debugging guidance and workflows in Codex"
+  default_prompt: "Use $memory-leak-debugging to help me complete a relevant task."

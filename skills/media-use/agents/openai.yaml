@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Use"
+  short_description: "Use Media Use guidance and workflows in Codex"
+  default_prompt: "Use $media-use to help me complete a relevant task."

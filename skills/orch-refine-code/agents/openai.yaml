@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orch Refine Code"
+  short_description: "Use Orch Refine Code guidance and workflows in Codex"
+  default_prompt: "Use $orch-refine-code to help me complete a relevant task."

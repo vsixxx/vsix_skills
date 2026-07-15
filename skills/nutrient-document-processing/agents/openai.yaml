@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nutrient Document Processing"
+  short_description: "Use Nutrient Document Processing guidance and workflows in Codex"
+  default_prompt: "Use $nutrient-document-processing to help me complete a relevant task."

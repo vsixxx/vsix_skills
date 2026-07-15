@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Media Matrix Tracker Template"
+  short_description: "Use Social Media Matrix Tracker Template workflows in Codex"
+  default_prompt: "Use $social-media-matrix-tracker-template to help me complete a relevant task."

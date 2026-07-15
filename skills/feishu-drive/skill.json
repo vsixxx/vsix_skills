@@ -1,0 +1,17 @@
+{
+  "id": "feishu-drive",
+  "title": "Feishu Drive",
+  "descriptionZh": "用于 Feishu Drive 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-drive",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/feishu/skills/feishu-drive/SKILL.md",
+  "upstreamSha256": "1880c345a82961e85350f89c28512f9c00a92fb3b0d955732a1d77e455cd8c15"
+}

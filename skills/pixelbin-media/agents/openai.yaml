@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixelbin Media"
+  short_description: "Use Pixelbin Media guidance and workflows in Codex"
+  default_prompt: "Use $pixelbin-media to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "lobster",
+  "title": "Lobster",
+  "descriptionZh": "用于 Lobster 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/lobster",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "extensions/lobster/SKILL.md",
+  "upstreamSha256": "fd4f59008e2a5745c0229699191385e62d87993ac6ec9a3e868de5998fe9f183"
+}

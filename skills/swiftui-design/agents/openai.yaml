@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swiftui Design"
+  short_description: "Use Swiftui Design guidance and workflows in Codex"
+  default_prompt: "Use $swiftui-design to help me complete a relevant task."

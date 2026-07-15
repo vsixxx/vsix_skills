@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Slides Frontend Slides"
+  short_description: "Use Frontend Slides Frontend Slides workflows in Codex"
+  default_prompt: "Use $frontend-slides-frontend-slides to help me complete a relevant task."

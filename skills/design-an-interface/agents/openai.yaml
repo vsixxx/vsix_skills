@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design An Interface"
+  short_description: "Use Design An Interface guidance and workflows in Codex"
+  default_prompt: "Use $design-an-interface to help me complete a relevant task."

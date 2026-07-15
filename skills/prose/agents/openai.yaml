@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prose"
+  short_description: "Use Prose guidance and workflows in Codex"
+  default_prompt: "Use $prose to help me complete a relevant task."

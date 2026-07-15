@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hackernews Frontpage"
+  short_description: "Use Hackernews Frontpage guidance and workflows in Codex"
+  default_prompt: "Use $hackernews-frontpage to help me complete a relevant task."

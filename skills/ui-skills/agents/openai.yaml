@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ui Skills"
+  short_description: "Use Ui Skills guidance and workflows in Codex"
+  default_prompt: "Use $ui-skills to help me complete a relevant task."

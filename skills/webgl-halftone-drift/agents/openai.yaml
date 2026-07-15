@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Halftone Drift"
+  short_description: "Use Webgl Halftone Drift guidance and workflows in Codex"
+  default_prompt: "Use $webgl-halftone-drift to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gstack Openclaw Investigate"
+  short_description: "Use Gstack Openclaw Investigate guidance and workflows in Codex"
+  default_prompt: "Use $gstack-openclaw-investigate to help me complete a relevant task."

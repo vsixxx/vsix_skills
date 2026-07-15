@@ -1,0 +1,4 @@
+interface:
+  display_name: "Faiss"
+  short_description: "Use Faiss guidance and workflows in Codex"
+  default_prompt: "Use $faiss to help me complete a relevant task."

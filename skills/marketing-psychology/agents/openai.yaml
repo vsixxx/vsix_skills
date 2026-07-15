@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Psychology"
+  short_description: "Use Marketing Psychology guidance and workflows in Codex"
+  default_prompt: "Use $marketing-psychology to help me complete a relevant task."

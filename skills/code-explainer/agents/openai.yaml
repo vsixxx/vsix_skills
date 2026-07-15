@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Explainer"
+  short_description: "Use Code Explainer guidance and workflows in Codex"
+  default_prompt: "Use $code-explainer to help me complete a relevant task."

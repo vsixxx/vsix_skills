@@ -1,0 +1,17 @@
+{
+  "id": "liquid-glass-design",
+  "title": "Liquid Glass Design",
+  "descriptionZh": "用于 Liquid Glass Design 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/liquid-glass-design",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/liquid-glass-design/SKILL.md",
+  "upstreamSha256": "024aa207eb3d4d31d868954a7352a40b78c61f2fd007ab8b452afb6217070f84"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brain PDF"
+  short_description: "Use Brain PDF guidance and workflows in Codex"
+  default_prompt: "Use $brain-pdf to help me complete a relevant task."

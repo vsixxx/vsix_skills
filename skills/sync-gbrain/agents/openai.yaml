@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Gbrain"
+  short_description: "Use Sync Gbrain guidance and workflows in Codex"
+  default_prompt: "Use $sync-gbrain to help me complete a relevant task."

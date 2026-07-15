@@ -1,0 +1,14 @@
+{
+  "id": "oss-forensics",
+  "title": "Oss Forensics",
+  "descriptionZh": "针对 GitHub 仓库的供应链调查、证据恢复和取证分析。涵盖已删除提交恢复、强制推送检测、IOC 提取、多源证据收集、假设形成/验证等。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/security/oss-forensics",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

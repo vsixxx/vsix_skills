@@ -1,0 +1,17 @@
+{
+  "id": "idea-lineage",
+  "title": "Idea Lineage",
+  "descriptionZh": "用于 Idea Lineage 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/idea-lineage",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/idea-lineage/SKILL.md",
+  "upstreamSha256": "bbf37781d93b71ddc7909ecc5ab635872c874fb8591995dbf88b45ffeac6b1de"
+}

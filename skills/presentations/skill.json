@@ -1,0 +1,17 @@
+{
+  "id": "presentations",
+  "title": "Presentations",
+  "descriptionZh": "用于 Presentations 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Hmbown/CodeWhale/tree/main/crates/tui/assets/skills/presentations",
+  "homepage": "https://github.com/Hmbown/CodeWhale",
+  "license": "See upstream",
+  "author": "Hmbown",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "352e86a611fdf3cd8bd27c36d24d482c06a71117",
+  "upstreamPath": "crates/tui/assets/skills/presentations/SKILL.md",
+  "upstreamSha256": "2b6d20a00280f3de7814ebd8870e6e1af08c11bd115603b265fc31b9004f9d35"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Use"
+  short_description: "Use Video Use guidance and workflows in Codex"
+  default_prompt: "Use $video-use to help me complete a relevant task."

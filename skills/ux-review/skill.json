@@ -1,0 +1,17 @@
+{
+  "id": "ux-review",
+  "title": "Ux Review",
+  "descriptionZh": "用于 Ux Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/ux-review",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/ux-review/SKILL.md",
+  "upstreamSha256": "1dd5a719efd1ad5c2d831c046f9e257e9c7cff067cc9d1a99e67181e1b0f4bc0"
+}

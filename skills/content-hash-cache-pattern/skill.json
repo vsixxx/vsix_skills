@@ -1,0 +1,17 @@
+{
+  "id": "content-hash-cache-pattern",
+  "title": "Content Hash Cache Pattern",
+  "descriptionZh": "用于 Content Hash Cache Pattern 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/content-hash-cache-pattern",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/content-hash-cache-pattern/SKILL.md",
+  "upstreamSha256": "9f49e775bd0acc955d4c701643da34b91e1cbb88d9b88af56a82c8ef6e5802be"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Locations"
+  short_description: "Use Skill Locations guidance and workflows in Codex"
+  default_prompt: "Use $skill-locations to help me complete a relevant task."

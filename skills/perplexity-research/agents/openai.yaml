@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perplexity Research"
+  short_description: "Use Perplexity Research guidance and workflows in Codex"
+  default_prompt: "Use $perplexity-research to help me complete a relevant task."

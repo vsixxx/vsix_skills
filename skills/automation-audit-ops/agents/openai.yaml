@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automation Audit Ops"
+  short_description: "Use Automation Audit Ops guidance and workflows in Codex"
+  default_prompt: "Use $automation-audit-ops to help me complete a relevant task."

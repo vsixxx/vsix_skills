@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ingest"
+  short_description: "Use Ingest guidance and workflows in Codex"
+  default_prompt: "Use $ingest to help me complete a relevant task."

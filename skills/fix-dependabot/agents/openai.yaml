@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Dependabot"
+  short_description: "Use Fix Dependabot guidance and workflows in Codex"
+  default_prompt: "Use $fix-dependabot to help me complete a relevant task."

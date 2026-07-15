@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dmux Workflows"
+  short_description: "Use Dmux Workflows guidance and workflows in Codex"
+  default_prompt: "Use $dmux-workflows to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminal Emulator"
+  short_description: "Use Terminal Emulator guidance and workflows in Codex"
+  default_prompt: "Use $terminal-emulator to help me complete a relevant task."

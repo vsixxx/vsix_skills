@@ -1,0 +1,17 @@
+{
+  "id": "skillpack-harvest",
+  "title": "Skillpack Harvest",
+  "descriptionZh": "用于 Skillpack Harvest 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/skillpack-harvest",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/skillpack-harvest/SKILL.md",
+  "upstreamSha256": "ac7f6094872377d5b83459fd884d992eb8000e7e1abc18de1eb58abd2468b5c1"
+}

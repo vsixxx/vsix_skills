@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Hyperframes Launch"
+  short_description: "Use Create Hyperframes Launch guidance and workflows in Codex"
+  default_prompt: "Use $create-hyperframes-launch to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audio Jingle"
+  short_description: "Use Audio Jingle guidance and workflows in Codex"
+  default_prompt: "Use $audio-jingle to help me complete a relevant task."

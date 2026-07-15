@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sherlock"
+  short_description: "Use Sherlock guidance and workflows in Codex"
+  default_prompt: "Use $sherlock to help me complete a relevant task."

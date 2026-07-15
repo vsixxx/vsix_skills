@@ -1,0 +1,4 @@
+interface:
+  display_name: "Configure Ecc"
+  short_description: "Use Configure Ecc guidance and workflows in Codex"
+  default_prompt: "Use $configure-ecc to help me complete a relevant task."

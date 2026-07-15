@@ -1,0 +1,17 @@
+{
+  "id": "orch-add-feature",
+  "title": "Orch Add Feature",
+  "descriptionZh": "用于 Orch Add Feature 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/orch-add-feature",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/orch-add-feature/SKILL.md",
+  "upstreamSha256": "6ba858d94cfaa05f3b1e63ad09656285a4a33009e9cd837ebcaf093d39d29a25"
+}

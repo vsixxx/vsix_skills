@@ -1,0 +1,17 @@
+{
+  "id": "pua-en",
+  "title": "Pua En",
+  "descriptionZh": "用于 Pua En 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/skills/pua-en",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "skills/pua-en/SKILL.md",
+  "upstreamSha256": "56e5217734b61e1925523010e82ebfa2358bb9a64c31b21a3541bdaec506dbb3"
+}

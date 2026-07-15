@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imessage"
+  short_description: "Use Imessage guidance and workflows in Codex"
+  default_prompt: "Use $imessage to help me complete a relevant task."

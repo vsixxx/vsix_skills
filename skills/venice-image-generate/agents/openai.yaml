@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venice Image Generate"
+  short_description: "Use Venice Image Generate guidance and workflows in Codex"
+  default_prompt: "Use $venice-image-generate to help me complete a relevant task."

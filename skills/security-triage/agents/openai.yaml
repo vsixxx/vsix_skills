@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Triage"
+  short_description: "Use Security Triage guidance and workflows in Codex"
+  default_prompt: "Use $security-triage to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brandkit"
+  short_description: "Use Brandkit guidance and workflows in Codex"
+  default_prompt: "Use $brandkit to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "frontend-patterns",
+  "title": "Frontend Patterns",
+  "descriptionZh": "用于 Frontend Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/frontend-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/frontend-patterns/SKILL.md",
+  "upstreamSha256": "ab63402f3ecb3ea4078ade5785ef9c20fb44ba9c02b6976c080adfbd2b3094ac"
+}

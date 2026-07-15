@@ -1,0 +1,16 @@
+{
+  "id": "sherlock",
+  "title": "Sherlock",
+  "descriptionZh": "跨 400+ 社交网络的 OSINT 用户名搜索。通过用户名追踪社交媒体账号。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [
+    "Command: sherlock"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/security/sherlock",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "unmodeled-tyler",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

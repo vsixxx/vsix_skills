@@ -1,0 +1,4 @@
+interface:
+  display_name: "Summarize"
+  short_description: "Use Summarize guidance and workflows in Codex"
+  default_prompt: "Use $summarize to help me complete a relevant task."

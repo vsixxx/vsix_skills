@@ -1,0 +1,17 @@
+{
+  "id": "goplaces",
+  "title": "Goplaces",
+  "descriptionZh": "用于 Goplaces 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/goplaces",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/goplaces/SKILL.md",
+  "upstreamSha256": "81139f4e645a6355e23d15f94ee6d6ef3bfce8eb4a5716dad298880e2b38e24b"
+}

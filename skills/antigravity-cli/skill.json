@@ -1,0 +1,14 @@
+{
+  "id": "antigravity-cli",
+  "title": "Antigravity CLI",
+  "descriptionZh": "配置并操作 Antigravity CLI，包括插件、认证和沙箱。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/autonomous-ai-agents/antigravity-cli",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Tony Simons (asimons81), Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rewrite Plan"
+  short_description: "Use Rewrite Plan guidance and workflows in Codex"
+  default_prompt: "Use $rewrite-plan to help me complete a relevant task."

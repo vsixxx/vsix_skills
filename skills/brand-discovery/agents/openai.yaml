@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Discovery"
+  short_description: "Use Brand Discovery guidance and workflows in Codex"
+  default_prompt: "Use $brand-discovery to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "baoyu-slide-deck",
+  "title": "Baoyu Slide Deck",
+  "descriptionZh": "用于 Baoyu Slide Deck 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-slide-deck",
+  "homepage": "https://github.com/JimLiu/baoyu-skills",
+  "license": "See upstream",
+  "author": "JimLiu",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "6b7a2e417500561a5ecdd0b168332f4142584617",
+  "upstreamPath": "skills/baoyu-slide-deck/SKILL.md",
+  "upstreamSha256": "0e988f065a1886224a501614d059e90019360ccce9fc5f5417e8719e5777efd8"
+}

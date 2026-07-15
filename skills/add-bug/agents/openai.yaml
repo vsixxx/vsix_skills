@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Bug"
+  short_description: "Use Add Bug guidance and workflows in Codex"
+  default_prompt: "Use $add-bug to help me complete a relevant task."

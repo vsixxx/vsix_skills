@@ -1,0 +1,17 @@
+{
+  "id": "mcp-server-patterns",
+  "title": "MCP Server Patterns",
+  "descriptionZh": "用于 MCP Server Patterns 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "部署与运维",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/mcp-server-patterns",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/mcp-server-patterns/SKILL.md",
+  "upstreamSha256": "0d2d77ff4cffabd26a8db9a54fd16ae29063519fc2d7d2da3539c5e391a3973a"
+}

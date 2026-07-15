@@ -1,0 +1,17 @@
+{
+  "id": "qmd",
+  "title": "Qmd",
+  "descriptionZh": "使用 qmd（一款结合 BM25、向量搜索和 LLM 重排序的混合检索引擎）在本地搜索个人知识库、笔记、文档和会议记录。支持 CLI 和 MCP 集成。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [
+    "Platform: macos",
+    "Platform: linux"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/qmd",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent + Teknium",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mailtrap Email Integration"
+  short_description: "Use Mailtrap Email Integration guidance and workflows in Codex"
+  default_prompt: "Use $mailtrap-email-integration to help me complete a relevant task."

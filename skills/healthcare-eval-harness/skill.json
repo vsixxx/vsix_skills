@@ -1,0 +1,17 @@
+{
+  "id": "healthcare-eval-harness",
+  "title": "Healthcare Eval Harness",
+  "descriptionZh": "用于 Healthcare Eval Harness 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/healthcare-eval-harness",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/healthcare-eval-harness/SKILL.md",
+  "upstreamSha256": "e6a44cdd7df7ac8fea76090bd7b4cb241aecdd4c6039575c0d525bcd85a4313d"
+}

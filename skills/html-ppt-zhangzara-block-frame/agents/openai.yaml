@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Block Frame"
+  short_description: "Use HTML Ppt Zhangzara Block Frame workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-block-frame to help me complete a relevant task."

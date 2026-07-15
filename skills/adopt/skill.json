@@ -1,0 +1,17 @@
+{
+  "id": "adopt",
+  "title": "Adopt",
+  "descriptionZh": "用于 Adopt 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/adopt",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/adopt/SKILL.md",
+  "upstreamSha256": "58959c4f76c05fbe3fd60b7a7d2c4ba5bf861fce28c0da49a498a81656b6a05e"
+}

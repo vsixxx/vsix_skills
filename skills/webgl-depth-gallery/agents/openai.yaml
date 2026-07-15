@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Depth Gallery"
+  short_description: "Use Webgl Depth Gallery guidance and workflows in Codex"
+  default_prompt: "Use $webgl-depth-gallery to help me complete a relevant task."

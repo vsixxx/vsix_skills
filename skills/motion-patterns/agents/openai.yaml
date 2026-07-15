@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Patterns"
+  short_description: "Use Motion Patterns guidance and workflows in Codex"
+  default_prompt: "Use $motion-patterns to help me complete a relevant task."

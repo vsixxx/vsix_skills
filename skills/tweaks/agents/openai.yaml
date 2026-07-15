@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tweaks"
+  short_description: "Use Tweaks guidance and workflows in Codex"
+  default_prompt: "Use $tweaks to help me complete a relevant task."

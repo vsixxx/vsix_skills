@@ -1,0 +1,17 @@
+{
+  "id": "install",
+  "title": "Install",
+  "descriptionZh": "用于 Install 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/install",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/install/SKILL.md",
+  "upstreamSha256": "881bd0a422f34c6df4642aae66c51e2a4cc18ad5ca6d0b52d44b4de93512a3c4"
+}

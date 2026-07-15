@@ -1,0 +1,17 @@
+{
+  "id": "create-architecture",
+  "title": "Create Architecture",
+  "descriptionZh": "用于 Create Architecture 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios/tree/main/.claude/skills/create-architecture",
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "See upstream",
+  "author": "Donchitos",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "984023ddac0d5e27624f2baacde6105e45de375f",
+  "upstreamPath": ".claude/skills/create-architecture/SKILL.md",
+  "upstreamSha256": "8a6320b33b3132e7f98e634156c5017a8406303b0eccbaa973cdb4d9ee10e1af"
+}

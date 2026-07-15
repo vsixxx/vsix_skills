@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Security"
+  short_description: "Use Django Security guidance and workflows in Codex"
+  default_prompt: "Use $django-security to help me complete a relevant task."

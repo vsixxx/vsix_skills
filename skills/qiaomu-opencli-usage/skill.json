@@ -1,0 +1,17 @@
+{
+  "id": "qiaomu-opencli-usage",
+  "title": "Qiaomu Opencli Usage",
+  "descriptionZh": "用于 Qiaomu Opencli Usage 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/joeseesun/qiaomu-opencli-skills/tree/main/qiaomu-opencli-usage",
+  "homepage": "https://github.com/joeseesun/qiaomu-opencli-skills",
+  "license": "See upstream",
+  "author": "joeseesun",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "4d9a08ebff749e5b12ab544d6a72f82bbe78f43d",
+  "upstreamPath": "qiaomu-opencli-usage/SKILL.md",
+  "upstreamSha256": "2adeb888682f8ba060c82456adcc378974fc0ff0d5d33c5b05d505be41612cd2"
+}

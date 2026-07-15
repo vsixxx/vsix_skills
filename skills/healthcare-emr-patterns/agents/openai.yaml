@@ -1,0 +1,4 @@
+interface:
+  display_name: "Healthcare Emr Patterns"
+  short_description: "Use Healthcare Emr Patterns guidance and workflows in Codex"
+  default_prompt: "Use $healthcare-emr-patterns to help me complete a relevant task."

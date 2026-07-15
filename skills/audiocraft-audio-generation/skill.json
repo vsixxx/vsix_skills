@@ -1,0 +1,20 @@
+{
+  "id": "audiocraft-audio-generation",
+  "title": "Audiocraft Audio Generation",
+  "descriptionZh": "AudioCraft：MusicGen 文本转音乐、AudioGen 文本转音效。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Platform: linux",
+    "Platform: macos",
+    "Package: audiocraft",
+    "Package: torch>=2.0.0",
+    "Package: transformers>=4.30.0"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/models/audiocraft",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

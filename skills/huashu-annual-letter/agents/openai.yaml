@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Annual Letter"
+  short_description: "Use Huashu Annual Letter guidance and workflows in Codex"
+  default_prompt: "Use $huashu-annual-letter to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Devex Review"
+  short_description: "Use Plan Devex Review guidance and workflows in Codex"
+  default_prompt: "Use $plan-devex-review to help me complete a relevant task."

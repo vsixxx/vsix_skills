@@ -1,0 +1,4 @@
+interface:
+  display_name: "Computer Use"
+  short_description: "Use Computer Use guidance and workflows in Codex"
+  default_prompt: "Use $computer-use to help me complete a relevant task."

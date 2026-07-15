@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Zhangzara Monochrome"
+  short_description: "Use HTML Ppt Zhangzara Monochrome workflows in Codex"
+  default_prompt: "Use $html-ppt-zhangzara-monochrome to help me complete a relevant task."

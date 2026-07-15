@@ -1,0 +1,4 @@
+interface:
+  display_name: "Migration Scripts"
+  short_description: "Use Migration Scripts guidance and workflows in Codex"
+  default_prompt: "Use $migration-scripts to help me complete a relevant task."

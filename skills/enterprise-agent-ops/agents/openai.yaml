@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enterprise Agent Ops"
+  short_description: "Use Enterprise Agent Ops guidance and workflows in Codex"
+  default_prompt: "Use $enterprise-agent-ops to help me complete a relevant task."

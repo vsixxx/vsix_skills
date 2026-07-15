@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gstack Upgrade"
+  short_description: "Use Gstack Upgrade guidance and workflows in Codex"
+  default_prompt: "Use $gstack-upgrade to help me complete a relevant task."

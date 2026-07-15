@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company Values"
+  short_description: "Use Company Values guidance and workflows in Codex"
+  default_prompt: "Use $company-values to help me complete a relevant task."

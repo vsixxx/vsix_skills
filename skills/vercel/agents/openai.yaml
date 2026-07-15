@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vercel"
+  short_description: "Use Vercel guidance and workflows in Codex"
+  default_prompt: "Use $vercel to help me complete a relevant task."

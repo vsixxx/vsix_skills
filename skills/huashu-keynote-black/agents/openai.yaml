@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huashu Keynote Black"
+  short_description: "Use Huashu Keynote Black guidance and workflows in Codex"
+  default_prompt: "Use $huashu-keynote-black to help me complete a relevant task."

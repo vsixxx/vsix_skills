@@ -1,0 +1,17 @@
+{
+  "id": "aitoearn-setup-matt-pocock-skills",
+  "title": "Aitoearn Setup Matt Pocock Skills",
+  "descriptionZh": "用于 Aitoearn Setup Matt Pocock Skills 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/yikart/AiToEarn/tree/main/project/aitoearn-backend/.agents/skills/setup-matt-pocock-skills",
+  "homepage": "https://github.com/yikart/AiToEarn",
+  "license": "See upstream",
+  "author": "yikart",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e48981ec9e0469cfdad64bc1666bd3256f126a57",
+  "upstreamPath": "project/aitoearn-backend/.agents/skills/setup-matt-pocock-skills/SKILL.md",
+  "upstreamSha256": "c778d4e3d86ecc9125c357279a86780657b5db23110e1f7acf4f46d2441e7204"
+}

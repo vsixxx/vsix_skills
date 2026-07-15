@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hipaa Compliance"
+  short_description: "Use Hipaa Compliance guidance and workflows in Codex"
+  default_prompt: "Use $hipaa-compliance to help me complete a relevant task."

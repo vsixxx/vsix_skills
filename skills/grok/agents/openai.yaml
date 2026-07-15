@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grok"
+  short_description: "Use Grok guidance and workflows in Codex"
+  default_prompt: "Use $grok to help me complete a relevant task."

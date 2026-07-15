@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai First Engineering"
+  short_description: "Use Ai First Engineering guidance and workflows in Codex"
+  default_prompt: "Use $ai-first-engineering to help me complete a relevant task."

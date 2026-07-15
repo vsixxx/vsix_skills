@@ -1,0 +1,17 @@
+{
+  "id": "terminal-ops",
+  "title": "Terminal Ops",
+  "descriptionZh": "用于 Terminal Ops 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/terminal-ops",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/terminal-ops/SKILL.md",
+  "upstreamSha256": "f26e518e6922fe0796f5b6a55349a409f5b03745c4eeed9be80b4c66d890d852"
+}

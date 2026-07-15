@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skills Prototype"
+  short_description: "Use Skills Prototype guidance and workflows in Codex"
+  default_prompt: "Use $skills-prototype to help me complete a relevant task."

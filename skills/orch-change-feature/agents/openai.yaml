@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orch Change Feature"
+  short_description: "Use Orch Change Feature guidance and workflows in Codex"
+  default_prompt: "Use $orch-change-feature to help me complete a relevant task."

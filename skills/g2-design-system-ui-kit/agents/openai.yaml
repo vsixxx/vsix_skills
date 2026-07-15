@@ -1,0 +1,4 @@
+interface:
+  display_name: "G2 Design System Ui Kit"
+  short_description: "Use G2 Design System Ui Kit guidance and workflows in Codex"
+  default_prompt: "Use $g2-design-system-ui-kit to help me complete a relevant task."

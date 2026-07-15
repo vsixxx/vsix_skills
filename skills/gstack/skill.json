@@ -1,0 +1,17 @@
+{
+  "id": "gstack",
+  "title": "Gstack",
+  "descriptionZh": "用于 Gstack 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gstack/tree/main",
+  "homepage": "https://github.com/garrytan/gstack",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a3259400a366593e0c909dd9ac3e59752efd2488",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "b77bab43d1db15b6019f34506a204bca9f5e9632d314b70075c26fd07b13b173"
+}

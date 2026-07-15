@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Vault Maintainer"
+  short_description: "Use Obsidian Vault Maintainer guidance and workflows in Codex"
+  default_prompt: "Use $obsidian-vault-maintainer to help me complete a relevant task."

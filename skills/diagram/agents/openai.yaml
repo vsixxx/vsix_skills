@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagram"
+  short_description: "Use Diagram guidance and workflows in Codex"
+  default_prompt: "Use $diagram to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "gifgrep",
+  "title": "Gifgrep",
+  "descriptionZh": "用于 Gifgrep 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gifgrep",
+  "homepage": "https://github.com/openclaw/openclaw",
+  "license": "See upstream",
+  "author": "openclaw",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "85963a2d581cfb25b9a956c0e17273ad9aa6aa58",
+  "upstreamPath": "skills/gifgrep/SKILL.md",
+  "upstreamSha256": "ac3981d030c96e79100328fb4cf84a317cecaef1c4e186d0acca21b9aef0dbe5"
+}

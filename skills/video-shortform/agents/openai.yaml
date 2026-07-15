@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Shortform"
+  short_description: "Use Video Shortform guidance and workflows in Codex"
+  default_prompt: "Use $video-shortform to help me complete a relevant task."

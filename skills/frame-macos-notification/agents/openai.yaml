@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame Macos Notification"
+  short_description: "Use Frame Macos Notification guidance and workflows in Codex"
+  default_prompt: "Use $frame-macos-notification to help me complete a relevant task."

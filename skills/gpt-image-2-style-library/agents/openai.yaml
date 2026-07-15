@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gpt Image 2 Style Library"
+  short_description: "Use Gpt Image 2 Style Library guidance and workflows in Codex"
+  default_prompt: "Use $gpt-image-2-style-library to help me complete a relevant task."

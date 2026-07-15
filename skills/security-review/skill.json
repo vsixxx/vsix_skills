@@ -1,0 +1,17 @@
+{
+  "id": "security-review",
+  "title": "Security Review",
+  "descriptionZh": "用于 Security Review 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/security-review",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/security-review/SKILL.md",
+  "upstreamSha256": "fe6f9151fb15c1dffd47a55080c3ad147af7c95dd0ad3714735dec6824b060b7"
+}

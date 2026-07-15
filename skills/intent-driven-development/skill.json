@@ -1,0 +1,17 @@
+{
+  "id": "intent-driven-development",
+  "title": "Intent Driven Development",
+  "descriptionZh": "用于 Intent Driven Development 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/affaan-m/ECC/tree/main/skills/intent-driven-development",
+  "homepage": "https://github.com/affaan-m/ECC",
+  "license": "See upstream",
+  "author": "affaan-m",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ed387446052dfbc6b52de149406b70efa65edc59",
+  "upstreamPath": "skills/intent-driven-development/SKILL.md",
+  "upstreamSha256": "e34045f7b3bf6a6fbd364f85c7bc81d8208e18bb929ceff80bbc987f78aadea8"
+}

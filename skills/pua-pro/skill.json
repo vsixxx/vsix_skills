@@ -1,0 +1,17 @@
+{
+  "id": "pua-pro",
+  "title": "Pua Pro",
+  "descriptionZh": "用于 Pua Pro 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/codex/pua-pro",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "codex/pua-pro/SKILL.md",
+  "upstreamSha256": "06fa1fc1a0abf5bf92901899ed35196164a0a72f3d14a2d0976aa2d6fe4d99c2"
+}

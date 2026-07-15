@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost Tracking"
+  short_description: "Use Cost Tracking guidance and workflows in Codex"
+  default_prompt: "Use $cost-tracking to help me complete a relevant task."

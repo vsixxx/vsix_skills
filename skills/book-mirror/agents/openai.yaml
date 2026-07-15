@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Mirror"
+  short_description: "Use Book Mirror guidance and workflows in Codex"
+  default_prompt: "Use $book-mirror to help me complete a relevant task."

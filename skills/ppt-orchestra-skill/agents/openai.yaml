@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ppt Orchestra Skill"
+  short_description: "Use Ppt Orchestra Skill guidance and workflows in Codex"
+  default_prompt: "Use $ppt-orchestra-skill to help me complete a relevant task."

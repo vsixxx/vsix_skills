@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnose"
+  short_description: "Use Diagnose guidance and workflows in Codex"
+  default_prompt: "Use $diagnose to help me complete a relevant task."

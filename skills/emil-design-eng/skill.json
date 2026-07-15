@@ -1,0 +1,17 @@
+{
+  "id": "emil-design-eng",
+  "title": "Emil Design Eng",
+  "descriptionZh": "用于 Emil Design Eng 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mengxi-ream/read-frog/tree/main/.agents/skills/emil-design-eng",
+  "homepage": "https://github.com/mengxi-ream/read-frog",
+  "license": "See upstream",
+  "author": "mengxi-ream",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d6cb81748a4a75b18a371c470b8ebc7567c6abb8",
+  "upstreamPath": ".agents/skills/emil-design-eng/SKILL.md",
+  "upstreamSha256": "433b5a239cda18e0576e4e558532e7e53512e21fafe5b85db4894c28ec399b72"
+}

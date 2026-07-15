@@ -1,0 +1,4 @@
+interface:
+  display_name: "Openclaw Small Bugfix Sweep"
+  short_description: "Use Openclaw Small Bugfix Sweep guidance and workflows in Codex"
+  default_prompt: "Use $openclaw-small-bugfix-sweep to help me complete a relevant task."

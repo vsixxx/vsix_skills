@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Pre Commit"
+  short_description: "Use Setup Pre Commit guidance and workflows in Codex"
+  default_prompt: "Use $setup-pre-commit to help me complete a relevant task."

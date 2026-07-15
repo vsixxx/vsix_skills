@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Engine"
+  short_description: "Use Setup Engine guidance and workflows in Codex"
+  default_prompt: "Use $setup-engine to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "yes",
+  "title": "Yes",
+  "descriptionZh": "用于 Yes 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/skills/yes",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "skills/yes/SKILL.md",
+  "upstreamSha256": "dee62cf383020010e73e97c95e226ce25dbde091ed4addf6ee6476dc4614439b"
+}

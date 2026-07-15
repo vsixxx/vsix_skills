@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crosspost"
+  short_description: "Use Crosspost guidance and workflows in Codex"
+  default_prompt: "Use $crosspost to help me complete a relevant task."

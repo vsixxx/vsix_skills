@@ -1,0 +1,4 @@
+interface:
+  display_name: "Art Bible"
+  short_description: "Use Art Bible guidance and workflows in Codex"
+  default_prompt: "Use $art-bible to help me complete a relevant task."

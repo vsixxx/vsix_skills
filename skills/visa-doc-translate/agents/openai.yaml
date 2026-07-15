@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visa Doc Translate"
+  short_description: "Use Visa Doc Translate guidance and workflows in Codex"
+  default_prompt: "Use $visa-doc-translate to help me complete a relevant task."

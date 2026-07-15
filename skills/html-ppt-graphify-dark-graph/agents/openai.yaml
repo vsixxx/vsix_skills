@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Ppt Graphify Dark Graph"
+  short_description: "Use HTML Ppt Graphify Dark Graph guidance and workflows in Codex"
+  default_prompt: "Use $html-ppt-graphify-dark-graph to help me complete a relevant task."

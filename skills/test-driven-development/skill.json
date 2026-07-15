@@ -1,0 +1,14 @@
+{
+  "id": "test-driven-development",
+  "title": "Test Driven Development",
+  "descriptionZh": "TDD：强制执行红-绿-重构流程，先写测试再写代码。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/test-driven-development",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent (adapted from obra/superpowers)",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

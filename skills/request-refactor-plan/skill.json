@@ -1,0 +1,17 @@
+{
+  "id": "request-refactor-plan",
+  "title": "Request Refactor Plan",
+  "descriptionZh": "用于 Request Refactor Plan 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/deprecated/request-refactor-plan",
+  "homepage": "https://github.com/mattpocock/skills",
+  "license": "See upstream",
+  "author": "mattpocock",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "e9fcdf95b402d360f90f1db8d776d5dd450f9234",
+  "upstreamPath": "skills/deprecated/request-refactor-plan/SKILL.md",
+  "upstreamSha256": "d59de4ba6cc1fe2dd267e8b9b5a1fd88e3e739e2130bc9dd78061d2a072830b8"
+}

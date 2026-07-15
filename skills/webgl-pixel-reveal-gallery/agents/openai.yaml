@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webgl Pixel Reveal Gallery"
+  short_description: "Use Webgl Pixel Reveal Gallery guidance and workflows in Codex"
+  default_prompt: "Use $webgl-pixel-reveal-gallery to help me complete a relevant task."

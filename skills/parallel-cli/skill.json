@@ -1,0 +1,14 @@
+{
+  "id": "parallel-cli",
+  "title": "Parallel CLI",
+  "descriptionZh": "Parallel CLI 的可选厂商技能 — agent 原生网络搜索、提取、深度研究、数据增强、FindAll 及监控。优先使用 JSON 输出和非交互式流程。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/parallel-cli",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

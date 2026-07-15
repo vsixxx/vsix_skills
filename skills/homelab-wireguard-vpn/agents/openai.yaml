@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homelab Wireguard Vpn"
+  short_description: "Use Homelab Wireguard Vpn guidance and workflows in Codex"
+  default_prompt: "Use $homelab-wireguard-vpn to help me complete a relevant task."

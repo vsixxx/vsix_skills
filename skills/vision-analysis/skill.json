@@ -1,0 +1,17 @@
+{
+  "id": "vision-analysis",
+  "title": "Vision Analysis",
+  "descriptionZh": "用于 Vision Analysis 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/vision-analysis",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/vision-analysis/SKILL.md",
+  "upstreamSha256": "a3b4720bfc5f1083cc6c2670bd4d7d5b673f3c86e84b536169f5e545206de157"
+}

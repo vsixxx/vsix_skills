@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pinecone"
+  short_description: "Use Pinecone guidance and workflows in Codex"
+  default_prompt: "Use $pinecone to help me complete a relevant task."

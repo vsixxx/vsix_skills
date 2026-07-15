@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Poster"
+  short_description: "Use Image Poster guidance and workflows in Codex"
+  default_prompt: "Use $image-poster to help me complete a relevant task."

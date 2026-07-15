@@ -1,0 +1,18 @@
+{
+  "id": "sparse-autoencoder-training",
+  "title": "Sparse Autoencoder Training",
+  "descriptionZh": "提供使用 SAELens 训练和分析稀疏自编码器（SAE）的指导，将神经网络激活分解为可解释特征。适用于发现可解释特征、分析叠加现象或研究神经网络内部结构的场景。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: sae-lens>=6.0.0",
+    "Package: transformer-lens>=2.0.0",
+    "Package: torch>=2.0.0"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/saelens",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

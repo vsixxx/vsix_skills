@@ -1,0 +1,4 @@
+interface:
+  display_name: "Regression Suite"
+  short_description: "Use Regression Suite guidance and workflows in Codex"
+  default_prompt: "Use $regression-suite to help me complete a relevant task."

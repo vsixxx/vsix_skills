@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cold Start"
+  short_description: "Use Cold Start guidance and workflows in Codex"
+  default_prompt: "Use $cold-start to help me complete a relevant task."

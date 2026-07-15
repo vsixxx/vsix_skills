@@ -1,0 +1,17 @@
+{
+  "id": "pro",
+  "title": "Pro",
+  "descriptionZh": "用于 Pro 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/tanweai/pua/tree/main/skills/pro",
+  "homepage": "https://github.com/tanweai/pua",
+  "license": "MIT",
+  "author": "tanweai",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "f0a2f913a0d2c9188b7fea432b9dc7aa99049ce4",
+  "upstreamPath": "skills/pro/SKILL.md",
+  "upstreamSha256": "93659d6bdf8e80faed131c60701f19ecdb2a323b492d239b620ccc8967bbf3cf"
+}

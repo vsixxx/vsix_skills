@@ -1,0 +1,17 @@
+{
+  "id": "brain-pdf",
+  "title": "Brain PDF",
+  "descriptionZh": "用于 Brain PDF 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/garrytan/gbrain/tree/master/skills/brain-pdf",
+  "homepage": "https://github.com/garrytan/gbrain",
+  "license": "See upstream",
+  "author": "garrytan",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "5008b287e47bf791132eedfebf66bdef11e9398c",
+  "upstreamPath": "skills/brain-pdf/SKILL.md",
+  "upstreamSha256": "13c3e3162763a4503685db0a10663475d3687c4874b5f04d539af83a990f643e"
+}

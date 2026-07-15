@@ -1,0 +1,4 @@
+interface:
+  display_name: "Things Mac"
+  short_description: "Use Things Mac guidance and workflows in Codex"
+  default_prompt: "Use $things-mac to help me complete a relevant task."

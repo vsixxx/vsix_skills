@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goplaces"
+  short_description: "Use Goplaces guidance and workflows in Codex"
+  default_prompt: "Use $goplaces to help me complete a relevant task."

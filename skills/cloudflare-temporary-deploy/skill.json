@@ -1,0 +1,14 @@
+{
+  "id": "cloudflare-temporary-deploy",
+  "title": "Cloudflare Temporary Deploy",
+  "descriptionZh": "将网页临时部署到 Cloudflare，生成可访问的预览地址。",
+  "type": "codex-skill",
+  "category": "Cloudflare",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/web-development/cloudflare-temporary-deploy",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Hermes Agent",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

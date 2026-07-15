@@ -1,0 +1,17 @@
+{
+  "id": "brand-extract",
+  "title": "Brand Extract",
+  "descriptionZh": "用于 Brand Extract 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/nexu-io/open-design/tree/main/skills/brand-extract",
+  "homepage": "https://github.com/nexu-io/open-design",
+  "license": "See upstream",
+  "author": "nexu-io",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "b5d9a12f4845d098f9d89a20387f111dca060e40",
+  "upstreamPath": "skills/brand-extract/SKILL.md",
+  "upstreamSha256": "8763d9941856b578302cc32990d0eee0b0b8f9a2afbe4b4bf0ec6307c38ebe85"
+}

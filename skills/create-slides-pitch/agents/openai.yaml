@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Slides Pitch"
+  short_description: "Use Create Slides Pitch guidance and workflows in Codex"
+  default_prompt: "Use $create-slides-pitch to help me complete a relevant task."

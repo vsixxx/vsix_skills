@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Scan"
+  short_description: "Use Repo Scan guidance and workflows in Codex"
+  default_prompt: "Use $repo-scan to help me complete a relevant task."

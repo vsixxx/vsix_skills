@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extension Puppeteer Debugging"
+  short_description: "Use Extension Puppeteer Debugging workflows in Codex"
+  default_prompt: "Use $extension-puppeteer-debugging to help me complete a relevant task."

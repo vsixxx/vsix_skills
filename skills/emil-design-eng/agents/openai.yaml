@@ -1,0 +1,4 @@
+interface:
+  display_name: "Emil Design Eng"
+  short_description: "Use Emil Design Eng guidance and workflows in Codex"
+  default_prompt: "Use $emil-design-eng to help me complete a relevant task."

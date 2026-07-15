@@ -1,0 +1,4 @@
+interface:
+  display_name: "Od Plugin Publish GitHub"
+  short_description: "Use Od Plugin Publish GitHub guidance and workflows in Codex"
+  default_prompt: "Use $od-plugin-publish-github to help me complete a relevant task."

@@ -1,0 +1,17 @@
+{
+  "id": "flutter-dev",
+  "title": "Flutter Dev",
+  "descriptionZh": "用于 Flutter Dev 相关任务的 Codex 技能，适合需要对应专业工作流或工具指导时使用。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/MiniMax-AI/skills/tree/main/skills/flutter-dev",
+  "homepage": "https://github.com/MiniMax-AI/skills",
+  "license": "MIT",
+  "author": "MiniMax-AI",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "60aaae52bb2af8162732751a4332f62a5fef518b",
+  "upstreamPath": "skills/flutter-dev/SKILL.md",
+  "upstreamSha256": "b0e5eb337c1891481ff7875d0fee974ba4a7bddafb6a7f0947747c008b5c2e28"
+}
