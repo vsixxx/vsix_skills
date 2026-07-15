@@ -1,0 +1,20 @@
+{
+  "id": "vsix-image-gen",
+  "title": "VSIX Image Gen",
+  "descriptionZh": "通过 VSIX 的 GPT-Image 接口生成或编辑图片，支持参考图、常用尺寸、高清输出和首次 API Key 配置。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [
+    "Node.js",
+    "VSIX API Key（通过 VSIX_API_KEY 或 ~/.vsix/config.json 配置）",
+    "可访问 VSIX 图片生成接口的网络环境"
+  ],
+  "sourceUrl": "https://github.com/lilong-98/vsix-image-gen",
+  "homepage": "https://github.com/lilong-98/vsix-image-gen",
+  "author": "lilong-98",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "3e07526c94ba7988a5ec994e6fe418d60e4bd6cf",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "5f116a833546edcbd56f07eee615b59c7ffe250e446d6196be12acb3f17e2f74"
+}
