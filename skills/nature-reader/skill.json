@@ -1,0 +1,16 @@
+{
+  "id": "nature-reader",
+  "title": "Nature Reader",
+  "descriptionZh": "把 PDF、DOI、arXiv、网页或粘贴文本整理为带图表定位和来源锚点的中英对照论文阅读稿。",
+  "type": "agent-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader",
+  "homepage": "https://github.com/Yuan1z0825/nature-skills",
+  "license": "Apache-2.0",
+  "author": "Yuan1z0825",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "22cff091926dddd2ca54bde7d7693aba92c2c7e9",
+  "upstreamPath": "skills/nature-reader"
+}

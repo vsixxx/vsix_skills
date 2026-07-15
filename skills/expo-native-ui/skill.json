@@ -1,0 +1,20 @@
+{
+  "id": "expo-native-ui",
+  "title": "Expo Native UI",
+  "descriptionZh": "构建符合 iOS 与 Android 原生习惯的 Expo 界面，覆盖控件、图标、媒体、动画、存储与响应式布局。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [
+    "Node.js and npm",
+    "Expo or React Native project"
+  ],
+  "sourceUrl": "https://github.com/expo/skills/tree/main/plugins/expo/skills/expo-native-ui",
+  "homepage": "https://github.com/expo/skills",
+  "license": "MIT",
+  "author": "Expo",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9eb5ab06b7315a1a517b61fa730f60d9a3b48d69",
+  "upstreamPath": "plugins/expo/skills/expo-native-ui/SKILL.md",
+  "upstreamSha256": "b743c3983065418f11a4d122d89363512550faff5975bd083cafd77294cb786a"
+}

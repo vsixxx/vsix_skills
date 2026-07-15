@@ -1,0 +1,16 @@
+{
+  "id": "prd",
+  "title": "Product Requirements Document",
+  "descriptionZh": "通过需求访谈生成结构化 PRD，覆盖用户故事、验收标准、技术规格、风险和分阶段路线图。",
+  "type": "agent-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/prd",
+  "homepage": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "author": "GitHub",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "2c2461a7fa383f664bb75546f03a2c6087f3819d",
+  "upstreamPath": "skills/prd"
+}

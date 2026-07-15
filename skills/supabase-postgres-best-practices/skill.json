@@ -1,0 +1,17 @@
+{
+  "id": "supabase-postgres-best-practices",
+  "title": "Supabase Postgres Best Practices",
+  "descriptionZh": "使用 Supabase 官方最佳实践优化 Postgres 查询、索引、连接池、Schema、安全策略与 RLS 性能。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices",
+  "homepage": "https://github.com/supabase/agent-skills",
+  "license": "MIT",
+  "author": "Supabase",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "1ad9aaeb49caafd9e95c0a91116f71890eebbc53",
+  "upstreamPath": "skills/supabase-postgres-best-practices/SKILL.md",
+  "upstreamSha256": "ccd6e4596bd51cf344fe76c464867c541ccc16b6d90ae7a9db449fb17588613b"
+}

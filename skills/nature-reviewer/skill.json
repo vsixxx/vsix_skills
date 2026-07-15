@@ -1,0 +1,16 @@
+{
+  "id": "nature-reviewer",
+  "title": "Nature Reviewer",
+  "descriptionZh": "从期刊审稿人视角生成三份模拟审稿报告，并汇总论文的新颖性、严谨性和投稿风险。",
+  "type": "agent-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reviewer",
+  "homepage": "https://github.com/Yuan1z0825/nature-skills",
+  "license": "Apache-2.0",
+  "author": "Yuan1z0825",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "22cff091926dddd2ca54bde7d7693aba92c2c7e9",
+  "upstreamPath": "skills/nature-reviewer"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nature-figure",
+  "title": "Nature Figure",
+  "descriptionZh": "使用 Python 或 R 创建、审查和导出期刊级科研图表，并支持可选的 AI 科研示意图工作流。",
+  "type": "agent-skill",
+  "category": "图片与视觉",
+  "prerequisites": [
+    "Python 或 R 绘图环境",
+    "使用 AI 示意图功能时需要 OpenRouter API Key"
+  ],
+  "sourceUrl": "https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure",
+  "homepage": "https://github.com/Yuan1z0825/nature-skills",
+  "license": "Apache-2.0",
+  "author": "Yuan1z0825",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "22cff091926dddd2ca54bde7d7693aba92c2c7e9",
+  "upstreamPath": "skills/nature-figure"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "code-analysis",
+  "title": "Code Analysis",
+  "descriptionZh": "在知情同意前提下分析 Git 历史，为个人自查或团队复盘生成描述性 Markdown、HTML、JSON 或 PDF 报告。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Python 3.9 or newer",
+    "Git repository",
+    "Python dependencies from requirements.txt"
+  ],
+  "sourceUrl": "https://github.com/Wscats/code-analysis-skills",
+  "homepage": "https://github.com/Wscats/code-analysis-skills",
+  "license": "MIT",
+  "author": "Wscats",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "d11419bc7f12c797b75b2f6c8b377b845033cb9a",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "b4ec534d9bbf91177d00db7889d096191cab53fe57bc6bfe28f202eec0617e30"
+}

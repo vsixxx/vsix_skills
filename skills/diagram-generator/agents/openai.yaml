@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagram Generator"
+  short_description: "Generate Draw.io, Mermaid, and Excalidraw diagrams through MCP"
+  default_prompt: "Use $diagram-generator to turn this system description into a clear architecture diagram."

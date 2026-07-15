@@ -1,0 +1,17 @@
+{
+  "id": "seo-audit",
+  "title": "SEO Audit",
+  "descriptionZh": "系统检查网站抓取、索引、页面速度、结构化数据、内容质量、国际化 SEO 与站内优化问题。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit",
+  "homepage": "https://github.com/coreyhaines31/marketingskills",
+  "license": "MIT",
+  "author": "Corey Haines",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "130847d0945555c43b0b1774e2a4f99d35a32ebe",
+  "upstreamPath": "skills/seo-audit/SKILL.md",
+  "upstreamSha256": "3b03a2e07578e9964acac0b6907ae343a904c6547bfefe779ba326db5eedd1cb"
+}

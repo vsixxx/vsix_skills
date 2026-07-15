@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Analysis"
+  short_description: "Create consent-based Git history reflection reports for retrospectives"
+  default_prompt: "Use $code-analysis to create a descriptive reflection report for my own Git history."

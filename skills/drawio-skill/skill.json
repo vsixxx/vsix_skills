@@ -1,0 +1,19 @@
+{
+  "id": "drawio-skill",
+  "title": "Draw.io Skill",
+  "descriptionZh": "生成、编辑和验证流程图、架构图、ER 图、UML、网络拓扑及其他可导出的 Draw.io 图表。",
+  "type": "agent-skill",
+  "category": "图片与视觉",
+  "prerequisites": [
+    "Draw.io Desktop 或可用的 Draw.io CLI",
+    "Python 3"
+  ],
+  "sourceUrl": "https://github.com/Agents365-ai/drawio-skill/tree/main/skills/drawio-skill",
+  "homepage": "https://github.com/Agents365-ai/drawio-skill",
+  "license": "MIT",
+  "author": "Agents365-ai",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9f52925770334e9bd2794e40a7fa64c234e9f545",
+  "upstreamPath": "skills/drawio-skill"
+}

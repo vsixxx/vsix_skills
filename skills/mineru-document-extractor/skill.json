@@ -1,0 +1,18 @@
+{
+  "id": "mineru-document-extractor",
+  "title": "MinerU Document Extractor",
+  "descriptionZh": "使用 MinerU 将 PDF、扫描件、图片、Word、PPT、Excel 和网页转换为 Markdown、HTML、LaTeX 或 DOCX。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [
+    "mineru-open-api CLI"
+  ],
+  "sourceUrl": "https://hub.cocoloop.cn/skills/15720",
+  "homepage": "https://github.com/opendatalab/MinerU-Ecosystem/tree/main/cli",
+  "author": "mineru-extract",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamVersion": "0.1.30",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "ace616acbfad8d2c80cb55c291e2c89b2cc6a80f99129d2a0cc5007667905ea2"
+}

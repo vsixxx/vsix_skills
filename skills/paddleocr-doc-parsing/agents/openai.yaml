@@ -1,0 +1,4 @@
+interface:
+  display_name: "PaddleOCR Document Parsing"
+  short_description: "Extract complex layouts, tables, formulas, and OCR from documents"
+  default_prompt: "Use $paddleocr-doc-parsing to extract this document into structured Markdown and preserve its tables and formulas."

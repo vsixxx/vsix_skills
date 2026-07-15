@@ -1,0 +1,19 @@
+{
+  "id": "playwright-cli",
+  "title": "Playwright CLI",
+  "descriptionZh": "使用 Playwright CLI 操作和测试网页，支持快照、录屏、网络分析、会话状态和端到端测试工作流。",
+  "type": "agent-skill",
+  "category": "网页与前端",
+  "prerequisites": [
+    "Node.js",
+    "@playwright/cli 及对应浏览器运行时"
+  ],
+  "sourceUrl": "https://github.com/microsoft/playwright/tree/main/packages/playwright-core/src/tools/cli-client/skill",
+  "homepage": "https://github.com/microsoft/playwright",
+  "license": "Apache-2.0",
+  "author": "Microsoft",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a0dce0caef9ff0eb6bfbcdcd5dead4c3a21062b7",
+  "upstreamPath": "packages/playwright-core/src/tools/cli-client/skill"
+}
