@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Guard"
+  short_description: "Scan untrusted prompts, outputs, skills, and tool inputs offline"
+  default_prompt: "Use $prompt-guard to scan this untrusted content and explain any security findings before execution."

@@ -1,0 +1,19 @@
+{
+  "id": "diagram-generator",
+  "title": "Diagram Generator",
+  "descriptionZh": "通过 MCP 生成或编辑 Draw.io、Mermaid 与 Excalidraw 图表，支持架构图、流程图、UML 和网络拓扑。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [
+    "Node.js and npm",
+    "mcp-diagram-generator MCP server"
+  ],
+  "sourceUrl": "https://hub.cocoloop.cn/skills/15383",
+  "homepage": "https://hub.cocoloop.cn/skills/15383",
+  "author": "matthewyin",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamVersion": "1.1.6",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "eb5a108b164b7f69bff1014aa890a04ab10bac7d734499417e93ce768663a274"
+}

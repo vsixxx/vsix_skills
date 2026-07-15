@@ -1,0 +1,21 @@
+{
+  "id": "prompt-guard",
+  "title": "Prompt Guard",
+  "descriptionZh": "离线检测提示注入、供应链投毒、记忆篡改、凭据泄露、权限提升和工具参数攻击。",
+  "type": "codex-skill",
+  "category": "安全与验证",
+  "prerequisites": [
+    "Python 3.8 or newer",
+    "PyYAML 5.0 or newer"
+  ],
+  "sourceUrl": "https://github.com/seojoonkim/prompt-guard",
+  "homepage": "https://github.com/seojoonkim/prompt-guard",
+  "license": "MIT",
+  "author": "Seo Joon Kim",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "ce4356bfe714ce34e16704a5a6668d5c829309e1",
+  "upstreamVersion": "3.6.2",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "c09fbce4925b051833c91a1142f980937d5fdf13e12b9a9fd28a0dccf60ecff4"
+}

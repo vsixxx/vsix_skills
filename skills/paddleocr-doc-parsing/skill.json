@@ -1,0 +1,20 @@
+{
+  "id": "paddleocr-doc-parsing",
+  "title": "PaddleOCR Document Parsing",
+  "descriptionZh": "使用 PaddleOCR 从复杂 PDF 和扫描件中提取表格、公式、图表、多栏布局及正确阅读顺序。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [
+    "paddleocr CLI",
+    "PADDLEOCR_ACCESS_TOKEN"
+  ],
+  "sourceUrl": "https://hub.cocoloop.cn/skills/15472",
+  "homepage": "https://www.paddleocr.ai/latest/en/version3.x/inference_deployment/serving/paddleocr_official_api/cli.html",
+  "license": "Apache-2.0",
+  "author": "bobholamovic",
+  "status": "experimental",
+  "updatedAt": "2026-07-15",
+  "upstreamVersion": "3.0.0",
+  "upstreamPath": "SKILL.md",
+  "upstreamSha256": "16f943b1e47f317e8c73ae33bacd63cbc872190baac6a86a868bcbac9b8815c0"
+}

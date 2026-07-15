@@ -1,0 +1,19 @@
+{
+  "id": "audit-website",
+  "title": "Audit Website",
+  "descriptionZh": "使用 Squirrelscan 对网站进行 SEO、性能、安全、技术、内容与无障碍检查，并推动修复和复测。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [
+    "squirrel CLI"
+  ],
+  "sourceUrl": "https://github.com/squirrelscan/skills/tree/main/skills/audit-website",
+  "homepage": "https://github.com/squirrelscan/skills",
+  "license": "MIT",
+  "author": "squirrelscan",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "9ce775f60a2eac30811c8371ac7962d716c626fb",
+  "upstreamPath": "skills/audit-website/SKILL.md",
+  "upstreamSha256": "d81c34d03c181a27e7f28534002461dab3f1c2bb8bb0c139e0471fe5e74ee1ac"
+}

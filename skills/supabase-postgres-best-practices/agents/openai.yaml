@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supabase Postgres Best Practices"
+  short_description: "Optimize Postgres queries, schemas, RLS, indexes, and connections"
+  default_prompt: "Use $supabase-postgres-best-practices to review this Postgres design and recommend prioritized improvements."

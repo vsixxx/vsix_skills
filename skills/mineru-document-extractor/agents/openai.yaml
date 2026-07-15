@@ -1,0 +1,4 @@
+interface:
+  display_name: "MinerU Document Extractor"
+  short_description: "Convert documents and web pages into structured text and office formats"
+  default_prompt: "Use $mineru-document-extractor to convert this document into clean Markdown with tables and formulas preserved."

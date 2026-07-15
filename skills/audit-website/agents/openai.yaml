@@ -1,0 +1,7 @@
+interface:
+  display_name: "Audit Website"
+  short_description: "Audit sites for SEO, performance, security, and accessibility"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.png"
+  brand_color: "#C97A46"
+  default_prompt: "Use $audit-website to audit this site, prioritize the findings, and propose fixes before editing code."
