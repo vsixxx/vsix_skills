@@ -5,8 +5,8 @@
   "type": "codex-skill",
   "category": "图片与视觉",
   "prerequisites": [
-    "Node.js",
-    "VSIX API Key（通过 VSIX_API_KEY 或 ~/.vsix/config.json 配置）",
+    "Codex App",
+    "VSIX API Key（通过 VSIX_API_KEY 或首次运行时生成的 .env 配置）",
     "可访问 VSIX 图片生成接口的网络环境"
   ],
   "sourceUrl": "https://github.com/lilong-98/vsix-image-gen",

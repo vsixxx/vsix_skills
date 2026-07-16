@@ -3,11 +3,11 @@
 const fs = require("fs");
 const path = require("path");
 const https = require("https");
-const { spawnSync } = require("child_process");
 
 const HOME_DIR = process.env.HOME || process.env.USERPROFILE || "";
-const CONFIG_PATH = path.join(HOME_DIR, ".vsix", "config.json");
-const DEFAULT_API_BASE = "https://vsix.cc/v1";
+const SKILL_DIR = path.resolve(__dirname, "..");
+const ENV_PATH = path.join(SKILL_DIR, ".env");
+const API_BASE = "https://vsix.cc/v1";
 const SUPPORTED_SIZES = [
   "1024x1024",
   "1024x1536",
@@ -44,23 +44,16 @@ const SIZE_ALIASES = {
   "4k-portrait": "2160x3840",
   "4k-square": "2160x2160",
 };
-const FALLBACK_SIZES = {
-  "3840x2160": "1920x1080",
-  "2160x3840": "1080x1920",
-  "2160x2160": "1024x1024",
-  "2048x2048": "1024x1024",
-  "1920x1080": "1536x864",
-  "1080x1920": "864x1536",
-  "1536x1024": "1152x768",
-  "1024x1536": "768x1152",
-  "1024x1024": "768x768",
-};
 const ENDPOINT_RETRY_LIMIT = Number.parseInt(
   process.env.VSIX_IMAGE_RETRY_LIMIT || "4",
   10
 );
 const ENDPOINT_RETRY_BASE_DELAY_MS = Number.parseInt(
   process.env.VSIX_IMAGE_RETRY_BASE_DELAY_MS || "2500",
+  10
+);
+const REQUEST_TIMEOUT_MS = Number.parseInt(
+  process.env.VSIX_IMAGE_REQUEST_TIMEOUT_MS || "120000",
   10
 );
 const MIME_BY_EXT = {
@@ -96,6 +89,31 @@ function printHelp() {
   log("  4k, 4k-landscape, 4k-portrait, 4k-square");
 }
 
+function parseEnvContent(content) {
+  const values = {};
+  for (const rawLine of content.split(/\r?\n/)) {
+    const line = rawLine.trim();
+    if (!line || line.startsWith("#")) continue;
+    const match = /^([A-Za-z_][A-Za-z0-9_]*)=(.*)$/.exec(line);
+    if (!match) continue;
+
+    let value = match[2].trim();
+    if (
+      (value.startsWith('"') && value.endsWith('"')) ||
+      (value.startsWith("'") && value.endsWith("'"))
+    ) {
+      value = value.slice(1, -1);
+    }
+    values[match[1]] = value;
+  }
+  return values;
+}
+
+function readLocalEnv() {
+  if (!fs.existsSync(ENV_PATH)) return {};
+  return parseEnvContent(fs.readFileSync(ENV_PATH, "utf8"));
+}
+
 function expandHome(inputPath) {
   if (!inputPath) {
     return inputPath;
@@ -110,57 +128,15 @@ function expandHome(inputPath) {
 }
 
 function loadApiKey() {
-  if (!fs.existsSync(CONFIG_PATH)) {
-    if (process.env.VSIX_API_KEY) {
-      return process.env.VSIX_API_KEY;
-    }
-
-    fail(
-      `Missing VSIX API key. Set VSIX_API_KEY or create ${CONFIG_PATH} with {"api_key":"YOUR_KEY"}.`
-    );
+  const localEnv = readLocalEnv();
+  const apiKey = process.env.VSIX_API_KEY || localEnv.VSIX_API_KEY;
+  if (apiKey && apiKey !== "YOUR_VSIX_KEY") {
+    return apiKey;
   }
 
-  let config;
-  try {
-    config = JSON.parse(fs.readFileSync(CONFIG_PATH, "utf8"));
-  } catch (error) {
-    fail(`Failed to parse ${CONFIG_PATH}: ${error.message}`);
-  }
-
-  const apiKey = process.env.VSIX_API_KEY || config.api_key;
-  if (!apiKey || apiKey === "YOUR_KEY") {
-    fail(`Please update ${CONFIG_PATH} with a real VSIX API key.`);
-  }
-
-  return apiKey;
-}
-
-function loadApiBase() {
-  let configuredBase = process.env.VSIX_API_BASE || "";
-
-  if (!configuredBase && fs.existsSync(CONFIG_PATH)) {
-    try {
-      const config = JSON.parse(fs.readFileSync(CONFIG_PATH, "utf8"));
-      configuredBase = config.api_base || "";
-    } catch {
-      configuredBase = "";
-    }
-  }
-
-  return normalizeApiBase(configuredBase || DEFAULT_API_BASE);
-}
-
-function normalizeApiBase(rawBase) {
-  const trimmed = String(rawBase || "").trim().replace(/\/+$/, "");
-  if (!trimmed) {
-    return DEFAULT_API_BASE;
-  }
-
-  if (trimmed.endsWith("/v1")) {
-    return trimmed;
-  }
-
-  return `${trimmed}/v1`;
+  fail(
+    `Missing VSIX API key. Ask the user to get a key from https://vsix.cc (login/register -> API 密钥 -> 创建密钥 -> 分组 image-2 -> copy the sk- key), save it to ${ENV_PATH} as VSIX_API_KEY=..., then rerun this command.`
+  );
 }
 
 function normalizeSize(rawSize) {
@@ -176,18 +152,6 @@ function normalizeSize(rawSize) {
   }
 
   return normalized;
-}
-
-function parseSize(size) {
-  const match = /^(\d+)x(\d+)$/.exec(size || "");
-  if (!match) {
-    return null;
-  }
-
-  return {
-    width: Number(match[1]),
-    height: Number(match[2]),
-  };
 }
 
 function parseArgs(argv) {
@@ -296,12 +260,13 @@ function normalizeImageInput(value) {
 
 function requestJson(urlString, apiKey, body) {
   const url = new URL(urlString);
+  const client = url.protocol === "http:" ? require("http") : https;
 
   return new Promise((resolve, reject) => {
-    const request = https.request(
+    const request = client.request(
       {
         hostname: url.hostname,
-        port: 443,
+        port: url.port || (url.protocol === "http:" ? 80 : 443),
         path: `${url.pathname}${url.search}`,
         method: "POST",
         headers: {
@@ -330,6 +295,9 @@ function requestJson(urlString, apiKey, body) {
       }
     );
 
+    request.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      request.destroy(new Error(`Request timed out after ${REQUEST_TIMEOUT_MS}ms`));
+    });
     request.on("error", reject);
     request.write(JSON.stringify(body));
     request.end();
@@ -353,6 +321,7 @@ function dataUriToMultipartFile(dataUri) {
 
 function requestMultipart(urlString, apiKey, fields, files) {
   const url = new URL(urlString);
+  const client = url.protocol === "http:" ? require("http") : https;
   const boundary = `----vsix-image-gen-${Date.now()}-${Math.random()
     .toString(16)
     .slice(2)}`;
@@ -382,10 +351,10 @@ function requestMultipart(urlString, apiKey, fields, files) {
   const body = Buffer.concat(chunks);
 
   return new Promise((resolve, reject) => {
-    const request = https.request(
+    const request = client.request(
       {
         hostname: url.hostname,
-        port: 443,
+        port: url.port || (url.protocol === "http:" ? 80 : 443),
         path: `${url.pathname}${url.search}`,
         method: "POST",
         headers: {
@@ -415,6 +384,9 @@ function requestMultipart(urlString, apiKey, fields, files) {
       }
     );
 
+    request.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      request.destroy(new Error(`Request timed out after ${REQUEST_TIMEOUT_MS}ms`));
+    });
     request.on("error", reject);
     request.write(body);
     request.end();
@@ -423,12 +395,13 @@ function requestMultipart(urlString, apiKey, fields, files) {
 
 function downloadFile(urlString, outputPath) {
   const url = new URL(urlString);
+  const client = url.protocol === "http:" ? require("http") : https;
   const filePath = path.resolve(outputPath);
 
   return new Promise((resolve, reject) => {
     fs.mkdirSync(path.dirname(filePath), { recursive: true });
     const file = fs.createWriteStream(filePath);
-    const request = https.get(url, (response) => {
+    const request = client.get(url, (response) => {
       if ((response.statusCode || 0) >= 400) {
         file.close(() => fs.rmSync(filePath, { force: true }));
         reject(new Error(`Image download returned ${response.statusCode}`));
@@ -441,6 +414,9 @@ function downloadFile(urlString, outputPath) {
       });
     });
 
+    request.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      request.destroy(new Error(`Image download timed out after ${REQUEST_TIMEOUT_MS}ms`));
+    });
     request.on("error", (error) => {
       file.close(() => fs.rmSync(filePath, { force: true }));
       reject(error);
@@ -507,41 +483,6 @@ function saveDataUri(dataUri, outputPath) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, Buffer.from(match[2], "base64"));
   return filePath;
-}
-
-function resizeImage(inputPath, outputPath, targetSize) {
-  const size = parseSize(targetSize);
-  if (!size) {
-    return inputPath;
-  }
-
-  const script = [
-    "from pathlib import Path",
-    "from PIL import Image",
-    "import sys",
-    "src = Path(sys.argv[1])",
-    "dst = Path(sys.argv[2])",
-    "width = int(sys.argv[3])",
-    "height = int(sys.argv[4])",
-    "img = Image.open(src).convert('RGB')",
-    "img = img.resize((width, height), Image.Resampling.LANCZOS)",
-    "dst.parent.mkdir(parents=True, exist_ok=True)",
-    "img.save(dst, 'PNG', optimize=True)",
-  ].join("\n");
-
-  const result = spawnSync(
-    "python3",
-    ["-c", script, inputPath, outputPath, String(size.width), String(size.height)],
-    { encoding: "utf8" }
-  );
-
-  if (result.status !== 0) {
-    fail(
-      `Fallback resize failed. Install Pillow for Python or use a smaller native size. ${result.stderr || result.stdout}`
-    );
-  }
-
-  return path.resolve(outputPath);
 }
 
 async function persistOutput(output, outputPath) {
@@ -767,7 +708,6 @@ function shouldTryJsonEditFallback(response) {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
-  const apiBase = loadApiBase();
   const apiKey = loadApiKey();
   const normalizedImages = args.imageUrls.map(normalizeImageInput);
 
@@ -780,48 +720,15 @@ async function main() {
     log(`Reference images: ${normalizedImages.length}`);
   }
   const initialEndpoint = normalizedImages.length > 0 ? "/images/edits" : "/images/generations";
-  log(`Requesting image generation from VSIX (${apiBase}${initialEndpoint})...`);
+  log(`Requesting image generation from VSIX (${API_BASE}${initialEndpoint})...`);
   let result = await submitWithEndpointFallback(
-    apiBase,
+    API_BASE,
     apiKey,
     args,
     normalizedImages,
     args.size
   );
   let response = result.response;
-  let generatedSize = args.size;
-  let needsResize = false;
-
-  if (response.status !== 200 && isRetryableUpstreamError(response) && FALLBACK_SIZES[args.size]) {
-    generatedSize = FALLBACK_SIZES[args.size];
-    needsResize = Boolean(args.out && parseSize(args.size));
-    log(
-      `VSIX returned ${response.status} (${responseErrorMessage(response)}). Retrying at ${generatedSize}${needsResize ? `, then resizing to ${args.size}` : ""}...`
-    );
-    result = await submitWithEndpointFallback(
-      apiBase,
-      apiKey,
-      args,
-      normalizedImages,
-      generatedSize
-    );
-    response = result.response;
-  }
-
-  if (response.status !== 200 && isRetryableUpstreamError(response) && normalizedImages.length > 0) {
-    log(
-      `Reference-image paths failed (${response.status}: ${responseErrorMessage(response)}). Falling back to text-only generation...`
-    );
-    generatedSize = FALLBACK_SIZES[generatedSize] || generatedSize;
-    needsResize = Boolean(args.out && parseSize(args.size) && generatedSize !== args.size);
-    response = await submitWithRetry(
-      apiBase,
-      apiKey,
-      "/images/generations",
-      buildTextOnlyGenerationRequestBody(args, generatedSize),
-      `VSIX text-only fallback ${generatedSize}`
-    );
-  }
 
   if (response.status !== 200) {
     const errorMessage = responseErrorMessage(response);
@@ -836,10 +743,7 @@ async function main() {
   log("Image generation finished.");
   if (args.out) {
     try {
-      let filePath = await persistOutput(output, args.out);
-      if (filePath && needsResize && generatedSize !== args.size) {
-        filePath = resizeImage(filePath, args.out, args.size);
-      }
+      const filePath = await persistOutput(output, args.out);
       if (filePath) {
         process.stdout.write(`${filePath}\n`);
         return;
