@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comps Analysis"
+  short_description: "Use Comps Analysis guidance and workflows in Codex"
+  default_prompt: "Use $comps-analysis to help me complete a relevant task."

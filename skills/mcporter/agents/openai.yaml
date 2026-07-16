@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mcporter"
+  short_description: "Use Mcporter guidance and workflows in Codex"
+  default_prompt: "Use $mcporter to help me complete a relevant task."

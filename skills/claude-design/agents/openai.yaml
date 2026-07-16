@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artifact Design"
+  short_description: "Design polished one-off HTML artifacts in Codex"
+  default_prompt: "Use $claude-design to help me complete a relevant task."

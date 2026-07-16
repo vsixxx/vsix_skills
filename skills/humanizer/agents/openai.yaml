@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer"
+  short_description: "Use Humanizer guidance and workflows in Codex"
+  default_prompt: "Use $humanizer to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Songwriting And Ai Music"
+  short_description: "Use Songwriting And Ai Music guidance and workflows in Codex"
+  default_prompt: "Use $songwriting-and-ai-music to help me complete a relevant task."

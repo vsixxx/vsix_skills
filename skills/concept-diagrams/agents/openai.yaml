@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concept Diagrams"
+  short_description: "Use Concept Diagrams guidance and workflows in Codex"
+  default_prompt: "Use $concept-diagrams to help me complete a relevant task."

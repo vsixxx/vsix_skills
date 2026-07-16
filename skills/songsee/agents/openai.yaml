@@ -1,0 +1,4 @@
+interface:
+  display_name: "Songsee"
+  short_description: "Use Songsee guidance and workflows in Codex"
+  default_prompt: "Use $songsee to help me complete a relevant task."

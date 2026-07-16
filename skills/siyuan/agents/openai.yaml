@@ -1,0 +1,4 @@
+interface:
+  display_name: "Siyuan"
+  short_description: "Use Siyuan guidance and workflows in Codex"
+  default_prompt: "Use $siyuan to help me complete a relevant task."

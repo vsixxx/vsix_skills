@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Writing Pipeline"
+  short_description: "Use Research Paper Writing Pipeline workflows in Codex"
+  default_prompt: "Use $research-paper-writing to help me complete a relevant task."

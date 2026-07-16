@@ -1,0 +1,14 @@
+{
+  "id": "excalidraw",
+  "title": "Excalidraw",
+  "descriptionZh": "手绘风格的 Excalidraw JSON 图表（架构、流程、时序）。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/excalidraw",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Auth"
+  short_description: "Use GitHub Auth guidance and workflows in Codex"
+  default_prompt: "Use $github-auth to help me complete a relevant task."

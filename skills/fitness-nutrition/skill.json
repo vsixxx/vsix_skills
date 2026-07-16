@@ -1,0 +1,16 @@
+{
+  "id": "fitness-nutrition",
+  "title": "Fitness Nutrition",
+  "descriptionZh": "健身训练计划与营养追踪。通过 wger 按肌肉群、器械或类别搜索 690+ 种训练动作。通过 USDA FoodData Central 查询 380,000+ 种食物的宏量营养素和热量。计算 BMI、TDEE、单次最大重量、宏量营养素分配及体成分。",
+  "type": "codex-skill",
+  "category": "其他",
+  "prerequisites": [
+    "Environment variable: USDA_API_KEY"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/health/fitness-nutrition",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "haileymarshall",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

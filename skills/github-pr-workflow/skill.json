@@ -1,0 +1,14 @@
+{
+  "id": "github-pr-workflow",
+  "title": "GitHub PR Workflow",
+  "descriptionZh": "GitHub PR 生命周期：分支、提交、开启、CI、合并。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/github/github-pr-workflow",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

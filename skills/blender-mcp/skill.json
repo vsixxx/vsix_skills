@@ -1,0 +1,16 @@
+{
+  "id": "blender-mcp",
+  "title": "Blender MCP",
+  "descriptionZh": "通过 socket 连接 blender-mcp 插件控制 Blender。创建 3D 对象、材质、动画，并运行任意 Blender Python（bpy）代码。适用于用户希望在 Blender 中创建或修改任何内容的场景。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [
+    "Requirement: Blender 4.3+ (desktop instance required, headless not supported)"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/blender-mcp",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "alireza78a",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

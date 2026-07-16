@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excalidraw"
+  short_description: "Use Excalidraw guidance and workflows in Codex"
+  default_prompt: "Use $excalidraw to help me complete a relevant task."

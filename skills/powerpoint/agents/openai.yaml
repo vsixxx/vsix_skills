@@ -1,0 +1,4 @@
+interface:
+  display_name: "Powerpoint"
+  short_description: "Use Powerpoint guidance and workflows in Codex"
+  default_prompt: "Use $powerpoint to help me complete a relevant task."

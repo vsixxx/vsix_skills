@@ -1,0 +1,4 @@
+interface:
+  display_name: "Darwinian Evolver"
+  short_description: "Use Darwinian Evolver guidance and workflows in Codex"
+  default_prompt: "Use $darwinian-evolver to help me complete a relevant task."

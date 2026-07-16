@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Notes"
+  short_description: "Use Apple Notes guidance and workflows in Codex"
+  default_prompt: "Use $apple-notes to help me complete a relevant task."

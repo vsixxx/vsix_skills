@@ -1,0 +1,14 @@
+{
+  "id": "excel-author",
+  "title": "Excel Author",
+  "descriptionZh": "使用 openpyxl 无头构建可审计的 Excel 工作簿 — 蓝/黑/绿单元格规范、公式优先于硬编码、命名区域、余额校验、敏感性分析表。适用于财务模型、审计输出、对账。",
+  "type": "codex-skill",
+  "category": "文档与表格",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/finance/excel-author",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "Apache-2.0",
+  "author": "Anthropic (adapted by Nous Research)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

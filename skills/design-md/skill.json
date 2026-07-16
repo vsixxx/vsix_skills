@@ -1,0 +1,14 @@
+{
+  "id": "design-md",
+  "title": "Design Md",
+  "descriptionZh": "编写/验证/导出 Google 的 DESIGN.md token 规范文件。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/design-md",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

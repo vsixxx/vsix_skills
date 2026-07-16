@@ -1,0 +1,4 @@
+interface:
+  display_name: "Searxng Search"
+  short_description: "Use Searxng Search guidance and workflows in Codex"
+  default_prompt: "Use $searxng-search to help me complete a relevant task."

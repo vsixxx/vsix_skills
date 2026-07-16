@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Diagram"
+  short_description: "Use Architecture Diagram guidance and workflows in Codex"
+  default_prompt: "Use $architecture-diagram to help me complete a relevant task."

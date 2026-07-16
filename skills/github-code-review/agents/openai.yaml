@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Code Review"
+  short_description: "Use GitHub Code Review guidance and workflows in Codex"
+  default_prompt: "Use $github-code-review to help me complete a relevant task."

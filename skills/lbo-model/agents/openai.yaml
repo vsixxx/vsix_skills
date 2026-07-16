@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lbo Model"
+  short_description: "Use Lbo Model guidance and workflows in Codex"
+  default_prompt: "Use $lbo-model to help me complete a relevant task."

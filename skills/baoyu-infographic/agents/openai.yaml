@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Infographic"
+  short_description: "Use Baoyu Infographic guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-infographic to help me complete a relevant task."

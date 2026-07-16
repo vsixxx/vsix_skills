@@ -1,0 +1,18 @@
+{
+  "id": "touchdesigner-mcp",
+  "title": "Touchdesigner MCP",
+  "descriptionZh": "通过 twozero MCP 控制运行中的 TouchDesigner 实例——创建算子、设置参数、连接节点、执行 Python、构建实时视觉效果。36 个原生工具。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [
+    "TouchDesigner desktop app running",
+    "twozero MCP component installed/enabled",
+    "Local MCP connection on port 40404"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/touchdesigner-mcp",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "kshitijk4poor",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

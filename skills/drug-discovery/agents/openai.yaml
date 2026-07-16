@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drug Discovery"
+  short_description: "Use Drug Discovery guidance and workflows in Codex"
+  default_prompt: "Use $drug-discovery to help me complete a relevant task."

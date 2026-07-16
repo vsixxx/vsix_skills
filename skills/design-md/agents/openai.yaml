@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Md"
+  short_description: "Use Design Md guidance and workflows in Codex"
+  default_prompt: "Use $design-md to help me complete a relevant task."

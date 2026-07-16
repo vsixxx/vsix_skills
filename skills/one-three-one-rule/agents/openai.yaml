@@ -1,0 +1,4 @@
+interface:
+  display_name: "One Three One Rule"
+  short_description: "Use One Three One Rule guidance and workflows in Codex"
+  default_prompt: "Use $one-three-one-rule to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX Author"
+  short_description: "Use PPTX Author guidance and workflows in Codex"
+  default_prompt: "Use $pptx-author to help me complete a relevant task."

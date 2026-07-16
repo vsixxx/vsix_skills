@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fitness Nutrition"
+  short_description: "Use Fitness Nutrition guidance and workflows in Codex"
+  default_prompt: "Use $fitness-nutrition to help me complete a relevant task."

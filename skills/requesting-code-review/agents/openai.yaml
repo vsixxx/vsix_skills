@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requesting Code Review"
+  short_description: "Use Requesting Code Review guidance and workflows in Codex"
+  default_prompt: "Use $requesting-code-review to help me complete a relevant task."

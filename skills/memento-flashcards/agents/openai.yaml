@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memento Flashcards"
+  short_description: "Use Memento Flashcards guidance and workflows in Codex"
+  default_prompt: "Use $memento-flashcards to help me complete a relevant task."

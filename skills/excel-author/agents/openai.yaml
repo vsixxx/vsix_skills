@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excel Author"
+  short_description: "Use Excel Author guidance and workflows in Codex"
+  default_prompt: "Use $excel-author to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maps"
+  short_description: "Use Maps guidance and workflows in Codex"
+  default_prompt: "Use $maps to help me complete a relevant task."

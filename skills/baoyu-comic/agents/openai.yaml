@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baoyu Comic"
+  short_description: "Use Baoyu Comic guidance and workflows in Codex"
+  default_prompt: "Use $baoyu-comic to help me complete a relevant task."

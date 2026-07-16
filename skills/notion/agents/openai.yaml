@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notion"
+  short_description: "Use Notion guidance and workflows in Codex"
+  default_prompt: "Use $notion to help me complete a relevant task."

@@ -1,0 +1,20 @@
+{
+  "id": "segment-anything-model",
+  "title": "Segment Anything Model",
+  "descriptionZh": "SAM：通过点、框、掩码进行零样本图像分割。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [
+    "Package: segment-anything",
+    "Package: transformers>=4.30.0",
+    "Package: torch>=1.7.0",
+    "Local SAM model checkpoint",
+    "GPU recommended"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/models/segment-anything",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Orchestra Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

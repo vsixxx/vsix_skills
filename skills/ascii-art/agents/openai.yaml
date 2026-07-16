@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ascii Art"
+  short_description: "Use Ascii Art guidance and workflows in Codex"
+  default_prompt: "Use $ascii-art to help me complete a relevant task."

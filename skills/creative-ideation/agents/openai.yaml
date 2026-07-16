@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Ideation — Routed Library of Creative Methods"
+  short_description: "Use Creative Ideation — Routed Library of Creativ workflows in C"
+  default_prompt: "Use $creative-ideation to help me complete a relevant task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Page Agent"
+  short_description: "Use Page Agent guidance and workflows in Codex"
+  default_prompt: "Use $page-agent to help me complete a relevant task."

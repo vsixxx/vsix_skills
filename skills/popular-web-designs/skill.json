@@ -1,0 +1,14 @@
+{
+  "id": "popular-web-designs",
+  "title": "Popular Web Designs",
+  "descriptionZh": "54 种真实设计系统（Stripe、Linear、Vercel）的 HTML/CSS 实现。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/popular-web-designs",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Teknium and Nous Research (design systems sourced from VoltAgent/awesome-design-md)",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "baoyu-article-illustrator",
+  "title": "Baoyu Article Illustrator",
+  "descriptionZh": "分析文章结构并生成风格、配色一致的正文配图。",
+  "type": "codex-skill",
+  "category": "写作与内容",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/baoyu-article-illustrator",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "宝玉 (JimLiu)",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

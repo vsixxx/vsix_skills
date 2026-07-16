@@ -1,0 +1,17 @@
+{
+  "id": "apple-reminders",
+  "title": "Apple Reminders",
+  "descriptionZh": "通过 remindctl 操作 Apple Reminders：添加、列出、完成。",
+  "type": "codex-skill",
+  "category": "自动化与工作流",
+  "prerequisites": [
+    "Platform: macos",
+    "Command: remindctl"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/apple/apple-reminders",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systematic Debugging"
+  short_description: "Use Systematic Debugging guidance and workflows in Codex"
+  default_prompt: "Use $systematic-debugging to help me complete a relevant task."

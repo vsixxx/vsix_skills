@@ -1,0 +1,14 @@
+{
+  "id": "simplify-code",
+  "title": "Simplify Code",
+  "descriptionZh": "使用三个独立检查视角并行审查和精简近期代码改动。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/simplify-code",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research (inspired by /simplify)",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

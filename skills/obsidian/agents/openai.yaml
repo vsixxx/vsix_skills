@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian"
+  short_description: "Use Obsidian guidance and workflows in Codex"
+  default_prompt: "Use $obsidian to help me complete a relevant task."

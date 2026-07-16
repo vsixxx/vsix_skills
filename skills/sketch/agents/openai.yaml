@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sketch"
+  short_description: "Use Sketch guidance and workflows in Codex"
+  default_prompt: "Use $sketch to help me complete a relevant task."

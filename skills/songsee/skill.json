@@ -1,0 +1,17 @@
+{
+  "id": "songsee",
+  "title": "Songsee",
+  "descriptionZh": "通过 CLI 生成音频频谱图/特征（mel、chroma、MFCC）。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [
+    "Command: songsee",
+    "Command: ffmpeg for non-WAV/MP3 formats"
+  ],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/media/songsee",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "community",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}

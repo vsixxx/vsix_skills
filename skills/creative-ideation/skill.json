@@ -1,0 +1,14 @@
+{
+  "id": "creative-ideation",
+  "title": "Creative Ideation — Routed Library of Creative Methods",
+  "descriptionZh": "运用具名创意方法系统地产生、扩展和筛选想法。",
+  "type": "codex-skill",
+  "category": "图片与视觉",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/creative-ideation",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "SHL0MS",
+  "status": "experimental",
+  "updatedAt": "2026-07-14"
+}

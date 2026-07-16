@@ -1,0 +1,4 @@
+interface:
+  display_name: "Touchdesigner MCP"
+  short_description: "Use Touchdesigner MCP guidance and workflows in Codex"
+  default_prompt: "Use $touchdesigner-mcp to help me complete a relevant task."

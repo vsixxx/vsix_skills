@@ -1,0 +1,14 @@
+{
+  "id": "github-issues",
+  "title": "GitHub Issues",
+  "descriptionZh": "通过 gh 或 REST API 创建、分类、标记、分配 GitHub issue。",
+  "type": "codex-skill",
+  "category": "开发辅助",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/github/github-issues",
+  "homepage": "https://github.com/NousResearch/hermes-agent",
+  "license": "MIT",
+  "author": "Nous Research",
+  "status": "recommended",
+  "updatedAt": "2026-07-14"
+}
