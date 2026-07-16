@@ -59,6 +59,30 @@ function readJson(file) {
   }
 }
 
+function parseYamlScalar(value) {
+  const trimmed = value.trim();
+  if (!trimmed) return '';
+  if (trimmed === 'true') return true;
+  if (trimmed === 'false') return false;
+  if (trimmed.startsWith('"')) {
+    try {
+      return JSON.parse(trimmed);
+    } catch {
+      return null;
+    }
+  }
+  if (trimmed.startsWith("'") && trimmed.endsWith("'")) {
+    return trimmed.slice(1, -1).replaceAll("''", "'");
+  }
+  return trimmed;
+}
+
+function readIndentedYamlField(content, field) {
+  const match = content.match(new RegExp(`^\\s{2}${field}:\\s*(.*)$`, 'm'));
+  if (!match) return null;
+  return parseYamlScalar(match[1]);
+}
+
 function assertNoForbiddenFiles(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const fullPath = path.join(dir, entry.name);
@@ -83,6 +107,45 @@ function validateManifest(skillDir, manifest) {
   if (!Array.isArray(manifest.prerequisites)) report(`${id}: prerequisites must be an array`);
 }
 
+function validateOpenAiMetadata(skillDir) {
+  const id = path.basename(skillDir);
+  const metadataPath = path.join(skillDir, 'agents', 'openai.yaml');
+  if (!fs.existsSync(metadataPath)) return;
+
+  const content = fs.readFileSync(metadataPath, 'utf8');
+  if (!/^interface:\s*$/m.test(content)) {
+    report(`${id}: agents/openai.yaml missing interface block`);
+  }
+
+  const displayName = readIndentedYamlField(content, 'display_name');
+  const shortDescription = readIndentedYamlField(content, 'short_description');
+  const defaultPrompt = readIndentedYamlField(content, 'default_prompt');
+  const iconSmall = readIndentedYamlField(content, 'icon_small');
+  const iconLarge = readIndentedYamlField(content, 'icon_large');
+  const allowImplicitInvocation = readIndentedYamlField(content, 'allow_implicit_invocation');
+
+  if (typeof displayName !== 'string' || !displayName.trim()) {
+    report(`${id}: agents/openai.yaml display_name must be a non-empty string`);
+  }
+  if (typeof shortDescription !== 'string' || !shortDescription.trim()) {
+    report(`${id}: agents/openai.yaml short_description must be a non-empty string`);
+  }
+  if (typeof defaultPrompt !== 'string' || !defaultPrompt.trim()) {
+    report(`${id}: agents/openai.yaml default_prompt must be a non-empty string`);
+  } else if (!defaultPrompt.includes(`$${id}`)) {
+    report(`${id}: agents/openai.yaml default_prompt must mention $${id}`);
+  }
+  if (iconSmall !== null && (typeof iconSmall !== 'string' || !iconSmall.trim())) {
+    report(`${id}: agents/openai.yaml icon_small must be a non-empty string when present`);
+  }
+  if (iconLarge !== null && (typeof iconLarge !== 'string' || !iconLarge.trim())) {
+    report(`${id}: agents/openai.yaml icon_large must be a non-empty string when present`);
+  }
+  if (allowImplicitInvocation !== null && typeof allowImplicitInvocation !== 'boolean') {
+    report(`${id}: agents/openai.yaml allow_implicit_invocation must be true or false when present`);
+  }
+}
+
 function validateSkill(skillDir) {
   const id = path.basename(skillDir);
   assertNoForbiddenFiles(skillDir);
@@ -98,6 +161,7 @@ function validateSkill(skillDir) {
   }
 
   validateManifest(skillDir, readJson(manifestPath));
+  validateOpenAiMetadata(skillDir);
 }
 
 function main() {
