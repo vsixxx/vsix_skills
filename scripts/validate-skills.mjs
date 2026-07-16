@@ -105,7 +105,7 @@ function main() {
     report(`Missing skills directory: ${skillsRoot}`);
   } else {
     const skillDirs = fs.readdirSync(skillsRoot, { withFileTypes: true })
-      .filter((entry) => entry.isDirectory())
+      .filter((entry) => entry.isDirectory() && !entry.name.startsWith('_'))
       .map((entry) => path.join(skillsRoot, entry.name))
       .sort((a, b) => path.basename(a).localeCompare(path.basename(b)));
 
@@ -123,4 +123,3 @@ function main() {
 }
 
 main();
-
