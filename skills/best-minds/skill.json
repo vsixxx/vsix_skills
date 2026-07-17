@@ -1,0 +1,28 @@
+{
+  "id": "best-minds",
+  "title": "Best Minds",
+  "descriptionZh": "从最相关的顶尖专家或思想流派出发，基于公开观点重建其分析方式，并比较不同视角会如何影响结论。",
+  "type": "agent-skill",
+  "category": "研究与知识",
+  "sourceUrl": "https://github.com/Ceeon/best-minds",
+  "homepage": "https://github.com/Ceeon/best-minds",
+  "license": "MIT",
+  "author": "Chengfeng",
+  "status": "experimental",
+  "updatedAt": "2026-07-17",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
+}

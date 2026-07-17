@@ -1,0 +1,4 @@
+interface:
+  display_name: "Best Minds"
+  short_description: "用顶尖专家和思想流派的公开观点分析问题"
+  default_prompt: "使用 $best-minds 找出最相关的专家视角，并基于可验证的公开观点分析这个问题。"

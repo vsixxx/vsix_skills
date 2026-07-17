@@ -1,15 +1,15 @@
 {
   "id": "humanizer",
   "title": "Humanizer",
-  "descriptionZh": "人性化文本：去除 AI 腔，加入真实语气。",
+  "descriptionZh": "优化中文或英文文本，去除常见的 AI 写作痕迹，同时保留原意、语气和作者自己的表达方式。",
   "type": "codex-skill",
   "category": "内容创作",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/humanizer",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
-  "author": "Siqi Chen (@blader, https://github.com/blader/humanizer), ported by Nous Research",
+  "author": "Siqi Chen（原作）、歸藏（中文本地化）、Nous Research（移植）",
   "status": "recommended",
-  "updatedAt": "2026-07-14",
+  "updatedAt": "2026-07-17",
   "requirements": {
     "user": {
       "systems": [],
