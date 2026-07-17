@@ -4,14 +4,29 @@
   "descriptionZh": "将 alibaba/page-agent 嵌入您自己的 Web 应用 — 一个纯 JavaScript 页内 GUI agent，以单个 `<script>` 标签或 npm 包形式提供，让您网站的终端用户可以用自然语言驱动 UI（如\"点击登录，填写用户名...\"）。",
   "type": "codex-skill",
   "category": "网页与前端",
-  "prerequisites": [
-    "JavaScript web app or HTML page to integrate",
-    "Model API key or compatible endpoint for page-agent runtime"
-  ],
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/web-development/page-agent",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [
+        "模型 API Key 或兼容接口"
+      ],
+      "services": [],
+      "hardware": [],
+      "resources": [
+        "可集成的 JavaScript Web 应用或 HTML 页面"
+      ],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

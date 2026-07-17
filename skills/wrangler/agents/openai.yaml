@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wrangler CLI"
+  short_description: "使用 Wrangler 开发、部署并管理 Cloudflare 平台资源"
+  default_prompt: "使用 $wrangler 为当前 Cloudflare 项目执行正确的 Wrangler 操作。"

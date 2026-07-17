@@ -1,0 +1,33 @@
+{
+  "id": "cloudflare-workers-deploy",
+  "title": "Cloudflare Workers Deploy",
+  "descriptionZh": "为静态站、SPA、全栈应用、API、Python 服务和数据应用选择并实现当前 Workers-first 部署方案。",
+  "type": "agent-skill",
+  "category": "Cloudflare",
+  "sourceUrl": "https://github.com/vsixxx/vsix_skills/tree/main/skills/cloudflare-workers-deploy",
+  "author": "VSIX",
+  "status": "recommended",
+  "updatedAt": "2026-07-16",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [
+        "Cloudflare 账号（执行部署时）"
+      ],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+        "wrangler"
+      ]
+    }
+  }
+}

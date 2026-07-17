@@ -3,12 +3,26 @@
   "title": "Requesting Code Review",
   "descriptionZh": "提交前审查：安全扫描、质量门控、自动修复。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/requesting-code-review",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research (adapted from obra/superpowers + MorAlekss)",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

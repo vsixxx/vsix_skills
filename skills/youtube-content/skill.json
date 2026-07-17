@@ -3,14 +3,28 @@
   "title": "YouTube Content",
   "descriptionZh": "将 YouTube 字幕转换为摘要、推文串、博客文章。",
   "type": "codex-skill",
-  "category": "写作与内容",
-  "prerequisites": [
-    "Package: youtube-transcript-api"
-  ],
+  "category": "内容创作",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/media/youtube-content",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": [
+        "youtube-transcript-api"
+      ]
+    }
+  }
 }

@@ -3,14 +3,28 @@
   "title": "Codebase Inspection",
   "descriptionZh": "使用 pygount 检查代码库：代码行数、语言、占比。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Command: pygount"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/github/codebase-inspection",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "pygount"
+      ],
+      "packages": []
+    }
+  }
 }

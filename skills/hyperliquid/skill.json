@@ -3,12 +3,26 @@
   "title": "Hyperliquid",
   "descriptionZh": "Hyperliquid 市场数据、账户历史、交易回顾。",
   "type": "codex-skill",
-  "category": "其他",
-  "prerequisites": [],
+  "category": "商业与金融",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/blockchain/hyperliquid",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Hugo Sequier (Hugo-SEQUIER)",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

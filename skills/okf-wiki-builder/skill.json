@@ -1,0 +1,29 @@
+{
+  "id": "okf-wiki-builder",
+  "title": "OKF Wiki Builder",
+  "descriptionZh": "构建、迁移和校验可移植的 OKF 知识库，为软件、研究、运营与创意项目沉淀长期可维护的事实和决策。",
+  "type": "agent-skill",
+  "category": "研究与知识",
+  "sourceUrl": "https://github.com/vsixxx/vsix_skills/tree/main/skills/okf-wiki-builder",
+  "homepage": "https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf",
+  "author": "VSIX",
+  "status": "recommended",
+  "updatedAt": "2026-07-16",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "Python 3"
+      ],
+      "packages": []
+    }
+  }
+}

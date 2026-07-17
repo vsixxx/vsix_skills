@@ -1,0 +1,6 @@
+interface:
+  display_name: "VSIX Skill Finder"
+  short_description: "从 VSIX Skills 查找并安全安装适合当前任务的 Skill"
+  default_prompt: "使用 $vsix-skill-finder 查找适合当前任务的 Skill，并在我确认后完成校验和安装。"
+policy:
+  allow_implicit_invocation: true

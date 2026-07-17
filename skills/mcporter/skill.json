@@ -3,14 +3,28 @@
   "title": "Mcporter",
   "descriptionZh": "使用 mcporter CLI 列出、配置、鉴权并直接调用 MCP 服务器/工具（HTTP 或 stdio），包括临时服务器、配置编辑及 CLI/类型生成。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Command: npx"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mcp/mcporter",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "community",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "npx"
+      ],
+      "packages": []
+    }
+  }
 }

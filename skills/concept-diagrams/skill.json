@@ -3,12 +3,26 @@
   "title": "Concept Diagrams",
   "descriptionZh": "生成扁平、极简、支持亮色/暗色模式的 SVG 图表，输出为独立 HTML 文件，采用统一的教育视觉语言，包含 9 种语义色阶、句首大写排版及自动暗色模式。最适合教育和说明类内容。",
   "type": "codex-skill",
-  "category": "图片与视觉",
-  "prerequisites": [],
+  "category": "图片与设计",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/concept-diagrams",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "v1k22 (original PR), ported by Nous Research",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

@@ -3,19 +3,35 @@
   "title": "Stable Diffusion Image Generation",
   "descriptionZh": "通过 HuggingFace Diffusers 使用 Stable Diffusion 模型进行最先进的文本到图像生成。适用于从文本 prompt 生成图像、图像到图像转换、图像修复或构建自定义扩散流水线的场景。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Package: diffusers>=0.30.0",
-    "Package: transformers>=4.41.0",
-    "Package: accelerate>=0.31.0",
-    "Package: torch>=2.0.0",
-    "Local model weights or Hugging Face access",
-    "GPU recommended"
-  ],
+  "category": "图片与设计",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/stable-diffusion",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Orchestra Research",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [
+        "建议使用 GPU"
+      ],
+      "resources": [
+        "本地模型权重或 Hugging Face 访问权限"
+      ],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": [
+        "diffusers>=0.30.0",
+        "transformers>=4.41.0",
+        "accelerate>=0.31.0",
+        "torch>=2.0.0"
+      ]
+    }
+  }
 }

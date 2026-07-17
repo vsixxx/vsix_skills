@@ -3,12 +3,26 @@
   "title": "3 Statement Model",
   "descriptionZh": "在 Excel 中构建完整集成的三表模型（利润表、资产负债表、现金流量表），包含营运资本计划、折旧摊销滚动、债务计划及使现金与留存收益平衡的勾稽项。与 excel-author 配合使用。",
   "type": "codex-skill",
-  "category": "文档与表格",
-  "prerequisites": [],
+  "category": "商业与金融",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/finance/3-statement-model",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "Apache-2.0",
   "author": "Anthropic (adapted by Nous Research)",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

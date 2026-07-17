@@ -4,11 +4,25 @@
   "descriptionZh": "用于技术提案和权衡分析的结构化决策框架。当用户面临多种方案选择（架构决策、工具选型、重构策略、迁移路径）时，本技能提供系统化的分析流程。",
   "type": "codex-skill",
   "category": "自动化与工作流",
-  "prerequisites": [],
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/communication/one-three-one-rule",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Willard Moore",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

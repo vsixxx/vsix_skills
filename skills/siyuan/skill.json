@@ -3,17 +3,33 @@
   "title": "Siyuan",
   "descriptionZh": "通过 curl 使用 SiYuan Note API，在自托管知识库中搜索、读取、创建和管理块与文档。",
   "type": "codex-skill",
-  "category": "文档与表格",
-  "prerequisites": [
-    "Command: curl",
-    "Command: jq",
-    "Environment variable: SIYUAN_TOKEN",
-    "Environment variable: SIYUAN_URL"
-  ],
+  "category": "研究与知识",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/productivity/siyuan",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "FEUAZUR",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [
+        "思源笔记 API Token"
+      ],
+      "services": [
+        "思源笔记服务地址（SIYUAN_URL）"
+      ],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "curl",
+        "jq"
+      ],
+      "packages": []
+    }
+  }
 }

@@ -12,17 +12,18 @@ const validTypes = new Set([
 ]);
 
 const validCategories = new Set([
-  '写作与内容',
-  '图片与视觉',
-  '视频与动画',
-  '文档与表格',
+  '内容创作',
+  '图片与设计',
+  '视频与音频',
+  '办公与文档',
+  '研究与知识',
+  '商业与金融',
   '网页与前端',
-  '部署与运维',
-  'Cloudflare',
+  '开发与代码',
   '自动化与工作流',
-  '知识库与模板',
-  '开发辅助',
-  '安全与验证',
+  '部署与运维',
+  '测试与安全',
+  'Cloudflare',
   '其他',
 ]);
 
@@ -32,8 +33,23 @@ const requiredFields = [
   'descriptionZh',
   'type',
   'category',
-  'prerequisites',
+  'requirements',
   'sourceUrl',
+];
+
+const userRequirementFields = [
+  'systems',
+  'software',
+  'auth',
+  'services',
+  'hardware',
+  'resources',
+  'notes',
+];
+
+const agentRequirementFields = [
+  'tools',
+  'packages',
 ];
 
 const forbiddenNames = new Set([
@@ -104,7 +120,33 @@ function validateManifest(skillDir, manifest) {
   if (manifest.id !== id) report(`${id}: manifest id must match folder name`);
   if (!validTypes.has(manifest.type)) report(`${id}: invalid type "${manifest.type}"`);
   if (!validCategories.has(manifest.category)) report(`${id}: invalid category "${manifest.category}"`);
-  if (!Array.isArray(manifest.prerequisites)) report(`${id}: prerequisites must be an array`);
+  if ('prerequisites' in manifest) report(`${id}: use requirements instead of prerequisites`);
+  if (!manifest.requirements || typeof manifest.requirements !== 'object' || Array.isArray(manifest.requirements)) {
+    report(`${id}: requirements must be an object`);
+  } else {
+    for (const group of Object.keys(manifest.requirements)) {
+      if (!['user', 'agent'].includes(group)) report(`${id}: unexpected requirements group "${group}"`);
+    }
+    for (const group of ['user', 'agent']) {
+      if (!manifest.requirements[group] || typeof manifest.requirements[group] !== 'object' || Array.isArray(manifest.requirements[group])) {
+        report(`${id}: requirements.${group} must be an object`);
+      }
+    }
+    for (const [group, fields] of [['user', userRequirementFields], ['agent', agentRequirementFields]]) {
+      if (!manifest.requirements[group] || typeof manifest.requirements[group] !== 'object') continue;
+      for (const field of Object.keys(manifest.requirements[group])) {
+        if (!fields.includes(field)) report(`${id}: unexpected requirements.${group} field "${field}"`);
+      }
+      for (const field of fields) {
+        if (!(field in manifest.requirements[group])) report(`${id}: requirements.${group} missing field "${field}"`);
+        if (!Array.isArray(manifest.requirements[group][field])) {
+          report(`${id}: requirements.${group}.${field} must be an array`);
+        } else if (manifest.requirements[group][field].some((item) => typeof item !== 'string' || !item.trim())) {
+          report(`${id}: requirements.${group}.${field} must contain only non-empty strings`);
+        }
+      }
+    }
+  }
 }
 
 function validateOpenAiMetadata(skillDir) {

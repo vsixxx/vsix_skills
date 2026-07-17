@@ -3,15 +3,29 @@
   "title": "Memento Flashcards",
   "descriptionZh": "间隔重复闪卡系统。从事实或文本创建卡片，通过 agent 评分的自由文本回答与闪卡对话，从 YouTube 字幕生成测验，使用自适应调度复习到期卡片，并支持导出/导入。",
   "type": "codex-skill",
-  "category": "文档与表格",
-  "prerequisites": [
-    "Platform: macos",
-    "Platform: linux"
-  ],
+  "category": "研究与知识",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/productivity/memento-flashcards",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Memento AI",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [
+        "macOS",
+        "Linux"
+      ],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

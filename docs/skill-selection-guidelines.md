@@ -8,7 +8,7 @@ This repository prioritizes skills that are useful to public Codex App users and
 - Skills with clear user-facing value and simple first-run setup.
 - Skills that rely on common local tools, small scripts, or optional API keys.
 - Skills whose instructions can be adapted from upstream wording without changing their core workflow.
-- Skills with concrete public metadata, including Chinese description and explicit prerequisites.
+- Skills with concrete public metadata, including Chinese description and requirements separated into user-provided and agent-managed fields.
 
 ## Remove
 
@@ -38,7 +38,7 @@ Do not rewrite a Hermes-specific command or config path into a fake Codex equiva
 
 ## Heavy Dependency Signals
 
-Flag the skill for user review when prerequisites or instructions mention:
+Flag the skill for user review when requirements or instructions mention:
 
 - CUDA, GPU, VRAM, multi-GPU, model checkpoints, model serving, or LLM inference servers.
 - Torch, Transformers, vLLM, FSDP, Axolotl, TRL, PEFT, Unsloth, TensorRT, or similar ML stacks.
@@ -52,4 +52,3 @@ During review, classify each skill as:
 - `keep`: safe enough and useful as-is or after light wording edits.
 - `remove`: Hermes-only, too heavy, too risky, too niche, or too complex for the public catalog.
 - `needs-user-decision`: potentially useful but has heavy dependencies, paid/API setup, or unclear public fit.
-

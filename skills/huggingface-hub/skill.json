@@ -3,15 +3,30 @@
   "title": "Huggingface Hub",
   "descriptionZh": "HuggingFace hf CLI：搜索/下载/上传模型、数据集。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Command: hf",
-    "Hugging Face token for private upload/download operations"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/huggingface-hub",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Hugging Face",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [
+        "Hugging Face Token（私有上传/下载时需要）"
+      ],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "hf"
+      ],
+      "packages": []
+    }
+  }
 }

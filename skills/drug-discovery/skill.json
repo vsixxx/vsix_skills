@@ -3,15 +3,29 @@
   "title": "Drug Discovery",
   "descriptionZh": "药物发现工作流的制药研究助手。在 ChEMBL 上搜索生物活性化合物，计算类药性（Lipinski Ro5、QED、TPSA、合成可及性），通过 OpenFDA 查询药物相互作用，解读 ADMET 属性。",
   "type": "codex-skill",
-  "category": "知识库与模板",
-  "prerequisites": [
-    "Command: curl",
-    "Command: python3"
-  ],
+  "category": "研究与知识",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/drug-discovery",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "bennytimz",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "curl",
+        "python3"
+      ],
+      "packages": []
+    }
+  }
 }

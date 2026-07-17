@@ -3,15 +3,30 @@
   "title": "Qdrant Vector Search",
   "descriptionZh": "高性能向量相似性搜索引擎，适用于 RAG 和语义搜索。适用于构建需要快速近邻搜索、带过滤的混合搜索或基于 Rust 高性能的可扩展向量存储的生产 RAG 系统。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Package: qdrant-client>=1.12.0",
-    "Running Qdrant instance or Qdrant Cloud endpoint"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/qdrant",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Orchestra Research",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [
+        "已运行的 Qdrant 实例或 Qdrant Cloud 接口"
+      ],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": [
+        "qdrant-client>=1.12.0"
+      ]
+    }
+  }
 }

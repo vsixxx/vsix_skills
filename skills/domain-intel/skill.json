@@ -3,12 +3,26 @@
   "title": "Domain Intel",
   "descriptionZh": "使用 Python 标准库进行被动域名侦察。子域名发现、SSL 证书检查、WHOIS 查询、DNS 记录、域名可用性检测及批量多域名分析。无需 API 密钥。",
   "type": "codex-skill",
-  "category": "知识库与模板",
-  "prerequisites": [],
+  "category": "测试与安全",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/domain-intel",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

@@ -3,12 +3,26 @@
   "title": "Baoyu Comic",
   "descriptionZh": "把知识、教程或人物故事制作成结构化教育漫画。",
   "type": "codex-skill",
-  "category": "写作与内容",
-  "prerequisites": [],
+  "category": "内容创作",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/baoyu-comic",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "宝玉 (JimLiu)",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

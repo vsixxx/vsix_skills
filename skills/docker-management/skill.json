@@ -4,14 +4,29 @@
   "descriptionZh": "管理 Docker 容器、镜像、卷、网络及 Compose 栈 — 生命周期操作、调试、清理及 Dockerfile 优化。",
   "type": "codex-skill",
   "category": "部署与运维",
-  "prerequisites": [
-    "Command: docker",
-    "Docker daemon running"
-  ],
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/devops/docker-management",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "sprmn24",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [
+        "Docker"
+      ],
+      "auth": [],
+      "services": [
+        "Docker 服务已运行"
+      ],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

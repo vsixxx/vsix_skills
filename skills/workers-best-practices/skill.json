@@ -1,0 +1,34 @@
+{
+  "id": "workers-best-practices",
+  "title": "Workers Best Practices",
+  "descriptionZh": "依据 Cloudflare 官方最佳实践编写和审查 Workers 代码，检查流式处理、异步任务、全局状态、密钥、绑定与可观测性。",
+  "type": "agent-skill",
+  "category": "Cloudflare",
+  "sourceUrl": "https://github.com/cloudflare/skills/tree/main/skills/workers-best-practices",
+  "homepage": "https://github.com/cloudflare/skills",
+  "license": "Apache-2.0",
+  "author": "Cloudflare",
+  "status": "recommended",
+  "updatedAt": "2026-07-16",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+        "wrangler",
+        "@cloudflare/workers-types"
+      ]
+    }
+  }
+}

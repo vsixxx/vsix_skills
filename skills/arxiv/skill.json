@@ -3,12 +3,26 @@
   "title": "Arxiv",
   "descriptionZh": "按关键词、作者、分类或 ID 搜索 arXiv 论文。",
   "type": "codex-skill",
-  "category": "知识库与模板",
-  "prerequisites": [],
+  "category": "研究与知识",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/research/arxiv",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

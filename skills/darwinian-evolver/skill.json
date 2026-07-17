@@ -3,17 +3,33 @@
   "title": "Darwinian Evolver",
   "descriptionZh": "使用 Imbue 的进化循环演化 prompt/正则表达式/SQL/代码。",
   "type": "codex-skill",
-  "category": "知识库与模板",
-  "prerequisites": [
-    "Platform: linux",
-    "Platform: macos",
-    "Command: uv",
-    "External LLM API key or compatible model endpoint"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/darwinian-evolver",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Bihruze (Asahi0x)",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [
+        "Linux",
+        "macOS"
+      ],
+      "software": [],
+      "auth": [
+        "外部 LLM API Key 或兼容模型接口"
+      ],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "uv"
+      ],
+      "packages": []
+    }
+  }
 }

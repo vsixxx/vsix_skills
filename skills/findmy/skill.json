@@ -4,14 +4,29 @@
   "descriptionZh": "在 macOS 上通过 FindMy.app 追踪 Apple 设备/AirTag。",
   "type": "codex-skill",
   "category": "自动化与工作流",
-  "prerequisites": [
-    "Platform: macos",
-    "Apple Find My app configured on this Mac"
-  ],
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/apple/findmy",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [
+        "macOS"
+      ],
+      "software": [],
+      "auth": [],
+      "services": [
+        "当前 Mac 已配置“查找”应用"
+      ],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

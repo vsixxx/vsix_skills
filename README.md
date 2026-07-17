@@ -48,8 +48,22 @@ Required fields:
   "title": "Example Skill",
   "descriptionZh": "一句中文说明，告诉普通用户这个 skill 适合做什么。",
   "type": "agent-skill",
-  "category": "开发辅助",
-  "prerequisites": [],
+  "category": "开发与代码",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  },
   "sourceUrl": "https://github.com/vsixcc/vsix-skills/tree/main/skills/example-skill"
 }
 ```
@@ -58,10 +72,22 @@ Rules:
 
 - `id` must match the folder name.
 - `descriptionZh` should be concise Chinese copy for public users.
-- `prerequisites` must be an array. Leave it empty when there are no concrete extra requirements.
-- Put concrete requirements in `prerequisites`, such as API keys, accounts, CLI tools, local runtimes, or paid services.
+- `requirements` must contain the exact `user` and `agent` objects shown above.
+- Leave a requirement field as an empty array when it does not apply.
+- Put requirements that need user action in `requirements.user`. The site displays these as “开始前确认”:
+  - `systems` - supported systems, such as `macOS` or `Linux`.
+  - `software` - desktop apps, licensed software, or other software the user must install or configure manually.
+  - `auth` - API keys, tokens, OAuth login, or account credentials the user must provide.
+  - `services` - local or remote services the user must start, configure, or obtain access to.
+  - `hardware` - required or recommended hardware.
+  - `resources` - local files, model weights, workspaces, vault paths, or datasets the user must prepare.
+  - `notes` - short user-facing setup notes that do not fit the fields above.
+- Put dependencies the agent can detect and install in `requirements.agent`. The site does not display these:
+  - `tools` - command-line tools and runtimes.
+  - `packages` - language packages and installable libraries.
+- Do not put an automatically installable command-line dependency in `requirements.user.software`.
 - Do not add generic requirements like "needs an agent that supports skills".
-- Do not add a separate `requiresApiKey` field. API keys belong in `prerequisites`.
+- Do not add a separate `requiresApiKey` field. API keys belong in `requirements.user.auth`.
 
 Optional fields:
 
@@ -84,18 +110,28 @@ Allowed `type` values:
 
 Allowed `category` values:
 
-- `写作与内容`
-- `图片与视觉`
-- `视频与动画`
-- `文档与表格`
+- `内容创作`
+- `图片与设计`
+- `视频与音频`
+- `办公与文档`
+- `研究与知识`
+- `商业与金融`
 - `网页与前端`
-- `部署与运维`
-- `Cloudflare`
+- `开发与代码`
 - `自动化与工作流`
-- `知识库与模板`
-- `开发辅助`
-- `安全与验证`
+- `部署与运维`
+- `测试与安全`
+- `Cloudflare`
 - `其他`
+
+Choose the category by the user's primary goal:
+
+- Classify the complete task, not the implementation technology or file extension.
+- Use `内容创作` when visuals are part of producing an article, comic, tutorial, social post, or other publishable content.
+- Use `图片与设计` when the primary result is a standalone visual asset, diagram, image, 3D scene, or design artifact.
+- Prefer a specific business domain when it defines the task. Financial models belong in `商业与金融`, not `办公与文档`.
+- Keep exactly one primary category. Do not emulate categories with tags.
+- `Cloudflare` is an intentional platform-specific category; other vendor names should not become categories without a catalog-level decision.
 
 Suggested `status` values:
 

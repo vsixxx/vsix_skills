@@ -3,15 +3,29 @@
   "title": "Ascii Video",
   "descriptionZh": "ASCII 视频：将视频/音频转换为彩色 ASCII MP4/GIF。",
   "type": "codex-skill",
-  "category": "视频与动画",
-  "prerequisites": [
-    "Command: python3",
-    "Command: ffmpeg"
-  ],
+  "category": "视频与音频",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/ascii-video",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "python3",
+        "ffmpeg"
+      ],
+      "packages": []
+    }
+  }
 }

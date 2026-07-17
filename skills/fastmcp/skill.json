@@ -3,14 +3,28 @@
   "title": "Fastmcp",
   "descriptionZh": "使用 Python 中的 FastMCP 构建、测试、检查、安装和部署 MCP 服务器。适用于创建新 MCP 服务器、将 API 或数据库封装为 MCP 工具、暴露资源或 prompt（提示词），或为支持 MCP 的客户端或 HTTP 部署准备 FastMCP 服务器的场景。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Command: python3"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mcp/fastmcp",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "python3"
+      ],
+      "packages": []
+    }
+  }
 }

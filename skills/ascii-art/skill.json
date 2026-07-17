@@ -3,12 +3,26 @@
   "title": "Ascii Art",
   "descriptionZh": "ASCII 艺术：pyfiglet、cowsay、boxes、图像转 ASCII。",
   "type": "codex-skill",
-  "category": "图片与视觉",
-  "prerequisites": [],
+  "category": "图片与设计",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/ascii-art",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "0xbyt4",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

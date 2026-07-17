@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloudflare Platform"
+  short_description: "覆盖 Workers、存储、AI、安全与网络的 Cloudflare 综合指南"
+  default_prompt: "使用 $cloudflare 为当前 Cloudflare 任务选择正确产品并给出可靠实现。"

@@ -3,12 +3,26 @@
   "title": "Powerpoint",
   "descriptionZh": "创建、读取、编辑 .pptx 演示文稿、幻灯片、备注、模板。",
   "type": "codex-skill",
-  "category": "文档与表格",
-  "prerequisites": [],
+  "category": "办公与文档",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/powerpoint",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "Proprietary. LICENSE.txt has complete terms",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

@@ -3,15 +3,30 @@
   "title": "Pixel Art",
   "descriptionZh": "设计和生成像素画、精灵及像素风视觉资源。",
   "type": "codex-skill",
-  "category": "图片与视觉",
-  "prerequisites": [
-    "Package: Pillow",
-    "Command: ffmpeg for video output"
-  ],
+  "category": "图片与设计",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/pixel-art",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "dodo-reach",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "ffmpeg（视频输出时需要）"
+      ],
+      "packages": [
+        "Pillow"
+      ]
+    }
+  }
 }

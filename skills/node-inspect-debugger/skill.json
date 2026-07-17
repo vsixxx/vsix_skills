@@ -3,14 +3,28 @@
   "title": "Node Inspect Debugger",
   "descriptionZh": "通过 --inspect + Chrome DevTools Protocol CLI 调试 Node.js。",
   "type": "codex-skill",
-  "category": "开发辅助",
-  "prerequisites": [
-    "Command: node"
-  ],
+  "category": "开发与代码",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/software-development/node-inspect-debugger",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "node"
+      ],
+      "packages": []
+    }
+  }
 }

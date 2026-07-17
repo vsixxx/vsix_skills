@@ -3,12 +3,26 @@
   "title": "Adversarial Ux Test",
   "descriptionZh": "扮演产品中最难应对的技术抵触型用户。以该角色浏览应用，找出所有 UX 痛点，再通过实用主义过滤层区分真实问题与噪音，生成可执行的工单。",
   "type": "codex-skill",
-  "category": "安全与验证",
-  "prerequisites": [],
+  "category": "测试与安全",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/dogfood/adversarial-ux-test",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Omni @ Comelse",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

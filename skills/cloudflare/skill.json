@@ -1,0 +1,28 @@
+{
+  "id": "cloudflare",
+  "title": "Cloudflare Platform",
+  "descriptionZh": "覆盖 Workers、Pages、KV、D1、R2、AI、网络、安全与基础设施即代码的 Cloudflare 平台综合指南。",
+  "type": "agent-skill",
+  "category": "Cloudflare",
+  "sourceUrl": "https://github.com/cloudflare/skills/tree/main/skills/cloudflare",
+  "homepage": "https://github.com/cloudflare/skills",
+  "license": "Apache-2.0",
+  "author": "Cloudflare",
+  "status": "recommended",
+  "updatedAt": "2026-07-16",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
+}

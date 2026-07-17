@@ -3,16 +3,31 @@
   "title": "Manim Video",
   "descriptionZh": "Manim CE 动画：3Blue1Brown 风格数学/算法视频。",
   "type": "codex-skill",
-  "category": "视频与动画",
-  "prerequisites": [
-    "Command: manim",
-    "Command: ffmpeg",
-    "Python environment with Manim CE"
-  ],
+  "category": "视频与音频",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/manim-video",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "manim",
+        "ffmpeg"
+      ],
+      "packages": [
+        "Manim CE Python 环境"
+      ]
+    }
+  }
 }

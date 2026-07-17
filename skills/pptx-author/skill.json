@@ -3,12 +3,26 @@
   "title": "PPTX Author",
   "descriptionZh": "使用 python-pptx 无头构建 PowerPoint 演示文稿。与 excel-author 配合，制作每个数字均可追溯至工作簿单元格的模型支撑型幻灯片。适用于 pitch deck、投委会备忘录、盈利说明。",
   "type": "codex-skill",
-  "category": "文档与表格",
-  "prerequisites": [],
+  "category": "办公与文档",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/finance/pptx-author",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "Apache-2.0",
   "author": "Anthropic (adapted by Nous Research)",
   "status": "experimental",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }

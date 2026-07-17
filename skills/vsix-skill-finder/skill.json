@@ -1,0 +1,27 @@
+{
+  "id": "vsix-skill-finder",
+  "title": "VSIX Skill Finder",
+  "descriptionZh": "当当前 Agent 缺少合适能力时，从 VSIX Skills 查找、比较并安全安装适合任务的 Skill。",
+  "type": "codex-skill",
+  "category": "研究与知识",
+  "sourceUrl": "https://github.com/vsixxx/vsix_skills/tree/main/skills/vsix-skill-finder",
+  "homepage": "https://vsix.cc/skills/",
+  "author": "VSIX",
+  "status": "recommended",
+  "updatedAt": "2026-07-16",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
+}

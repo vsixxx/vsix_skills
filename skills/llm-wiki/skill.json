@@ -3,12 +3,26 @@
   "title": "LLM Wiki",
   "descriptionZh": "Karpathy 的 LLM Wiki：构建/查询互联 Markdown 知识库。",
   "type": "codex-skill",
-  "category": "知识库与模板",
-  "prerequisites": [],
+  "category": "研究与知识",
   "sourceUrl": "https://github.com/NousResearch/hermes-agent/tree/main/skills/research/llm-wiki",
   "homepage": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
   "author": "Nous Research",
   "status": "recommended",
-  "updatedAt": "2026-07-14"
+  "updatedAt": "2026-07-14",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [],
+      "packages": []
+    }
+  }
 }
