@@ -163,7 +163,7 @@ The GitHub Action runs the same validation on pull requests and pushes to `main`
 
 ## Packaging
 
-`scripts/generate-catalog.mjs` reads `skills/*/skill.json`, validates each folder, and packages each skill as:
+The production catalog automation reads `skills/*/skill.json`, validates each folder, and packages each skill as:
 
 ```text
 /skills/packages/<skill-id>.zip

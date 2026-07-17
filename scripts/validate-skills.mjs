@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const repoRoot = path.resolve(import.meta.dirname, '..');
 const skillsRoot = path.join(repoRoot, 'skills');
+const validSkillId = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 
 const validTypes = new Set([
   'codex-skill',
@@ -102,6 +103,10 @@ function readIndentedYamlField(content, field) {
 function assertNoForbiddenFiles(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const fullPath = path.join(dir, entry.name);
+    if (entry.isSymbolicLink()) {
+      report(`Symbolic links are not allowed: ${fullPath}`);
+      continue;
+    }
     if (forbiddenNames.has(entry.name)) {
       report(`Forbidden file or directory: ${fullPath}`);
     }
@@ -190,6 +195,7 @@ function validateOpenAiMetadata(skillDir) {
 
 function validateSkill(skillDir) {
   const id = path.basename(skillDir);
+  if (!validSkillId.test(id)) report(`${id}: folder name must use lowercase kebab-case`);
   assertNoForbiddenFiles(skillDir);
 
   if (!fs.existsSync(path.join(skillDir, 'SKILL.md'))) {
@@ -210,7 +216,11 @@ function main() {
   if (!fs.existsSync(skillsRoot)) {
     report(`Missing skills directory: ${skillsRoot}`);
   } else {
-    const skillDirs = fs.readdirSync(skillsRoot, { withFileTypes: true })
+    const entries = fs.readdirSync(skillsRoot, { withFileTypes: true });
+    for (const entry of entries) {
+      if (entry.isSymbolicLink()) report(`Symbolic links are not allowed in skills root: ${entry.name}`);
+    }
+    const skillDirs = entries
       .filter((entry) => entry.isDirectory() && !entry.name.startsWith('_'))
       .map((entry) => path.join(skillsRoot, entry.name))
       .sort((a, b) => path.basename(a).localeCompare(path.basename(b)));
