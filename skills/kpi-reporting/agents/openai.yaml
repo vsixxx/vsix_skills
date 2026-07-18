@@ -1,0 +1,6 @@
+interface:
+  display_name: "KPI Reporting"
+  short_description: "Produce leadership-ready KPI updates and scorecards"
+  default_prompt: "Use $kpi-reporting to handle this skill request."
+policy:
+  allow_implicit_invocation: true

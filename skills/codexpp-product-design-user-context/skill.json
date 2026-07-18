@@ -1,0 +1,52 @@
+{
+  "id": "codexpp-product-design-user-context",
+  "title": "Codexpp Product Design User Context",
+  "descriptionZh": "保存和管理产品、Figma、设计系统、品牌与代码库上下文。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "产品 Brief、URL、截图、Figma 或代码库（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/product-design",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "product-design",
+  "upstreamPath": "product-design/skills/user-context",
+  "upstreamSha256": "16d3f9157bffeb8b3395d012036e20f7b1f5dedb83ba1a227d56abd00c0af48d"
+}

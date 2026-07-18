@@ -1,0 +1,6 @@
+interface:
+  display_name: "Generative Polish"
+  short_description: "Make selected visuals publish-ready with ImageGen polish."
+  default_prompt: "Use $generative-polish to handle this skill request."
+policy:
+  allow_implicit_invocation: true

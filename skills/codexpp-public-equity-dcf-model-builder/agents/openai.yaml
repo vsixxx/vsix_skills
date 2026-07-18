@@ -1,0 +1,6 @@
+interface:
+  display_name: "DCF Model Builder"
+  short_description: "Builds formula-first public-equity DCF workbooks with source labels, FCFF/FCFE logic, WACC, terminal value, EV/equity bridge, sensitivities, valuation checks, and QA logs."
+  default_prompt: "Use $codexpp-public-equity-dcf-model-builder to handle this skill request."
+policy:
+  allow_implicit_invocation: false

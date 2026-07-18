@@ -1,0 +1,6 @@
+interface:
+  display_name: "Enrich Company And Contact Data"
+  short_description: "Company, contact, and market enrichment for sales workflows"
+  default_prompt: "Use $enrich-company-and-contact-data to handle this skill request."
+policy:
+  allow_implicit_invocation: false

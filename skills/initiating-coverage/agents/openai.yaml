@@ -1,0 +1,6 @@
+interface:
+  display_name: "Initiating Coverage"
+  short_description: "Builds public-equity-investing initiation reports with thesis, model, valuation, catalysts, risks, and target price."
+  default_prompt: "Use $initiating-coverage to handle this skill request."
+policy:
+  allow_implicit_invocation: false

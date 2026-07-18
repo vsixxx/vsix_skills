@@ -1,0 +1,6 @@
+interface:
+  display_name: "Report To Google Slides"
+  short_description: "Convert existing HTML analytics reports into Google Slides decks"
+  default_prompt: "Use $report-to-google-slides to handle this skill request."
+policy:
+  allow_implicit_invocation: false

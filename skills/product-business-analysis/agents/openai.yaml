@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product And Business Analysis"
+  short_description: "Analyze product or business data to support decisions"
+  default_prompt: "Use $product-business-analysis to handle this skill request."
+policy:
+  allow_implicit_invocation: true

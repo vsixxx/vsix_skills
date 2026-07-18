@@ -1,0 +1,560 @@
+{
+  "sourceCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "sourceSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "importedCount": 109,
+  "excludedCount": 1,
+  "imported": [
+    {
+      "id": "catalyst-by-zoho",
+      "plugin": "app-6a16bcb9a37081919b0db1d81010fb2f",
+      "upstreamName": "catalyst-by-zoho"
+    },
+    {
+      "id": "codexpp-chronograph-gp-chronograph-portfolio-company-one-pager",
+      "plugin": "app-6a1a374657a88191bc1e22f3e9862dc6",
+      "upstreamName": "chronograph-portfolio-company-one-pager"
+    },
+    {
+      "id": "chronograph-cashflow-forecast",
+      "plugin": "chronograph",
+      "upstreamName": "chronograph-cashflow-forecast"
+    },
+    {
+      "id": "chronograph-gp-meeting-prep",
+      "plugin": "chronograph",
+      "upstreamName": "chronograph-gp-meeting-prep"
+    },
+    {
+      "id": "codexpp-chronograph-lp-chronograph-portfolio-company-one-pager",
+      "plugin": "chronograph",
+      "upstreamName": "chronograph-portfolio-company-one-pager"
+    },
+    {
+      "id": "ads-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "ads-explorer"
+    },
+    {
+      "id": "explore",
+      "plugin": "creative-production",
+      "upstreamName": "explore"
+    },
+    {
+      "id": "generative-polish",
+      "plugin": "creative-production",
+      "upstreamName": "generative-polish"
+    },
+    {
+      "id": "logo-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "logo-explorer"
+    },
+    {
+      "id": "moodboard-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "moodboard-explorer"
+    },
+    {
+      "id": "offer-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "offer-explorer"
+    },
+    {
+      "id": "positioning-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "positioning-explorer"
+    },
+    {
+      "id": "scene-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "scene-explorer"
+    },
+    {
+      "id": "shot-explorer",
+      "plugin": "creative-production",
+      "upstreamName": "shot-explorer"
+    },
+    {
+      "id": "analyze-data-quality",
+      "plugin": "data-analytics",
+      "upstreamName": "analyze-data-quality"
+    },
+    {
+      "id": "build-dashboard",
+      "plugin": "data-analytics",
+      "upstreamName": "build-dashboard"
+    },
+    {
+      "id": "build-report",
+      "plugin": "data-analytics",
+      "upstreamName": "build-report"
+    },
+    {
+      "id": "report-to-google-doc",
+      "plugin": "data-analytics",
+      "upstreamName": "report-to-google-doc"
+    },
+    {
+      "id": "report-to-google-slides",
+      "plugin": "data-analytics",
+      "upstreamName": "report-to-google-slides"
+    },
+    {
+      "id": "report-to-pdf",
+      "plugin": "data-analytics",
+      "upstreamName": "report-to-pdf"
+    },
+    {
+      "id": "create-data-context",
+      "plugin": "data-analytics",
+      "upstreamName": "create-data-context"
+    },
+    {
+      "id": "design-kpis",
+      "plugin": "data-analytics",
+      "upstreamName": "design-kpis"
+    },
+    {
+      "id": "gather-business-context",
+      "plugin": "data-analytics",
+      "upstreamName": "gather-business-context"
+    },
+    {
+      "id": "codexpp-data-analytics-index",
+      "plugin": "data-analytics",
+      "upstreamName": "index"
+    },
+    {
+      "id": "jupyter-notebooks",
+      "plugin": "data-analytics",
+      "upstreamName": "jupyter-notebooks"
+    },
+    {
+      "id": "kpi-reporting",
+      "plugin": "data-analytics",
+      "upstreamName": "kpi-reporting"
+    },
+    {
+      "id": "market-sizing",
+      "plugin": "data-analytics",
+      "upstreamName": "market-sizing"
+    },
+    {
+      "id": "metric-diagnostics",
+      "plugin": "data-analytics",
+      "upstreamName": "metric-diagnostics"
+    },
+    {
+      "id": "product-business-analysis",
+      "plugin": "data-analytics",
+      "upstreamName": "product-business-analysis"
+    },
+    {
+      "id": "validate-data",
+      "plugin": "data-analytics",
+      "upstreamName": "validate-data"
+    },
+    {
+      "id": "visualize-data",
+      "plugin": "data-analytics",
+      "upstreamName": "visualize-data"
+    },
+    {
+      "id": "buyer-investor-list",
+      "plugin": "investment-banking",
+      "upstreamName": "buyer-investor-list"
+    },
+    {
+      "id": "capital-markets-issuance",
+      "plugin": "investment-banking",
+      "upstreamName": "capital-markets-issuance"
+    },
+    {
+      "id": "cim-builder",
+      "plugin": "investment-banking",
+      "upstreamName": "cim-builder"
+    },
+    {
+      "id": "cim-teardown",
+      "plugin": "investment-banking",
+      "upstreamName": "cim-teardown"
+    },
+    {
+      "id": "codexpp-investment-banking-company-tearsheet",
+      "plugin": "investment-banking",
+      "upstreamName": "company-tearsheet"
+    },
+    {
+      "id": "codexpp-investment-banking-comps-valuation",
+      "plugin": "investment-banking",
+      "upstreamName": "comps-valuation"
+    },
+    {
+      "id": "covenant-package-analyzer",
+      "plugin": "investment-banking",
+      "upstreamName": "covenant-package-analyzer"
+    },
+    {
+      "id": "codexpp-investment-banking-dcf-model-builder",
+      "plugin": "investment-banking",
+      "upstreamName": "dcf-model-builder"
+    },
+    {
+      "id": "deal-process-tracker",
+      "plugin": "investment-banking",
+      "upstreamName": "deal-process-tracker"
+    },
+    {
+      "id": "distressed-recovery-waterfall",
+      "plugin": "investment-banking",
+      "upstreamName": "distressed-recovery-waterfall"
+    },
+    {
+      "id": "codexpp-investment-banking-financials-normalizer",
+      "plugin": "investment-banking",
+      "upstreamName": "financials-normalizer"
+    },
+    {
+      "id": "ib-deck-qc",
+      "plugin": "investment-banking",
+      "upstreamName": "ib-deck-qc"
+    },
+    {
+      "id": "investment-banking",
+      "plugin": "investment-banking",
+      "upstreamName": "investment-banking"
+    },
+    {
+      "id": "lbo-model-build",
+      "plugin": "investment-banking",
+      "upstreamName": "lbo-model-build"
+    },
+    {
+      "id": "codexpp-investment-banking-meeting-prep",
+      "plugin": "investment-banking",
+      "upstreamName": "meeting-prep"
+    },
+    {
+      "id": "codexpp-investment-banking-memo-builder",
+      "plugin": "investment-banking",
+      "upstreamName": "memo-builder"
+    },
+    {
+      "id": "merger-model-builder",
+      "plugin": "investment-banking",
+      "upstreamName": "merger-model-builder"
+    },
+    {
+      "id": "codexpp-investment-banking-model-audit-tieout",
+      "plugin": "investment-banking",
+      "upstreamName": "model-audit-tieout"
+    },
+    {
+      "id": "pitch-deck-builder",
+      "plugin": "investment-banking",
+      "upstreamName": "pitch-deck-builder"
+    },
+    {
+      "id": "private-credit-underwriting",
+      "plugin": "investment-banking",
+      "upstreamName": "private-credit-underwriting"
+    },
+    {
+      "id": "codexpp-investment-banking-scenario-sensitivity-generator",
+      "plugin": "investment-banking",
+      "upstreamName": "scenario-sensitivity-generator"
+    },
+    {
+      "id": "codexpp-investment-banking-three-statement-model-builder",
+      "plugin": "investment-banking",
+      "upstreamName": "three-statement-model-builder"
+    },
+    {
+      "id": "codexpp-investment-banking-user-context",
+      "plugin": "investment-banking",
+      "upstreamName": "user-context"
+    },
+    {
+      "id": "setup-metabase-instance",
+      "plugin": "metabase",
+      "upstreamName": "setup-metabase-instance"
+    },
+    {
+      "id": "audit",
+      "plugin": "product-design",
+      "upstreamName": "audit"
+    },
+    {
+      "id": "design-qa",
+      "plugin": "product-design",
+      "upstreamName": "design-qa"
+    },
+    {
+      "id": "get-context",
+      "plugin": "product-design",
+      "upstreamName": "get-context"
+    },
+    {
+      "id": "ideate",
+      "plugin": "product-design",
+      "upstreamName": "ideate"
+    },
+    {
+      "id": "image-to-code",
+      "plugin": "product-design",
+      "upstreamName": "image-to-code"
+    },
+    {
+      "id": "codexpp-product-design-index",
+      "plugin": "product-design",
+      "upstreamName": "index"
+    },
+    {
+      "id": "prototype",
+      "plugin": "product-design",
+      "upstreamName": "prototype"
+    },
+    {
+      "id": "research",
+      "plugin": "product-design",
+      "upstreamName": "research"
+    },
+    {
+      "id": "share",
+      "plugin": "product-design",
+      "upstreamName": "share"
+    },
+    {
+      "id": "url-to-code",
+      "plugin": "product-design",
+      "upstreamName": "url-to-code"
+    },
+    {
+      "id": "codexpp-product-design-user-context",
+      "plugin": "product-design",
+      "upstreamName": "user-context"
+    },
+    {
+      "id": "catalyst-calendar",
+      "plugin": "public-equity-investing",
+      "upstreamName": "catalyst-calendar"
+    },
+    {
+      "id": "codexpp-public-equity-company-tearsheet",
+      "plugin": "public-equity-investing",
+      "upstreamName": "company-tearsheet"
+    },
+    {
+      "id": "codexpp-public-equity-comps-valuation",
+      "plugin": "public-equity-investing",
+      "upstreamName": "comps-valuation"
+    },
+    {
+      "id": "codexpp-public-equity-dcf-model-builder",
+      "plugin": "public-equity-investing",
+      "upstreamName": "dcf-model-builder"
+    },
+    {
+      "id": "deck-report-qc",
+      "plugin": "public-equity-investing",
+      "upstreamName": "deck-report-qc"
+    },
+    {
+      "id": "earnings-deep-dive",
+      "plugin": "public-equity-investing",
+      "upstreamName": "earnings-deep-dive"
+    },
+    {
+      "id": "economic-impact-report",
+      "plugin": "public-equity-investing",
+      "upstreamName": "economic-impact-report"
+    },
+    {
+      "id": "equity-model-update",
+      "plugin": "public-equity-investing",
+      "upstreamName": "equity-model-update"
+    },
+    {
+      "id": "event-driven-analyzer",
+      "plugin": "public-equity-investing",
+      "upstreamName": "event-driven-analyzer"
+    },
+    {
+      "id": "codexpp-public-equity-financials-normalizer",
+      "plugin": "public-equity-investing",
+      "upstreamName": "financials-normalizer"
+    },
+    {
+      "id": "idea-generation",
+      "plugin": "public-equity-investing",
+      "upstreamName": "idea-generation"
+    },
+    {
+      "id": "initiating-coverage",
+      "plugin": "public-equity-investing",
+      "upstreamName": "initiating-coverage"
+    },
+    {
+      "id": "long-short-pitch",
+      "plugin": "public-equity-investing",
+      "upstreamName": "long-short-pitch"
+    },
+    {
+      "id": "codexpp-public-equity-meeting-prep",
+      "plugin": "public-equity-investing",
+      "upstreamName": "meeting-prep"
+    },
+    {
+      "id": "codexpp-public-equity-memo-builder",
+      "plugin": "public-equity-investing",
+      "upstreamName": "memo-builder"
+    },
+    {
+      "id": "codexpp-public-equity-model-audit-tieout",
+      "plugin": "public-equity-investing",
+      "upstreamName": "model-audit-tieout"
+    },
+    {
+      "id": "portfolio-risk-management",
+      "plugin": "public-equity-investing",
+      "upstreamName": "portfolio-risk-management"
+    },
+    {
+      "id": "public-equity-investing",
+      "plugin": "public-equity-investing",
+      "upstreamName": "public-equity-investing"
+    },
+    {
+      "id": "codexpp-public-equity-scenario-sensitivity-generator",
+      "plugin": "public-equity-investing",
+      "upstreamName": "scenario-sensitivity-generator"
+    },
+    {
+      "id": "thesis-tracker",
+      "plugin": "public-equity-investing",
+      "upstreamName": "thesis-tracker"
+    },
+    {
+      "id": "codexpp-public-equity-three-statement-model-builder",
+      "plugin": "public-equity-investing",
+      "upstreamName": "three-statement-model-builder"
+    },
+    {
+      "id": "codexpp-public-equity-user-context",
+      "plugin": "public-equity-investing",
+      "upstreamName": "user-context"
+    },
+    {
+      "id": "analyze-account-signals",
+      "plugin": "sales",
+      "upstreamName": "analyze-account-signals"
+    },
+    {
+      "id": "apollo",
+      "plugin": "sales",
+      "upstreamName": "apollo"
+    },
+    {
+      "id": "build-business-case",
+      "plugin": "sales",
+      "upstreamName": "build-business-case"
+    },
+    {
+      "id": "build-competitive-brief",
+      "plugin": "sales",
+      "upstreamName": "build-competitive-brief"
+    },
+    {
+      "id": "enrich-company-and-contact-data",
+      "plugin": "sales",
+      "upstreamName": "enrich-company-and-contact-data"
+    },
+    {
+      "id": "find-customer-quotes",
+      "plugin": "sales",
+      "upstreamName": "find-customer-quotes"
+    },
+    {
+      "id": "find-key-internal-sources",
+      "plugin": "sales",
+      "upstreamName": "find-key-internal-sources"
+    },
+    {
+      "id": "follow-up-after-call",
+      "plugin": "sales",
+      "upstreamName": "follow-up-after-call"
+    },
+    {
+      "id": "get-rep-call-feedback",
+      "plugin": "sales",
+      "upstreamName": "get-rep-call-feedback"
+    },
+    {
+      "id": "hubspot",
+      "plugin": "sales",
+      "upstreamName": "hubspot"
+    },
+    {
+      "id": "codexpp-sales-index",
+      "plugin": "sales",
+      "upstreamName": "index"
+    },
+    {
+      "id": "plan-deal-strategy",
+      "plugin": "sales",
+      "upstreamName": "plan-deal-strategy"
+    },
+    {
+      "id": "prepare-for-meeting",
+      "plugin": "sales",
+      "upstreamName": "prepare-for-meeting"
+    },
+    {
+      "id": "prioritize-accounts",
+      "plugin": "sales",
+      "upstreamName": "prioritize-accounts"
+    },
+    {
+      "id": "review-forecast",
+      "plugin": "sales",
+      "upstreamName": "review-forecast"
+    },
+    {
+      "id": "review-rep-call-trends",
+      "plugin": "sales",
+      "upstreamName": "review-rep-call-trends"
+    },
+    {
+      "id": "sales-company-research",
+      "plugin": "sales",
+      "upstreamName": "sales-company-research"
+    },
+    {
+      "id": "salesforce",
+      "plugin": "sales",
+      "upstreamName": "salesforce"
+    },
+    {
+      "id": "suggest-sales-next-step",
+      "plugin": "sales",
+      "upstreamName": "suggest-sales-next-step"
+    },
+    {
+      "id": "codexpp-sales-user-context",
+      "plugin": "sales",
+      "upstreamName": "user-context"
+    },
+    {
+      "id": "zoominfo",
+      "plugin": "sales",
+      "upstreamName": "zoominfo"
+    }
+  ],
+  "excluded": [
+    {
+      "plugin": "public-equity-investing",
+      "upstreamName": "earnings-preview",
+      "reason": "目录内 LICENSE.txt 标明 Proprietary - Internal Use Only，禁止未经许可再分发"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "jupyter-notebooks",
+  "title": "Jupyter Notebooks",
+  "descriptionZh": "创建、编辑和验证可复现的 SQL/Python Notebook。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "待分析的数据、查询结果或业务材料（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3",
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/data-analytics",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "Data Analytics Maintainers",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "data-analytics",
+  "upstreamPath": "data-analytics/skills/jupyter-notebooks",
+  "upstreamSha256": "eb3e6098e7a7aea0971f6236604567d0621273a2c4d30713f0e25948c49bfb70"
+}

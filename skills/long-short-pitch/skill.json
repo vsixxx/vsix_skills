@@ -1,0 +1,51 @@
+{
+  "id": "long-short-pitch",
+  "title": "Long Short Pitch",
+  "descriptionZh": "制作面向 PM 的多头或空头交易 Pitch。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "公司公告、财务模型或市场数据（按任务提供）"
+      ],
+      "notes": [
+        "不得使用 MNPI 或未经授权的受限资料；投资结论需由用户自行复核。"
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/33abdecc92a4b8ef164a5a7a2b7b1ad13aadde07/plugins/financial-markets",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "public-equity-investing",
+  "upstreamPath": "public-equity-investing/skills/long-short-pitch",
+  "upstreamSha256": "f9cafadc8d31dada9c99989345679104dfce89c9cf67f870cc6db02c1a6e0f84"
+}

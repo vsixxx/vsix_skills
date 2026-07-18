@@ -1,0 +1,51 @@
+{
+  "id": "setup-metabase-instance",
+  "title": "Setup Metabase Instance",
+  "descriptionZh": "设置并连接 Metabase 实例。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+        "Metabase 访问凭据"
+      ],
+      "services": [
+        "可访问的 Metabase 实例"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/metabase/metabase-codex-plugin/tree/main/skills/setup-metabase-instance",
+  "homepage": "https://www.metabase.com/",
+  "license": "MIT",
+  "author": "Metabase",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "metabase",
+  "upstreamPath": "metabase/skills/setup-metabase-instance",
+  "upstreamSha256": "db2ab9cc8db53e654ff1efce5623ef84fb9c619f9388240a6dee934fdbf2c50e"
+}

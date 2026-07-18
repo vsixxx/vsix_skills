@@ -1,0 +1,51 @@
+{
+  "id": "idea-generation",
+  "title": "Idea Generation",
+  "descriptionZh": "筛选和排序股票投资想法。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "公司公告、财务模型或市场数据（按任务提供）"
+      ],
+      "notes": [
+        "不得使用 MNPI 或未经授权的受限资料；投资结论需由用户自行复核。"
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/33abdecc92a4b8ef164a5a7a2b7b1ad13aadde07/plugins/financial-markets",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "public-equity-investing",
+  "upstreamPath": "public-equity-investing/skills/idea-generation",
+  "upstreamSha256": "175bfe5c3c430d419f7c9d8bc8635b122d51405a50f8fd5bf32bea4243991a1e"
+}

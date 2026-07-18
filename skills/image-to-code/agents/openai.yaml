@@ -1,0 +1,6 @@
+interface:
+  display_name: "Image To Code"
+  short_description: "Build a responsive frontend from a selected visual target after brief confirmation"
+  default_prompt: "Use $image-to-code to handle this skill request."
+policy:
+  allow_implicit_invocation: true

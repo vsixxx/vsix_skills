@@ -1,0 +1,6 @@
+interface:
+  display_name: "Company Tearsheet"
+  short_description: "Create cited public-company, public-issuer, and public sector-peer profiles."
+  default_prompt: "Use $codexpp-public-equity-company-tearsheet to handle this skill request."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,52 @@
+{
+  "id": "design-qa",
+  "title": "Design QA",
+  "descriptionZh": "对实现后的界面进行视觉、交互和响应式设计检查。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "产品 Brief、URL、截图、Figma 或代码库（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/product-design",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "product-design",
+  "upstreamPath": "product-design/skills/design-qa",
+  "upstreamSha256": "b9b81f2586374337d195843d902f713b320ca0563f4738abd354fd31bf06991e"
+}

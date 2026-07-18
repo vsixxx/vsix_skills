@@ -1,0 +1,53 @@
+{
+  "id": "metric-diagnostics",
+  "title": "Metric Diagnostics",
+  "descriptionZh": "诊断指标变化、异常、差距和可能驱动因素。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "待分析的数据、查询结果或业务材料（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3",
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/data-analytics",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "Data Analytics Maintainers",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "data-analytics",
+  "upstreamPath": "data-analytics/skills/metric-diagnostics",
+  "upstreamSha256": "33fc41f5ba49e989079698a65dce0a5ef0480499a6c799c3712d62724d2ac59e"
+}

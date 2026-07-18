@@ -1,0 +1,6 @@
+interface:
+  display_name: "Find Key Internal Sources"
+  short_description: "Find internal experts, docs, and channels"
+  default_prompt: "Use $find-key-internal-sources to handle this skill request."
+policy:
+  allow_implicit_invocation: false

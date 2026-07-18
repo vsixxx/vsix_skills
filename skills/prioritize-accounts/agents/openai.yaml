@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prioritize Accounts"
+  short_description: "Rank accounts and open a local action pane"
+  default_prompt: "Use $prioritize-accounts to handle this skill request."
+policy:
+  allow_implicit_invocation: false

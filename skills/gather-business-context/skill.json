@@ -1,0 +1,53 @@
+{
+  "id": "gather-business-context",
+  "title": "Gather Business Context",
+  "descriptionZh": "从连接的数据源和材料中收集业务背景。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "待分析的数据、查询结果或业务材料（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3",
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/data-analytics",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "Data Analytics Maintainers",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "data-analytics",
+  "upstreamPath": "data-analytics/skills/gather-business-context",
+  "upstreamSha256": "c79a09892711744be00d40e20e1ac15586c131b660759bca43dd1f58ab01e047"
+}

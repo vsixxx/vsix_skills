@@ -1,0 +1,6 @@
+interface:
+  display_name: "Index"
+  short_description: "Always route sales workflows first"
+  default_prompt: "Use $codexpp-sales-index to handle this skill request."
+policy:
+  allow_implicit_invocation: true

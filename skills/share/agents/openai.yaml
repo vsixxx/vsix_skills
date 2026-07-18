@@ -1,0 +1,6 @@
+interface:
+  display_name: "Share"
+  short_description: "Deploy a runnable prototype and return a shareable URL"
+  default_prompt: "Use $share to handle this skill request."
+policy:
+  allow_implicit_invocation: false

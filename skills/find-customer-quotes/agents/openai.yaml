@@ -1,0 +1,6 @@
+interface:
+  display_name: "Find Customer Quotes"
+  short_description: "Find transcript-backed customer quotes by theme"
+  default_prompt: "Use $find-customer-quotes to handle this skill request."
+policy:
+  allow_implicit_invocation: false

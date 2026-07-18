@@ -1,0 +1,6 @@
+interface:
+  display_name: "Build Business Case"
+  short_description: "Customer-led business cases and ROI narratives"
+  default_prompt: "Use $build-business-case to handle this skill request."
+policy:
+  allow_implicit_invocation: false

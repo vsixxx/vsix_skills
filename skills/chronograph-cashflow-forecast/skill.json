@@ -1,0 +1,51 @@
+{
+  "id": "chronograph-cashflow-forecast",
+  "title": "Chronograph Cashflow Forecast",
+  "descriptionZh": "预测出资、分配、NAV、未出资额和净现金流。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+        "Chronograph LP 账号及相应数据访问权限"
+      ],
+      "services": [
+        "Chronograph LP"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/main/plugins/chronograph-lp",
+  "homepage": "https://www.chronograph.pe/",
+  "license": "MIT",
+  "author": "Chronograph",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "chronograph",
+  "upstreamPath": "chronograph/skills/chronograph-cashflow-forecast",
+  "upstreamSha256": "926f0f946067d321088c816387b2284a1074daa34b8ebeb862aec620acdb7868"
+}

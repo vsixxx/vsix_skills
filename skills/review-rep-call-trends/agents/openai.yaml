@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review Rep Call Trends"
+  short_description: "Analyze rep call behavior trends over time"
+  default_prompt: "Use $review-rep-call-trends to handle this skill request."
+policy:
+  allow_implicit_invocation: false

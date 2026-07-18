@@ -1,0 +1,6 @@
+interface:
+  display_name: Public Equity Investing Memo Builder
+  short_description: Draft and review formal Public Equity Investing memos, committee notes, PM updates, and research notes.
+  default_prompt: "Use $codexpp-public-equity-memo-builder to handle this skill request."
+policy:
+  allow_implicit_invocation: false

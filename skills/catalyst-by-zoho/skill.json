@@ -1,0 +1,52 @@
+{
+  "id": "catalyst-by-zoho",
+  "title": "Catalyst By Zoho",
+  "descriptionZh": "Zoho Catalyst 全栈 Serverless 开发、部署、资源管理与架构指导。",
+  "type": "plugin-skill",
+  "category": "开发与代码",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+        "Zoho Catalyst 账号（执行资源管理或部署时）"
+      ],
+      "services": [
+        "Zoho Catalyst"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/main/plugins/catalyst-by-zoho",
+  "homepage": "https://catalyst.zoho.com/",
+  "license": "MIT",
+  "author": "Catalyst by Zoho",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "app-6a16bcb9a37081919b0db1d81010fb2f",
+  "upstreamPath": "app-6a16bcb9a37081919b0db1d81010fb2f/skills/catalyst-by-zoho",
+  "upstreamSha256": "10d932c835296aa98d02bbc7ea0b0432471fb15a374ad421629343a67f58aab2"
+}

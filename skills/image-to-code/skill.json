@@ -1,0 +1,52 @@
+{
+  "id": "image-to-code",
+  "title": "Image To Code",
+  "descriptionZh": "把截图、Mockup 或参考图实现为响应式前端。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "产品 Brief、URL、截图、Figma 或代码库（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/product-design",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "product-design",
+  "upstreamPath": "product-design/skills/image-to-code",
+  "upstreamSha256": "4af6866ab1a642e7a1804316d03de4302715b68a8394d78f6a43dcd2a2aae619"
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sales User Context"
+  short_description: "Manage saved Sales context so it learns how your team sells"
+  default_prompt: "Use $codexpp-sales-user-context to handle this skill request."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,52 @@
+{
+  "id": "prototype",
+  "title": "Prototype",
+  "descriptionZh": "从想法、URL、图片、Figma 或已有代码制作可运行原型。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "产品 Brief、URL、截图、Figma 或代码库（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/product-design",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "product-design",
+  "upstreamPath": "product-design/skills/prototype",
+  "upstreamSha256": "26e71c4c304c85d698d78fb948b5ea4d172edd9dcf2b0854d901378a201e4f6e"
+}

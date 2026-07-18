@@ -1,0 +1,6 @@
+interface:
+  display_name: "Earnings Deep Dive & Summary"
+  short_description: "Full post-earnings deep dives with beat/miss, EPS quality, transcript Q&A, debate map, model impact, and falsifiers."
+  default_prompt: "Use $earnings-deep-dive to handle this skill request."
+policy:
+  allow_implicit_invocation: false

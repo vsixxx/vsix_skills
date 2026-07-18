@@ -1,0 +1,6 @@
+interface:
+  display_name: "Audit"
+  short_description: "Audit or critique product UX and design from captured screenshots"
+  default_prompt: "Use $audit to handle this skill request."
+policy:
+  allow_implicit_invocation: true

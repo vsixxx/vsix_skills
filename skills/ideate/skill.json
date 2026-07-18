@@ -1,0 +1,52 @@
+{
+  "id": "ideate",
+  "title": "Ideate",
+  "descriptionZh": "探索界面、流程和产品体验的设计方向。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "产品 Brief、URL、截图、Figma 或代码库（按任务提供）"
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/product-design",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "product-design",
+  "upstreamPath": "product-design/skills/ideate",
+  "upstreamSha256": "fdb9fcf12b16cac0c0fc8f0fdacc3b41a1a06cf9783b9cabe5cfb7e58b9d0604"
+}

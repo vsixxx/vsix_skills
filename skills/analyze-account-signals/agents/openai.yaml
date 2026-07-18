@@ -1,0 +1,6 @@
+interface:
+  display_name: "Analyze Account Signals"
+  short_description: "Account briefs and ranked watchlist summaries"
+  default_prompt: "Use $analyze-account-signals to handle this skill request."
+policy:
+  allow_implicit_invocation: false

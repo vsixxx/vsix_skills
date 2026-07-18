@@ -1,0 +1,6 @@
+interface:
+  display_name: "Metric Diagnostics"
+  short_description: "Diagnose metric changes, anomalies, gaps, and discrepancies"
+  default_prompt: "Use $metric-diagnostics to handle this skill request."
+policy:
+  allow_implicit_invocation: true

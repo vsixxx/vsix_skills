@@ -1,0 +1,6 @@
+interface:
+  display_name: "Idea Generation"
+  short_description: "PM-grade public equity markets idea funnel"
+  default_prompt: "Use $idea-generation to handle this skill request."
+policy:
+  allow_implicit_invocation: false

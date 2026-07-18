@@ -1,0 +1,6 @@
+interface:
+  display_name: "Portfolio Risk Management"
+  short_description: "Size public-equity positions and design thesis-preserving hedges."
+  default_prompt: "Use $portfolio-risk-management to handle this skill request."
+policy:
+  allow_implicit_invocation: false

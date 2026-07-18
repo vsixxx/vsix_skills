@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scenario & Sensitivity Generator"
+  short_description: "Build Public Equity Investing scenario skew, valuation sensitivities, event trees, equity-liquidity downside read-throughs, and PM action thresholds."
+  default_prompt: "Use $codexpp-public-equity-scenario-sensitivity-generator to handle this skill request."
+policy:
+  allow_implicit_invocation: false

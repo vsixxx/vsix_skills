@@ -1,0 +1,51 @@
+{
+  "id": "chronograph-gp-meeting-prep",
+  "title": "Chronograph GP Meeting Prep",
+  "descriptionZh": "准备 GP 季度沟通、年会、LPAC 或续投决策材料。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+        "Chronograph LP 账号及相应数据访问权限"
+      ],
+      "services": [
+        "Chronograph LP"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/main/plugins/chronograph-lp",
+  "homepage": "https://www.chronograph.pe/",
+  "license": "MIT",
+  "author": "Chronograph",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "chronograph",
+  "upstreamPath": "chronograph/skills/chronograph-gp-meeting-prep",
+  "upstreamSha256": "5886ffe55bd3e5eb411f9f9d094c81ff9cc3f28696c6742678cdc5b318aabdd4"
+}

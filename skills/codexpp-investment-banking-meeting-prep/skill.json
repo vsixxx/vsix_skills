@@ -1,0 +1,51 @@
+{
+  "id": "codexpp-investment-banking-meeting-prep",
+  "title": "Codexpp Investment Banking Meeting Prep",
+  "descriptionZh": "准备客户、标的、买方、投资人或管理层会议材料。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+        "交易、公司或财务资料（按任务提供）"
+      ],
+      "notes": [
+        "涉及交易、证券、保密信息或监管事项时，需由具备权限的专业人员复核。"
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "homepage": "https://github.com/BigPizzaV3/CodexPlusPlus",
+  "license": "AGPL-3.0",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "investment-banking",
+  "upstreamPath": "investment-banking/skills/meeting-prep",
+  "upstreamSha256": "ea2e212104bb4033450f0f23a83d70cd74a40ea76ba199ed0177916b1c909b5f"
+}

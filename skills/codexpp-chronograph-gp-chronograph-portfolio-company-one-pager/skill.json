@@ -1,0 +1,51 @@
+{
+  "id": "codexpp-chronograph-gp-chronograph-portfolio-company-one-pager",
+  "title": "Codexpp Chronograph GP Chronograph Portfolio Company One Pager",
+  "descriptionZh": "生成投资组合公司单页报告、估值摘要和投资者报告。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+        "Chronograph GP 账号及相应数据访问权限"
+      ],
+      "services": [
+        "Chronograph GP"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/main/plugins/chronograph-gp",
+  "homepage": "https://www.chronograph.pe/",
+  "license": "MIT",
+  "author": "Chronograph",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "app-6a1a374657a88191bc1e22f3e9862dc6",
+  "upstreamPath": "app-6a1a374657a88191bc1e22f3e9862dc6/skills/chronograph-portfolio-company-one-pager",
+  "upstreamSha256": "6069aef94d1ddf23e6ed9f00584e3d597c41600ee2c97b308d389afd9cb35cb7"
+}

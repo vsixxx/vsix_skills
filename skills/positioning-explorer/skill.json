@@ -1,0 +1,52 @@
+{
+  "id": "positioning-explorer",
+  "title": "Positioning Explorer",
+  "descriptionZh": "明确受众、场景、增长目标、证据和市场定位。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+        "可用的图像生成能力（执行图像生成任务时）"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3",
+        "Node.js"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/33abdecc92a4b8ef164a5a7a2b7b1ad13aadde07/plugins/creative-production",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI Creative Production Maintainers",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "creative-production",
+  "upstreamPath": "creative-production/skills/positioning-explorer",
+  "upstreamSha256": "3b34b4d50f15e2f482b27c0e6f72ead95b9ada9de79274bd87cdff745f83143e"
+}

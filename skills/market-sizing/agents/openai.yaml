@@ -1,0 +1,6 @@
+interface:
+  display_name: "Market Sizing"
+  short_description: "Estimate market and opportunity size with transparent assumptions"
+  default_prompt: "Use $market-sizing to handle this skill request."
+policy:
+  allow_implicit_invocation: true

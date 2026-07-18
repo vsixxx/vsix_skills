@@ -1,0 +1,6 @@
+interface:
+  display_name: "Economic Impact Report"
+  short_description: "Public-equity impact reports for macro, policy, commodity, geopolitical, and industry shocks."
+  default_prompt: "Use $economic-impact-report to handle this skill request."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Report To PDF"
+  short_description: "Convert static Data Analytics report exports into verified PDF artifacts"
+  default_prompt: "Use $report-to-pdf to handle this skill request."
+policy:
+  allow_implicit_invocation: false

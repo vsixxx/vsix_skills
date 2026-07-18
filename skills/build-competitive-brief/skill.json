@@ -1,0 +1,51 @@
+{
+  "id": "build-competitive-brief",
+  "title": "Build Competitive Brief",
+  "descriptionZh": "制作竞品对比、竞争矩阵和异议处理材料。",
+  "type": "plugin-skill",
+  "category": "商业与金融",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+        "对应 CRM 或销售数据源的登录授权（使用连接器时）"
+      ],
+      "services": [
+        "Salesforce、HubSpot、Apollo、ZoomInfo 等相关服务（按任务使用）"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/main/plugins/sales",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "sales",
+  "upstreamPath": "sales/skills/build-competitive-brief",
+  "upstreamSha256": "bd6b512e1d2d2d523b386970f54f8a1d80a3ce7369d73d616b4778c13a31f95c"
+}

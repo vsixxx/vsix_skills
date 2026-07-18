@@ -1,0 +1,6 @@
+interface:
+  display_name: Three Statement Model Builder
+  short_description: Builds formula-first public-equity 3-statement operating model workbooks with IS/BS/CF, working capital, PP&E, debt, cash sweep, checks, scenarios, and QA logs.
+  default_prompt: "Use $codexpp-public-equity-three-statement-model-builder to handle this skill request."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Validate Data"
+  short_description: "QA analysis logic, metrics, charts, and conclusions"
+  default_prompt: "Use $validate-data to handle this skill request."
+policy:
+  allow_implicit_invocation: true

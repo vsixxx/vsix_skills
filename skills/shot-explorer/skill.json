@@ -1,0 +1,52 @@
+{
+  "id": "shot-explorer",
+  "title": "Shot Explorer",
+  "descriptionZh": "从参考图片探索机位、裁切、缩放和微距细节变化。",
+  "type": "plugin-skill",
+  "category": "图片与设计",
+  "requirements": {
+    "user": {
+      "systems": [
+
+      ],
+      "software": [
+
+      ],
+      "auth": [
+
+      ],
+      "services": [
+        "可用的图像生成能力（执行图像生成任务时）"
+      ],
+      "hardware": [
+
+      ],
+      "resources": [
+
+      ],
+      "notes": [
+
+      ]
+    },
+    "agent": {
+      "tools": [
+        "Python 3",
+        "Node.js"
+      ],
+      "packages": [
+
+      ]
+    }
+  },
+  "sourceUrl": "https://github.com/openai/role-specific-plugins/tree/33abdecc92a4b8ef164a5a7a2b7b1ad13aadde07/plugins/creative-production",
+  "homepage": "https://github.com/openai/role-specific-plugins",
+  "license": "MIT",
+  "author": "OpenAI Creative Production Maintainers",
+  "status": "experimental",
+  "updatedAt": "2026-07-18",
+  "upstreamSnapshotUrl": "https://github.com/BigPizzaV3/CodexPlusPlus/blob/285f40e4d19ba90c6571f56afc1caefe19798eac/assets/plugin-marketplaces/openai-curated-remote.zip",
+  "upstreamCommit": "285f40e4d19ba90c6571f56afc1caefe19798eac",
+  "upstreamPlugin": "creative-production",
+  "upstreamPath": "creative-production/skills/shot-explorer",
+  "upstreamSha256": "dbbb143b989b57949591c1808ce2f703859ed48d364e2ecaf01b084f92b2d42a"
+}

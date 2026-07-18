@@ -1,0 +1,6 @@
+interface:
+  display_name: "Get Context"
+  short_description: "Confirm the Product Design brief before design or build work"
+  default_prompt: "Use $get-context to handle this skill request."
+policy:
+  allow_implicit_invocation: true
