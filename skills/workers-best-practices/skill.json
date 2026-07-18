@@ -3,7 +3,7 @@
   "title": "Workers Best Practices",
   "descriptionZh": "依据 Cloudflare 官方最佳实践编写和审查 Workers 代码，检查流式处理、异步任务、全局状态、密钥、绑定与可观测性。",
   "type": "agent-skill",
-  "category": "Cloudflare",
+  "category": "部署与运维",
   "sourceUrl": "https://github.com/cloudflare/skills/tree/main/skills/workers-best-practices",
   "homepage": "https://github.com/cloudflare/skills",
   "license": "Apache-2.0",

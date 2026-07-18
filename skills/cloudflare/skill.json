@@ -3,7 +3,7 @@
   "title": "Cloudflare Platform",
   "descriptionZh": "覆盖 Workers、Pages、KV、D1、R2、AI、网络、安全与基础设施即代码的 Cloudflare 平台综合指南。",
   "type": "agent-skill",
-  "category": "Cloudflare",
+  "category": "部署与运维",
   "sourceUrl": "https://github.com/cloudflare/skills/tree/main/skills/cloudflare",
   "homepage": "https://github.com/cloudflare/skills",
   "license": "Apache-2.0",

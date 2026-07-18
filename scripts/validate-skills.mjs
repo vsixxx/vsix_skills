@@ -24,7 +24,6 @@ const validCategories = new Set([
   '自动化与工作流',
   '部署与运维',
   '测试与安全',
-  'Cloudflare',
   '其他',
 ]);
 

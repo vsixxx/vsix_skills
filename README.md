@@ -121,7 +121,6 @@ Allowed `category` values:
 - `自动化与工作流`
 - `部署与运维`
 - `测试与安全`
-- `Cloudflare`
 - `其他`
 
 Choose the category by the user's primary goal:
@@ -131,7 +130,7 @@ Choose the category by the user's primary goal:
 - Use `图片与设计` when the primary result is a standalone visual asset, diagram, image, 3D scene, or design artifact.
 - Prefer a specific business domain when it defines the task. Financial models belong in `商业与金融`, not `办公与文档`.
 - Keep exactly one primary category. Do not emulate categories with tags.
-- `Cloudflare` is an intentional platform-specific category; other vendor names should not become categories without a catalog-level decision.
+- Classify platform skills by the task they help complete. Do not create categories from vendor or product names.
 
 Suggested `status` values:
 

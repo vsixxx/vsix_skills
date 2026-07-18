@@ -3,7 +3,7 @@
   "title": "Wrangler CLI",
   "descriptionZh": "使用 Wrangler 开发、部署和管理 Workers、KV、R2、D1、Vectorize、Queues、Workflows 等 Cloudflare 资源。",
   "type": "agent-skill",
-  "category": "Cloudflare",
+  "category": "部署与运维",
   "sourceUrl": "https://github.com/cloudflare/skills/tree/main/skills/wrangler",
   "homepage": "https://github.com/cloudflare/skills",
   "license": "Apache-2.0",
