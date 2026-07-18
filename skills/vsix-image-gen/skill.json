@@ -1,6 +1,6 @@
 {
   "id": "vsix-image-gen",
-  "title": "VSIX Image Gen",
+  "title": "Vsix Image Gen",
   "descriptionZh": "通过 VSIX 的 GPT-Image 接口生成或编辑图片，支持参考图、常用尺寸、高清输出和首次 API Key 配置。",
   "type": "codex-skill",
   "category": "图片与设计",

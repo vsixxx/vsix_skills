@@ -1,6 +1,6 @@
 {
   "id": "vsix-skill-finder",
-  "title": "VSIX Skill Finder",
+  "title": "Vsix Skill Finder",
   "descriptionZh": "当当前 Agent 缺少合适能力时，从 VSIX Skills 查找、比较并安全安装适合任务的 Skill。",
   "type": "codex-skill",
   "category": "研究与知识",
