@@ -3,7 +3,21 @@ import path from 'node:path';
 
 const repoRoot = path.resolve(import.meta.dirname, '..');
 const skillsRoot = path.join(repoRoot, 'skills');
+const pluginsRoot = path.join(repoRoot, 'plugins');
+const marketplacePath = path.join(repoRoot, '.agents', 'plugins', 'marketplace.json');
 const validSkillId = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const validSemver = /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/;
+const validInstallPolicies = new Set(['NOT_AVAILABLE', 'AVAILABLE', 'INSTALLED_BY_DEFAULT']);
+const validAuthPolicies = new Set(['ON_INSTALL', 'ON_USE']);
+const pluginManifestFields = new Set([
+  'id', 'name', 'version', 'description', 'skills', 'apps', 'mcpServers', 'interface',
+  'author', 'homepage', 'repository', 'license', 'keywords',
+]);
+const pluginInterfaceFields = new Set([
+  'displayName', 'shortDescription', 'longDescription', 'developerName', 'category',
+  'capabilities', 'websiteURL', 'privacyPolicyURL', 'termsOfServiceURL', 'brandColor',
+  'composerIcon', 'logo', 'logoDark', 'screenshots', 'defaultPrompt', 'default_prompt',
+]);
 
 const validTypes = new Set([
   'codex-skill',
@@ -153,7 +167,7 @@ function validateManifest(skillDir, manifest) {
   }
 }
 
-function validateOpenAiMetadata(skillDir) {
+function validateOpenAiMetadata(skillDir, requireSkillReference = true) {
   const id = path.basename(skillDir);
   const metadataPath = path.join(skillDir, 'agents', 'openai.yaml');
   if (!fs.existsSync(metadataPath)) return;
@@ -178,7 +192,7 @@ function validateOpenAiMetadata(skillDir) {
   }
   if (typeof defaultPrompt !== 'string' || !defaultPrompt.trim()) {
     report(`${id}: agents/openai.yaml default_prompt must be a non-empty string`);
-  } else if (!defaultPrompt.includes(`$${id}`)) {
+  } else if (requireSkillReference && !defaultPrompt.includes(`$${id}`)) {
     report(`${id}: agents/openai.yaml default_prompt must mention $${id}`);
   }
   if (iconSmall !== null && (typeof iconSmall !== 'string' || !iconSmall.trim())) {
@@ -211,7 +225,228 @@ function validateSkill(skillDir) {
   validateOpenAiMetadata(skillDir);
 }
 
+function listDirectories(root) {
+  if (!fs.existsSync(root)) return [];
+  const entries = fs.readdirSync(root, { withFileTypes: true });
+  for (const entry of entries) {
+    if (entry.isSymbolicLink()) report(`Symbolic links are not allowed in ${root}: ${entry.name}`);
+  }
+  return entries
+    .filter((entry) => entry.isDirectory() && !entry.name.startsWith('_'))
+    .map((entry) => path.join(root, entry.name))
+    .sort((a, b) => path.basename(a).localeCompare(path.basename(b)));
+}
+
+function isPlainObject(value) {
+  return value !== null && typeof value === 'object' && !Array.isArray(value);
+}
+
+function rejectUnknownFields(value, allowed, label) {
+  if (!isPlainObject(value)) return;
+  for (const field of Object.keys(value)) {
+    if (!allowed.has(field)) report(`${label}: unexpected field "${field}"`);
+  }
+}
+
+function requireString(value, label) {
+  if (typeof value !== 'string' || !value.trim()) {
+    report(`${label} must be a non-empty string`);
+    return null;
+  }
+  return value;
+}
+
+function validateStringArray(value, label, { maxItems, maxLength } = {}) {
+  if (!Array.isArray(value) || value.some((item) => typeof item !== 'string' || !item.trim())) {
+    report(`${label} must be an array of non-empty strings`);
+    return;
+  }
+  if (maxItems !== undefined && value.length > maxItems) report(`${label} must contain at most ${maxItems} items`);
+  if (maxLength !== undefined && value.some((item) => typeof item === 'string' && item.length > maxLength)) {
+    report(`${label} items must be at most ${maxLength} characters`);
+  }
+}
+
+function validateHttpsUrl(value, label) {
+  if (value === undefined) return;
+  try {
+    const parsed = new URL(value);
+    if (parsed.protocol !== 'https:' || !parsed.hostname || parsed.username || parsed.password) throw new Error();
+  } catch {
+    report(`${label} must be an absolute HTTPS URL without embedded credentials`);
+  }
+}
+
+function resolvePluginPath(pluginDir, value, label, expectedType = 'any') {
+  if (typeof value !== 'string' || !value.startsWith('./')) {
+    report(`${label} must be a relative path beginning with "./"`);
+    return null;
+  }
+  const normalized = path.posix.normalize(value);
+  if (normalized === '..' || normalized.startsWith('../') || path.posix.isAbsolute(normalized)) {
+    report(`${label} must stay inside the plugin directory`);
+    return null;
+  }
+  const resolved = path.resolve(pluginDir, normalized);
+  if (resolved !== pluginDir && !resolved.startsWith(`${pluginDir}${path.sep}`)) {
+    report(`${label} resolves outside the plugin directory`);
+    return null;
+  }
+  if (!fs.existsSync(resolved)) {
+    report(`${label} does not exist: ${value}`);
+    return null;
+  }
+  if (expectedType === 'file' && !fs.statSync(resolved).isFile()) report(`${label} must point to a file`);
+  if (expectedType === 'directory' && !fs.statSync(resolved).isDirectory()) report(`${label} must point to a directory`);
+  return resolved;
+}
+
+function validatePluginInterface(pluginDir, value, id) {
+  if (!isPlainObject(value)) {
+    report(`${id}: plugin interface must be an object`);
+    return;
+  }
+  rejectUnknownFields(value, pluginInterfaceFields, `${id}: plugin interface`);
+  for (const field of ['displayName', 'shortDescription', 'longDescription', 'developerName', 'category']) {
+    requireString(value[field], `${id}: plugin interface.${field}`);
+  }
+  validateStringArray(value.capabilities, `${id}: plugin interface.capabilities`);
+  if ('defaultPrompt' in value) {
+    validateStringArray(value.defaultPrompt, `${id}: plugin interface.defaultPrompt`, { maxItems: 3, maxLength: 128 });
+  }
+  else if ('default_prompt' in value) requireString(value.default_prompt, `${id}: plugin interface.default_prompt`);
+  else report(`${id}: plugin interface requires defaultPrompt or default_prompt`);
+  for (const field of ['websiteURL', 'privacyPolicyURL', 'termsOfServiceURL']) {
+    validateHttpsUrl(value[field], `${id}: plugin interface.${field}`);
+  }
+  if (value.brandColor !== undefined && (typeof value.brandColor !== 'string' || !/^#[0-9A-F]{6}$/i.test(value.brandColor))) {
+    report(`${id}: plugin interface.brandColor must use #RRGGBB`);
+  }
+  for (const field of ['composerIcon', 'logo', 'logoDark']) {
+    if (value[field] !== undefined) resolvePluginPath(pluginDir, value[field], `${id}: plugin interface.${field}`, 'file');
+  }
+  if (value.screenshots !== undefined) {
+    validateStringArray(value.screenshots, `${id}: plugin interface.screenshots`);
+    if (Array.isArray(value.screenshots)) {
+      for (const [index, screenshot] of value.screenshots.entries()) {
+        if (typeof screenshot === 'string' && !screenshot.toLowerCase().endsWith('.png')) {
+          report(`${id}: plugin interface.screenshots[${index}] must be a PNG file`);
+        }
+        if (typeof screenshot === 'string') resolvePluginPath(pluginDir, screenshot, `${id}: plugin interface.screenshots[${index}]`, 'file');
+      }
+    }
+  }
+}
+
+function validatePlugin(pluginDir) {
+  const id = path.basename(pluginDir);
+  if (!validSkillId.test(id)) report(`${id}: plugin folder name must use lowercase kebab-case`);
+  assertNoForbiddenFiles(pluginDir);
+
+  const manifestPath = path.join(pluginDir, '.codex-plugin', 'plugin.json');
+  if (!fs.existsSync(manifestPath)) {
+    report(`${id}: missing .codex-plugin/plugin.json`);
+    return;
+  }
+  const manifest = readJson(manifestPath);
+  if (!manifest) return;
+  rejectUnknownFields(manifest, pluginManifestFields, `${id}: plugin manifest`);
+  if (manifest.name !== id) report(`${id}: plugin manifest name must match folder name`);
+  if (manifest.id !== undefined && manifest.id !== id) report(`${id}: plugin manifest id must match folder name when present`);
+  if (typeof manifest.version !== 'string' || !validSemver.test(manifest.version)) {
+    report(`${id}: plugin manifest version must use semantic versioning`);
+  }
+  requireString(manifest.description, `${id}: plugin manifest description`);
+  if (!isPlainObject(manifest.author)) report(`${id}: plugin manifest author must be an object`);
+  else {
+    rejectUnknownFields(manifest.author, new Set(['name', 'email', 'url']), `${id}: plugin manifest author`);
+    requireString(manifest.author.name, `${id}: plugin manifest author.name`);
+    if (manifest.author.email !== undefined) requireString(manifest.author.email, `${id}: plugin manifest author.email`);
+    validateHttpsUrl(manifest.author.url, `${id}: plugin manifest author.url`);
+  }
+  validateHttpsUrl(manifest.homepage, `${id}: plugin manifest homepage`);
+  validateHttpsUrl(manifest.repository, `${id}: plugin manifest repository`);
+  if (manifest.keywords !== undefined) validateStringArray(manifest.keywords, `${id}: plugin manifest keywords`);
+  if (manifest.license !== undefined) requireString(manifest.license, `${id}: plugin manifest license`);
+  if (!fs.existsSync(path.join(pluginDir, 'LICENSE'))) report(`${id}: plugin package must include LICENSE`);
+  if (manifest.skills !== './skills/') report(`${id}: plugin manifest skills must be "./skills/"`);
+  else resolvePluginPath(pluginDir, manifest.skills, `${id}: plugin manifest skills`, 'directory');
+  if (manifest.apps !== undefined) resolvePluginPath(pluginDir, manifest.apps, `${id}: plugin manifest apps`, 'file');
+  if (typeof manifest.mcpServers === 'string') {
+    resolvePluginPath(pluginDir, manifest.mcpServers, `${id}: plugin manifest mcpServers`, 'file');
+  } else if (manifest.mcpServers !== undefined && !isPlainObject(manifest.mcpServers)) {
+    report(`${id}: plugin manifest mcpServers must be a path or object`);
+  }
+  validatePluginInterface(pluginDir, manifest.interface, id);
+
+  const internalSkillsRoot = path.join(pluginDir, 'skills');
+  const internalSkills = listDirectories(internalSkillsRoot);
+  if (internalSkills.length === 0) report(`${id}: plugin must contain at least one internal skill`);
+  for (const skillDir of internalSkills) {
+    const skillId = path.basename(skillDir);
+    if (!validSkillId.test(skillId)) report(`${id}/${skillId}: internal skill name must use lowercase kebab-case`);
+    if (!fs.existsSync(path.join(skillDir, 'SKILL.md'))) report(`${id}/${skillId}: missing SKILL.md`);
+    validateOpenAiMetadata(skillDir, false);
+  }
+}
+
+function validateMarketplace(pluginDirs) {
+  const marketplace = readJson(marketplacePath);
+  if (!marketplace) return;
+  if (typeof marketplace.name !== 'string' || !marketplace.name.trim()) {
+    report('marketplace.json name must be a non-empty string');
+  }
+  rejectUnknownFields(marketplace, new Set(['name', 'interface', 'plugins']), 'marketplace.json');
+  if (!isPlainObject(marketplace.interface)) report('marketplace.json interface must be an object');
+  else {
+    rejectUnknownFields(marketplace.interface, new Set(['displayName']), 'marketplace.json interface');
+    requireString(marketplace.interface.displayName, 'marketplace.json interface.displayName');
+  }
+  if (!Array.isArray(marketplace.plugins)) {
+    report('marketplace.json plugins must be an array');
+    return;
+  }
+
+  const entries = new Map();
+  for (const entry of marketplace.plugins) {
+    if (!entry || typeof entry.name !== 'string' || !entry.name.trim()) {
+      report('marketplace.json plugin entries must have a non-empty name');
+      continue;
+    }
+    if (entries.has(entry.name)) report(`${entry.name}: duplicate marketplace entry`);
+    rejectUnknownFields(entry, new Set(['name', 'source', 'policy', 'category']), `${entry.name}: marketplace entry`);
+    if (!validSkillId.test(entry.name)) report(`${entry.name}: marketplace plugin name must use lowercase kebab-case`);
+    requireString(entry.category, `${entry.name}: marketplace category`);
+    if (!isPlainObject(entry.source)) report(`${entry.name}: marketplace source must be an object`);
+    else rejectUnknownFields(entry.source, new Set(['source', 'path']), `${entry.name}: marketplace source`);
+    if (!isPlainObject(entry.policy)) report(`${entry.name}: marketplace policy must be an object`);
+    else {
+      rejectUnknownFields(entry.policy, new Set(['installation', 'authentication', 'products']), `${entry.name}: marketplace policy`);
+      if (!validInstallPolicies.has(entry.policy.installation)) report(`${entry.name}: invalid installation policy`);
+      if (!validAuthPolicies.has(entry.policy.authentication)) report(`${entry.name}: invalid authentication policy`);
+      if (entry.policy.products !== undefined) validateStringArray(entry.policy.products, `${entry.name}: marketplace policy.products`);
+    }
+    entries.set(entry.name, entry);
+  }
+
+  const pluginIds = new Set(pluginDirs.map((dir) => path.basename(dir)));
+  for (const pluginId of pluginIds) {
+    const entry = entries.get(pluginId);
+    if (!entry) {
+      report(`${pluginId}: missing marketplace entry`);
+      continue;
+    }
+    if (entry.source?.source !== 'local' || entry.source?.path !== `./plugins/${pluginId}`) {
+      report(`${pluginId}: marketplace source must point to ./plugins/${pluginId}`);
+    }
+  }
+  for (const entryName of entries.keys()) {
+    if (!pluginIds.has(entryName)) report(`${entryName}: marketplace entry has no matching plugin directory`);
+  }
+}
+
 function main() {
+  let checkedSkills = 0;
   if (!fs.existsSync(skillsRoot)) {
     report(`Missing skills directory: ${skillsRoot}`);
   } else {
@@ -219,15 +454,24 @@ function main() {
     for (const entry of entries) {
       if (entry.isSymbolicLink()) report(`Symbolic links are not allowed in skills root: ${entry.name}`);
     }
-    const skillDirs = entries
-      .filter((entry) => entry.isDirectory() && !entry.name.startsWith('_'))
-      .map((entry) => path.join(skillsRoot, entry.name))
-      .sort((a, b) => path.basename(a).localeCompare(path.basename(b)));
+    const skillDirs = listDirectories(skillsRoot);
 
     for (const skillDir of skillDirs) validateSkill(skillDir);
-
-    console.log(`Checked ${skillDirs.length} skills`);
+    checkedSkills = skillDirs.length;
   }
+
+  if (fs.existsSync(pluginsRoot)) {
+    for (const entry of fs.readdirSync(pluginsRoot, { withFileTypes: true })) {
+      if (!entry.isDirectory() && !entry.isSymbolicLink() && entry.name !== '.gitkeep') {
+        report(`Unexpected file in plugins root: ${entry.name}`);
+      }
+    }
+  }
+  const pluginDirs = listDirectories(pluginsRoot);
+  for (const pluginDir of pluginDirs) validatePlugin(pluginDir);
+  validateMarketplace(pluginDirs);
+
+  console.log(`Checked ${checkedSkills} skills and ${pluginDirs.length} plugins`);
 
   if (errorCount > 0) {
     console.error(`Validation failed with ${errorCount} error(s)`);

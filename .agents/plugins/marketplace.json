@@ -1,0 +1,7 @@
+{
+  "name": "vsix-skills",
+  "interface": {
+    "displayName": "VSIX Skills"
+  },
+  "plugins": []
+}
