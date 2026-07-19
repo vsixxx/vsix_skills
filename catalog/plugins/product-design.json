@@ -1,0 +1,30 @@
+{
+  "id": "product-design",
+  "title": "Product Design",
+  "descriptionZh": "从产品想法、现有页面、截图或设计稿出发，完成用户研究、体验审查、视觉方向探索、交互原型实现、设计还原检查与分享发布。",
+  "category": "图片与设计",
+  "sourceUrl": "https://github.com/openai/role-based-plugins/tree/fe5608d2512a7d6a7b9821ce8a88c48464ecd6e4/plugins/product-design",
+  "homepage": "https://github.com/openai/role-based-plugins/tree/main/plugins/product-design",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19",
+  "requirements": {
+    "user": {
+      "systems": [],
+      "software": [],
+      "auth": [],
+      "services": [],
+      "hardware": [],
+      "resources": [],
+      "notes": []
+    },
+    "agent": {
+      "tools": [
+        "Node.js",
+        "npm",
+        "Python 3"
+      ],
+      "packages": []
+    }
+  }
+}

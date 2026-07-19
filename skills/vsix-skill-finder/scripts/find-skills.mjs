@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const DEFAULT_API_URL = 'https://vsix.cc/skills/api/v1/catalog.json';
 const DEFAULT_TTL_MS = 10 * 60 * 1000;
@@ -117,22 +118,53 @@ function validateCatalog(data) {
   if (!data || data.schemaVersion !== 1 || !Array.isArray(data.skills)) {
     throw new Error('unsupported VSIX Skills catalog schema');
   }
-  for (const skill of data.skills) {
+  if (data.items !== undefined && !Array.isArray(data.items)) {
+    throw new Error('invalid unified items array in VSIX Skills catalog');
+  }
+  for (const skill of data.items || data.skills) {
     const stringFields = [
       'id',
       'title',
       'descriptionZh',
       'category',
       'sourceUrl',
-      'packageUrl',
-      'sha256Url',
-      'sha256',
     ];
     if (!skill || stringFields.some((field) => typeof skill[field] !== 'string' || !skill[field])) {
-      throw new Error('invalid skill entry in VSIX Skills catalog');
+      throw new Error('invalid capability entry in VSIX Skills catalog');
     }
-    if (!/^[a-f0-9]{64}$/i.test(skill.sha256) || !skill.requirements?.user || !skill.requirements?.agent) {
-      throw new Error('invalid skill integrity metadata in VSIX Skills catalog');
+    if (!skill.requirements?.user || !skill.requirements?.agent) {
+      throw new Error('invalid capability requirements in VSIX Skills catalog');
+    }
+    const distribution = skill.distribution || (
+      skill.packageUrl && skill.sha256Url && skill.sha256
+        ? {
+            kind: 'skill',
+            packageUrl: skill.packageUrl,
+            sha256Url: skill.sha256Url,
+            sha256: skill.sha256,
+            packageSize: skill.packageSize,
+          }
+        : null
+    );
+    if (distribution && !skill.distribution) skill.distribution = distribution;
+    if (!distribution || !['skill', 'plugin'].includes(distribution.kind)) {
+      throw new Error('invalid capability distribution in VSIX Skills catalog');
+    }
+    if (distribution.kind === 'skill') {
+      for (const field of ['packageUrl', 'sha256Url', 'sha256']) {
+        if (typeof distribution[field] !== 'string' || !distribution[field]) {
+          throw new Error('invalid Skill integrity metadata in VSIX Skills catalog');
+        }
+      }
+      if (!/^[a-f0-9]{64}$/i.test(distribution.sha256)) {
+        throw new Error('invalid Skill SHA-256 in VSIX Skills catalog');
+      }
+    } else {
+      for (const field of ['pluginId', 'qualifiedPluginId', 'version', 'marketplaceName', 'marketplaceUrl']) {
+        if (typeof distribution[field] !== 'string' || !distribution[field]) {
+          throw new Error('invalid plugin distribution metadata in VSIX Skills catalog');
+        }
+      }
     }
   }
 }
@@ -180,7 +212,7 @@ function scoreSkill(skill, query, tokens) {
 function searchCatalog(data, options) {
   const category = normalize(options.category).trim();
   const tokens = tokenize(options.query);
-  return data.skills
+  return (data.items || data.skills)
     .filter((skill) => skill.id !== 'vsix-skill-finder')
     .filter((skill) => !category || normalize(skill.category) === category)
     .map((skill) => ({ skill, score: scoreSkill(skill, options.query, tokens) }))
@@ -214,7 +246,11 @@ async function main() {
   }, null, 2));
 }
 
-main().catch((error) => {
-  console.error(`VSIX Skill Finder: ${error.message}`);
-  process.exitCode = 1;
-});
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch((error) => {
+    console.error(`VSIX Skill Finder: ${error.message}`);
+    process.exitCode = 1;
+  });
+}
+
+export { searchCatalog, validateCatalog };

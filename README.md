@@ -28,6 +28,9 @@ plugins/
     references/
     templates/
 
+catalog/plugins/
+  <plugin-id>.json
+
 .agents/plugins/
   marketplace.json
 ```
@@ -39,6 +42,8 @@ Each folder under `skills/` is one distributable skill. The folder name is the s
 Each folder under `plugins/` is one complete Codex plugin. Keep workflows that share routing, context, scripts, templates, or lifecycle rules together as a plugin instead of publishing their internal skills separately.
 
 `.agents/plugins/marketplace.json` is the Codex marketplace manifest. Every plugin directory must have exactly one matching marketplace entry whose source path is `./plugins/<plugin-id>`.
+
+`catalog/plugins/<plugin-id>.json` contains public site and Finder metadata that does not belong in the Codex plugin manifest. It is not included in the installed plugin. Every plugin must have exactly one matching catalog file, and Skill and plugin ids must not collide.
 
 The production publisher exposes a read-only Git mirror at `https://vsix.cc/marketplace/vsix-skills.git`. Generated Git objects and release directories do not belong in this repository.
 
@@ -180,6 +185,8 @@ node scripts/validate-skills.mjs
 The GitHub Action runs the same validation on pull requests and pushes to `main`.
 
 The validator also checks the marketplace manifest and every plugin under `plugins/`. A plugin must include `.codex-plugin/plugin.json`, a matching manifest name, and at least one internal `skills/<skill-id>/SKILL.md`.
+
+Plugin catalog files use the same `title`, `descriptionZh`, `category`, `requirements`, `sourceUrl`, and optional public metadata rules as `skill.json`, but omit `type`. Distribution fields are generated from the plugin manifest and Marketplace entry; do not write them manually.
 
 ## Packaging
 

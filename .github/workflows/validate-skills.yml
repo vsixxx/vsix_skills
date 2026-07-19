@@ -22,3 +22,5 @@ jobs:
       - name: Validate skills
         run: node scripts/validate-skills.mjs
 
+      - name: Test catalog consumers
+        run: node --test scripts/tests/*.test.mjs

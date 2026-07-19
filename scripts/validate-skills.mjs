@@ -4,6 +4,7 @@ import path from 'node:path';
 const repoRoot = path.resolve(import.meta.dirname, '..');
 const skillsRoot = path.join(repoRoot, 'skills');
 const pluginsRoot = path.join(repoRoot, 'plugins');
+const pluginCatalogRoot = path.join(repoRoot, 'catalog', 'plugins');
 const marketplacePath = path.join(repoRoot, '.agents', 'plugins', 'marketplace.json');
 const validSkillId = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const validSemver = /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/;
@@ -18,6 +19,11 @@ const pluginInterfaceFields = new Set([
   'capabilities', 'websiteURL', 'privacyPolicyURL', 'termsOfServiceURL', 'brandColor',
   'composerIcon', 'logo', 'logoDark', 'screenshots', 'defaultPrompt', 'default_prompt',
 ]);
+const pluginCatalogFields = new Set([
+  'id', 'title', 'descriptionZh', 'category', 'requirements', 'sourceUrl',
+  'homepage', 'author', 'status', 'updatedAt',
+]);
+const validStatuses = new Set(['recommended', 'experimental', 'archived']);
 
 const validTypes = new Set([
   'codex-skill',
@@ -277,6 +283,26 @@ function validateHttpsUrl(value, label) {
   }
 }
 
+function validateCatalogRequirements(value, label) {
+  if (!isPlainObject(value)) {
+    report(`${label} must be an object`);
+    return;
+  }
+  rejectUnknownFields(value, new Set(['user', 'agent']), label);
+  for (const [group, fields] of [['user', userRequirementFields], ['agent', agentRequirementFields]]) {
+    const groupValue = value[group];
+    if (!isPlainObject(groupValue)) {
+      report(`${label}.${group} must be an object`);
+      continue;
+    }
+    rejectUnknownFields(groupValue, new Set(fields), `${label}.${group}`);
+    for (const field of fields) {
+      if (!(field in groupValue)) report(`${label}.${group} missing field "${field}"`);
+      else validateStringArray(groupValue[field], `${label}.${group}.${field}`);
+    }
+  }
+}
+
 function resolvePluginPath(pluginDir, value, label, expectedType = 'any') {
   if (typeof value !== 'string' || !value.startsWith('./')) {
     report(`${label} must be a relative path beginning with "./"`);
@@ -445,6 +471,55 @@ function validateMarketplace(pluginDirs) {
   }
 }
 
+function validatePluginCatalog(pluginDirs) {
+  const pluginIds = new Set(pluginDirs.map((dir) => path.basename(dir)));
+  if (!fs.existsSync(pluginCatalogRoot)) {
+    if (pluginIds.size > 0) report(`Missing plugin catalog directory: ${pluginCatalogRoot}`);
+    return;
+  }
+
+  const catalogIds = new Set();
+  for (const entry of fs.readdirSync(pluginCatalogRoot, { withFileTypes: true })) {
+    if (entry.isSymbolicLink()) {
+      report(`Symbolic links are not allowed in plugin catalog: ${entry.name}`);
+      continue;
+    }
+    if (!entry.isFile() || !entry.name.endsWith('.json')) {
+      report(`Unexpected plugin catalog entry: ${entry.name}`);
+      continue;
+    }
+
+    const id = entry.name.slice(0, -'.json'.length);
+    catalogIds.add(id);
+    const manifest = readJson(path.join(pluginCatalogRoot, entry.name));
+    if (!manifest) continue;
+    rejectUnknownFields(manifest, pluginCatalogFields, `${id}: plugin catalog`);
+    for (const field of ['id', 'title', 'descriptionZh', 'category', 'sourceUrl']) {
+      requireString(manifest[field], `${id}: plugin catalog.${field}`);
+    }
+    if (manifest.id !== id) report(`${id}: plugin catalog id must match filename`);
+    if (!validSkillId.test(id)) report(`${id}: plugin catalog filename must use lowercase kebab-case`);
+    if (!validCategories.has(manifest.category)) report(`${id}: invalid plugin catalog category "${manifest.category}"`);
+    validateCatalogRequirements(manifest.requirements, `${id}: plugin catalog.requirements`);
+    validateHttpsUrl(manifest.sourceUrl, `${id}: plugin catalog.sourceUrl`);
+    validateHttpsUrl(manifest.homepage, `${id}: plugin catalog.homepage`);
+    if (manifest.author !== undefined) requireString(manifest.author, `${id}: plugin catalog.author`);
+    if (manifest.status !== undefined && !validStatuses.has(manifest.status)) {
+      report(`${id}: invalid plugin catalog status "${manifest.status}"`);
+    }
+    if (manifest.updatedAt !== undefined && !/^\d{4}-\d{2}-\d{2}$/.test(manifest.updatedAt)) {
+      report(`${id}: plugin catalog.updatedAt must use YYYY-MM-DD`);
+    }
+  }
+
+  for (const pluginId of pluginIds) {
+    if (!catalogIds.has(pluginId)) report(`${pluginId}: missing catalog/plugins/${pluginId}.json`);
+  }
+  for (const catalogId of catalogIds) {
+    if (!pluginIds.has(catalogId)) report(`${catalogId}: plugin catalog has no matching plugin directory`);
+  }
+}
+
 function main() {
   let checkedSkills = 0;
   if (!fs.existsSync(skillsRoot)) {
@@ -470,6 +545,13 @@ function main() {
   const pluginDirs = listDirectories(pluginsRoot);
   for (const pluginDir of pluginDirs) validatePlugin(pluginDir);
   validateMarketplace(pluginDirs);
+  validatePluginCatalog(pluginDirs);
+
+  const skillIds = new Set(listDirectories(skillsRoot).map((dir) => path.basename(dir)));
+  for (const pluginDir of pluginDirs) {
+    const pluginId = path.basename(pluginDir);
+    if (skillIds.has(pluginId)) report(`${pluginId}: Skill and plugin ids must be unique across the catalog`);
+  }
 
   console.log(`Checked ${checkedSkills} skills and ${pluginDirs.length} plugins`);
 
