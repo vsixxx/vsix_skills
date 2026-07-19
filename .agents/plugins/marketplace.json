@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "VSIX Skills"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "product-design",
+      "source": {
+        "source": "local",
+        "path": "./plugins/product-design"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Creativity"
+    }
+  ]
 }
