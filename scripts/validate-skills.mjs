@@ -21,7 +21,11 @@ const pluginInterfaceFields = new Set([
 ]);
 const pluginCatalogFields = new Set([
   'id', 'title', 'descriptionZh', 'category', 'requirements', 'sourceUrl',
-  'homepage', 'author', 'status', 'updatedAt',
+  'homepage', 'author', 'status', 'updatedAt', 'distribution',
+]);
+const externalPluginDistributionFields = new Set([
+  'kind', 'pluginId', 'qualifiedPluginId', 'version', 'versionPolicy', 'marketplaceName',
+  'marketplaceUrl', 'marketplaceManaged', 'marketplaceAliases',
 ]);
 const validStatuses = new Set(['recommended', 'experimental', 'archived']);
 
@@ -196,7 +200,9 @@ function validateOpenAiMetadata(skillDir, requireSkillReference = true) {
   if (typeof shortDescription !== 'string' || !shortDescription.trim()) {
     report(`${id}: agents/openai.yaml short_description must be a non-empty string`);
   }
-  if (typeof defaultPrompt !== 'string' || !defaultPrompt.trim()) {
+  if (defaultPrompt === null && !requireSkillReference) {
+    // Plugin-level interface metadata may provide the default prompt for internal Skills.
+  } else if (typeof defaultPrompt !== 'string' || !defaultPrompt.trim()) {
     report(`${id}: agents/openai.yaml default_prompt must be a non-empty string`);
   } else if (requireSkillReference && !defaultPrompt.includes(`$${id}`)) {
     report(`${id}: agents/openai.yaml default_prompt must mention $${id}`);
@@ -299,6 +305,41 @@ function validateCatalogRequirements(value, label) {
     for (const field of fields) {
       if (!(field in groupValue)) report(`${label}.${group} missing field "${field}"`);
       else validateStringArray(groupValue[field], `${label}.${group}.${field}`);
+    }
+  }
+}
+
+function validateExternalPluginDistribution(value, id, label) {
+  if (!isPlainObject(value)) {
+    report(`${label} must be an object`);
+    return;
+  }
+  rejectUnknownFields(value, externalPluginDistributionFields, label);
+  for (const field of ['kind', 'pluginId', 'qualifiedPluginId', 'marketplaceName', 'marketplaceUrl']) {
+    requireString(value[field], `${label}.${field}`);
+  }
+  if (value.kind !== 'plugin') report(`${label}.kind must be "plugin"`);
+  if (value.pluginId !== id) report(`${label}.pluginId must match catalog id`);
+  if (value.qualifiedPluginId !== `${id}@${value.marketplaceName}`) {
+    report(`${label}.qualifiedPluginId must match pluginId@marketplaceName`);
+  }
+  if (value.version !== undefined && (typeof value.version !== 'string' || !validSemver.test(value.version))) {
+    report(`${label}.version must use semantic versioning when present`);
+  }
+  if (value.versionPolicy !== undefined && value.versionPolicy !== 'marketplace-current') {
+    report(`${label}.versionPolicy must be "marketplace-current" when present`);
+  }
+  if (value.version === undefined && !(value.marketplaceManaged === true && value.versionPolicy === 'marketplace-current')) {
+    report(`${label} requires a semantic version or a managed marketplace-current policy`);
+  }
+  validateHttpsUrl(value.marketplaceUrl, `${label}.marketplaceUrl`);
+  if (value.marketplaceManaged !== undefined && typeof value.marketplaceManaged !== 'boolean') {
+    report(`${label}.marketplaceManaged must be true or false when present`);
+  }
+  if (value.marketplaceAliases !== undefined) {
+    validateStringArray(value.marketplaceAliases, `${label}.marketplaceAliases`);
+    if (value.marketplaceAliases.includes(value.marketplaceName)) {
+      report(`${label}.marketplaceAliases must not repeat marketplaceName`);
     }
   }
 }
@@ -475,10 +516,11 @@ function validatePluginCatalog(pluginDirs) {
   const pluginIds = new Set(pluginDirs.map((dir) => path.basename(dir)));
   if (!fs.existsSync(pluginCatalogRoot)) {
     if (pluginIds.size > 0) report(`Missing plugin catalog directory: ${pluginCatalogRoot}`);
-    return;
+    return new Set();
   }
 
   const catalogIds = new Set();
+  const externalIds = new Set();
   for (const entry of fs.readdirSync(pluginCatalogRoot, { withFileTypes: true })) {
     if (entry.isSymbolicLink()) {
       report(`Symbolic links are not allowed in plugin catalog: ${entry.name}`);
@@ -510,14 +552,24 @@ function validatePluginCatalog(pluginDirs) {
     if (manifest.updatedAt !== undefined && !/^\d{4}-\d{2}-\d{2}$/.test(manifest.updatedAt)) {
       report(`${id}: plugin catalog.updatedAt must use YYYY-MM-DD`);
     }
+    if (manifest.distribution !== undefined) {
+      if (pluginIds.has(id)) report(`${id}: hosted plugin catalog must not define distribution manually`);
+      else {
+        validateExternalPluginDistribution(manifest.distribution, id, `${id}: plugin catalog.distribution`);
+        externalIds.add(id);
+      }
+    }
   }
 
   for (const pluginId of pluginIds) {
     if (!catalogIds.has(pluginId)) report(`${pluginId}: missing catalog/plugins/${pluginId}.json`);
   }
   for (const catalogId of catalogIds) {
-    if (!pluginIds.has(catalogId)) report(`${catalogId}: plugin catalog has no matching plugin directory`);
+    if (!pluginIds.has(catalogId) && !externalIds.has(catalogId)) {
+      report(`${catalogId}: plugin catalog has no matching plugin directory or external distribution`);
+    }
   }
+  return catalogIds;
 }
 
 function main() {
@@ -545,11 +597,10 @@ function main() {
   const pluginDirs = listDirectories(pluginsRoot);
   for (const pluginDir of pluginDirs) validatePlugin(pluginDir);
   validateMarketplace(pluginDirs);
-  validatePluginCatalog(pluginDirs);
+  const pluginCatalogIds = validatePluginCatalog(pluginDirs);
 
   const skillIds = new Set(listDirectories(skillsRoot).map((dir) => path.basename(dir)));
-  for (const pluginDir of pluginDirs) {
-    const pluginId = path.basename(pluginDir);
+  for (const pluginId of pluginCatalogIds) {
     if (skillIds.has(pluginId)) report(`${pluginId}: Skill and plugin ids must be unique across the catalog`);
   }
 

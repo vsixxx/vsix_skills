@@ -1,0 +1,15 @@
+{
+  "id": "zotero",
+  "title": "Zotero",
+  "descriptionZh": "连接本地 Zotero 文献库，搜索论文、导出 BibTeX、插入引用并导入新的参考文献。",
+  "category": "研究与知识",
+  "requirements": {
+    "user": { "systems": [], "software": ["Zotero Desktop"], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Python 3"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/zotero",
+  "homepage": "https://www.zotero.org",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

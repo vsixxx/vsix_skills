@@ -1,0 +1,15 @@
+{
+  "id": "remotion",
+  "title": "Remotion",
+  "descriptionZh": "使用 React 制作程序化视频，覆盖动画、时间轴、音频、字幕、转场、图表和 3D 内容。",
+  "category": "视频与音频",
+  "requirements": {
+    "user": { "systems": [], "software": [], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Node.js", "npm"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/remotion",
+  "homepage": "https://remotion.dev",
+  "author": "Remotion",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

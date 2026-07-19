@@ -1,0 +1,15 @@
+{
+  "id": "build-ios-apps",
+  "title": "Build iOS Apps",
+  "descriptionZh": "构建和调试 iOS 应用，覆盖 SwiftUI、App Intents、模拟器、性能分析与内存泄漏排查。",
+  "category": "开发与代码",
+  "requirements": {
+    "user": { "systems": ["macOS"], "software": ["Xcode"], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Node.js", "npm", "Xcode 命令行工具"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/build-ios-apps",
+  "homepage": "https://github.com/openai/plugins/tree/main/plugins/build-ios-apps",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

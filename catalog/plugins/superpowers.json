@@ -1,0 +1,15 @@
+{
+  "id": "superpowers",
+  "title": "Superpowers",
+  "descriptionZh": "为软件开发提供从需求澄清、计划、测试驱动开发到调试、代码审查和分支收尾的完整方法。",
+  "category": "开发与代码",
+  "requirements": {
+    "user": { "systems": [], "software": [], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Git"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/superpowers",
+  "homepage": "https://github.com/obra/superpowers",
+  "author": "Jesse Vincent",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

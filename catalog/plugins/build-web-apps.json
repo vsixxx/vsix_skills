@@ -1,0 +1,15 @@
+{
+  "id": "build-web-apps",
+  "title": "Build Web Apps",
+  "descriptionZh": "设计、实现并测试现代 Web 应用，覆盖前端界面、组件系统、浏览器调试及可选的支付和数据库集成。",
+  "category": "网页与前端",
+  "requirements": {
+    "user": { "systems": [], "software": [], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Node.js", "npm"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/build-web-apps",
+  "homepage": "https://github.com/openai/plugins/tree/main/plugins/build-web-apps",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "game-studio",
+  "title": "Game Studio",
+  "descriptionZh": "规划、制作并测试浏览器游戏，覆盖 2D、3D、玩法系统、界面、素材管线和交互验证。",
+  "category": "开发与代码",
+  "requirements": {
+    "user": { "systems": [], "software": [], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Node.js", "npm", "Python 3"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/game-studio",
+  "homepage": "https://github.com/openai/plugins/tree/main/plugins/game-studio",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

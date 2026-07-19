@@ -1,0 +1,15 @@
+{
+  "id": "build-web-data-visualization",
+  "title": "Web Data Visualization",
+  "descriptionZh": "设计、实现和测试图表、地图、仪表盘、数据故事及 WebGL 可视化，并兼顾响应式与无障碍体验。",
+  "category": "图片与设计",
+  "requirements": {
+    "user": { "systems": [], "software": [], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Node.js", "npm"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/build-web-data-visualization",
+  "homepage": "https://github.com/openai/plugins/tree/main/plugins/build-web-data-visualization",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

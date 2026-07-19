@@ -1,0 +1,15 @@
+{
+  "id": "test-android-apps",
+  "title": "Test Android Apps",
+  "descriptionZh": "使用模拟器复现和定位 Android 应用问题，采集截图、界面结构、日志与性能证据。",
+  "category": "测试与安全",
+  "requirements": {
+    "user": { "systems": [], "software": ["Android Studio 或 Android SDK"], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["ADB", "Gradle", "Python 3"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/test-android-apps",
+  "homepage": "https://github.com/openai/plugins/tree/main/plugins/test-android-apps",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

@@ -160,10 +160,16 @@ function validateCatalog(data) {
         throw new Error('invalid Skill SHA-256 in VSIX Skills catalog');
       }
     } else {
-      for (const field of ['pluginId', 'qualifiedPluginId', 'version', 'marketplaceName', 'marketplaceUrl']) {
+      for (const field of ['pluginId', 'qualifiedPluginId', 'marketplaceName', 'marketplaceUrl']) {
         if (typeof distribution[field] !== 'string' || !distribution[field]) {
           throw new Error('invalid plugin distribution metadata in VSIX Skills catalog');
         }
+      }
+      if (
+        (typeof distribution.version !== 'string' || !distribution.version)
+        && !(distribution.marketplaceManaged === true && distribution.versionPolicy === 'marketplace-current')
+      ) {
+        throw new Error('invalid plugin version metadata in VSIX Skills catalog');
       }
     }
   }

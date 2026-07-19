@@ -1,0 +1,25 @@
+{
+  "id": "figma",
+  "title": "Figma",
+  "descriptionZh": "读取和编辑 Figma 设计，完成设计还原、Code Connect、设计系统规则和界面生成工作流。",
+  "category": "图片与设计",
+  "requirements": {
+    "user": { "systems": [], "software": [], "auth": ["Figma 账号授权"], "services": ["Figma"], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": [], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/figma",
+  "homepage": "https://www.figma.com",
+  "author": "Figma",
+  "status": "recommended",
+  "updatedAt": "2026-07-19",
+  "distribution": {
+    "kind": "plugin",
+    "pluginId": "figma",
+    "qualifiedPluginId": "figma@openai-curated",
+    "versionPolicy": "marketplace-current",
+    "marketplaceName": "openai-curated",
+    "marketplaceAliases": ["openai-api-curated"],
+    "marketplaceUrl": "https://github.com/openai/plugins.git",
+    "marketplaceManaged": true
+  }
+}

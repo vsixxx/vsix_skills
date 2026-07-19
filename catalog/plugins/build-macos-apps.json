@@ -1,0 +1,15 @@
+{
+  "id": "build-macos-apps",
+  "title": "Build macOS Apps",
+  "descriptionZh": "开发、运行、测试和调试原生 macOS 应用，覆盖 SwiftUI、AppKit、签名、日志与打包。",
+  "category": "开发与代码",
+  "requirements": {
+    "user": { "systems": ["macOS"], "software": ["Xcode"], "auth": [], "services": [], "hardware": [], "resources": [], "notes": [] },
+    "agent": { "tools": ["Xcode 命令行工具", "Swift"], "packages": [] }
+  },
+  "sourceUrl": "https://github.com/openai/plugins/tree/11c74d6ba24d3a6d48f54a194cd00ef3beea18f9/plugins/build-macos-apps",
+  "homepage": "https://github.com/openai/plugins/tree/main/plugins/build-macos-apps",
+  "author": "OpenAI",
+  "status": "recommended",
+  "updatedAt": "2026-07-19"
+}

@@ -79,3 +79,33 @@ test('normalizes legacy Skill entries without distribution metadata', () => {
   validateCatalog(catalog);
   assert.equal(catalog.skills[0].distribution.kind, 'skill');
 });
+
+test('accepts a managed official plugin that tracks the Marketplace current version', () => {
+  const catalog = {
+    schemaVersion: 1,
+    skills: [],
+    items: [{
+      id: 'figma',
+      title: 'Figma',
+      descriptionZh: '使用官方 Figma 工作流。',
+      category: '图片与设计',
+      sourceUrl: 'https://github.com/openai/plugins/tree/main/plugins/figma',
+      requirements: requirements(),
+      distribution: {
+        kind: 'plugin',
+        pluginId: 'figma',
+        qualifiedPluginId: 'figma@openai-curated',
+        versionPolicy: 'marketplace-current',
+        marketplaceName: 'openai-curated',
+        marketplaceAliases: ['openai-api-curated'],
+        marketplaceUrl: 'https://github.com/openai/plugins.git',
+        marketplaceManaged: true,
+      },
+    }],
+  };
+
+  validateCatalog(catalog);
+  const [result] = searchCatalog(catalog, { query: 'Figma', category: '', limit: 1 });
+  assert.equal(result.distribution.versionPolicy, 'marketplace-current');
+  assert.deepEqual(result.distribution.marketplaceAliases, ['openai-api-curated']);
+});

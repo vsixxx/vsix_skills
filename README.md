@@ -43,7 +43,9 @@ Each folder under `plugins/` is one complete Codex plugin. Keep workflows that s
 
 `.agents/plugins/marketplace.json` is the Codex marketplace manifest. Every plugin directory must have exactly one matching marketplace entry whose source path is `./plugins/<plugin-id>`.
 
-`catalog/plugins/<plugin-id>.json` contains public site and Finder metadata that does not belong in the Codex plugin manifest. It is not included in the installed plugin. Every plugin must have exactly one matching catalog file, and Skill and plugin ids must not collide.
+`catalog/plugins/<plugin-id>.json` contains public site and Finder metadata that does not belong in the Codex plugin manifest. It is not included in the installed plugin. Every hosted plugin must have exactly one matching catalog file, and Skill and plugin ids must not collide.
+
+An official external plugin may be listed without copying its restricted package into this repository. Such a catalog file must include a complete `distribution` object with the official Marketplace URL, Marketplace name, qualified plugin ID, and version. External entries appear in the unified catalog but are not added to the VSIX Marketplace manifest.
 
 The production publisher exposes a read-only Git mirror at `https://vsix.cc/marketplace/vsix-skills.git`. Generated Git objects and release directories do not belong in this repository.
 
