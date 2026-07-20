@@ -48,6 +48,7 @@ from _conversion_profile import (  # noqa: E402
     profile_path_for,
     write_conversion_profile_best_effort,
 )
+from url_safety import validate_public_url  # noqa: E402
 
 configure_utf8_stdio()
 
@@ -66,7 +67,9 @@ try:
     _CURL_IMPERSONATE = "chrome120"
 except ImportError:
     curl_requests = None
-    _CURL_IMPERSONATE = None
+_CURL_IMPERSONATE = None
+
+MAX_WEB_RESPONSE_BYTES = 16 * 1024 * 1024
 
 
 def _http_get(url: str, *, headers: dict | None = None, timeout: int | None = None,
@@ -77,13 +80,19 @@ def _http_get(url: str, *, headers: dict | None = None, timeout: int | None = No
     TLS fingerprint (notably mp.weixin.qq.com). Signature mirrors the subset of
     requests.get() this script actually uses.
     """
+    validate_public_url(url)
+    request_options = {
+        "headers": headers,
+        "timeout": timeout,
+        "verify": verify,
+        "stream": stream,
+        "allow_redirects": False,
+    }
     if curl_requests is not None:
         return curl_requests.get(
-            url, headers=headers, timeout=timeout,
-            verify=verify, impersonate=_CURL_IMPERSONATE, stream=stream,
+            url, impersonate=_CURL_IMPERSONATE, **request_options,
         )
-    return requests.get(url, headers=headers, timeout=timeout,
-                        verify=verify, stream=stream)
+    return requests.get(url, **request_options)
 
 
 def _normalize_charset(charset: str | None) -> str:
@@ -235,6 +244,11 @@ def fetch_url(url: str) -> str:
         response = _http_get(url, headers=headers,
                              timeout=CONFIG["timeout"], verify=False)
         response.raise_for_status()
+        content_length = response.headers.get("Content-Length")
+        if content_length and int(content_length) > MAX_WEB_RESPONSE_BYTES:
+            raise ValueError("Web response exceeds the 16 MiB safety limit")
+        if len(response.content) > MAX_WEB_RESPONSE_BYTES:
+            raise ValueError("Web response exceeds the 16 MiB safety limit")
 
         return _decode_response_text(response)
     except Exception as e:

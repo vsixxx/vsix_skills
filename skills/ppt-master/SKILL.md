@@ -20,6 +20,8 @@ PPT Master is a routed presentation workflow for Codex and compatible agents. It
 - Install required Python packages from this Skill's `requirements.txt` when needed. Keep dependency setup out of the user's chat unless installation genuinely cannot proceed automatically.
 - Before running a bundled script, resolve `SKILL_DIR` to the directory containing this `SKILL.md`; never assume the current working directory is the repository root.
 - Treat optional tools as route-specific prerequisites. Check for them at the start of the route and stop with an actionable message when they are required but unavailable.
+- Network inputs are restricted to public HTTP(S) hosts; local/private addresses, embedded credentials, automatic redirects, and oversized responses are rejected. Do not weaken these checks for convenience.
+- Office-package extraction is bounded by member count, per-file size, and total expanded size. Treat limit failures as blocking input errors.
 
 ## Mandatory Load Order
 

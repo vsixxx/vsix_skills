@@ -33,6 +33,7 @@ from pathlib import Path
 from typing import Any
 
 from console_encoding import configure_utf8_stdio
+from url_safety import validate_public_url
 
 try:
     from PIL import Image
@@ -41,6 +42,14 @@ except ImportError:
 
 
 configure_utf8_stdio()
+
+
+class _NoRedirectHandler(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
+
+
+_SAFE_OPENER = urllib.request.build_opener(_NoRedirectHandler)
 
 
 DEFAULT_DPI = 300
@@ -53,6 +62,7 @@ WIKIMEDIA_RENDER_ENDPOINT = "https://wikimedia.org/api/rest_v1/media/math/render
 QUICKLATEX_ENDPOINT = "https://quicklatex.com/latex3.f"
 MATHPAD_ENDPOINT = "https://mathpad.ai/api/v1/latex2image"
 VALID_FILENAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.-]*\.png$")
+MAX_FORMULA_RESPONSE_BYTES = 8 * 1024 * 1024
 PNG_SIGNATURE = b"\x89PNG\r\n\x1a\n"
 
 
@@ -159,8 +169,15 @@ def _parse_providers(value: str | list[str] | None) -> list[str]:
 def _request_bytes(req: urllib.request.Request, timeout: int = 30) -> tuple[bytes, str]:
     """Fetch bytes and return the response content type."""
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return resp.read(), resp.headers.get("Content-Type", "")
+        validate_public_url(req.full_url)
+        with _SAFE_OPENER.open(req, timeout=timeout) as resp:
+            content_length = resp.headers.get("Content-Length")
+            if content_length and int(content_length) > MAX_FORMULA_RESPONSE_BYTES:
+                raise RuntimeError("Formula provider response exceeds the 8 MiB safety limit")
+            data = resp.read(MAX_FORMULA_RESPONSE_BYTES + 1)
+            if len(data) > MAX_FORMULA_RESPONSE_BYTES:
+                raise RuntimeError("Formula provider response exceeds the 8 MiB safety limit")
+            return data, resp.headers.get("Content-Type", "")
     except (urllib.error.URLError, TimeoutError) as exc:
         raise RuntimeError(str(exc)) from exc
 
@@ -220,7 +237,8 @@ def _render_wikimedia(
         method="POST",
     )
     try:
-        with urllib.request.urlopen(check_req, timeout=30) as resp:
+        validate_public_url(check_req.full_url)
+        with _SAFE_OPENER.open(check_req, timeout=30) as resp:
             resp.read()
             resource = resp.headers.get("x-resource-location")
     except (urllib.error.URLError, TimeoutError) as exc:

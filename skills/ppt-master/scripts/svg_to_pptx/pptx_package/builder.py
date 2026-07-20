@@ -48,6 +48,7 @@ from pptx_animations import (
 )
 
 from ..drawingml.converter import convert_svg_to_slide_shapes
+from ...archive_safety import safe_extract_zip
 from ..drawingml.theme_colors import (
     ThemeColorSpec,
     apply_theme_color_spec,
@@ -4748,7 +4749,7 @@ def create_pptx_with_native_svg(
         # Extract PPTX
         extract_dir = temp_dir / 'pptx_content'
         with zipfile.ZipFile(base_pptx, 'r') as zf:
-            zf.extractall(extract_dir)
+            safe_extract_zip(zf, extract_dir)
         if use_native_shapes and pptx_structure == "preserve":
             _clear_preserved_slide_collections(extract_dir)
         active_theme_font_spec = (

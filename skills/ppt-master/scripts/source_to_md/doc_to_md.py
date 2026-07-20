@@ -40,8 +40,11 @@ if str(_SCRIPTS_DIR) not in sys.path:
 from console_encoding import configure_utf8_stdio  # noqa: E402
 from _batch import run_path_batch  # noqa: E402
 from _conversion_profile import write_conversion_profile_best_effort  # noqa: E402
+from url_safety import validate_public_url  # noqa: E402
 
 configure_utf8_stdio()
+
+MAX_REMOTE_IMAGE_BYTES = 32 * 1024 * 1024
 
 # ─────────────────────────────────────────────────────────────
 # Format registry
@@ -977,8 +980,24 @@ def _download_remote_image(url: str, media_dir: Path, index: int) -> str | None:
     except ImportError:
         return None
     try:
-        resp = requests.get(url, timeout=10, stream=True)
+        validate_public_url(url)
+        resp = requests.get(url, timeout=10, stream=True, allow_redirects=False)
         resp.raise_for_status()
+        if 300 <= resp.status_code < 400:
+            return None
+        content_length = resp.headers.get("Content-Length")
+        if content_length and int(content_length) > MAX_REMOTE_IMAGE_BYTES:
+            return None
+        chunks: list[bytes] = []
+        total = 0
+        for chunk in resp.iter_content(chunk_size=1024 * 1024):
+            if not chunk:
+                continue
+            total += len(chunk)
+            if total > MAX_REMOTE_IMAGE_BYTES:
+                return None
+            chunks.append(chunk)
+        image_bytes = b"".join(chunks)
     except Exception:
         return None
     content_type = resp.headers.get("Content-Type", "").split(";")[0].strip()
@@ -988,7 +1007,7 @@ def _download_remote_image(url: str, media_dir: Path, index: int) -> str | None:
     if ext == ".jpe":
         ext = ".jpg"
     filename = f"image_{index:03d}{ext}"
-    (media_dir / filename).write_bytes(resp.content)
+    (media_dir / filename).write_bytes(image_bytes)
     return filename
 
 

@@ -11,6 +11,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
 from console_encoding import configure_utf8_stdio  # noqa: E402
+from url_safety import validate_public_url  # noqa: E402
 
 configure_utf8_stdio()
 
@@ -210,6 +211,7 @@ def download_image(
     overwrite: bool = False,
 ) -> str:
     """Download an image URL with a size limit and explicit overwrite opt-in."""
+    validate_public_url(url)
     if os.path.exists(path) and not overwrite:
         raise FileExistsError(f"Refusing to overwrite existing image: {path}")
 
@@ -218,9 +220,12 @@ def download_image(
         headers=headers or {},
         timeout=timeout,
         stream=True,
+        allow_redirects=False,
     )
     try:
         response.raise_for_status()
+        if 300 <= response.status_code < 400:
+            raise ValueError("Image redirects are rejected; use the final public URL")
         declared_size = response.headers.get("Content-Length")
         if declared_size and int(declared_size) > MAX_DOWNLOAD_BYTES:
             raise ValueError(
