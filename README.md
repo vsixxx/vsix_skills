@@ -49,6 +49,10 @@ An official external plugin may be listed without copying its restricted package
 
 The production publisher exposes a read-only Git mirror at `https://vsix.cc/marketplace/vsix-skills.git`. Generated Git objects and release directories do not belong in this repository.
 
+## Review And Intake
+
+Before importing external content, follow [`docs/skill-intake-sop.md`](docs/skill-intake-sop.md). Selection criteria and rejection signals are maintained in [`docs/skill-selection-guidelines.md`](docs/skill-selection-guidelines.md).
+
 Required files:
 
 - `SKILL.md` - agent-facing skill instructions.
