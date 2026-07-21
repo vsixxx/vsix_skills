@@ -1,6 +1,6 @@
 # VSIX Skills
 
-VSIX Skills is the public source library for skills listed on `https://vsix.cc/skills/`.
+VSIX Skills is the public source library for skills listed on `https://skills.vsix.cc/`.
 
 This repository stores source skill folders and is also the source for the VSIX Codex plugin marketplace. Do not put generated ZIP packages, catalog files, bare Git repositories, or deployment outputs here.
 
@@ -47,7 +47,7 @@ Each folder under `plugins/` is one complete Codex plugin. Keep workflows that s
 
 An official external plugin may be listed without copying its restricted package into this repository. Such a catalog file must include a complete `distribution` object with the official Marketplace URL, Marketplace name, qualified plugin ID, and version. External entries appear in the unified catalog but are not added to the VSIX Marketplace manifest.
 
-The production publisher exposes a read-only Git mirror at `https://vsix.cc/marketplace/vsix-skills.git`. Generated Git objects and release directories do not belong in this repository.
+The production publisher exposes a read-only Git mirror at `https://skills.vsix.cc/marketplace/vsix-skills.git`. Generated Git objects and release directories do not belong in this repository.
 
 ## Review And Intake
 
@@ -199,15 +199,15 @@ Plugin catalog files use the same `title`, `descriptionZh`, `category`, `require
 The production catalog automation reads `skills/*/skill.json`, validates each folder, and packages each skill as:
 
 ```text
-/skills/packages/<skill-id>.zip
-/skills/packages/<skill-id>.sha256
+/packages/<skill-id>.zip
+/packages/<skill-id>.sha256
 ```
 
 The public catalog is generated as:
 
 ```text
-/skills/catalog/skills.json
-/skills/api/v1/catalog.json
+/catalog/skills.json
+/api/v1/catalog.json
 ```
 
 Do not create these files manually in this repository.

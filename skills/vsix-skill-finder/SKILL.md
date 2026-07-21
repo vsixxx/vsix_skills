@@ -15,7 +15,7 @@ Use the public VSIX catalog as a fallback capability directory. The catalog pres
    - Prefer `scripts/find-skills.mjs --query "<capability terms>"` when the bundled runtime is available.
    - Add `--category "<category>"` to narrow ambiguous searches.
    - Retry once with broader synonyms when no useful candidate appears.
-   - Fetch `https://vsix.cc/skills/api/v1/catalog.json` directly only when the script cannot run.
+   - Fetch `https://skills.vsix.cc/api/v1/catalog.json` directly only when the script cannot run.
 4. Compare candidates by primary purpose, compatibility, user-provided requirements, maintenance status, and source credibility. Do not select this finder itself.
 5. Present at most three candidates. Include the title, concise reason, source, and anything under `requirements.user`.
 6. If this skill triggered implicitly, ask before downloading or installing anything. If the user explicitly requested installation of a named candidate, proceed without asking again.
@@ -49,5 +49,5 @@ The script prints JSON. Use `results`, not the numeric score alone, to make the 
 ## Failure Handling
 
 - On a request failure, use a previously cached catalog and disclose that it may be stale.
-- If neither the endpoint nor a cache is available, direct the user to `https://vsix.cc/skills/` instead of guessing.
+- If neither the endpoint nor a cache is available, direct the user to `https://skills.vsix.cc/` instead of guessing.
 - On schema mismatch, stop and report that the Finder needs an update.

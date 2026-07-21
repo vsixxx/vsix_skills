@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const DEFAULT_API_URL = 'https://vsix.cc/skills/api/v1/catalog.json';
+const DEFAULT_API_URL = 'https://skills.vsix.cc/api/v1/catalog.json';
 const DEFAULT_TTL_MS = 10 * 60 * 1000;
 const MAX_LIMIT = 20;
 
@@ -259,4 +259,4 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
   });
 }
 
-export { searchCatalog, validateCatalog };
+export { DEFAULT_API_URL, searchCatalog, validateCatalog };
