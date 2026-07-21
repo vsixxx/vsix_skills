@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Master"
+  short_description: "创建和编辑原生可编辑的 PowerPoint"
+  default_prompt: "使用 $ppt-master 帮我创建或编辑一份 PowerPoint 演示文稿。"

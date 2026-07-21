@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 
 import {
+  DEFAULT_API_URL,
   searchCatalog,
   validateCatalog,
 } from '../../skills/vsix-skill-finder/scripts/find-skills.mjs';
@@ -14,6 +15,10 @@ function requirements() {
     agent: { tools: [], packages: [] },
   };
 }
+
+test('uses the dedicated Services Finder endpoint by default', () => {
+  assert.equal(DEFAULT_API_URL, 'https://skills.vsix.cc/api/v1/catalog.json');
+});
 
 test('searches unified Skill and plugin entries together', () => {
   const catalog = {
@@ -47,7 +52,7 @@ test('searches unified Skill and plugin entries together', () => {
           qualifiedPluginId: 'product-design@vsix-skills',
           version: '1.0.0',
           marketplaceName: 'vsix-skills',
-          marketplaceUrl: 'https://vsix.cc/marketplace/vsix-skills.git',
+          marketplaceUrl: 'https://skills.vsix.cc/marketplace/vsix-skills.git',
         },
       },
     ],
