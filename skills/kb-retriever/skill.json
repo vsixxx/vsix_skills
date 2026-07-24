@@ -1,0 +1,21 @@
+{
+  "id": "kb-retriever",
+  "title": "Knowledge Base Retriever",
+  "descriptionZh": "面向本地知识库的渐进式检索技能，可沿多级目录索引定位资料，并对 Markdown、PDF 和 Excel 内容进行带来源问答。",
+  "type": "codex-skill",
+  "category": "知识库与模板",
+  "prerequisites": [
+    "Python 3",
+    "处理 PDF 时需要 PyMuPDF 或 pdfplumber",
+    "处理 Excel 时需要 pandas 和 openpyxl"
+  ],
+  "sourceUrl": "https://github.com/ConardLi/garden-skills/tree/aaf9a82f5efd73e87cc0998edc398e75bfc35901/skills/kb-retriever",
+  "homepage": "https://github.com/ConardLi/garden-skills",
+  "license": "MIT",
+  "author": "ConardLi",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aaf9a82f5efd73e87cc0998edc398e75bfc35901",
+  "upstreamPath": "skills/kb-retriever/SKILL.md",
+  "upstreamSha256": "9329fac8ad1935b4eaf973605fa16fd7458db94430aa82de82182114c0039c5f"
+}

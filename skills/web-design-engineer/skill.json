@@ -1,0 +1,17 @@
+{
+  "id": "web-design-engineer",
+  "title": "Web Design Engineer",
+  "descriptionZh": "用于设计和重构高质量网页、仪表盘、交互原型及数据可视化，包含设计校准、反模式检查和浏览器验收流程。",
+  "type": "codex-skill",
+  "category": "网页与前端",
+  "prerequisites": [],
+  "sourceUrl": "https://github.com/ConardLi/garden-skills/tree/aaf9a82f5efd73e87cc0998edc398e75bfc35901/skills/web-design-engineer",
+  "homepage": "https://github.com/ConardLi/garden-skills",
+  "license": "MIT",
+  "author": "ConardLi",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "aaf9a82f5efd73e87cc0998edc398e75bfc35901",
+  "upstreamPath": "skills/web-design-engineer/SKILL.md",
+  "upstreamSha256": "00633aa430281e9921c35bb181ab233879d2a21e999d605fc330258a54e26df1"
+}

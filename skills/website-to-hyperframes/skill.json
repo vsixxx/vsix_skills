@@ -1,0 +1,22 @@
+{
+  "id": "website-to-hyperframes",
+  "title": "Website to HyperFrames",
+  "descriptionZh": "从真实网站抓取品牌与页面素材，经过设计、脚本、分镜、配音、构建和验证七步流程生成 HyperFrames 产品视频。",
+  "type": "workflow-template",
+  "category": "视频与动画",
+  "prerequisites": [
+    "Node.js 22 或更高版本",
+    "FFmpeg",
+    "HyperFrames CLI（可通过 npx hyperframes 调用）",
+    "能够访问目标网站的网络环境"
+  ],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/a241f2591e7786a4586afb623c1242ccfc1a6510/skills/website-to-hyperframes",
+  "homepage": "https://hyperframes.heygen.com",
+  "license": "Apache-2.0",
+  "author": "HeyGen",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a241f2591e7786a4586afb623c1242ccfc1a6510",
+  "upstreamPath": "skills/website-to-hyperframes/SKILL.md",
+  "upstreamSha256": "ec04e82cf44ffd71f7ccc600e3fa6f6ad28cbb6c411ddfc9b796f69b65b22d3b"
+}

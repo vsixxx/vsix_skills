@@ -1,0 +1,21 @@
+{
+  "id": "gsap",
+  "title": "GSAP for HyperFrames",
+  "descriptionZh": "面向 HyperFrames 视频合成的 GSAP 动画参考，覆盖补间、时间线、缓动、交错动画、性能优化和音频响应数据提取。",
+  "type": "codex-skill",
+  "category": "视频与动画",
+  "prerequisites": [
+    "Node.js 22 或更高版本",
+    "FFmpeg",
+    "HyperFrames CLI（可通过 npx hyperframes 调用）"
+  ],
+  "sourceUrl": "https://github.com/heygen-com/hyperframes/tree/a241f2591e7786a4586afb623c1242ccfc1a6510/skills/gsap",
+  "homepage": "https://hyperframes.heygen.com",
+  "license": "Apache-2.0",
+  "author": "HeyGen",
+  "status": "recommended",
+  "updatedAt": "2026-07-15",
+  "upstreamCommit": "a241f2591e7786a4586afb623c1242ccfc1a6510",
+  "upstreamPath": "skills/gsap/SKILL.md",
+  "upstreamSha256": "d65cfadd0040f3b72377b43e5ccc088925a1397f19fcd258abcf4ed72100aa16"
+}
